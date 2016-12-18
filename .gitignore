@@ -1,5 +1,29 @@
-*
 !.gitignore
-!ForgottenRealms
 !ForgottenRealms.mod
 !ForgottenRealms/*
+A Game of Thrones/*
+AGOT Old Frames/*
+ElderKings/*
+Ireland2/*
+map.bak/*
+A Game of Thrones.mod
+AGOT - Please report any bugs here.url
+AGOT- Manual.txt
+betterreadablefontmod.mod
+betterreadablefontmod.zip
+changelog.txt
+ElderKings.mod
+ForgottenRealms.rar
+Ireland2.mod
+Please report bugs here.url
+unins000.dat
+unins000.exe
+ForgottenRealms/map/map.psd
+ForgottenRealms/map/provinces.bmp
+ForgottenRealms/map/rivers.bmp
+ForgottenRealms/map/terrain.bmp
+ForgottenRealms/map/topology.bmp
+ForgottenRealms/map/trees.bmp
+ForgottenRealms/map/world_normal_height.bmp
+ForgottenRealms/map/terrain/colormap.dds
+ForgottenRealms/map/terrain/colormap_water.dds
