@@ -1,0 +1,266 @@
+k_icewinddale = {
+	color={ 155 155 155 }
+	color2={ 220 220 220 }
+	
+	capital = 1
+	culture = cormyrean
+	religion = faerun_lg
+	
+	d_icewinddale = {	
+		color={ 81 61 255 }
+		color2={ 255 255 255 }
+		capital = 1
+		
+		c_icewinddale = {
+			color={ 81 61 255 }
+			color2={ 255 255 255 }
+			holy_site = faerun_lg
+			holy_site = faerun_ln
+			holy_site = faerun_le
+			holy_site = faerun_ng
+			holy_site = faerun_n
+			holy_site = faerun_ne
+			holy_site = faerun_cg
+			holy_site = faerun_cn
+			holy_site = faerun_ce
+			
+			b_icewinddale = {
+			}
+		}
+		c_icewinddale2 = {
+			color={81 61 255 }
+			color2={ 255 255 255 }
+			
+			b_icewinddale2 = {
+			}
+		}
+	}
+}
+
+k_cormyr = {
+	color = { 155 155 155 }
+	color2 = { 220 220 220 }
+	capital = 17 # Cormyr
+	
+	d_cormyr = {
+		color = { 155 155 155 }
+		color2 = { 220 220 220 }
+		capital = 17 # Cormyr
+		
+		c_cormyr = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			holy_site = faerun_lg
+			holy_site = faerun_ln
+			holy_site = faerun_le
+			holy_site = faerun_ng
+			holy_site = faerun_n
+			holy_site = faerun_ne
+			holy_site = faerun_cg
+			holy_site = faerun_cn
+			holy_site = faerun_ce
+			
+			b_suzail = {
+			}
+			b_marsember = {
+			}
+			b_gray_oaks = {
+			}
+			b_hilp = {
+			}
+			b_kallamarn = {
+			}
+			b_gladehap = {
+			}
+		}
+		c_kings_forest = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			holy_site = faerun_lg
+			holy_site = faerun_ln
+			holy_site = faerun_le
+			holy_site = faerun_ng
+			holy_site = faerun_n
+			holy_site = faerun_ne
+			holy_site = faerun_cg
+			holy_site = faerun_cn
+			holy_site = faerun_ce
+			
+			b_collinwood = {
+			}
+			b_waymoot = {
+			}
+			b_dhedluk = {
+			}
+			b_knightswood = {
+			}
+			b_stagsteads = {
+			}
+			b_mouth_o_gargoyles = {
+			}
+		}
+		c_hullack_forest = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			holy_site = faerun_lg
+			holy_site = faerun_ln
+			holy_site = faerun_le
+			holy_site = faerun_ng
+			holy_site = faerun_n
+			holy_site = faerun_ne
+			holy_site = faerun_cg
+			holy_site = faerun_cn
+			holy_site = faerun_ce
+			
+			b_hillmarch = {
+			}
+			b_slingdyke = {
+			}
+			b_sunset_hill = {
+			}
+			b_bospir = {
+			}
+		}
+		c_hermits_woods = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			holy_site = faerun_lg
+			holy_site = faerun_ln
+			holy_site = faerun_le
+			holy_site = faerun_ng
+			holy_site = faerun_n
+			holy_site = faerun_ne
+			holy_site = faerun_cg
+			holy_site = faerun_cn
+			holy_site = faerun_ce
+			
+			b_wheloon = {
+			}
+			b_onguls_water = {
+			}
+			b_bogbrook = {
+			}
+			b_moonever = {
+			}
+			b_blustich = {
+			}
+			b_nesmyth = {
+			}
+		}
+	}
+	
+	d_east_cormyr = {
+		color = { 155 155 155 }
+		color2 = { 220 220 220 }
+		capital = 20 # East Cormyr
+		
+		c_east_cormyr = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			
+			b_thunderstone = {
+			}
+			b_hultail = {
+			}
+			b_monksblade = {
+			}
+			b_smugglers_stone = {
+			}
+			b_junirill = {
+			}
+			b_wormtower = {
+			}
+			b_dawngleam = {
+			}
+		}
+		c_the_vast_swamp = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+		
+			b_orvaskyte_keep = {
+			}
+			b_lost_refuge = {
+			}
+		}
+		c_thunderpeaks = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			
+			b_thunderholme = {
+			}
+			b_hidden_vale = {
+			}
+			b_highcastle = {
+			}
+		}
+	}
+	
+	d_the_stormhorns = {
+		color = { 155 155 155 }
+		color2 = { 220 220 220 }
+		capital = 13 # The Stormhorns
+		
+		c_the_stormhorns = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+		
+			b_high_horn = {
+			}
+			b_minroe = {
+			}
+			b_skull_crag = {
+			}
+			b_eagle_peak = {
+			}
+			b_espar = {
+			}
+		}
+		
+		c_eastern_stormhorns = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			
+			b_tyrluk = {
+			}
+			b_eveningstar = {
+			}
+			b_redspring = {
+			}
+			b_arabel = {
+			}
+			b_castle_crag = {
+			}
+			b_forgotten_keep = {
+			}
+		}
+	}
+	
+	d_the_stonelands = {
+		color = { 155 155 155 }
+		color2 = { 220 220 220 }
+		capital = 11 # Tilverton
+		
+		c_tilverton = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			
+			b_tilverton = {
+			}
+			b_tower_of_ruin = {
+			}
+			b_halfhap = {
+			}
+			b_griffon_hill = {
+			}
+		}
+		c_the_stonelands = {
+			color = { 155 155 155 }
+			color2 = { 220 220 220 }
+			
+			b_gwarch = {
+			}
+		}
+	}
+}
+
+

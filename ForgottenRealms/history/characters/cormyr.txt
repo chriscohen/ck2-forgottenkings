@@ -1,0 +1,33 @@
+1000 = {
+	name = Azoun # Azoun IV
+	dynasty = 1
+	religion = faerun_lg
+	culture = cormyrean
+	father = 1002
+	
+	1307.1.1 = {
+		birth = 1307.1.1
+	}
+	1371.1.1 = {
+		death = 1371.1.1
+	}
+}
+1001 = {
+	name = Azoun # Azoun III
+	dynasty = 1
+	religion = faerun_lg
+	culture = cormyrean
+}
+1002 = {
+	name = Rhigaerd # Rhigaerd II
+	dynasty = 1
+	religion = faerun_lg
+	culture = cormyrean
+	
+	1269.1.1 {
+		birth = 1269.1.1
+	}
+	1335.1.1 {
+		death = 1335.1.1
+	}
+}

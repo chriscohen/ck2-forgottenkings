@@ -1,0 +1,18 @@
+# 17 - Cormyr
+
+# County Title
+title = c_eastern_stormhorns
+
+# Settlements
+max_settlements = 7
+
+b_tyrluk = city
+b_eveningstar = city
+b_redspring = temple
+b_arabel = castle
+b_castle_crag = castle
+b_forgotten_keep = castle
+
+# Misc
+culture = cormyrean
+religion = faerun_lg

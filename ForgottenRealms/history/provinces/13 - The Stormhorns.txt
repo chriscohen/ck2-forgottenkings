@@ -1,0 +1,17 @@
+# 13 - The Stormhorns
+
+# County Title
+title = c_the_stormhorns
+
+# Settlements
+max_settlements = 6
+
+b_high_horn = castle
+b_minroe = city
+b_skull_crag = castle
+b_eagle_peak = temple
+b_espar = city
+
+# Misc
+culture = cormyrean
+religion = faerun_lg

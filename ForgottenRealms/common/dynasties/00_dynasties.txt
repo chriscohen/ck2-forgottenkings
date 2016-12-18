@@ -1,0 +1,5 @@
+1 = {
+	name="Obarskyr"
+	culture="cormyrean"
+	religion="faerun_lg"
+}

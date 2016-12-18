@@ -1,0 +1,16 @@
+# 11 - Tilverton
+
+# County Title
+title = c_tilverton
+
+# Settlements
+max_settlements = 5
+
+b_tilverton = city
+b_tower_of_ruin = castle
+b_halfhap = city
+b_griffon_hill = city
+
+# Misc
+culture = cormyrean
+religion = faerun_lg

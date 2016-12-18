@@ -1,0 +1,21 @@
+# 1 - Sample province 1
+
+# County Title
+title = c_icewinddale
+
+# Settlements
+max_settlements = 2
+b_icewinddale = tribal
+
+#b_alftanes = city
+#b_skalholt = temple
+#b_pingvellir = castle
+#b_kjalarnes = castle
+#b_hvamm = castle
+#b_hlidarendi = castle
+#b_borg = castle
+
+# Misc
+culture = cormyrean
+religion = faerun_n
+terrain = arctic

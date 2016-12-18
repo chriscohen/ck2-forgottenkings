@@ -1,0 +1,13 @@
+# 10 - The Stonelands
+
+# County Title
+title = c_the_stonelands
+
+# Settlements
+max_settlements = 2
+
+b_gwarch = city
+
+# Misc
+culture = cormyrean
+religion = faerun_lg

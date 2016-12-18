@@ -1,0 +1,18 @@
+# 17 - Cormyr
+
+# County Title
+title = c_cormyr
+
+# Settlements
+max_settlements = 7
+
+b_suzail = castle
+b_marsember = castle
+b_gray_oaks = temple
+b_hilp = city
+b_kallamarn = city
+b_gladehap = city
+
+# Misc
+culture = cormyrean
+religion = faerun_lg

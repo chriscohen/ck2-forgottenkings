@@ -1,0 +1,11 @@
+bm_SECOND_EDITION = {
+	name = "BM_SECOND_EDITION"	
+	desc = "BM_SECOND_EDITION_DESC"
+	date = 1368.1.1
+	
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+	
+	selectable_character = {
+		id = 1000 # Azoun IV of Cormyr
+	}
+}

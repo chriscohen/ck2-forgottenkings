@@ -1,0 +1,19 @@
+# 20 - East Cormyr
+
+# County Title
+title = c_east_cormyr
+
+# Settlements
+max_settlements = 7
+
+b_thunderstone = city
+b_hultail = castle
+b_monksblade = castle
+b_smugglers_stone = city
+b_junirill = city
+b_wormtower = castle
+b_dawngleam = temple
+
+# Misc
+culture = cormyrean
+religion = faerun_lg
