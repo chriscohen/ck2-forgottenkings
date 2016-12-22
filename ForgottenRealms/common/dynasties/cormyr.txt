@@ -1,3 +1,6 @@
+# CORMYR
+# Range = 201000-201999
+
 201000 = {
 	name = Obarskyr
 	culture = irish
