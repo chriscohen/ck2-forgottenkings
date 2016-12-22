@@ -1,0 +1,7 @@
+# IMPILTUR
+# Range = 202000-202999
+
+202000 = {
+	name = Elethlim
+	culture = irish
+}

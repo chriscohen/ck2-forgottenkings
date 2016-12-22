@@ -1,0 +1,11 @@
+# ELETHLIM
+# Noble house of Impiltur
+# Range 1100-1199
+
+1100 = {
+	name = Sarshel
+	dynasty = 202000
+	
+	religion = catholic
+	culture = irish
+}
