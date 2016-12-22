@@ -1,0 +1,12 @@
+
+ghazneth = {
+	customizer = no
+	random = no
+	
+	diplomacy = -5
+	stewardship = 5
+	martial = 10
+	intrigue = 10
+	
+	general_opinion = -100
+}

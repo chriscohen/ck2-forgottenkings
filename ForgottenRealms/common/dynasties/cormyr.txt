@@ -1,0 +1,8 @@
+201000 = {
+	name = Obarskyr
+	culture = irish
+}
+201001 = {
+	name = Turcassan
+	culture = irish
+}

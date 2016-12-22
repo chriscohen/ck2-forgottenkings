@@ -1,0 +1,56 @@
+# LOWBORN
+# Range = 900000-999999
+
+900029 = {
+	name = Kurrurdan
+	
+	religion = catholic
+	culture = irish
+	
+	246.1.1 = { # Estimate
+		birth = yes
+	}
+	261.1.1 = {
+		add_spouse = 27 # Besmra Obarskyr
+	}
+	289.6.1 = { # Estimated month
+		death = death_murder
+		killer = 31
+	}
+}
+900036 = {
+	name = Askran
+	
+	religion = catholic
+	culture = irish
+	
+	283.1.1 = { # Estimate
+		birth = yes
+	}
+	298.1.1 = { # Estimate
+		add_spouse = 34 # Goruana
+	}
+	303.1.1 = {
+		give_nickname = nick_the_pretender
+	}
+	340.1.1 = { # Estimate
+		death = yes
+	}
+}
+900040 = {
+	name = Silbran
+	female = yes
+	
+	religion = catholic
+	culture = irish
+	
+	286.1.1 = {
+		birth = yes
+	}
+	301.1.1 = { # Estimate
+		add_spouse = 39 # Ulbaeram
+	}
+	324.1.1 = {
+		death = yes
+	}
+}

@@ -1,4 +1,4 @@
-# 15 - The Vast Swamp
+# c_the_vast_swamp
 
 # County Title
 title = c_the_vast_swamp
@@ -6,9 +6,13 @@ title = c_the_vast_swamp
 # Settlements
 max_settlements = 4
 
-b_orvaskyte_keep = castle
-b_lost_refuge = castle
+b_the_vast_swamp = castle
+#b_the_vast_swamp_2 = city
+#b_the_vast_swamp_3 = temple
+#b_the_vast_swamp_4 = castle
 
 # Misc
-culture = cormyrean
-religion = faerun_lg
+culture = irish
+religion = catholic
+
+#History

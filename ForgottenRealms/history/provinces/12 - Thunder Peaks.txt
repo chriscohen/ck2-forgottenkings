@@ -1,15 +1,18 @@
-# 12 - Thunderpeaks
+# c_thunder_peaks
 
 # County Title
-title = c_thunderpeaks
+title = c_thunder_peaks
 
 # Settlements
 max_settlements = 4
 
-b_thunderholme = castle
-b_hidden_vale = city
-b_highcastle = castle
+b_thunder_peaks = castle
+#b_thunder_peaks_2 = city
+#b_thunder_peaks_3 = temple
+#b_thunder_peaks_4 = castle
 
 # Misc
-culture = cormyrean
-religion = faerun_lg
+culture = irish
+religion = catholic
+
+#History

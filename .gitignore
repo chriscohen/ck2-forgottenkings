@@ -1,6 +1,7 @@
 !.gitignore
 !ForgottenRealms.mod
 !ForgottenRealms/*
+.~lock.*
 A Game of Thrones/*
 AGOT Old Frames/*
 ElderKings/*

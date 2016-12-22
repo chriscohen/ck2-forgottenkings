@@ -1,16 +1,18 @@
-# 14 - Hullack Forest
+# c_hullack_forest
 
 # County Title
 title = c_hullack_forest
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_hillmarch = city
-b_slingdyke = castle
-b_sunset_hill = city
-b_bospir = temple
+b_hullack_forest = castle
+#b_hullack_forest_2 = city
+#b_hullack_forest_3 = temple
+#b_hullack_forest_4 = castle
 
 # Misc
-culture = cormyrean
-religion = faerun_lg
+culture = irish
+religion = catholic
+
+#History

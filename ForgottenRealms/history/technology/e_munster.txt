@@ -1,0 +1,16 @@
+#MUNSTER
+technology = {
+	titles = {
+		d_munster
+	}
+	500 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2800 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

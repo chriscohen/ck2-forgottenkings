@@ -1,0 +1,18 @@
+# c_ten_towns
+
+# County Title
+title = c_ten_towns
+
+# Settlements
+max_settlements = 4
+
+b_ten_towns = castle
+#b_ten_towns_2 = city
+#b_ten_towns_3 = temple
+#b_ten_towns_4 = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

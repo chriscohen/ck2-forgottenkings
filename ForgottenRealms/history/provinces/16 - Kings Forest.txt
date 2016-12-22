@@ -1,0 +1,18 @@
+# c_kings_forest
+
+# County Title
+title = c_kings_forest
+
+# Settlements
+max_settlements = 4
+
+b_kings_forest = castle
+#b_kings_forest_2 = city
+#b_kings_forest_3 = temple
+#b_kings_forest_4 = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

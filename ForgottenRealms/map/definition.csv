@@ -1,22 +1,22 @@
 province;red;green;blue;x;x
-1;0;255;0;Sample province 1;x
-2;30;0;255;Sample province 2;x
-3;255;0;0;Sea 1;x
-4;21;181;141;Sea 2;x
-5;255;43;238;Sea 3;x
-6;147;221;203;Sea 4;x
-7;77;159;139;Sea 5;x
-8;177;102;171;Sea 6;x
-9;134;20;125;Sea 7;x
+1;0;255;0;Icewind Dale;x
+2;30;0;255;Ten-Towns;x
+3;255;0;0;Ocean1;x
+4;21;181;141;Ocean2;x
+5;255;43;238;Ocean3;x
+6;147;221;203;Ocean4;x
+7;77;159;139;Ocean5;x
+8;177;102;171;Ocean6;x
+9;134;20;125;Ocean7;x
 10;170;39;39;The Stonelands;x
 11;145;22;22;Tilverton;x
 12;180;111;111;Thunder Peaks;x
 13;204;18;18;The Stormhorns;x
 14;225;15;15;Hullack Forest;x
 15;234;167;167;The Vast Swamp;x
-16;220;44;44;King's Forest;x
+16;220;44;44;Kings Forest;x
 17;255;75;75;Cormyr;x
 18;27;56;178;Wyvernwater;x
 19;248;97;97;Eastern Stormhorns;x
 20;241;129;129;East Cormyr;x
-21;217;19;19;Hermit's Woods;x
+21;217;19;19;Hermits Woods;x

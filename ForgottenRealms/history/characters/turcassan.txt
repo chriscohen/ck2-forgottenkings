@@ -1,0 +1,39 @@
+# TURCASSAN
+# Range = 1000-1099
+
+1000 = {
+	name = Melineth
+	dynasty = 201001
+	
+	religion = catholic
+	culture = irish
+	
+	364.1.1 = {
+		birth = yes
+	}
+	430.1.1 = {
+		add_trait = ghazneth
+	}
+	432.1.1 = {
+		death = yes
+	}
+}
+1001 = {
+	name = Daverna
+	female = yes
+	dynasty = 201001
+	father = 1000 # Melineth
+	
+	religion = catholic
+	culture = irish
+	
+	389.1.1 = {
+		birth = yes
+	}
+	405.1.1 = { # Estimate
+		add_spouse = 61 # Duar Obarskyr
+	}
+	432.1.1 = {
+		death = yes
+	}
+}

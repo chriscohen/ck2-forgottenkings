@@ -1,0 +1,1034 @@
+# OBARSKYR
+# Range = 0-999
+
+1 = {
+	name = Faerlthann
+	dynasty = 201000
+	
+	religion = catholic
+	culture = irish
+	
+	1.1.1 = {
+		birth = yes
+	}
+	26.1.1 = {
+		give_nickname = nick_first_king
+	}
+	55.1.1 = {
+		death = yes
+	}
+}
+2 = {
+	name = Imlon
+	dynasty = 201000
+	father = 1 # Faerlthann
+	
+	religion = catholic
+	culture = irish
+	
+	27.1.1 = {
+		birth = yes
+	}
+	43.1.1 = {
+		give_nickname = the_touched
+	}
+	57.1.1 = {
+		death = yes
+	}
+	
+}
+3 = {
+	name = Bryndar
+	dynasty = 201000
+	father = 2 # Imlon
+	
+	religion = catholic
+	culture = irish
+	
+	44.1.1 = {
+		birth = yes
+	}
+	64.1.1 = {
+		death = yes
+	}
+}
+4 = {
+	name = Eskruis
+	dynasty = 201000
+	father = 1 # Faerlthann
+	
+	religion = catholic
+	culture = irish
+	
+	33.1.1 = {
+		birth = yes
+	}
+	66.1.1 = {
+		death = yes
+	}
+}
+5 = {
+	name = Rhiiman
+	dynasty = 201000
+	father = 1 # Faerlthann
+	
+	religion = catholic
+	culture = irish
+	
+	35.1.1 = {
+		birth = yes
+	}
+	55.1.1 = {
+		give_nickname = nick_the_glorious
+	}
+	79.1.1 = {
+		death = yes
+	}
+}
+6 = {
+	name = Embrus
+	dynasty = 201000
+	father = 1 # Faerlthann
+	
+	religion = catholic
+	culture = irish
+	
+	30.1.1 = {
+		birth = yes
+	}
+	83.1.1 = {
+		give_nickname = nick_the_old
+	}
+	84.1.1 = {
+		death = yes
+	}
+}
+7 = {
+	name = Kaspler
+	dynasty = 201000
+	father = 6 # Embrus
+	
+	religion = catholic
+	culture = irish
+	
+	66.1.1 = {
+		birth = yes
+	}
+	80.1.1 = {
+		give_nickname = nick_the_learned
+	}
+	90.1.1 = {
+		death = yes
+	}
+}
+8 = {
+	name = Imbre
+	dynasty = 201000
+	father = 6 # Embrus
+	
+	religion = catholic
+	culture = irish
+	
+	70.1.1 = {
+		birth = yes
+	}
+	94.1.1 = {
+		death = yes
+	}
+}
+9 = {
+	name = Sacrast
+	dynasty = 201000
+	father = 8 # Imbre (adopted)
+	
+	religion = catholic
+	culture = irish
+	
+	93.1.1 = {
+		birth = yes
+	}
+	123.1.1 = {
+		death = yes
+	}
+}
+10 = {
+	name = Daravvan
+	dynasty = 201000
+	father = 9 # Sacrast
+	
+	religion = catholic
+	culture = irish
+	
+	109.1.1 = {
+		birth = yes
+	}
+	124.1.1 = {
+		death = yes
+	}
+}
+11 = {
+	name = Dorglor
+	dynasty = 201000
+	father = 9 # Sacrast
+	
+	religion = catholic
+	culture = irish
+	
+	110.1.1 = {
+		birth = yes
+	}
+	134.1.1 = {
+		death = death_suicide
+	}
+}
+12 = {
+	name = Embrold
+	dynasty = 201000
+	father = 9 # Sacrast
+	
+	religion = catholic
+	culture = irish
+	
+	112.1.1 = {
+		birth = yes
+	}
+	145.1.1 = {
+		death = yes
+	}
+}
+12 = {
+	name = Irbruin
+	dynasty = 201000
+	father = 11 # Dorglor
+	
+	religion = catholic
+	culture = irish
+	
+	127.1.1 = {
+		birth = yes
+	}
+	169.1.1 = {
+		death = death_murder_unknown
+	}
+}
+13 = {
+	name = "P. Faerlthind"
+	dynasty = 201000
+	father = 12 # Irbruin
+	
+	religion = catholic
+	culture = irish
+	
+	146.1.1 = {
+		birth = yes
+	}
+	145.1.1 = {
+		death = death_murder_unknown
+	}
+}
+14 = {
+	name = Moriann
+	dynasty = 201000
+	father = 12 # Irbruin
+	
+	religion = catholic
+	culture = irish
+	
+	147.1.1 = {
+		birth = yes
+	}
+	201.1.1 = {
+		death = yes
+	}
+}
+15 = {
+	name = Tharyann
+	dynasty = 201000
+	father = 12 # Irbruin
+	
+	religion = catholic
+	culture = irish
+	
+	167.1.1 = {
+		birth = yes
+	}
+	187.1.1 = {
+		give_nickname = nick_the_elder
+	}
+	238.1.1 = {
+		death = yes
+	}
+}
+16 = {
+	name = Dorglor
+	dynasty = 201000
+	father = 15 # Tharyann
+	
+	religion = catholic
+	culture = irish
+	
+	198.1.1 = {
+		birth = yes
+	}
+	237.1.1 = { # Estimated date
+		death = death_murder
+		killer = 17 # Boldovar
+	}
+}
+17 = {
+	name = Boldovar
+	dynasty = 201000
+	father = 15 # Tharyann
+	
+	religion = catholic
+	culture = irish
+	
+	199.1.1 = {
+		birth = yes
+	}
+	237.1.1 = {
+		give_nickname = nick_the_mad
+	}
+	242.1.1 = { # Source states 246 but can't be if Iltharl reigned 242-245
+		death = yes
+	}
+}
+18 = {
+	name = Iltharl
+	dynasty = 201000
+	father = 17 # Boldovar
+	
+	religion = catholic
+	culture = irish
+	
+	221.1.1 = {
+		birth = yes
+	}
+	242.1.1 = {
+		give_nickname = nick_the_insufficient
+	}
+	245.1.1 = {
+		death = yes
+	}
+}
+19 = {
+	name = Gantharla
+	female = yes
+	dynasty = 201000
+	father = 17 # Boldovar
+	
+	religion = catholic
+	culture = irish
+	
+	218.1.1 = {
+		birth = yes
+	}
+	245.1.1 = {
+		give_nickname = nick_first_queen
+	}
+	261.1.1 = {
+		death = yes
+	}
+}
+20 = {
+	name = Roderin
+	dynasty = 201000
+	mother = 19 # Gantharla
+	
+	religion = catholic
+	culture = irish
+	
+	244.1.1 = {
+		birth = yes
+	}
+	254.1.1 = {
+		give_nickname = nick_the_bastard
+	}
+	267.1.1 = {
+		death = yes
+	}
+}
+21 = {
+	name = Thargreve
+	dynasty = 201000
+	mother = 22 # Erthava
+	
+	religion = catholic
+	culture = irish
+	
+	225.1.1 = {
+		birth = yes
+	}
+	267.1.1 = {
+		give_nickname = nick_the_lesser
+	}
+	268.1.1 = {
+		death = yes
+	}
+}
+22 = {
+	name = Erthava
+	dynasty = 201000
+	father = 15 # Tharyann
+	
+	religion = catholic
+	culture = irish
+	
+	205.1.1 = { # Estimate
+		birth = yes
+	}
+	255.1.1 = { # Estimate
+		death = yes
+	}
+}
+23 = {
+	name = Holordrym
+	dynasty = 201000
+	father = 21 # Thargreve
+	
+	religion = catholic
+	culture = irish
+	
+	242.1.1 = {
+		birth = yes
+	}
+	272.1.1 = {
+		death = yes
+	}
+}
+24 = {
+	name = Belereve
+	dynasty = 201000
+	father = 23 # Holordrym
+	
+	religion = catholic
+	culture = irish
+	
+	259.1.1 = {
+		birth = yes
+	}
+	274.1.1 = {
+		death = death_murder
+		killer = 25
+	}
+}
+25 = {
+	name = Rasthaele
+	female = yes
+	dynasty = 201000
+	father = 23 # Holordrym
+	
+	261.1.1 = { # Estimate
+		birth = yes
+	}
+	291.1.1 = { # Estimate
+		death = yes
+	}
+}
+26 = {
+	name = Thargram
+	dynasty = 201000
+	father = 23 # Holordrym
+	
+	religion = catholic
+	culture = irish
+	
+	260.1.1 = {
+		birth = yes
+	}
+	276.1.1 = {
+		death = yes
+	}
+}
+27 = {
+	name = Besmra
+	female = yes
+	dynasty = 201000
+	father = 21 # Thargreve
+	
+	religion = catholic
+	culture = irish
+	
+	246.1.1 = {
+		birth = yes
+	}
+	261.1.1 = {
+		add_spouse = 900029 # Kurrurdan
+	}
+	286.1.1 = {
+		death = yes
+	}
+}
+28 = {
+	name = Torst
+	dynasty = 201000
+	mother = 27 # Besmra
+	
+	religion = catholic
+	culture = irish
+	
+	264.1.1 = {
+		birth = yes
+	}
+	289.1.1 = {
+		death = death_murder
+		killer = 30 # Belorth
+	}
+}
+30 = {
+	name = Belorth
+	dynasty = 201000 # (illegitimate)
+	father = 900029 # Kurrurdan
+	mother = 27 # Besmra
+	
+	religion = catholic
+	culture = irish
+	
+	262.1.1 = { # Estimate
+		birth = yes
+	}
+	289.6.1 { # Estimated month
+		death = death_murder
+		killer = 31
+	}
+}
+31 = {
+	name = Gordroun
+	dynasty = 201000
+	mother = 27 # Besmra
+	
+	religion = catholic
+	culture = irish
+	
+	266.1.1 = {
+		birth = yes
+	}
+	289.9.1 = { # Estimated month
+		death = yes
+	}
+}
+32 = {
+	name = Keldroun
+	dynasty = 201000
+	mother = 27 # Besmra
+	
+	religion = catholic
+	culture = irish
+	
+	266.1.1 = {
+		birth = yes
+	}
+	295.1.1 = {
+		death = yes
+	}
+}
+33 = {
+	name = Berost
+	dynasty = 201000
+	father = 32 # Keldroun
+	
+	religion = catholic
+	culture = irish
+	
+	282.1.1 = {
+		birth = yes
+	}
+	295.1.1 = {
+		give_nickname = nick_the_bold
+	}
+	301.1.1 = {
+		death = yes
+	}
+}
+34 = {
+	name = Gorauna
+	female = yes
+	dynasty = 201000
+	father = 32 # Keldroun
+	
+	religion = catholic
+	culture = irish
+	
+	283.1.1 = { # Estimate
+		birth = yes
+	}
+	298.1.1 = { # Estimate
+		add_spouse = 900036 # Askran
+	}
+	355.1.1 = { # Estimate
+		death = death_murder
+		killer = 56 # Thargreve the Greater
+	}
+}
+35 = {
+	name = Gorann
+	dynasty = 201000
+	father = 32 # Keldroun
+	
+	religion = catholic
+	culture = irish
+	
+	284.1.1 = {
+		birth = yes
+	}
+	299.1.1 = { # Estimate
+		add_spouse = 38 # Jalanthra
+	}
+	303.1.1 = {
+		death = death_murder
+		killer = 34 # Gorauna
+	}
+}
+37  = {
+	name = Edrae
+	dynasty = 201000
+	father = 35 # Gorann
+	mother = 38 # Jalanthra
+	
+	religion = catholic
+	culture = irish
+	
+	302.1.1 = {
+		birth = yes
+	}
+	305.1.1 = {
+		give_nickname = nick_the_doomed_babe
+	}
+	305.1.2 = {
+		death = death_murder
+		killer = 38 # Jalanthra
+	}
+}
+38 = {
+	name = Jalanthra
+	female = yes
+	
+	religion = catholic
+	culture = irish
+	
+	284.1.1 = { # Estimate
+		birth = yes
+	}
+	299.1.1 = { # Estimate
+		add_spouse = 35 # Gorann
+	}
+	310.1.1 = { # Estimate
+		death = yes
+	}
+}
+39 = {
+	name = Ulbaeram
+	dynasty = 201000
+	father = 32 # Keldroun
+	
+	religion = catholic
+	culture = irish
+	
+	288.1.1 = {
+		birth = yes
+	}
+	301.1.1 = { # Estimate
+		add_spouse = 900040 # Silbran
+	}
+	308.1.1 = {
+		death = death_murder
+		killer = 900036 # Askran
+	}
+}
+41 = {
+	name = Raerboth
+	dynasty = 201000
+	father = 39 # Ulbaeram
+	mother = 900040 # Silbran
+	
+	religion = catholic
+	culture = irish
+	
+	306.1.1 = {
+		birth = yes
+	}
+	326.1.1 = {
+		death = death_murder
+		killer = 34 # Gorauna
+	}
+}
+42 = {
+	name = Baerildo
+	dynasty = 201000
+	father = 41 # Raerboth
+	
+	religion = catholic
+	culture = irish
+	
+	325.1.1 = {
+		birth = yes
+	}
+	328.1.1 = {
+		death = death_murder
+		killer = 34 # Gorauna
+	}
+}
+43 = {
+	name = Belmuth
+	dynasty = 201000
+	father = 39 # Ulbaeram
+	
+	religion = catholic
+	culture = irish
+	
+	304.1.1 = {
+		birth = yes # (illegitimate)
+	}
+	314.1.1 = {
+		give_nickname = nick_the_bastard
+	}
+	334.1.1 = {
+		death = yes # Purplethroat Plague
+	}
+}
+44 = {
+	name = Sargrannon
+	dynasty = 201000
+	father = 43 # Belmuth
+	
+	religion = catholic
+	culture = irish
+	
+	324.1.1 = {
+		birth = yes
+	}
+	336.1.1 = {
+		death = death_murder
+		killer = 45 # Ortolar
+	}
+}
+45 = {
+	name = Ortolar
+	dynasty = 201000
+	father = 39 # Ulbaeram
+	
+	religion = catholic
+	culture = irish
+	
+	305.1.1 = {
+		birth = yes
+	}
+	337.1.1 = {
+		death = death_murder
+		killer = 34 # Gorauna
+	}
+}
+46 = {
+	name = Imbrus # Imbrus I
+	dynasty = 201000
+	father = 43 # Belmuth
+	
+	religion = catholic
+	culture = irish
+	
+	322.1.1 = {
+		birth = yes
+	}
+	339.1.1 = {
+		death = death_murder
+		killer = 34 # Gorauna
+	}
+}
+47 = {
+	name = Artreth
+	dynasty = 201000
+	father = 45 # Ortolar
+	
+	religion = catholic
+	culture = irish
+	
+	334.1.1 = {
+		birth = yes
+	}
+	340.1.1 = {
+		death = yes # Purplethroat Plague
+	}
+}
+48 = {
+	name = Zoumdan
+	dynasty = 201000
+	father = 45 # Ortolar
+	
+	religion = catholic
+	culture = irish
+	
+	336.1.1 = {
+		birth = yes
+	}
+	340.6.1 = { # Estimated month
+		death = yes # Purplethroat Plague
+	}
+}
+49 = {
+	name = Imbrus # Imbrus II
+	dynasty = 201000
+	father = 46 # Imbrus I
+	
+	religion = catholic
+	culture = irish
+	
+	339.1.1 = {
+		birth = yes
+	}
+	341.1.1 = {
+		death = yes # Purplethroat Plague
+	}
+}
+50 = {
+	name = Gorauna # Made up to act as stopgap between Gorauna (34) and grandchildren
+	female = yes
+	dynasty = 201000
+	mother = 34 # Gorauna
+	
+	religion = catholic
+	culture = irish
+	
+	301.1.1 = {
+		birth = yes
+	}
+	351.1.1 = {
+		death = yes
+	}
+}
+51 = {
+	name = Meurthe
+	female = yes
+	dynasty = 201000
+	mother = 50 # Gorauna II
+	
+	religion = catholic
+	culture = irish
+	
+	318.1.1 = {
+		birth = yes
+	}
+	341.1.1 = {
+		give_nickname = nick_the_mad
+	}
+	344.1.1 = {
+		death = yes
+	}
+}
+52 = {
+	name = Kasplara # Grandniece of Gorauna - where does that put her parents?
+	female = yes
+	dynasty = 201000
+	
+	religion = catholic
+	culture = irish
+	
+	329.1.1 = {
+		birth = yes
+	}
+	345.1.1 = {
+		death = yes
+	}
+}
+53 = {
+	name = Jasl # Grandnephew of Gorauna - where does that put his parents?
+	dynasty = 201000
+	
+	religion = catholic
+	culture = irish
+	
+	327.1.1 = {
+		birth = yes
+	}
+	345.1.1 = {
+		give_nickname = nick_the_royal_jester
+	}
+	347.1.1 = {
+		death = yes
+	}
+}
+54 = {
+	name = Arathra # Grandniece of Gorauna - where does that put her parents?
+	female = yes
+	dynasty = 201000
+	
+	religion = 201000
+	culture = irish
+	
+	322.1.1 = {
+		birth = yes
+	}
+	347.1.1 = {
+		give_nickname = nick_the_little_spider
+	}
+	348.1.1 = {
+		death = yes
+	}
+}
+55 = {
+	name = Barander # Grandnephew of Gorauna - where does that put his parents?
+	dynasty = 201000
+	
+	religion = catholic
+	culture = irish
+	
+	329.1.1 = {
+		birth = yes
+	}
+	348.1.1 = {
+		give_nickname = nick_the_tortured_king
+	}
+	349.1.1 = {
+		give_nickname = nick_the_scarred_advisor
+	}
+	372.1.1 = {
+		death = yes
+	}
+}
+56 = {
+	name = Thargreve # the Greater
+	dynasty = 201000
+	mother = 51 # Meurthe
+	
+	religion = catholic
+	culture = irish
+	
+	334.1.1 = {
+		birth = yes
+	}
+	349.1.1 = {
+		give_nickname = nick_the_greater
+	}
+	360.1.1 = {
+		death = yes
+	}
+}
+57 = {
+	name = Jarissra # Niece of Thargreve but parents undocumented
+	female = yes
+	dynasty = 201000
+	
+	religion = catholic
+	culture = irish
+	
+	345.1.1 = {
+		birth = yes
+	}
+	390.1.1 = {
+		death = yes
+	}
+}
+58 = {
+	name = Andilber
+	dynasty = 201000
+	mother = 54 # Arathra
+	
+	religion = catholic
+	culture = irish
+	
+	340.1.1 = {
+		birth = yes
+	}
+	369.1.1 = {
+		give_nickname = nick_the_unfortunate
+	}
+	370.1.1 = {
+		death = yes
+	}
+}
+59 = {
+	name = Anglond
+	dynasty = 201000
+	mother = 54 # Arathra
+	
+	religion = catholic
+	culture = irish
+	
+	341.1.1 = {
+		birth = yes
+	}
+	391.1.1 = {
+		death = yes
+	}
+}
+60 = {
+	name = Azoun # Azoun I
+	dynasty = 201000
+	father = 59 # Anglond
+	
+	religion = catholic
+	culture = irish
+	
+	358.1.1 = {
+		birth = yes
+	}
+	374.1.1 = {
+		give_nickname = nick_the_cpob
+	}
+	425.1.1 = {
+		death = yes
+	}
+}
+61 = {
+	name = Duar
+	dynasty = 201000
+	father = 60 # Azoun I
+	
+	religion = catholic
+	culture = irish
+	
+	385.1.1 = {
+		birth = yes
+	}
+	405.1.1 = { # Estimate
+		add_spouse = 1001 # Daverna Turcassan
+	}
+	465.1.1 = {
+		give_nickname = nick_longyears
+	}
+	480.1.1 = {
+		death = yes
+	}
+}
+62 = {
+	name = Galaghard # Galaghard I
+	dynasty = 201000
+	father = 61 # Duar
+	
+	religion = catholic
+	culture = irish
+	
+	434.1.1 = {
+		birth = yes
+	}
+	514.1.1 = {
+		death = yes
+	}
+}
+63 = {
+	name = Galaghard # Galaghard II (same person as Galaghard I)
+	dynasty = 201000
+	father = 62 # Galaghard I
+	
+	religion = catholic
+	culture = irish
+	
+	469.1.1 = {
+		birth = yes
+	}
+	489.1.1 = {
+		give_nickname = nick_the_fodp
+	}
+	554.1.1 = {
+		death = yes
+	}
+}
+100 = {
+	name=Proster
+	dynasty=201000
+	
+	religion=catholic
+	culture=irish
+	
+	1035.1.1 = { birth=yes }
+	1122.01.01 = { death=yes }
+}

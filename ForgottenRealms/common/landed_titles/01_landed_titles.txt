@@ -1,0 +1,254 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+k_cormyr = {
+	color={ 200 9 54 }
+	color2={ 255 255 255 }
+	
+	capital = 17 # c_cormyr
+	culture = irish
+	
+	d_the_stonelands = {
+		color={ 180 29 44 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 10 province_id = 11 } }
+			}
+		}
+		capital = 17 # c_tilverton
+		
+		c_the_stonelands = { # 10
+			color={ 170 39 39 }
+			color2={ 255 255 255 }
+			
+			b_the_stonelands = {
+			}
+			b_the_stonelands_2 = {
+			}
+			b_the_stonelands_3 = {
+			}
+			b_the_stonelands_4 = {
+			}
+		}
+		c_tilverton = { # 11
+			color={ 145 22 22 }
+			color2={ 255 255 255 }
+			
+			b_tilverton = {
+			}
+			b_tilverton_2 = {
+			}
+			b_tilverton_3 = {
+			}
+			b_tilverton_4 = {
+			}
+		}
+	}
+	d_cormyr = {
+		color={ 235 5 20 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 14 province_id = 16 province_id = 17 } }
+			}
+		}
+		capital = 17 # c_cormyr
+		
+		c_hullack_forest = { # 14
+			color={ 225 15 15 }
+			color2={ 255 255 255 }
+			
+			b_hullack_forest = {
+			}
+			b_hullack_forest_2 = {
+			}
+			b_hullack_forest_3 = {
+			}
+			b_hullack_forest_4 = {
+			}
+		}
+		c_cormyr = { # 17
+			color={ 255 75 75 }
+			color2={ 255 255 255 }
+			
+			b_cormyr = {
+			}
+			b_cormyr_2 = {
+			}
+			b_cormyr_3 = {
+			}
+			b_cormyr_4 = {
+			}
+		}
+		c_kings_forest = { # 16
+			color={ 220 44 44 }
+			color2={ 255 255 255 }
+			
+			b_kings_forest = {
+			}
+			b_kings_forest_2 = {
+			}
+			b_kings_forest_3 = {
+			}
+			b_kings_forest_4 = {
+			}
+		}
+	}
+	d_east_cormyr = {
+		color={ 170 121 106 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 12 province_id = 15 province_id = 20 province_id = 21 } }
+			}
+		}
+		capital = 20 # c_east_cormyr
+		
+		c_thunder_peaks = { # 12
+			color={ 180 111 111 }
+			color2={ 255 255 255 }
+			
+			b_thunder_peaks = {
+			}
+			b_thunder_peaks_2 = {
+			}
+			b_thunder_peaks_3 = {
+			}
+			b_thunder_peaks_4 = {
+			}
+		}
+		c_east_cormyr = { # 20
+			color={ 241 129 129 }
+			color2={ 255 255 255 }
+			
+			b_east_cormyr = {
+			}
+			b_east_cormyr_2 = {
+			}
+			b_east_cormyr_3 = {
+			}
+			b_east_cormyr_4 = {
+			}
+		}
+		c_hermits_woods = { # 21
+			color={ 217 19 19 }
+			color2={ 255 255 255 }
+			
+			b_hermits_woods = {
+			}
+			b_hermits_woods_2 = {
+			}
+			b_hermits_woods_3 = {
+			}
+			b_hermits_woods_4 = {
+			}
+		}
+		c_the_vast_swamp = { # 15
+			color={ 234 167 167 }
+			color2={ 255 255 255 }
+			
+			b_the_vast_swamp = {
+			}
+			b_the_vast_swamp_2 = {
+			}
+			b_the_vast_swamp_3 = {
+			}
+			b_the_vast_swamp_4 = {
+			}
+		}
+	}
+	d_the_stormhorns = {
+		color={ 214 8 23 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 13 province_id = 19 } }
+			}
+		}
+		capital = 13 # c_the_stormhorns
+		
+		c_the_stormhorns = { # 13
+			color={ 204 18 18 }
+			color2={ 255 255 255 }
+			
+			b_the_stormhorns = {
+			}
+			b_the_stormhorns_2 = {
+			}
+			b_the_stormhorns_3 = {
+			}
+			b_the_stormhorns_4 = {
+			}
+		}
+		c_eastern_stormhorns = { # 19
+			color={ 248 97 97 }
+			color2={ 255 255 255 }
+			
+			b_eastern_stormhorns = {
+			}
+			b_eastern_stormhorns_2 = {
+			}
+			b_eastern_stormhorns_3 = {
+			}
+			b_eastern_stormhorns_4 = {
+			}
+		}
+	}
+}
+k_icewind_dale = {
+	color={ 30 225 15 }
+	color2={ 255 255 255 }
+	
+	capital = 1 # c_icewind_dale
+	culture = irish
+	
+	d_icewind_dale = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 1 province_id = 2 } }
+			}
+		}
+		capital = 1 # c_icewind_dale
+		
+		c_icewind_dale = { # 1
+			color={ 0 255 0 }
+			color2={ 255 255 255 }
+			
+			b_icewind_dale = {
+			}
+			b_icewind_dale_2 = {
+			}
+			b_icewind_dale_3 = {
+			}
+			b_icewind_dale_4 = {
+			}
+		}
+		c_ten_towns = { # 2
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_ten_towns = {
+			}
+			b_ten_towns_2 = {
+			}
+			b_ten_towns_3 = {
+			}
+			b_ten_towns_4 = {
+			}
+		}
+	}
+}
