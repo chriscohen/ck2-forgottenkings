@@ -14,8 +14,10 @@
 		add_spouse = 27 # Besmra Obarskyr
 	}
 	289.6.1 = { # Estimated month
-		death = death_murder
-		killer = 31
+		death = {
+			death_reason = death_murder
+			killer = 31 # Gordroun Obarskyr
+		}
 	}
 }
 900036 = {
