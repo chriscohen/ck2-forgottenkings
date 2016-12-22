@@ -208,7 +208,9 @@
 		birth = yes
 	}
 	169.1.1 = {
-		death = death_murder_unknown
+		death = {
+			death_reason = death_murder_unknown
+		}
 	}
 }
 13 = {
@@ -222,8 +224,10 @@
 	146.1.1 = {
 		birth = yes
 	}
-	145.1.1 = {
-		death = death_murder_unknown
+	169.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
 	}
 }
 14 = {
@@ -271,8 +275,10 @@
 		birth = yes
 	}
 	237.1.1 = { # Estimated date
-		death = death_murder
-		killer = 17 # Boldovar
+		death = {
+			death_reason = death_murder
+			killer = 17 # Boldovar
+		}
 	}
 }
 17 = {
@@ -408,8 +414,10 @@
 		birth = yes
 	}
 	274.1.1 = {
-		death = death_murder
-		killer = 25
+		death = {
+			death_reason = death_murder
+			killer = 25
+		}
 	}
 }
 25 = {
@@ -471,8 +479,10 @@
 		birth = yes
 	}
 	289.1.1 = {
-		death = death_murder
-		killer = 30 # Belorth
+		death = {
+			death_reason = death_murder
+			killer = 30 # Belorth
+		}
 	}
 }
 30 = {
@@ -488,8 +498,10 @@
 		birth = yes
 	}
 	289.6.1 { # Estimated month
-		death = death_murder
-		killer = 31
+		death = {
+			death_reason = death_murder
+			killer = 31
+		}
 	}
 }
 31 = {
@@ -556,8 +568,10 @@
 		add_spouse = 900036 # Askran
 	}
 	355.1.1 = { # Estimate
-		death = death_murder
-		killer = 56 # Thargreve the Greater
+		death = {
+			death_reason = death_murder
+			killer = 56 # Thargreve the Greater
+		}
 	}
 }
 35 = {
@@ -575,8 +589,10 @@
 		add_spouse = 38 # Jalanthra
 	}
 	303.1.1 = {
-		death = death_murder
-		killer = 34 # Gorauna
+		death = {
+			death_reason = death_murder
+			killer = 34 # Gorauna
+		}
 	}
 }
 37  = {
@@ -595,8 +611,10 @@
 		give_nickname = nick_the_doomed_babe
 	}
 	305.1.2 = {
-		death = death_murder
-		killer = 38 # Jalanthra
+		death = {
+			death_reason = death_murder
+			killer = 38 # Jalanthra
+		}
 	}
 }
 38 = {
@@ -631,8 +649,10 @@
 		add_spouse = 900040 # Silbran
 	}
 	308.1.1 = {
-		death = death_murder
-		killer = 900036 # Askran
+		death = {
+			death_reason = death_murder
+			killer = 900036 # Askran
+		}
 	}
 }
 41 = {
@@ -648,8 +668,10 @@
 		birth = yes
 	}
 	326.1.1 = {
-		death = death_murder
-		killer = 34 # Gorauna
+		death = {
+			death_reason = death_murder
+			killer = 34 # Gorauna
+		}
 	}
 }
 42 = {
@@ -664,8 +686,10 @@
 		birth = yes
 	}
 	328.1.1 = {
-		death = death_murder
-		killer = 34 # Gorauna
+		death = {
+			death_reason = death_murder
+			killer = 34 # Gorauna
+		}
 	}
 }
 43 = {
@@ -698,8 +722,10 @@
 		birth = yes
 	}
 	336.1.1 = {
-		death = death_murder
-		killer = 45 # Ortolar
+		death = {
+			death_reason = death_murder
+			killer = 45 # Ortolar
+		}
 	}
 }
 45 = {
@@ -714,8 +740,10 @@
 		birth = yes
 	}
 	337.1.1 = {
-		death = death_murder
-		killer = 34 # Gorauna
+		death = {
+			death_reason = death_murder
+			killer = 34 # Gorauna
+		}
 	}
 }
 46 = {
@@ -730,8 +758,10 @@
 		birth = yes
 	}
 	339.1.1 = {
-		death = death_murder
-		killer = 34 # Gorauna
+		death = {
+			death_reason = death_murder
+			killer = 34 # Gorauna
+		}
 	}
 }
 47 = {
@@ -851,7 +881,7 @@
 	female = yes
 	dynasty = 201000
 	
-	religion = 201000
+	religion = catholic
 	culture = irish
 	
 	322.1.1 = {
@@ -1022,12 +1052,60 @@
 		death = yes
 	}
 }
+64 = {
+	name = Draxius # (same person as Galaghard I)
+	dynasty = 201000
+	father = 63 # Galaghard II, I guess, it's confusing
+	
+	religion = catholic
+	culture = irish
+	
+	523.1.1 = {
+		birth = yes
+	}
+	623.1.1 = {
+		give_nickname = nick_the_neverdying
+	}
+	875.1.1 = {
+		death = yes
+	}
+}
+65 = {
+	name = Bryntarth # Bryntarth I
+	dynasty = 201000
+	father = 64
+	
+	religion = catholic
+	culture = irish
+	
+	852.1.1 = {
+		birth = yes
+	}
+	897.1.1 = {
+		death = yes
+	}
+}
+66 = {
+	name = Galaghard # Galaghard III
+	dynasty = 201000
+	father = 65
+	
+	religion = catholic
+	culture = cormyrean
+	
+	873.1.1 = {
+		birth = yes
+	}
+	953.1.1 = {
+		death = yes
+	}
+}
 100 = {
 	name=Proster
 	dynasty=201000
 	
 	religion=catholic
-	culture=irish
+	culture=cormyrean
 	
 	1035.1.1 = { birth=yes }
 	1122.01.01 = { death=yes }
