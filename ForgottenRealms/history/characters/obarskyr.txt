@@ -6,7 +6,7 @@
 	dynasty = 201000
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	1.1.1 = {
 		birth = yes
@@ -24,7 +24,7 @@
 	father = 1 # Faerlthann
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	27.1.1 = {
 		birth = yes
@@ -43,7 +43,7 @@
 	father = 2 # Imlon
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	44.1.1 = {
 		birth = yes
@@ -58,7 +58,7 @@
 	father = 1 # Faerlthann
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	33.1.1 = {
 		birth = yes
@@ -73,7 +73,7 @@
 	father = 1 # Faerlthann
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	35.1.1 = {
 		birth = yes
@@ -91,7 +91,7 @@
 	father = 1 # Faerlthann
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	30.1.1 = {
 		birth = yes
@@ -109,7 +109,7 @@
 	father = 6 # Embrus
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	66.1.1 = {
 		birth = yes
@@ -127,7 +127,7 @@
 	father = 6 # Embrus
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	70.1.1 = {
 		birth = yes
@@ -142,7 +142,7 @@
 	father = 8 # Imbre (adopted)
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	93.1.1 = {
 		birth = yes
@@ -157,7 +157,7 @@
 	father = 9 # Sacrast
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	109.1.1 = {
 		birth = yes
@@ -172,7 +172,7 @@
 	father = 9 # Sacrast
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	110.1.1 = {
 		birth = yes
@@ -187,7 +187,7 @@
 	father = 9 # Sacrast
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	112.1.1 = {
 		birth = yes
@@ -196,13 +196,13 @@
 		death = yes
 	}
 }
-12 = {
+72 = {
 	name = Irbruin
 	dynasty = 201000
 	father = 11 # Dorglor
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	127.1.1 = {
 		birth = yes
@@ -214,12 +214,12 @@
 	}
 }
 13 = {
-	name = "P. Faerlthind"
+	name = Faerlthind # Prince Faerlthind
 	dynasty = 201000
-	father = 12 # Irbruin
+	father = 72 # Irbruin
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	146.1.1 = {
 		birth = yes
@@ -236,7 +236,7 @@
 	father = 12 # Irbruin
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	147.1.1 = {
 		birth = yes
@@ -251,7 +251,7 @@
 	father = 12 # Irbruin
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	167.1.1 = {
 		birth = yes
@@ -269,7 +269,7 @@
 	father = 15 # Tharyann
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	198.1.1 = {
 		birth = yes
@@ -287,7 +287,7 @@
 	father = 15 # Tharyann
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	199.1.1 = {
 		birth = yes
@@ -305,7 +305,7 @@
 	father = 17 # Boldovar
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	221.1.1 = {
 		birth = yes
@@ -324,7 +324,7 @@
 	father = 17 # Boldovar
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	218.1.1 = {
 		birth = yes
@@ -342,7 +342,7 @@
 	mother = 19 # Gantharla
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	244.1.1 = {
 		birth = yes
@@ -360,7 +360,7 @@
 	mother = 22 # Erthava
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	225.1.1 = {
 		birth = yes
@@ -378,7 +378,7 @@
 	father = 15 # Tharyann
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	205.1.1 = { # Estimate
 		birth = yes
@@ -393,7 +393,7 @@
 	father = 21 # Thargreve
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	242.1.1 = {
 		birth = yes
@@ -408,7 +408,7 @@
 	father = 23 # Holordrym
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	259.1.1 = {
 		birth = yes
@@ -439,7 +439,7 @@
 	father = 23 # Holordrym
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	260.1.1 = {
 		birth = yes
@@ -455,7 +455,7 @@
 	father = 21 # Thargreve
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	246.1.1 = {
 		birth = yes
@@ -473,7 +473,7 @@
 	mother = 27 # Besmra
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	264.1.1 = {
 		birth = yes
@@ -492,7 +492,7 @@
 	mother = 27 # Besmra
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	262.1.1 = { # Estimate
 		birth = yes
@@ -510,7 +510,7 @@
 	mother = 27 # Besmra
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	266.1.1 = {
 		birth = yes
@@ -525,7 +525,7 @@
 	mother = 27 # Besmra
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	266.1.1 = {
 		birth = yes
@@ -540,7 +540,7 @@
 	father = 32 # Keldroun
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	282.1.1 = {
 		birth = yes
@@ -559,7 +559,7 @@
 	father = 32 # Keldroun
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	283.1.1 = { # Estimate
 		birth = yes
@@ -580,7 +580,7 @@
 	father = 32 # Keldroun
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	284.1.1 = {
 		birth = yes
@@ -602,7 +602,7 @@
 	mother = 38 # Jalanthra
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	302.1.1 = {
 		birth = yes
@@ -622,7 +622,7 @@
 	female = yes
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	284.1.1 = { # Estimate
 		birth = yes
@@ -640,7 +640,7 @@
 	father = 32 # Keldroun
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	288.1.1 = {
 		birth = yes
@@ -662,7 +662,7 @@
 	mother = 900040 # Silbran
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	306.1.1 = {
 		birth = yes
@@ -680,7 +680,7 @@
 	father = 41 # Raerboth
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	325.1.1 = {
 		birth = yes
@@ -698,7 +698,7 @@
 	father = 39 # Ulbaeram
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	304.1.1 = {
 		birth = yes # (illegitimate)
@@ -716,7 +716,7 @@
 	father = 43 # Belmuth
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	324.1.1 = {
 		birth = yes
@@ -734,7 +734,7 @@
 	father = 39 # Ulbaeram
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	305.1.1 = {
 		birth = yes
@@ -752,7 +752,7 @@
 	father = 43 # Belmuth
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	322.1.1 = {
 		birth = yes
@@ -770,7 +770,7 @@
 	father = 45 # Ortolar
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	334.1.1 = {
 		birth = yes
@@ -785,7 +785,7 @@
 	father = 45 # Ortolar
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	336.1.1 = {
 		birth = yes
@@ -800,7 +800,7 @@
 	father = 46 # Imbrus I
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	339.1.1 = {
 		birth = yes
@@ -816,7 +816,7 @@
 	mother = 34 # Gorauna
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	301.1.1 = {
 		birth = yes
@@ -832,7 +832,7 @@
 	mother = 50 # Gorauna II
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	318.1.1 = {
 		birth = yes
@@ -850,7 +850,7 @@
 	dynasty = 201000
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	329.1.1 = {
 		birth = yes
@@ -864,7 +864,7 @@
 	dynasty = 201000
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	327.1.1 = {
 		birth = yes
@@ -882,7 +882,7 @@
 	dynasty = 201000
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	322.1.1 = {
 		birth = yes
@@ -899,7 +899,7 @@
 	dynasty = 201000
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	329.1.1 = {
 		birth = yes
@@ -920,7 +920,7 @@
 	mother = 51 # Meurthe
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	334.1.1 = {
 		birth = yes
@@ -938,7 +938,7 @@
 	dynasty = 201000
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	345.1.1 = {
 		birth = yes
@@ -953,7 +953,7 @@
 	mother = 54 # Arathra
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	340.1.1 = {
 		birth = yes
@@ -971,7 +971,7 @@
 	mother = 54 # Arathra
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	341.1.1 = {
 		birth = yes
@@ -986,7 +986,7 @@
 	father = 59 # Anglond
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	358.1.1 = {
 		birth = yes
@@ -1004,7 +1004,7 @@
 	father = 60 # Azoun I
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	385.1.1 = {
 		birth = yes
@@ -1025,7 +1025,7 @@
 	father = 61 # Duar
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	434.1.1 = {
 		birth = yes
@@ -1040,7 +1040,7 @@
 	father = 62 # Galaghard I
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	469.1.1 = {
 		birth = yes
@@ -1058,7 +1058,7 @@
 	father = 63 # Galaghard II, I guess, it's confusing
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	523.1.1 = {
 		birth = yes
@@ -1076,7 +1076,7 @@
 	father = 64
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	852.1.1 = {
 		birth = yes
@@ -1100,13 +1100,195 @@
 		death = yes
 	}
 }
-100 = {
-	name=Proster
-	dynasty=201000
+67 = {
+	name = Rhiigard
+	dynasty = 201000
+	father = 66 # Galaghard III
 	
-	religion=catholic
-	culture=cormyrean
+	religion = catholic
+	culture = cormyrean
 	
-	1035.1.1 = { birth=yes }
-	1122.01.01 = { death=yes }
+	895.1.1 = {
+		birth = yes
+	}
+	925.12.1 = {
+		add_spouse = 1115 # Aliia Elethlim - not actually married, only betrothed
+	}
+	926.1.1 = {
+		give_nickname = nick_the_mourning_king
+	}
+	982.1.1 = {
+		death = yes
+	}
+}
+68 = {
+	name = Bryntarth # Bryntarth II
+	dynasty = 201000
+	father = 67 # Rhiigard
+	
+	religion = catholic
+	culture = cormyrean
+	
+	943.1.1 = {
+		birth = yes
+	}
+	1001.1.1 = {
+		death = yes
+	}
+}
+69 = {
+	name = Arangor
+	dynasty = 201000
+	father = 68 # Bryntarth II
+	
+	religion = catholic
+	culture = cormyrean
+	
+	979.1.1 = {
+		birth = yes
+	}
+	1042.1.1 = {
+		death = yes
+	}
+}
+70 = {
+	name = Azoun # Azoun II
+	dynasty = 201000
+	father = 69 # Arangor
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1001.1.1 = {
+		birth = yes
+	}
+	1056.1.1 = {
+		death = yes
+	}
+}
+71 = {
+	name = Proster
+	dynasty = 201000
+	father = 70 # Azoun II
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1035.1.1 = {
+		birth = yes
+	}
+	1122.01.01 = {
+		death = yes
+	}
+}
+73 = {
+	name = Baerovus
+	dynasty = 201000
+	father = 71 # Proster
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1092.1.1 = {
+		birth = yes
+	}
+	1164.1.1 = {
+		death = yes
+	}
+}
+74 = {
+	name = Palaghard # Palaghard I
+	dynasty = 201000
+	father = 73 # Baerovus
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1126.1.1 = {
+		birth = yes
+	}
+	1162.1.1 = {
+		add_spouse = 1200 # Enchara of Esparin
+	}
+	1187.1.1 = {
+		death = yes
+	}
+}
+75 = {
+	name = Pryntaler
+	dynasty = 201000
+	father = 74 # Palaghard I
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1164.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		death = yes
+	}
+}
+76 = {
+	name = Dhalmass
+	dynasty = 201000
+	father = 75 # Pryntaler
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1186.1.1 = {
+		birth = yes
+	}
+	1227.1.1 = {
+		death = yes
+	}
+}
+77 = {
+	name = Palaghard # Palaghard II
+	dynasty = 201000
+	father = 76 # Dhalmass
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1214.1.1 = {
+		birth = yes
+	}
+	1261.1.1 = {
+		death = yes
+	}
+}
+78 = {
+	name = Azoun # Azoun III
+	dynasty = 201000
+	father = 77 # Palaghard II
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1241.1.1 = {
+		birth = yes
+	}
+	1275.1.1 = {
+		death = yes
+	}
+}
+79 = {
+	name = Salember
+	dynasty = 201000
+	father = 77 # Palaghard II
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1246.1.1 = {
+		birth = yes
+	}
+	1286.1.1 = {
+		death = {
+			death_reason = death_murder
+			#killer = 
+		}
+	}
 }
