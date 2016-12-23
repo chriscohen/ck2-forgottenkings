@@ -1,0 +1,7 @@
+# CORMANTHOR
+# Range = 204000-204999
+
+204000 = {
+	name = Dahast
+	culture = moonelf
+}
