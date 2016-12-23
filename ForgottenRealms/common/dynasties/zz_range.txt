@@ -1,0 +1,6 @@
+# RANGES FOR DYNASTIES
+#
+# 201000 - 201999   Cormyr
+# 202000 - 202999   Impiltur
+# 203000 - 203999   Esparin
+# 204000 - 204999   Cormanthor

@@ -1,0 +1,10 @@
+# RANGES FOR CHARACTERS
+#
+# 0      - 999      Obarskyr
+# 1000   - 1099     Turcassan
+# 1100   - 1199     Elethlim
+# 1200   - 1299     Esparin
+# 1300   - 1399     High Wizards of Cormyr
+# 1400   - 1499     Dahast
+#
+# 900000 - 999999 Lowborn
