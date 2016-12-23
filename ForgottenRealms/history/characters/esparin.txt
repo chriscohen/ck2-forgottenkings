@@ -1,0 +1,22 @@
+# ESPARIN
+# Noble house of Esparin
+# Not sure on actual name of house, so name of kingdom used.
+# Range 1200-1299
+
+1200 = {
+	name = Enchara
+	dynasty = 203000
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1126.1.1 = { # Estimate
+		birth = yes
+	}
+	1162.1.1 = {
+		add_spouse = 74 # Palaghard I Obarskyr
+	}
+	1187.1.1 = { # Estimate
+		death = yes
+	}
+}

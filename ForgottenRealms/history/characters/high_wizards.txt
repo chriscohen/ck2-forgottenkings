@@ -1,0 +1,78 @@
+# HIGH WIZARDS OF CORMYR
+# Range = 1300 - 1399
+
+1300 = {
+	name = Baerauble
+	
+	religion = catholic
+	culture = netherese
+	
+	-116.1.1 = {
+		birth = yes
+	}
+	-75.1.1 = {
+		add_spouse = 1400 # Alea Dahast
+	}
+	479.1.1 = {
+		death = yes
+	}
+}
+1301 = {
+	name = Amedahast
+	father = 1300 # Baerauble - we don't have the lineage but this will have to do
+	mother = 1400 # Alea Dahast - we don't have the lineage either
+	
+	religion = catholic
+	culture = cormyrean # Not really, but oh well, have to put something
+	
+	100.1.1 = { # Estimate
+		birth = yes
+	}
+	629.1.1 = {
+		death = {
+			death_reason = death_suicide
+		}
+	}
+}
+1302 = {
+	name = Thanderahast
+	mother = 1301 # Amedahast - was actually her nephew, but we need lineage here
+	
+	religion = catholic
+	culture = cormyrean
+	
+	550.1.1 = { # Estimate
+		birth = yes
+	}
+	1018.1.1 = {
+		death = yes
+	}
+}
+1303 = {
+	name = Jorunhast
+	father = 1302 # Thanderahast - not really, but we need lineage
+	
+	religion = catholic
+	culture = cormyrean
+	
+	900.1.1 = { # Estimate
+		birth = yes
+	}
+	1020.1.1 = { # Estimate
+		death = yes
+	}
+}
+1304 = {
+	name = Vangerdahast
+	father = 1303 # Jorunhast - not really, but we need lineage
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1012.1.1 = {
+		birth = yes
+	}
+	1380.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -1,0 +1,20 @@
+# DAHAST
+# Range = 1400-1499
+
+1400 = {
+	name = Alea
+	dynasty = 204000
+	
+	religion = catholic
+	culture = moonelf # A guess - it's not recorded
+	
+	-200.1.1 = { # Estimate
+		birth = yes
+	}
+	-75.1.1 = {
+		add_spouse = 1300 # Baerauble Etharr
+	}
+	429.1.1 = { # Estimate
+		death = yes
+	}
+}

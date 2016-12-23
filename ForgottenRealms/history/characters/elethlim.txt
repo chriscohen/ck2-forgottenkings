@@ -7,5 +7,300 @@
 	dynasty = 202000
 	
 	religion = catholic
-	culture = irish
+	culture = impilturian
+	
+	656.1.1 = {
+		birth = yes
+	}
+	732.1.1 = {
+		give_nickname = nick_the_true
+	}
+	734.1.1 = {
+		death = yes
+	}
+}
+1101 = {
+	name = Halanter # Halanter I
+	dynasty = 202000
+	father = 1100 # Sarshel
+	
+	religion = catholic
+	culture = impilturian
+	
+	711.1.1 = {
+		birth = yes
+	}
+	765.1.1 = {
+		death = yes
+	}
+}
+1102 = {
+	name = Erynd # Erynd I
+	dynasty = 202000
+	father = 1101 # Halanter I
+	
+	religion = catholic
+	culture = impilturian
+	
+	739.1.1 = {
+		birth = yes
+	}
+	765.1.1 = {
+		give_nickname = nick_the_penitent
+	}
+	788.1.1 = {
+		death = yes
+	}
+}
+1103 = {
+	name = Nord
+	dynasty = 202000
+	father = 1102 # Erynd I
+	
+	religion = catholic
+	culture = impilturian
+	
+	764.1.1 = {
+		birth = yes
+	}
+	788.1.1 = {
+		give_nickname = nick_demonbane
+	}
+	811.1.1 = {
+		death = yes
+	}
+}
+1104 = {
+	name = Halanter # Halanter II
+	dynasty = 202000
+	father = 1103
+	
+	religion = catholic
+	culture = impilturian
+	
+	787.1.1 = {
+		birth = yes
+	}
+	844.1.1 = {
+		death = yes
+	}
+}
+1105 = {
+	name = Beldred # Beldred I
+	dynasty = 202000
+	father = 1104 # Halanter II
+	
+	religion = catholic
+	culture = impilturian
+	
+	816.1.1 = {
+		birth = yes
+	}
+	844.1.1 = {
+		give_nickname = nick_fiendslayer
+	}
+	863.1.1 = {
+		death = yes
+	}
+}
+1106 = {
+	name = Beldred # Beldred II
+	dynasty = 202000
+	father = 1105 # Beldred I
+	
+	religion = catholic
+	culture = impilturian
+	
+	845.1.1 = {
+		birth = yes
+	}
+	886.1.1 = {
+		death = yes
+	}
+}
+1107 = {
+	name = Halanter # Prince Halanter
+	dynasty = 202000
+	father = 1106 # Beldred II
+	
+	religion = catholic
+	culture = impilturian
+	
+	872.1.1 = {
+		birth = yes
+	}
+	886.1.1 = {
+		trait = has_bubonic_plague
+	}
+	886.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1108 = {
+	name = Erynd # Erynd II
+	dynasty = 202000
+	mother = 1109 # Shaneesa
+	
+	religion = catholic
+	culture = impilturian
+	
+	875.1.1 = {
+		birth = yes
+	}
+	887.1.1 = {
+		trait = has_bubonic_plague
+	}
+	887.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1109 = {
+	name = Shaneesa
+	female = yes
+	dynasty = 202000
+	father = 1105 # Beldred I
+	
+	religion = catholic
+	culture = impilturian
+	
+	849.1.1 = {
+		birth = yes
+	}
+	907.1.1 = {
+		give_nickname = nick_the_old_dowager
+	}
+	922.1.1 = {
+		trait = has_bubonic_plague
+	}
+	922.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1110 = {
+	name = Coranna
+	female = yes
+	dynasty = 202000
+	father = 1105 # Beldred I
+	
+	religion = catholic
+	culture = impilturian
+	
+	850.1.1 { # Estimate
+		birth = yes
+	}
+	924.1.1 { # Estimate
+		trait = has_bubonic_plague
+	}
+	924.1.11 { # Estimate
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1111 = {
+	name = Peverel
+	dynasty = 202000
+	mother = 1110 # Coranna
+	
+	religion = catholic
+	culture = impilturian
+	
+	891.1.1 = {
+		birth = yes
+	}
+	924.1.1 = {
+		trait = has_bubonic_plague
+	}
+	924.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1112 = {
+	name = Amarkos
+	dynasty = 202000
+	father = 1111 # Peverel
+	
+	religion = catholic
+	culture = impilturian
+	
+	908.1.1 = {
+		birth = yes
+	}
+	924.1.1 = {
+		trait = has_bubonic_plague
+	}
+	924.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1113 = {
+	name = Beldred # Prince Beldred
+	dynasty = 202000
+	father = 1111 # Peverel
+	
+	religion = catholic
+	culture = impilturian
+	
+	910.1.1 = {
+		birth = yes
+	}
+	924.1.1 = {
+		trait = has_bubonic_plague
+	}
+	924.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1114 = {
+	name = Erynd # Prince Erynd
+	dynasty = 202000
+	father = 1111 # Peverel
+	
+	religion = catholic
+	culture = impilturian
+	
+	911.1.1 = {
+		birth = yes
+	}
+	924.1.1 = {
+		trait = has_bubonic_plague
+	}
+	924.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1115 = {
+	name = Aliia
+	female = yes
+	dynasty = 202000
+	father = 1111 # Peverel
+	
+	religion = catholic
+	culture = impilturian
+	
+	909.1.1 = {
+		birth = yes
+	}
+	925.12.1 = {
+		add_spouse = 67 # Rhiigard Obarskyr - not actually married, only betrothed
+	}
+	926.1.1 = {
+		death = {
+			death_reason = death_accident # Shipwreck
+		}
+	}
 }
