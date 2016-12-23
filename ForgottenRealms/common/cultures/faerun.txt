@@ -1,3 +1,42 @@
+elf = {
+	graphical_cultures = { westerngfx }
+	
+	moonelf = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.3 0.55 0.8 }
+		
+		male_names = {
+			Yarjack
+		}
+		female_names = {
+			Alea
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+}
 human = {
 	graphical_cultures = { westerngfx }
 	
@@ -57,8 +96,78 @@ human = {
 		
 		from_dynasty_prefix = "of "
 		
-		male_patronym = "sson"
-		female_patronym = "sdottir"
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	impilturian = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.3 0.55 0.8 }
+		
+		male_names = {
+			Halanter
+			Sarshel
+		}
+		female_names = {
+			Ariia
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	netherese = {
+		graphical_cultures = { muslimgfx }
+		
+		color = { 0.3 0.55 0.8 }
+		
+		male_names = {
+			Halanter
+			Sarshel
+		}
+		female_names = {
+			Ariia
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
