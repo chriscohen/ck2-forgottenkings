@@ -1,0 +1,8 @@
+# ESPARIN
+# Was once a kingdom in the Stonelands until 1162 DR.
+# Range = 203000-203999
+
+203000 = {
+	name = Esparin
+	culture = cormyrean
+}
