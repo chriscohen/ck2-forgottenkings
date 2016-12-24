@@ -184,3 +184,36 @@
 1056.1.1 = {
 	holder = 71 # Proster
 }
+1122.1.1 = {
+	holder = 73 # Baerovus
+}
+1164.1.1 = {
+	holder = 74 # Palaghard I
+}
+1187.1.1 = {
+	holder = 75 # Pryntaler
+}
+1210.1.1 = {
+	holder = 76 # Dhalmass
+}
+1227.1.1 = {
+	holder = 77 # Palaghard II
+}
+1261.1.1 = {
+	holder = 78 # Azoun III
+}
+1275.1.1 = {
+	holder = 79 # Salember
+}
+1286.1.1 = {
+	holder = 80 # Rhiigaerd II
+}
+1335.1.1 = {
+	holder = 81 # Azoun IV
+}
+1371.1.1 = {
+	holder = 83 # Alusair
+}
+1371.10.1 = {
+	holder = 84 # Azoun V
+}
