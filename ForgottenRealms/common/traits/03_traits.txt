@@ -10,3 +10,11 @@ ghazneth = {
 	
 	general_opinion = -100
 }
+purple_dragon = {
+	# Military order in Cormyr
+	random = no
+	
+	martial = 3
+	
+	general_opinion = 5
+}
