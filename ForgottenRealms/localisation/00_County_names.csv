@@ -5,8 +5,14 @@ c_cormyr;Cormyr;Cormyr;Cormyr;;Cormyr;;;;;;;;;x
 c_cormyr_adj;Cormyrean;;;;;;;;;;;;;x
 c_east_cormyr;East Cormyr;East Cormyr;East Cormyr;;East Cormyr;;;;;;;;;x
 c_east_cormyr_adj;East Cormyrean;;;;;;;;;;;;;x
+c_east_oman;East Oman;;;;;;;;;;;;;x
+c_east_oman_adj;East Omanian;;;;;;;;;;;;;x
 c_eastern_stormhorns;Eastern Stormhorns;Eastern Stormhorns;Eastern Stormhorns;;Eastern Stormhorns;;;;;;;;;x
 c_eastern_stormhorns_adj;Eastern Stormhorner;;;;;;;;;;;;;x
+c_fairheight;Fairheight;;;;;;;;;;;;;x
+c_fairheight_adj;Fairheighter;;;;;;;;;;;;;x
+c_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
+c_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
 c_hermits_woods;Hermit's Woods;Hermit's Woods;Hermit's Woods;;Hermit's Woods;;;;;;;;;x
 c_hermits_woods_adj;Hermit's Woodsian;;;;;;;;;;;;;x
 c_hullack_forest;Hullack Forest;Hullack Forest;Hullack Forest;;Hullack Forest;;;;;;;;;x
@@ -15,8 +21,18 @@ c_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 c_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
 c_kings_forest;King's Forest;King's Forest;King's Forest;;King's Forest;;;;;;;;;x
 c_kings_forest_adj;King's Forester;;;;;;;;;;;;;x
+c_lisburnt_mountains;Lisburnt Mountains;;;;;;;;;;;;;x
+c_lisburnt_mountains_adj;Lisburnt Mountainer;;;;;;;;;;;;;x
 c_marsember;Marsember;;;;;;;;;;;;;x
 c_marsember_adj;Marsembian;;;;;;;;;;;;;x
+c_north_alaron;North Alaron;;;;;;;;;;;;;x
+c_north_alaron_adj;North Alaronian;;;;;;;;;;;;;x
+c_stagford;Stagford;;;;;;;;;;;;;x
+c_stagford_adj;Stagforder;;;;;;;;;;;;;x
+c_stirgewick;Stirgewick;;;;;;;;;;;;;x
+c_stirgewick_adj;Stirgewicker;;;;;;;;;;;;;x
+c_talffolk;Talffolk;;;;;;;;;;;;;x
+c_talffolk_adj;Talffolk;;;;;;;;;;;;;x
 c_ten_towns;Ten-Towns;Ten-Towns;Ten-Towns;;Ten-Towns;;;;;;;;;x
 c_ten_towns_adj;Ten-Townser;;;;;;;;;;;;;x
 c_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;;;;;;;x
@@ -29,3 +45,5 @@ c_thunder_peaks;Thunder Peaks;Thunder Peaks;Thunder Peaks;;Thunder Peaks;;;;;;;;
 c_thunder_peaks_adj;Thunder Peakser;;;;;;;;;;;;;x
 c_tilverton;Tilverton;Tilverton;Tilverton;;Tilverton;;;;;;;;;x
 c_tilverton_adj;Tilvertonian;;;;;;;;;;;;;x
+c_west_oman;West Oman;;;;;;;;;;;;;x
+c_west_oman_adj;West Omanian;;;;;;;;;;;;;x

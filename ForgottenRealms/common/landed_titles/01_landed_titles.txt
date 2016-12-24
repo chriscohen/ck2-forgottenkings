@@ -312,4 +312,121 @@ k_moonshae = {
 			}
 		}
 	}
+	d_north_alaron = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 province_id = 29 } }
+			}
+		}
+		capital = 29 # Gnarhelm
+		
+		c_north_alaron = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_sunderstaad = {
+			}
+			b_north_alaron_2 = {
+			}
+			b_north_alaron_3 = {
+			}
+			b_north_alaron_4 = {
+			}
+		}
+		c_lisburnt_moutains = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_highrock = {
+			}
+			b_lisburnt_mountains_2 = {
+			}
+			b_lisburnt_mountains_3 = {
+			}
+			b_lisburnt_mountains_4 = {
+			}
+		}
+		c_fairheight = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_blackstone = {
+			}
+			b_fairheight_2 = {
+			}
+			b_fairheight_3 = {
+			}
+			b_fairheight_4 = {
+			}
+		}
+		c_gnarhelm = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_gnarhelm = {
+			}
+			b_gnarhelm_2 = {
+			}
+			b_gnarhelm_3 = {
+			}
+			b_gnarhelm_4 = {
+			}
+		}
+	}
+	d_south_alaron = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 province_id = 29 } }
+			}
+		}
+		capital = 31 # Talffolk
+		
+		c_talffolk = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_callidyrr = {
+			}
+			b_talffolk_2 = {
+			}
+			b_talffolk_3 = {
+			}
+			b_talffolk_4 = {
+			}
+		}
+		c_stagford = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_stagford = {
+			}
+			b_stagford_2 = {
+			}
+			b_stagford_3 = {
+			}
+			b_stagford_4 = {
+			}
+		}
+		c_stirgewick = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_stirgewick = {
+			}
+			b_stirgewick_2 = {
+			}
+			b_stirgewick_3 = {
+			}
+			b_stirgewick_4 = {
+			}
+		}
+	}
 }
