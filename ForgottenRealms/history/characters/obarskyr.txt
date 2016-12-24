@@ -1330,6 +1330,7 @@
 }
 82 = {
 	name = Tanalasta
+	female = yes
 	dynasty = 201000
 	father = 81 # Azoun IV
 	mother = 900001 # Filfaeril
@@ -1349,6 +1350,7 @@
 }
 83 = {
 	name = "Alusair Nacacia"
+	female = yes
 	dynasty = 201000
 	father = 81 # Azoun IV
 	mother = 900001 # Filfaeril
