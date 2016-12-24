@@ -12,7 +12,7 @@ b_gwarch = castle
 #b_the_stonelands_4 = castle
 
 # Misc
-culture = irish
+culture = cormyrean
 religion = catholic
 
 #History

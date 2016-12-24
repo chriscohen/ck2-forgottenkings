@@ -12,7 +12,7 @@ b_tilverton = castle
 #b_tilverton_4 = castle
 
 # Misc
-culture = irish
+culture = cormyrean
 religion = catholic
 
 #History

@@ -12,7 +12,7 @@ b_the_stormhorns = castle
 #b_the_stormhorns_4 = castle
 
 # Misc
-culture = irish
+culture = cormyrean
 religion = catholic
 
 #History

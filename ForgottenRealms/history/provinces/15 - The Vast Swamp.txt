@@ -12,7 +12,7 @@ b_the_vast_swamp = castle
 #b_the_vast_swamp_4 = castle
 
 # Misc
-culture = irish
+culture = cormyrean
 religion = catholic
 
 #History

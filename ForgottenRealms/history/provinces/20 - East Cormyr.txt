@@ -12,7 +12,7 @@ b_east_cormyr = castle
 #b_east_cormyr_4 = castle
 
 # Misc
-culture = irish
+culture = cormyrean
 religion = catholic
 
 #History
