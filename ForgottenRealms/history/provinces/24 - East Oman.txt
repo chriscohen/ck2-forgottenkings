@@ -1,0 +1,18 @@
+# c_east_oman
+
+# County Title
+title = c_east_oman
+
+# Settlements
+max_settlements = 4
+
+b_ramshorn = castle
+#b_hermits_woods_2 = city
+#b_hermits_woods_3 = temple
+#b_hermits_woods_4 = castle
+
+# Misc
+culture = moonshae
+religion = catholic
+
+#History

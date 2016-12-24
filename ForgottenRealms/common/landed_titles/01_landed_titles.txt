@@ -266,3 +266,50 @@ k_icewind_dale = {
 		}
 	}
 }
+k_moonshae = {
+	color={ 30 225 15 }
+	color2={ 255 255 255 }
+	
+	capital = 25 # West Oman, for now
+	culture = moonshae
+	
+	d_oman = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 24 province_id = 25 } }
+			}
+		}
+		capital = 25 # West Oman
+		
+		c_east_oman = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_ramshorn = {
+			}
+			b_east_oman_2 = {
+			}
+			b_east_oman_3 = {
+			}
+			b_east_oman_4 = {
+			}
+		}
+		c_west_oman = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_trondhelm = {
+			}
+			b_west_oman_2 = {
+			}
+			b_west_oman_3 = {
+			}
+			b_west_oman_4 = {
+			}
+		}
+	}
+}
