@@ -1,0 +1,18 @@
+# c_marsember
+
+# County Title
+title = c_marsember
+
+# Settlements
+max_settlements = 4
+
+b_marsember = castle
+#b_hermits_woods_2 = city
+#b_hermits_woods_3 = temple
+#b_hermits_woods_4 = castle
+
+# Misc
+culture = cormyrean
+religion = catholic
+
+#History
