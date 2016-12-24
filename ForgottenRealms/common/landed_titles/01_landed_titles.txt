@@ -19,7 +19,7 @@ k_cormyr = {
 				any_demesne_province = { OR = { province_id = 10 province_id = 11 } }
 			}
 		}
-		capital = 17 # c_tilverton
+		capital = 10 # c_the_stonelands
 		
 		c_the_stonelands = { # 10
 			color={ 170 39 39 }
@@ -32,19 +32,6 @@ k_cormyr = {
 			b_the_stonelands_3 = {
 			}
 			b_the_stonelands_4 = {
-			}
-		}
-		c_tilverton = { # 11
-			color={ 145 22 22 }
-			color2={ 255 255 255 }
-			
-			b_tilverton = {
-			}
-			b_tilverton_2 = {
-			}
-			b_tilverton_3 = {
-			}
-			b_tilverton_4 = {
 			}
 		}
 	}
@@ -111,6 +98,19 @@ k_cormyr = {
 			color2={ 255 255 255 }
 			
 			b_marsember = {
+			}
+		}
+		c_tilverton = { # 11
+			color={ 145 22 22 }
+			color2={ 255 255 255 }
+			
+			b_tilverton = {
+			}
+			b_tilverton_2 = {
+			}
+			b_tilverton_3 = {
+			}
+			b_tilverton_4 = {
 			}
 		}
 	}
