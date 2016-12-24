@@ -25,7 +25,7 @@ k_cormyr = {
 			color={ 170 39 39 }
 			color2={ 255 255 255 }
 			
-			b_the_stonelands = {
+			b_gwarch = {
 			}
 			b_the_stonelands_2 = {
 			}

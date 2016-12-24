@@ -6,7 +6,7 @@ title = c_the_stonelands
 # Settlements
 max_settlements = 4
 
-b_the_stonelands = castle
+b_gwarch = castle
 #b_the_stonelands_2 = city
 #b_the_stonelands_3 = temple
 #b_the_stonelands_4 = castle
