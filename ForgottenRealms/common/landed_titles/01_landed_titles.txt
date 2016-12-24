@@ -60,6 +60,13 @@ k_cormyr = {
 		}
 		capital = 17 # c_cormyr
 		
+		c_arabel = { # 22
+			color={ 225 15 15 }
+			color2={ 255 255 255 }
+			
+			b_arabel = {
+			}
+		}
 		c_hullack_forest = { # 14
 			color={ 225 15 15 }
 			color2={ 255 255 255 }
