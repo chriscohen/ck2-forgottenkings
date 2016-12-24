@@ -6,5 +6,7 @@
 # 1200   - 1299     Esparin
 # 1300   - 1399     High Wizards of Cormyr
 # 1400   - 1499     Dahast
+# 1500   - 1599     Cormaeril
+# 1600   - 1699     Bleth
 #
 # 900000 - 999999 Lowborn

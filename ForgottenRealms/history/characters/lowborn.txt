@@ -1,6 +1,19 @@
 # LOWBORN
 # Range = 900000-999999
 
+900001 = {
+	name = Filfaeril Selzair
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1311.5.4 = {
+		birth = yes
+	}
+	1330.1.1 = { # Estimate
+		add_spouse = 81 # Azoun IV Obarskyr
+	}
+}
 900029 = {
 	name = Kurrurdan
 	

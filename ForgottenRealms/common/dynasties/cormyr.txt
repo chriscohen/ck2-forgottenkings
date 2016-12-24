@@ -3,9 +3,17 @@
 
 201000 = {
 	name = Obarskyr
-	culture = irish
+	culture = cormyrean
 }
 201001 = {
 	name = Turcassan
-	culture = irish
+	culture = cormyrean
+}
+201002 = {
+	name = Cormaeril
+	culture = cormyrean
+}
+201003 = {
+	name = Bleth
+	culture = cormyrean
 }

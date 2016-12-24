@@ -1285,10 +1285,100 @@
 	1246.1.1 = {
 		birth = yes
 	}
+	1275.1.1 = {
+		give_nickname = nick_the_rebel_prince
+	}
 	1286.1.1 = {
 		death = {
 			death_reason = death_murder
-			#killer = 
+			killer = 1303 # Jorunhast
 		}
+	}
+}
+80 = {
+	name = Rhiigaerd # Rhiigaerd II
+	dynasty = 201000
+	father = 78 # Azoun III
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1269.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		death = yes
+	}
+}
+81 = {
+	name = Azoun # Azoun IV
+	dynasty = 201000
+	father = 80 # Rhiigaerd II
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1307.1.1 = {
+		birth = yes
+	}
+	1330.1.1 = {
+		add_spouse = 900001 # Filfaeril Selzair
+	}
+	1371.1.1 = {
+		death = yes
+	}
+}
+82 = {
+	name = Tanalasta
+	dynasty = 201000
+	father = 81 # Azoun IV
+	mother = 900001 # Filfaeril
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1370.1.1 = {
+		add_spouse = 1500 # Rowen Cormaeril
+	}
+	1371.10.1 = { # Estimated month and day
+		death = yes
+	}
+}
+83 = {
+	name = Alusair Nacacia
+	dynasty = 201000
+	father = 81 # Azoun IV
+	mother = 900001 # Filfaeril
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1335.1.1 = {
+		birth = yes
+	}
+	1371.10.1 = {
+		give_nickname = nick_the_steel_regent
+	}
+	1384.1.1 = { # Disappeared, but whatever.
+		death = yes
+	}
+}
+84 = {
+	name = Azoun # Azoun V
+	dynasty = 201000
+	father = 1500 # Rowen Cormaeril
+	mother = 82 # Tanalasta
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1371.1.1 = {
+		birth = yes
+	}
+	1449.1.1 = {
+		death = yes
 	}
 }

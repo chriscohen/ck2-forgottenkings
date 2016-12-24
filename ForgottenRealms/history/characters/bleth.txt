@@ -1,0 +1,18 @@
+# CORMAERIL
+# Cormyrean house
+# Range = 1600-1699
+
+1600 = {
+	name = Aunadar
+	dynasty = 201003
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1320.1.1 = { # Estimate
+		birth = yes
+	}
+	1369.11.1 = { # Estimated month and day
+		death = yes
+	}
+}
