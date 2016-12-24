@@ -1348,7 +1348,7 @@
 	}
 }
 83 = {
-	name = Alusair Nacacia
+	name = "Alusair Nacacia"
 	dynasty = 201000
 	father = 81 # Azoun IV
 	mother = 900001 # Filfaeril

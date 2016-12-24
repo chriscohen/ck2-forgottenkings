@@ -2,7 +2,7 @@
 # Range = 900000-999999
 
 900001 = {
-	name = Filfaeril Selzair
+	name = "Filfaeril Selzair"
 	
 	religion = catholic
 	culture = cormyrean
