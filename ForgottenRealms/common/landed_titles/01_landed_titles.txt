@@ -652,4 +652,108 @@ k_moonshae = {
 			}
 		}
 	}
+	d_norheim = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = {
+					province_id = 52
+					province_id = 53
+					province_id = 54
+					province_id = 55
+				} }
+			}
+		}
+		capital = 53 # Llorgh
+		
+		c_graygrunn = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_greystaad = {
+			}
+			b_rottesheim = {
+			}
+		}
+		c_llorgh = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_dalheim = {
+			}
+			b_daryns_rest = {
+			}
+		}
+		c_jotunspine = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_hammerstaad = {
+			}
+			b_seawolf = {
+			}
+		}
+		c_canthrell = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_threlloch = {
+			}
+		}
+	}
+	d_norland = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = {
+					province_id = 56
+					province_id = 57
+					province_id = 58
+					province_id = 59
+				} }
+			}
+		}
+		capital = 57 # Norland
+		
+		c_jotunhammer_mountains = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_gudbrandstad = {
+			}
+		}
+		c_norland = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_rogarsheim = {
+			}
+		}
+		c_north_cape = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_arfinnsheim = {
+			}
+			b_arndthergom = {
+			}
+		}
+		c_grondsgrunn = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_sordal = {
+			}
+			b_sommersdal = {
+			}
+			b_follebu = {
+			}
+		}
+	}
 }

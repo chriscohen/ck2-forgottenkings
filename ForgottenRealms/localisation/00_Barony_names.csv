@@ -1,6 +1,10 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 b_arabel;Arabel;;;;;;;;;;;;;x
 b_arabel_adj;Arabellan;;;;;;;;;;;;;x
+b_arfinnsheim;Arfinnsheim;;;;;;;;;;;;;x
+b_arfinnsheim_adj;Arfinnsheimian;;;;;;;;;;;;;x
+b_arndthergom;Arndthergom;;;;;;;;;;;;;x
+b_arndthergom_adj;Arndthergomian;;;;;;;;;;;;;x
 b_barrets_quay;Barret’s Quay;;;;;;;;;;;;;x
 b_barrets_quay_adj;Barret’s Quayan;;;;;;;;;;;;;x
 b_blackstone;Blackstone;;;;;;;;;;;;;x
@@ -21,8 +25,12 @@ b_citadel_umbra;Citadel Umbra;;;;;;;;;;;;;x
 b_citadel_umbra_adj;Citadel Umbrian;;;;;;;;;;;;;x
 b_codscove;Codscove;;;;;;;;;;;;;x
 b_codscove_adj;Codscovian;;;;;;;;;;;;;x
+b_dalheim;Dalheim;;;;;;;;;;;;;x
+b_dalheim_adj;Dalheimian;;;;;;;;;;;;;x
 b_darkhorn_castle;Darkhorn Castle;;;;;;;;;;;;;x
 b_darkhorn_castle_adj;Darkhorn Castalian;;;;;;;;;;;;;x
+b_daryns_rest;Daryn’s Rest;;;;;;;;;;;;;x
+b_daryns_rest_adj;Darynian;;;;;;;;;;;;;x
 b_deepglen;Deepglen;;;;;;;;;;;;;x
 b_deepglen_adj;Deepglenian;;;;;;;;;;;;;x
 b_dennik;Dennik;;;;;;;;;;;;;x
@@ -35,14 +43,22 @@ b_elyssyrr;Elyssyrr;;;;;;;;;;;;;x
 b_elyssyrr_adj;Elyssyrran;;;;;;;;;;;;;x
 b_fenton;Fenton;;;;;;;;;;;;;x
 b_fenton_adj;Fentonian;;;;;;;;;;;;;x
+b_follebu;Follebu;;;;;;;;;;;;;x
+b_follebu_adj;Follebian;;;;;;;;;;;;;x
 b_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 b_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
 b_graystone;Graystone;;;;;;;;;;;;;x
 b_graystone_adj;Graystoner;;;;;;;;;;;;;x
+b_greystaad;Greystaad;;;;;;;;;;;;;x
+b_greystaad_adj;Greystaadian;;;;;;;;;;;;;x
 b_grimstad;Grimstad;;;;;;;;;;;;;x
 b_grimstad_adj;Grimstadian;;;;;;;;;;;;;x
+b_gudbrandstad;Gudbrandstad;;;;;;;;;;;;;x
+b_gudbrandstad_adj;Gudbrandstadian;;;;;;;;;;;;;x
 b_gwarch;Gwarch;;;;;;;;;;;;;x
 b_gwarch_adj;Gwarchan;;;;;;;;;;;;;x
+b_hammerstaad;Hammerstaad;;;;;;;;;;;;;x
+b_hammerstaad_adj;Hammerstaadian;;;;;;;;;;;;;x
 b_highhome;Highhome;;;;;;;;;;;;;x
 b_highhome_adj;Highhomer;;;;;;;;;;;;;x
 b_highport;Highport;;;;;;;;;;;;;x
@@ -75,8 +91,18 @@ b_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 b_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 b_ramshorn;Ramshorn;;;;;;;;;;;;;x
 b_ramshorn_adj;Ramshorner;;;;;;;;;;;;;x
+b_rogarsheim;Rogarsheim;;;;;;;;;;;;;x
+b_rogarsheim_adj;Rogarsheimian;;;;;;;;;;;;;x
+b_rottesheim;Rottesheim;;;;;;;;;;;;;x
+b_rottesheim_adj;Rottesheimian;;;;;;;;;;;;;x
+b_seawolf;Seawolf;;;;;;;;;;;;;x
+b_seawolf_adj;Seawolverine;;;;;;;;;;;;;x
 b_shee_pool;Shee Pool;;;;;;;;;;;;;x
 b_shee_pool_adj;Shee Pooler;;;;;;;;;;;;;x
+b_sommersdal;Sommersdal;;;;;;;;;;;;;x
+b_sommersdal_adj;Sommersdallan;;;;;;;;;;;;;x
+b_sordal;Sordal;;;;;;;;;;;;;x
+b_sordal;Sordallan;;;;;;;;;;;;;x
 b_stagford;Stagford;;;;;;;;;;;;;x
 b_stagford_adj;Stagforder;;;;;;;;;;;;;x
 b_stirgewick;Stirgewick;;;;;;;;;;;;;x
@@ -87,6 +113,8 @@ b_sunderstaad;Sunderstaad;;;;;;;;;;;;;x
 b_sunderstaad_adj;Sunderstaader;;;;;;;;;;;;;x
 b_thorndyke;Thorndyke;;;;;;;;;;;;;x
 b_thorndyke_adj;Thorndykean;;;;;;;;;;;;;x
+b_threlloch;Threlloch;;;;;;;;;;;;;x
+b_threlloch_adj;Threllochian;;;;;;;;;;;;;x
 b_trondhelm;Trondhelm;;;;;;;;;;;;;x
 b_trondhelm_adj;Trondhelmer;;;;;;;;;;;;;x
 b_ventris;Ventris;;;;;;;;;;;;;x

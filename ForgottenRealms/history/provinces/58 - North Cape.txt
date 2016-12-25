@@ -1,0 +1,15 @@
+# c_north_cape
+
+# County Title
+title = c_north_cape
+
+# Settlements
+max_settlements = 2
+
+b_arfinnsheim = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

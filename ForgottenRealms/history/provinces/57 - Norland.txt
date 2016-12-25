@@ -1,0 +1,15 @@
+# c_norland
+
+# County Title
+title = c_norland
+
+# Settlements
+max_settlements = 1
+
+b_rogarsheim = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

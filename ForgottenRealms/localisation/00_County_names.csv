@@ -9,6 +9,8 @@ c_caftenor;Caftenor;;;;;;;;;;;;;x
 c_caftenor_adj;Caftenoran;;;;;;;;;;;;;x
 c_cambro_mountains;Cambro Mountains;;;;;;;;;;;;;x
 c_cambro_mountains_adj;Cambro Mountainer;;;;;;;;;;;;;x
+c_canthrell;Canthrell;;;;;;;;;;;;;x
+c_canthrell_adj;Canthrellian;;;;;;;;;;;;;x
 c_codsbay;Codsbay;;;;;;;;;;;;;x
 c_codsbay_adj;Codsbayan;;;;;;;;;;;;;x
 c_cormyr;Cormyr;Cormyr;Cormyr;;Cormyr;;;;;;;;;x
@@ -27,6 +29,10 @@ c_fairheight;Fairheight;;;;;;;;;;;;;x
 c_fairheight_adj;Fairheighter;;;;;;;;;;;;;x
 c_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 c_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
+c_graygrunn;Graygrunn;;;;;;;;;;;;;x
+c_graygrunn_adj;Graygrunnian;;;;;;;;;;;;;x
+c_grondsgrunn;Grondsgrunn;;;;;;;;;;;;;x
+c_grondsgrunn_adj;Grondsgrunnian;;;;;;;;;;;;;x
 c_gwynneth_highlands;Gwynneth Highlands;;;;;;;;;;;;;x
 c_gwynneth_highlands_adj;Gwynneth Highlander;;;;;;;;;;;;;x
 c_hermits_woods;Hermit's Woods;Hermit's Woods;Hermit's Woods;;Hermit's Woods;;;;;;;;;x
@@ -39,6 +45,10 @@ c_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 c_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
 c_jacaman;Jacaman;;;;;;;;;;;;;x
 c_jacaman_adj;Jacamanian;;;;;;;;;;;;;x
+c_jotunhammer_mountains;Jotunhammer Mountains;;;;;;;;;;;;;x
+c_jotunhammer_mountains_adj;Jotunhammerian;;;;;;;;;;;;;x
+c_jotunspine;Jotunspine;;;;;;;;;;;;;x
+c_jotunspine_adj;Jotunspinian;;;;;;;;;;;;;x
 c_kimball;Kimball;;;;;;;;;;;;;x
 c_kimball_adj;Kimballan;;;;;;;;;;;;;x
 c_kingsbay;Kingsbay;;;;;;;;;;;;;x
@@ -47,12 +57,18 @@ c_kings_forest;King's Forest;King's Forest;King's Forest;;King's Forest;;;;;;;;;
 c_kings_forest_adj;King's Forester;;;;;;;;;;;;;x
 c_lisburnt_mountains;Lisburnt Mountains;;;;;;;;;;;;;x
 c_lisburnt_mountains_adj;Lisburnt Mountainer;;;;;;;;;;;;;x
+c_llorgh;Llorgh;;;;;;;;;;;;;x
+c_llorgh_adj;Llorghan;;;;;;;;;;;;;x
 c_marsember;Marsember;;;;;;;;;;;;;x
 c_marsember_adj;Marsembian;;;;;;;;;;;;;x
 c_myrloch_vale;Myrloch Vale;;;;;;;;;;;;;x
 c_myrloch_vale_adj;Myrloch Valen;;;;;;;;;;;;;x
+c_norland;Norland;;;;;;;;;;;;;x
+c_norland_adj;Norlander;;;;;;;;;;;;;x
 c_north_alaron;North Alaron;;;;;;;;;;;;;x
 c_north_alaron_adj;North Alaronian;;;;;;;;;;;;;x
+c_north_cape;North Cape;;;;;;;;;;;;;x
+c_north_cape_adj;North Caper;;;;;;;;;;;;;x
 c_pandira;Pandira;;;;;;;;;;;;;x
 c_pandira_adj;Pandiran;;;;;;;;;;;;;x
 c_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x

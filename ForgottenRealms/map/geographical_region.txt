@@ -13,7 +13,10 @@
 
 world_faerun_cormyr = {
 	duchies = {
-		d_cormyr d_east_cormyr d_the_stonelands d_the_stormhorns
+		d_cormyr
+		d_east_cormyr
+		d_the_stonelands
+		d_the_stormhorns
 	}
 }
 world_faerun_moonshae = {
@@ -23,6 +26,8 @@ world_faerun_moonshae = {
 		d_gnarhelm
 		d_korinn
 		d_myrloch
+		d_norheim
+		d_norland
 		d_oman
 		d_winterglen		
 	}

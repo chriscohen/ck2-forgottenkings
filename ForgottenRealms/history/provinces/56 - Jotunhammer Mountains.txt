@@ -1,0 +1,15 @@
+# c_jotunhammer_mountains
+
+# County Title
+title = c_jotunhammer_mountains
+
+# Settlements
+max_settlements = 1
+
+b_gudbrandstad = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

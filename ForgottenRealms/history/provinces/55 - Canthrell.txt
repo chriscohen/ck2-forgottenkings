@@ -1,0 +1,15 @@
+# c_canthrell
+
+# County Title
+title = c_canthrell
+
+# Settlements
+max_settlements = 1
+
+b_threlloch = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

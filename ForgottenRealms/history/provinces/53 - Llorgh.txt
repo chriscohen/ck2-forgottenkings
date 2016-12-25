@@ -1,0 +1,15 @@
+# c_llorgh
+
+# County Title
+title = c_llorgh
+
+# Settlements
+max_settlements = 2
+
+b_dalheim = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History
