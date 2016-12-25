@@ -3,6 +3,7 @@
 
 900001 = {
 	name = "Filfaeril Selzair"
+	female = yes
 	
 	religion = catholic
 	culture = cormyrean
@@ -12,6 +13,79 @@
 	}
 	1330.1.1 = { # Estimate
 		add_spouse = 81 # Azoun IV Obarskyr
+	}
+}
+900002 = {
+	name = Unknown
+	female = yes
+	
+	religion = catholic
+	culture = ffolk
+	
+	1310.1.1 = { # Estimate
+		birth = yes
+	}
+	1325.1.1 = {
+		add_spouse = 1701 # Byron Kendrick
+	}
+	1329.1.1 = {
+		death = yes
+	}
+}
+900003 = {
+	name = Abigail
+	female = yes
+	
+	religion = catholic
+	culture = ffolk
+	
+	470.1.1 = { # Estimate
+		birth = yes
+	}
+	485.1.1 = { # Estimate
+		add_spouse = 2115 # Carrig III Cymrych
+	}
+	505.1.1 = { # Estimate
+		death = yes
+	}
+}
+900004 = {
+	name = Morgan
+	female = yes
+	
+	religion = catholic
+	culture = ffolk
+	
+	259.1.1 = { # Estimate
+		birth = yes
+	}
+	295.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 2140 # Ketheryll Cymrych
+		}
+	}
+}
+900005 = {
+	name = Unnamed
+	female = yes
+	
+	religion = catholic
+	culture = ffolk
+	
+	660.1.1 = { # Estimate
+		birth = yes
+	}
+	680.1.1 = {
+		add_spouse = 1730 # Wrynn Kendrick
+	}
+	728.1.1 = {
+		trait = has_bubonic_plague
+	}
+	728.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
 	}
 }
 900029 = {

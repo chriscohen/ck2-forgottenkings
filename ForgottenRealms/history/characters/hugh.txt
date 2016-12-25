@@ -1,0 +1,51 @@
+# HUGH
+# Range = 1900-1999
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+1900 = {
+	name = Callidyrr
+	dynasty = 205002
+	
+	religion = catholic
+	culture = ffolk
+	
+	161.1.1 = {
+		birth = yes
+	}
+	193.1.1 = {
+		death = yes
+	}
+}
+1901 = {
+	name = Cymrych
+	dynasty = 205002
+	father = 1900 # Callidyrr
+	
+	religion = catholic
+	culture = ffolk
+	
+	171.1.1  = {
+		# Bit dubious, father would have been 10 years old
+		birth = yes
+	}
+	250.1.1 = {
+		death = yes
+	}
+}
+1902 = {
+	name = Unnamed # Source describes only "second son"
+	dynasty = 205002
+	father = 1900 # Callidyrr
+	
+	religion = catholic
+	culture = ffolk
+	
+	172.1.1 = { # Estimate
+		birth = yes
+	}
+	230.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -1,0 +1,26 @@
+# HORSTALL
+# Range = 2300-2399
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2300 = {
+	name = Coltyn
+	dynasty = 205006
+	
+	religion = catholic
+	culture = ffolk
+	
+	1099.1.1 = { # Estimate
+		birth = yes
+	}
+	1115.1.1 = {
+		trait = drunkard
+	}
+	1116.1.1 = {
+		add_spouse = 1752 # Myrfana Kendrick
+	}
+	1136.1.1 = {
+		death = yes
+	}
+}

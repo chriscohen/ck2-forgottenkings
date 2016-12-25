@@ -1,0 +1,60 @@
+# GWYNNETH
+# Range = 1800-1899
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+1800 = {
+	name = Gwynneth
+	dynasty = 205001
+	female = yes
+	
+	religion = catholic
+	culture = ffolk
+	
+	109.1.1 = {
+		birth = yes
+	}
+	129.1.1 = {
+		add_spouse = 1801 # Taylor
+	}
+	140.1.1 = {
+		give_nickname = nick_the_first_mother
+	}
+	141.1.1 = {
+		death = yes
+	}
+}
+1801 = {
+	name = Taylor
+	dynasty = 205001
+	
+	religion = catholic
+	culture = ffolk
+	
+	115.1.1 = {
+		birth = yes
+	}
+	129.1.1 = {
+		add_spouse = 1800 # Gwynneth
+	}
+	144.1.1 = {
+		death = yes
+	}
+}
+1802 = {
+	name = Deric
+	dynasty = 205001
+	father = 1801 # Taylor
+	mother = 1800 # Gwynneth
+	
+	religion = catholic
+	culture = ffolk
+	
+	130.1.1 = {
+		birth = yes
+	}
+	171.1.1 = {
+		death = yes
+	}
+}

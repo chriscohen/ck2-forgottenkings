@@ -1,0 +1,31 @@
+# FFOLK (MOONSHAES)
+# Range = 205000-205999
+
+205000 = {
+	name = Kendrick
+	culture = ffolk
+}
+205001 = {
+	name = Gwynneth # Best available name
+	culture = ffolk
+}
+205002 = {
+	name = Hugh
+	culture = ffolk
+}
+205003 = {
+	name = Riker
+	culture = ffolk
+}
+205004 = {
+	name = Cymrych
+	culture = ffolk
+}
+205005 = {
+	name = Kincaid
+	culture = ffolk
+}
+205006 = {
+	name = Horstall
+	culture = ffolk
+}

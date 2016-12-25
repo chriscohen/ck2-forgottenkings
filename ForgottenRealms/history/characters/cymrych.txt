@@ -1,0 +1,683 @@
+# CYMRYCH
+# Range = 2100-2199
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2100 = {
+	name = Warren # Warren I
+	dynasty = 205004
+	father = 1901 # Cymrych Hugh
+	
+	religion = catholic
+	culture = ffolk
+	
+	237.1.1 = {
+		birth = yes
+	}
+	259.1.1 = {
+		death = yes
+	}
+}
+2101 = {
+	name = Tamara
+	female = yes
+	dynasty = 205004
+	father = 1901 # Cymrych Hugh
+	
+	religion = catholic
+	culture = ffolk
+	
+	238.1.1 = {
+		birth = yes
+	}
+	263.1.1 = {
+		death = yes
+	}
+}
+2102 = {
+	name = Carrig # Carrig I
+	dynasty = 205004
+	father = 1901 # Cymrych Hugh
+	
+	religion = catholic
+	culture = ffolk
+	
+	244.1.1 = {
+		birth = yes
+	}
+	287.1.1 = {
+		death = yes
+	}
+}
+2103 = {
+	name = Gwylloch
+	dynasty = 205004
+	father = 2102 # Carrig I
+	
+	religion = catholic
+	culture = ffolk
+	
+	265.1.1 = {
+		birth = yes
+	}
+	299.1.1 = {
+		death = yes
+	}
+}
+2104 = {
+	name = Gorham
+	dynasty = 205004
+	father = 2102 # Carrig I
+	
+	religion = catholic
+	culture = ffolk
+	
+	270.1.1 = {
+		birth = yes
+	}
+	322.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 2105 # Markus
+		}
+	}
+}
+2105 = {
+	name = Markus
+	dynasty = 205004
+	father = 2103 # Gwylloch
+	
+	religion = catholic
+	culture = ffolk
+	
+	288.1.1 = {
+		birth = yes
+	}
+	333.1.1 = {
+		death = yes
+	}
+}
+2106 = {
+	name = Unnamed # Son of Warren I, source doesn't name, but needed
+	dynasty = 205004
+	father = 2100 # Warren I
+	
+	religion = catholic
+	culture = ffolk
+	
+	267.1.1 = { # Estimate
+		birth = yes
+	}
+	307.1.1 = { # Estimate
+		death = yes
+	}
+}
+2107 = {
+	name = Cameron # Grandson of Warren I
+	dynasty = 205004
+	father = 2106 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	291.1.1 = {
+		birth = yes
+	}
+	311.1.1 = {
+		give_nickname = nick_the_wise
+	}
+	370.1.1 = {
+		death = yes
+	}
+}
+2108 = {
+	name = Bran
+	dynasty = 205004
+	father = 2107 # Cameron
+	
+	religion = catholic
+	culture = ffolk
+	
+	319.1.1 = {
+		birth = yes
+	}
+	378.1.1 = {
+		death = yes
+	}
+}
+2109 = {
+	name = Conall
+	dynasty = 205004
+	father = 2108 # Bran
+	
+	religion = catholic
+	culture = ffolk
+	
+	340.1.1 = {
+		birth = yes
+	}
+	389.1.1 = {
+		death = yes
+	}
+}
+2110 = {
+	name = Lann
+	dynasty = 205004
+	father = 2109 # Conall
+	
+	religion = catholic
+	culture = ffolk
+	
+	358.1.1 = {
+		birth = yes
+	}
+	420.1.1 = {
+		death = yes
+	}
+}
+2111 = {
+	name = Carrig # Carrig II
+	dynasty = 205004
+	father = 2110 # Lann
+	
+	religion = catholic
+	culture = ffolk
+	
+	378.1.1 = {
+		birth = yes
+	}
+	431.1.1 = {
+		trait = has_bubonic_plague
+	}
+	431.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2112 = {
+	name = Kemble
+	dynasty = 205004
+	father = 2111 # Carrig II
+	
+	religion = catholic
+	culture = ffolk
+	
+	400.1.1 = {
+		birth = yes
+	}
+	467.1.1 = {
+		give_nickname = nick_the_great_father
+	}
+	482.1.1 = {
+		death = yes
+	}
+}
+2113 = {
+	name = Tristram
+	dynasty = 205004
+	father = 2112 # Kemble
+	
+	religion = catholic
+	culture = ffolk
+	
+	423.1.1 = {
+		birth = yes
+	}
+	483.1.1 = {
+		death = yes
+	}
+}
+2114 = {
+	name = Tuathal
+	dynasty = 205004
+	father = 2113 # Tristram
+	
+	religion = catholic
+	culture = ffolk
+	
+	444.1.1 = {
+		birth = yes
+	}
+	499.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+2115 = {
+	name = Carrig # Carrig III
+	dynasty = 205004
+	father = 2114 # Tuathal
+	
+	religion = catholic
+	culture = ffolk
+	
+	470.1.1 = {
+		birth = yes
+	}
+	485.1.1 = {
+		add_spouse = 900003 # Abigail
+	}
+	500.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+2116 = {
+	name = Colin
+	dynasty = 205004
+	father = 2115 # Carrig III
+	
+	religion = catholic
+	culture = ffolk
+	
+	491.1.1 = {
+		birth = yes
+	}
+	549.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 2117 # Gordon
+		}
+	}
+}
+2117 = {
+	name = Gordon
+	dynasty = 205004
+	father = 2116 # Colin
+	
+	religion = catholic
+	culture = ffolk
+	
+	514.1.1 = {
+		birth = yes
+	}
+	569.1.1 = {
+		trait = ill
+	}
+	569.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2118 = {
+	name = Miranda
+	dynasty = 205004
+	father = 2117 # Gordon
+	
+	religion = catholic
+	culture = ffolk
+	
+	543.1.1 = {
+		birth = yes
+	}
+	589.1.1 = {
+		give_nickname = nick_the_fair
+	}
+	609.1.1 = {
+		death = yes
+	}
+}
+2119 = {
+	name = Embro # Embro I
+	dynasty = 205004
+	mother = 2118 # Miranda
+	
+	religion = catholic
+	culture = ffolk
+	
+	559.1.1 = {
+		birth = yes
+	}
+	614.1.1 = {
+		death = {
+			death_reason = death_accident
+		}
+	}
+}
+2120 = {
+	name = Embro # Embro II
+	dynasty = 205004
+	father = 2119 # Embro I
+	
+	religion = catholic
+	culture = ffolk
+	
+	577.1.1 = {
+		birth = yes
+	}
+	632.1.1 = {
+		death = yes
+	}
+}
+2121 = {
+	name = Alec # Alec I
+	dynasty = 205004
+	father = 2120 # Embro II
+	
+	religion = catholic
+	culture = ffolk
+	
+	597.1.1 = {
+		birth = yes
+	}
+	640.1.1 = {
+		death = yes
+	}
+}
+2122 = {
+	name = Rowland
+	dynasty = 205004
+	father = 2121 # Alec I
+	
+	religion = catholic
+	culture = ffolk
+	
+	626.1.1 = {
+		birth = yes
+	}
+	640.1.1 = {
+		give_nickname = nick_the_boy_king
+	}
+	642.1.1 = {
+		trait = ill
+	}
+	642.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2123 = {
+	name = Samuel
+	dynasty = 205004
+	father = 2120 # Embro II
+	
+	religion = catholic
+	culture = ffolk
+	
+	601.1.1 = {
+		birth = yes
+	}
+	651.1.1 = {
+		death = yes
+	}
+}
+2124 = {
+	name = Warren # Warren II
+	dynasty = 205004
+	father = 2123 # Samuel
+	
+	religion = catholic
+	culture = ffolk
+	
+	618.1.1 = {
+		birth = yes
+	}
+	674.1.1 = {
+		death = yes
+	}
+}
+2125 = {
+	name = Tobert
+	dynasty = 205004
+	father = 2124 # Warren II
+	
+	religion = catholic
+	culture = ffolk
+	
+	640.1.1 = {
+		birth = yes
+	}
+	679.1.1 = {	
+		death = yes
+	}
+}
+2126 = {
+	name = Ernest
+	dynasty = 205004
+	father = 2125 # Tobert
+	
+	religion = catholic
+	culture = ffolk
+	
+	664.1.1 = {
+		birth = yes
+	}
+	731.1.1 = {
+		death = yes
+	}
+}
+2127 = {
+	name = Carthus
+	dynasty = 205004
+	father = 2126 # Ernest
+	
+	religion = catholic
+	culture = ffolk
+	
+	684.1.1 = {
+		birth = yes
+	}
+	745.1.1 = {
+		death = yes
+	}
+}
+2128 = {
+	name = Alec # Alec II
+	dynasty = 205004
+	father = 2126 # Ernest
+	
+	religion = catholic
+	culture = ffolk
+	
+	685.1.1 = {
+		birth = yes
+	}
+	738.1.1 = {
+		trait = has_bubonic_plague
+	}
+	738.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2129 = {
+	name = Pendar
+	dynasty = 205004
+	father = 2128 # Alec II
+	
+	religion = catholic
+	culture = ffolk
+	
+	708.1.1 = {
+		birth = yes
+	}
+	749.1.1 = {
+		death = {
+			death_reason = death_accident
+		}
+	}
+}
+2130 = {
+	name = Declan
+	dynasty = 205004
+	father = 2129 # Pendar
+	
+	religion = catholic
+	culture = ffolk
+	
+	725.1.1 = {
+		birth = yes
+	}
+	762.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 2131 # Ciaran
+		}
+	}
+}
+2131 = {
+	name = Ciaran
+	dynasty = 205004
+	father = 2130 # Declan
+	
+	religion = catholic
+	culture = ffolk
+	
+	744.1.1 = {
+		birth = yes
+	}
+	773.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+2132 = {
+	name = Unnamed # Needed to be brother of Pendar
+	dynasty = 205004
+	father = 2128 # Alec II
+	
+	religion = catholic
+	culture = ffolk
+	
+	709.1.1 = {
+		birth = yes
+	}
+	750.1.1 = {
+		death = yes
+	}
+}
+2133 = {
+	name = Ardan # Nephew of Pendar
+	dynasty = 205004
+	father = 2132 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	748.1.1 = {
+		birth = yes
+	}
+	796.1.1 = {
+		death = yes
+	}
+}
+2134 = {
+	name = Byron # Byron I
+	dynasty = 205004
+	father = 2133 # Ardan
+	
+	religion = catholic
+	culture = ffolk
+	
+	770.1.1 = {
+		birth = yes
+	}
+	826.1.1 = {
+		death = yes
+	}
+}
+2135 = {
+	name = Kevan
+	dynasty = 205004
+	father = 2134 # Byron I
+	
+	religion = catholic
+	culture = ffolk
+	
+	789.1.1 = {
+		birth = yes
+	}
+	850.1.1 = {
+		death = yes
+	}
+}
+2136 = {
+	name = Dolan
+	dynasty = 205004
+	father = 2135 # Kevan
+	
+	religion = catholic
+	culture = ffolk
+	
+	821.1.1 = {
+		birth = yes
+	}
+	852.1.1 = {
+		death = yes
+	}
+}
+2137 = {
+	name = Conn
+	dynasty = 205004
+	father = 2136 # Dolan
+	
+	religion = catholic
+	culture = ffolk
+	
+	837.1.1 = {
+		birth = yes
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+2138 = {
+	name = Byron # Byron II
+	dynasty = 205004
+	father = 2137 # Conn
+	
+	religion = catholic
+	culture = ffolk
+	
+	855.1.1 = {
+		birth = yes
+	}
+	902.1.1 = {
+		trait = ill
+	}
+	902.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2139 = {
+	name = Tanner
+	dynasty = 205004
+	father = 2138 # Byron II
+	
+	religion = catholic
+	culture = ffolk
+	
+	879.1.1 = {
+		birth = yes
+	}
+	944.1.1 = {
+		death = yes
+	}
+}
+2140 = {
+	name = Ketheryll
+	dynasty = 205004
+	father = 2103 # Gwylloch
+	
+	religion = catholic
+	culture = ffolk
+	
+	275.1.1 = { # Estimate
+		birth = yes
+	}
+	299.1.1 = {
+		death = {
+			death_reason = death_suicide
+		}
+	}
+}

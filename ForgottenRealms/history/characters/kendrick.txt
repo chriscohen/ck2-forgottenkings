@@ -1,0 +1,987 @@
+# KENDRICK
+# Range = 1700-1799
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+1700 = {
+	name = Tristan
+	dynasty = 205000
+	father = 1701 # Bryon
+	
+	religion = catholic
+	culture = ffolk
+	
+	1328.1.1 = {
+		birth = yes
+	}
+}
+1701 = {
+	name = Bryon
+	dynasty = 205000
+	father = 1758 # Brystan II
+	
+	religion = catholic
+	culture = ffolk
+	
+	1300.1.1 = {
+		birth = yes
+	}
+	1325.1.1 = {
+		add_spouse = 900002 # Unnamed wife
+	}
+	1329.1.1 = {
+		trait = depressed # Death of wife
+	}
+	1345.1.1 = {
+		trait = ill
+	}
+	1347.1.1 = {
+		death = yes
+	}
+}
+1702 = {
+	name = Kendrick
+	dynasty = 205000
+	father = 1902 # Unnamed "second son" of Callidyrr Hugh
+	
+	religion = catholic
+	culture = ffolk
+	
+	224.1.1 = {
+		birth = yes
+	}
+	289.1.1 = {
+		death = yes
+	}
+}
+1703 = {
+	name = Durnhal
+	dynasty = 205000
+	father = 1702 # Kendrick
+	
+	religion = catholic
+	culture = ffolk
+	
+	259.1.1 = {
+		birth = yes
+	}
+	295.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 2140 # Ketheryll Cymrych
+		}
+	}
+}
+1704 = {
+	name = Dhryden
+	dynasty = 205000
+	father = 1703 # Durnhal, not stated in source, but seems legit
+	
+	religion = catholic
+	culture = ffolk
+	
+	279.1.1 = {
+		birth = yes
+	}
+	302.1.1 = {
+		trait = ill
+	}
+	302.1.11 = {
+		death = {
+			death_reason = death_trait # Food poisoning
+		}
+	}
+}
+1705 = {
+	name = Rhydian
+	dynasty = 205000
+	father = 1703 # Durnhal
+	
+	religion = catholic
+	culture = ffolk
+	
+	281.1.1 = {
+		birth = yes
+	}
+	335.1.1 = {
+		death = yes
+	}
+}
+1706 = {
+	name = Unnamed
+	dynasty = 205000
+	father = 1705 # Rhydian
+	
+	religion = catholic
+	culture = ffolk
+	
+	310.1.1 = { # Estimate
+		birth = yes
+	}
+	320.1.1 = {
+		trait = ill
+	}
+	320.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1707 = {
+	name = Unnamed
+	dynasty = 205000
+	father = 1705 # Rhydian
+	
+	religion = catholic
+	culture = ffolk
+	
+	311.1.1 = { # Estimate
+		birth = yes
+	}
+	327.1.1 = {
+		trait = ill
+	}
+	327.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1708 = {
+	name = Unnamed
+	dynasty = 205000
+	father = 1705 # Rhydian
+	
+	religion = catholic
+	culture = ffolk
+	
+	312.1.1 = { # Estimate
+		birth = yes
+	}
+	329.1.1 = {
+		trait = ill
+	}
+	329.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1709 = {
+	name = Stryllan
+	dynasty = 205000
+	father = 1705 # Rhydian
+	
+	religion = catholic
+	culture = ffolk
+	
+	313.1.1 = {
+		birth = yes
+	}
+	360.1.1 = {
+		trait = ill
+	}
+	360.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1710 = {
+	name = Ryndal
+	dynasty = 205000
+	father = 1709 # Stryllan
+	
+	religion = catholic
+	culture = ffolk
+	
+	339.1.1 = {
+		birth = yes
+	}
+	349.1.1 = {
+		trait = infirm # Described as "sickly" by source
+	}
+	363.1.1 = {
+		death = yes
+	}
+}
+1711 = {
+	name = Colwyn
+	dynasty = 205000
+	father = 1705 # Rhydian
+	
+	religion = catholic
+	culture = ffolk
+	
+	319.1.1 = {
+		birth = yes
+	}
+	375.1.1 = {
+		trait = ill
+	}
+	375.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1712 = {
+	name = Unnamed
+	dynasty = 205000
+	father = 1711 # Colwyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	346.1.1 = {
+		birth = yes
+	}
+	352.1.1 = {
+		death = yes
+	}
+}
+1713 = {
+	name = Corwyn
+	dynasty = 205000
+	father = 1711 # Colwyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	347.1.1 = {
+		birth = yes
+	}
+	395.1.1 = {
+		trait = infirm # Suffered a head injury
+	}
+	398.1.1 = { # Estimate
+		death = yes
+	}
+}
+1714 = {
+	name = Conrayd
+	dynasty = 205000
+	father = 1713 # Corwyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	373.1.1 = {
+		birth = yes
+	}
+	402.1.1 = {
+		death = yes
+	}
+}
+1715 = {
+	name = Kryllen
+	dynasty = 205000
+	father = 1714 # Conrayd
+	
+	religion = catholic
+	culture = ffolk
+	
+	400.1.1 = {
+		birth = yes
+	}
+	469.1.1 = {
+		death = yes
+	}
+}
+1716 = {
+	name = Glynn
+	dynasty = 205000
+	father = 1715 # Kryllen
+	
+	religion = catholic
+	culture = ffolk
+	
+	429.1.1 = {
+		birth = yes
+	}
+	479.1.1 = {
+		death = yes
+	}
+}
+1717 = {
+	name = Garwyn
+	dynasty = 205000
+	father = 1716 # Glynn
+	
+	religion = catholic
+	culture = ffolk
+	
+	451.1.1 = {
+		birth = yes
+	}
+	502.1.1 = {
+		death = yes
+	}
+}
+1718 = {
+	name = Ballard
+	dynasty = 205000
+	father = 1717 # Garwyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	482.1.1 = {
+		birth = yes
+	}
+	526.1.1 = {
+		death = {
+			death_reason = death_accident # Rock to the head!
+		}
+	}
+}
+1719 = {
+	name = Unnamed # Brother to Ballard
+	dynasty = 205000
+	father = 1717 # Garwyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	483.1.1 = { # Estimate
+		birth = yes
+	}
+	520.1.1 = { # Estimate
+		death = yes
+	}
+}
+1720 = {
+	name = Ballam # Nephew of Ballard
+	dynasty = 205000
+	father = 1719 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	503.1.1 = {
+		birth = yes
+	}
+	542.1.1 = {
+		death = yes
+	}
+}
+1721 = {
+	name = Roary
+	dynasty = 205000
+	father = 1720 # Ballam
+	
+	religion = catholic
+	culture = ffolk
+	
+	520.1.1 = {
+		birth = yes
+	}
+	570.1.1 = {
+		death = yes
+	}
+}
+1722 = {
+	name = Unnamed # Son of Roary
+	dynasty = 205000
+	father = 1721 # Roary
+	
+	religion = catholic
+	culture = ffolk
+	
+	535.1.1 = {
+		birth = yes
+	}
+	570.1.1 = {
+		death = yes
+	}
+}
+1723 = {
+	name = Boryld # Grandson of Roary
+	dynasty = 205000
+	father = 1722 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	551.1.1 = {
+		birth = yes
+	}
+	603.1.1 = {
+		death = yes
+	}
+}
+1724 = {
+	name = Styffan
+	dynasty = 205000
+	father = 1723 # Boryld, not in source, but assumed
+	
+	religion = catholic
+	culture = ffolk
+	
+	579.1.1 = {
+		birth = yes
+	}
+	621.1.1 = {
+		death = {
+			death_reason = death_accident # Lost at sea
+		}
+	}
+}
+1725 = {
+	name = Gwillian
+	dynasty = 205000
+	father = 1724 # Styffan
+	
+	religion = catholic
+	culture = ffolk
+	
+	599.1.1 = {
+		birth = yes
+	}
+	624.1.1 = {
+		death = yes
+	}
+}
+1726 = {
+	name = Diffayn
+	dynasty = 205000
+	father = 1723 # Boryld, not in source, but assumed
+	
+	religion = catholic
+	culture = ffolk
+	
+	584.1.1 = {
+		birth = yes
+	}
+	630.1.1 = {
+		death = yes
+	}
+}
+1727 = {
+	name = Dafyn
+	dynasty = 205000
+	father = 1726 # Diffayn
+	
+	religion = catholic
+	culture = ffolk
+	
+	611.1.1 = {
+		birth = yes
+	}
+	632.1.1 = {
+		death = yes
+	}
+}
+1728 = {
+	name = Lyndra
+	female = yes
+	dynasty = 205000
+	father = 1723 # Boryld, not in source, but assumed
+	
+	580.1.1 = {
+		birth = yes
+	}
+	649.1.1 = {
+		death = yes
+	}
+}
+1729 = {
+	name = Merfan
+	dynasty = 205000
+	mother = 1728 # Lyndra
+	
+	religion = catholic
+	culture = ffolk
+	
+	633.1.1 = {
+		birth = yes # Mother gave birth at 53, bit of a stretch!
+	}
+	661.1.1 = {
+		death = yes
+	}
+}
+1730 = {
+	name = Wrynn
+	dynasty = 205000
+	father = 1729 # Merfan
+	
+	religion = catholic
+	culture = ffolk
+	
+	660.1.1 = {
+		birth = yes
+	}
+	680.1.1 = {
+		add_spouse = 900005 # Unnamed wife
+	}
+	729.1.1 = {
+		death = yes
+	}
+}
+1731 = {
+	name = Wystan
+	dynasty = 205000
+	father = 1730 # Wrynn
+	mother = 900005 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	688.1.1 = {
+		birth = yes
+	}
+	739.1.1 = {
+		death = yes
+	}
+}
+1732 = {
+	name = Tannystan
+	dynasty = 205000
+	father = 1731 # Wystan
+	
+	religion = catholic
+	culture = ffolk
+	
+	705.1.1 = {
+		birth = yes
+	}
+	749.1.1 = {
+		death = {
+			death_reason = death_accident # Lost at sea
+		}
+	}
+}
+1733 = {
+	name = Tarkwyn
+	dynasty = 205000
+	father = 1732 # Tannystan
+	
+	religion = catholic
+	culture = ffolk
+	
+	723.1.1 = {
+		birth = yes
+	}
+	759.1.1 = {
+		death = yes
+	}
+}
+1734 = {
+	name = Torkwyl
+	dynasty = 205000
+	father = 1733 # Tarkwyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	740.1.1 = {
+		birth = yes
+	}
+	764.1.1 = {
+		death = yes
+	}
+}
+1735 = {
+	name = Tristayn
+	dynasty = 205000
+	father = 1732 # Tannystan
+	
+	religion = catholic
+	culture = ffolk
+	
+	729.1.1 = {
+		birth = yes
+	}
+	770.1.1 = {
+		trait = ill
+	}
+	770.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1736 = {
+	name = Krytan
+	dynasty = 205000
+	father = 1735 # Tristayn
+	
+	religion = catholic
+	culture = ffolk
+	
+	756.1.1 = {
+		birth = yes
+	}
+	781.1.1 = {
+		death = yes
+	}
+}
+1737 = {
+	name = Sertayln
+	dynasty = 205000
+	father = 1735 # Tristayn
+	
+	religion = catholic
+	culture = ffolk
+	
+	760.1.1 = {
+		birth = yes
+	}
+	801.1.1 = {
+		death = yes
+	}
+}
+1738 = {
+	name = Eryllam
+	dynasty = 205000
+	father = 1737 # Sertayln
+	
+	religion = catholic
+	culture = ffolk
+	
+	783.1.1 = {
+		birth = yes
+	}
+	837.1.1 = {
+		death = {
+			death_reason = death_accident # Slain in quarters by wolf
+		}
+	}
+}
+1739 = {
+	name = Erllan
+	dynasty = 205000
+	father = 1738 # Eryllam
+	
+	religion = catholic
+	culture = ffolk
+	
+	811.1.1 = {
+		birth = yes
+	}
+	853.1.1 = {
+		death = yes
+	}
+}
+1740 = {
+	name = Myrtaln
+	dynasty = 205000
+	father = 1739 # Erllan
+	
+	religion = catholic
+	culture = ffolk
+	
+	830.1.1 = {
+		birth = yes
+	}
+	877.1.1 = {
+		death = yes
+	}
+}
+1741 = {
+	name = Owyn
+	dynasty = 205000
+	father = 1740 # Myrtaln
+	
+	religion = catholic
+	culture = ffolk
+	
+	861.1.1 = {
+		birth = yes
+	}
+	899.1.1 = {
+		death = yes
+	}
+}
+1742 = {
+	name = Orweln
+	dynasty = 205000
+	father = 1741 # Owyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	882.1.1 = {
+		birth = yes
+	}
+	927.1.1 = {
+		death = yes
+	}
+}
+1743 = {
+	name = Storlln
+	dynasty = 205000
+	father = 1742 # Orweln
+	
+	religion = catholic
+	culture = ffolk
+	
+	903.1.1 = {
+		birth = yes
+	}
+	944.1.1 = {
+		trait = wounded
+	}
+	947.1.1 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1744 = {
+	name = Serylln
+	dynasty = 205000
+	father = 1743 # Storlln
+	
+	religion = catholic
+	culture = ffolk
+	
+	930.1.1 = {
+		birth = yes
+	}
+	1000.1.1 = {
+		trait = ill
+	}
+	1000.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1745 = {
+	name = Unnamed # Son of Serylln
+	dynasty = 205000
+	father = 1744 # Serylln
+	
+	religion = catholic
+	culture = ffolk
+	
+	950.1.1 = {
+		birth = yes
+	}
+	999.1.1 = {
+		death = yes
+	}
+}
+1746 = {
+	name = Martyn # Grandson of Serylln
+	dynasty = 205000
+	father = 1745 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	982.1.1 = {
+		birth = yes
+	}
+	1018.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1747 = {
+	name = Rhobyt # Brother of Martyn
+	dynasty = 205000
+	father = 1745 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	989.1.1 = {
+		birth = yes
+	}
+	1025.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1748 = {
+	name = Ryllard
+	dynasty = 205000
+	father = 1747 # Rhobyt
+	
+	religion = catholic
+	culture = ffolk
+	
+	1008.1.1 = {
+		birth = yes
+	}
+	1047.1.1 = {
+		trait = ill
+	}
+	1047.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+1749 = {
+	name = Powyl
+	dynasty = 205000
+	father = 1748 # Ryllard
+	
+	religion = catholic
+	culture = ffolk
+	
+	1024.1.1 = {
+		birth = yes
+	}
+	1050.1.1 = {
+		trait = wounded
+	}
+	1106.1.1 = {
+		death = yes
+	}
+}
+1750 = {
+	name = Unnamed # Son of Powyl
+	dynasty = 205000
+	father = 1749 # Powyl
+	
+	religion = catholic
+	culture = ffolk
+	
+	1044.1.1 = { # Estimate
+		birth = yes
+	}
+	1100.1.1 = { # Estimate
+		death = yes
+	}
+}
+1751 = {
+	name = Serdilln # Grandson of Powyl
+	dynasty = 205000
+	father = 1750 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	1073.1.1 = {
+		birth = yes
+	}
+	1110.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1752 = {
+	name = Myrfana
+	female = yes
+	dynasty = 205000
+	father = 1751 # Serdilln
+	
+	religion = catholic
+	culture = ffolk
+	
+	1099.1.1 = {
+		birth = yes
+	}
+	1116.1.1 = {
+		add_spouse = 2300 # Coltyn Horstall
+	}
+	1185.1.1 = { # Estimate
+		death = yes
+	}
+}
+1753 = {
+	name = Unnamed # Daughter of Myrfana, assumed due to Myrfana keeping the crown
+	female = yes
+	dynasty = 205000
+	mother = 1752 # Myrfana
+	father = 2300 # Coltyn Horstall
+	
+	religion = catholic
+	culture = ffolk
+	
+	1120.1.1 = { # Estimate
+		birth = yes
+	}
+	1160.1.1 = { # Estimate
+		death = yes
+	}
+}
+1754 = {
+	name = Tyndal # Grandson of Myrfana
+	dynasty = 205000
+	mother = 1753 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	1145.1.1 = {
+		birth = yes
+	}
+	1171.1.1 = {
+		death = yes
+	}
+}
+1755 = {
+	name = Chrystan
+	dynasty = 205000
+	father = 1754 # Tyndal
+	
+	religion = catholic
+	culture = ffolk
+	
+	1165.1.1 = {
+		birth = yes
+	}
+	1226.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+1756 = {
+	name = Brytain
+	dynasty = 205000
+	father = 1755 # Chrystan
+	
+	religion = catholic
+	culture = ffolk
+	
+	1193.1.1 = {
+		birth = yes
+	}
+	1254.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1757 = {
+	name = Cerestan
+	dynasty = 205000
+	father = 1756 # Brytain
+	
+	religion = catholic
+	culture = ffolk
+	
+	1222.1.1 = {
+		birth = yes
+	}
+	1271.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+1758 = {
+	name = Brystan # Brystan II
+	dynasty = 205000
+	father = 1757 # Cerestan
+	
+	religion = catholic
+	culture = ffolk
+	
+	1250.1.1 = {
+		birth = yes
+	}
+	1319.1.1 = {
+		death = yes
+	}
+}

@@ -8,5 +8,12 @@
 # 1400   - 1499     Dahast
 # 1500   - 1599     Cormaeril
 # 1600   - 1699     Bleth
+# 1700   - 1799     Kendrick
+# 1800   - 1899     Gwynneth
+# 1900   - 1999     Hugh
+# 2000   - 2099     Riker
+# 2100   - 2199     Cymrych
+# 2200   - 2299     Kincaid
+# 2300   - 2399     Horstall
 #
 # 900000 - 999999 Lowborn

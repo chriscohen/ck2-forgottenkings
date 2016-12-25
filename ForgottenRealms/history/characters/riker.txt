@@ -1,0 +1,35 @@
+# RIKER
+# Range = 2000-2099
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2000 = {
+	name = Christopher
+	dynasty = 205003
+	
+	religion = catholic
+	culture = ffolk
+	
+	174.1.1 = {
+		birth = yes
+	}
+	256.1.1 = {
+		death = yes
+	}
+}
+2001 = {
+	name = Cedric
+	dynasty = 205003
+	father = 2000 # Christopher
+	
+	religion = catholic
+	culture = ffolk
+	
+	198.1.1 = {
+		birth = yes
+	}
+	272.1.1 = {
+		death = yes
+	}
+}

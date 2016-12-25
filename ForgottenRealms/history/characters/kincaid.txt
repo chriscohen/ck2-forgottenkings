@@ -1,0 +1,20 @@
+# KINCAID
+# Range = 2200-2299
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2200 = {
+	name = Edmund
+	dynasty = 205005
+	
+	religion = catholic
+	culture = ffolk
+	
+	469.1.1 = {
+		birth = yes
+	}
+	507.1.1 = {
+		death = yes
+	}
+}
