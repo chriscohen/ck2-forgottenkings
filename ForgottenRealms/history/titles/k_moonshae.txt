@@ -1,3 +1,26 @@
-1056.1.1 = {
-	holder = 71
+140.1.1 = {
+	holder = 1800 # Gwynneth "the First Mother"
+}
+141.1.1 = {
+	holder = 1801 # Taylor Gwynneth
+}
+144.1.1 = {
+	# Source says reigned 149, but that would leave a gap between death of Taylor
+	holder = 1802 # Deric Gwynneth
+}
+171.1.1 = {
+	# Source says reigned 177, but that would leave a gap between death of Deric
+	holder = 1900 # Callidyrr Hugh
+}
+193.1.1 = {
+	holder = 1901 # Cymrych Hugh
+}
+201.1.1 = {
+	holder = 2000 # Christopher Riker
+}
+250.1.1 = {
+	holder = 2001 # Cedric Riker
+}
+1346.1.1 = {
+	holder = 1700 # Tristan Kendrick
 }
