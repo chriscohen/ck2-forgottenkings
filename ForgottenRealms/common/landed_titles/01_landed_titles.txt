@@ -537,7 +537,10 @@ k_moonshae = {
 			OR = {
 				lower_tier_than = KING
 				any_demesne_province = { OR = {
-					province_id = 24 province_id = 25
+					province_id = 61
+					province_id = 62
+					province_id = 63
+					province_id = 64
 				} }
 			}
 		}
@@ -589,7 +592,12 @@ k_moonshae = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
+				any_demesne_province = { OR = {
+					province_id = 35
+					province_id = 36
+					province_id = 37
+					province_id = 38
+				} }
 			}
 		}
 		capital = 36 # Myrloch Vale
@@ -745,7 +753,10 @@ k_moonshae = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 24 province_id = 25 } }
+				any_demesne_province = { OR = {
+					province_id = 24
+					province_id = 25
+				} }
 			}
 		}
 		capital = 25 # West Oman
@@ -774,6 +785,36 @@ k_moonshae = {
 			b_west_oman_3 = {
 			}
 			b_west_oman_4 = {
+			}
+		}
+	}
+	d_snowdown = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 66
+				}
+			}
+		}
+		capital = 66 # Snowdown
+		
+		c_snowdown = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_caer_westphal = {
+			}
+			b_pengram = {
+			}
+			b_harloch = {
+			}
+			b_brannoch = {
+			}
+			b_llandrain = {
 			}
 		}
 	}

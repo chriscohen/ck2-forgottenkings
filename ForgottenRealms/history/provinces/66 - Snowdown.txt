@@ -1,0 +1,16 @@
+# c_snowdown
+
+# County Title
+title = c_snowdown
+
+# Settlements
+max_settlements = 5
+
+b_caer_westphal = castle
+b_pengram = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

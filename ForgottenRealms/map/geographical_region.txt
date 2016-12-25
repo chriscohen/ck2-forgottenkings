@@ -30,6 +30,7 @@ world_faerun_moonshae = {
 		d_norheim
 		d_norland
 		d_oman
+		d_snowdown
 		d_winterglen		
 	}
 }
