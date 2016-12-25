@@ -312,7 +312,7 @@ k_moonshae = {
 			}
 		}
 	}
-	d_north_alaron = {
+	d_gnarhelm = {
 		color={ 10 245 5 }
 		color2={ 255 255 255 }
 		
@@ -377,7 +377,7 @@ k_moonshae = {
 			}
 		}
 	}
-	d_south_alaron = {
+	d_callidyrr = {
 		color={ 10 245 5 }
 		color2={ 255 255 255 }
 		

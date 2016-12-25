@@ -11,14 +11,19 @@
 #	These groups are mutually exclusive on the same tier
 ###########################################################################
 
-world_faerun_icewind_dale = {
-	duchies = {
-		d_icewind_dale
-	}
-}
 world_faerun_cormyr = {
 	duchies = {
 		d_cormyr d_east_cormyr d_the_stonelands d_the_stormhorns
+	}
+}
+world_faerun_moonshae = {
+	duchies = {
+		d_oman d_gnarhelm d_callidyrr d_winterglen d_myrloch d_corwell
+	}
+}
+world_faerun_icewind_dale = {
+	duchies = {
+		d_icewind_dale
 	}
 }
 world_faerun = {
