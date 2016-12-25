@@ -1,0 +1,329 @@
+# CARRATHAL
+# Range = 2600-2699
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2600 = {
+	name = Niall
+	dynasty = 205007
+	father = 2139 # Tanner Cymrych
+	
+	religion = catholic
+	culture = ffolk
+	
+	901.1.1 = {
+		birth = yes
+	}
+	954.1.1 = {
+		trait = ill
+	}
+	954.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2601 = {
+	name = Erfle
+	dynasty = 205007
+	father = 2600 # Niall
+	
+	religion = catholic
+	culture = ffolk
+	
+	921.1.1 = {
+		birth = yes
+	}
+	980.1.1 = {
+		give_nickname = nick_the_venerable_one
+	}
+	1012.1.1 = {
+		death = yes
+	}
+}
+2602 = {
+	name = Unnamed # Son of Erfle
+	dynasty = 205007
+	father = 2601 # Erfle
+	
+	religion = catholic
+	culture = ffolk
+	
+	950.1.1 = { # Estimate
+		birth = yes
+	}
+	1000.1.1 = { # Estimate
+		death = yes
+	}
+}
+2603 = {
+	name = Alec # Alec III, grandson of Erfle
+	dynasty = 205007
+	father = 2602 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	982.1.1 = {
+		birth = yes
+	}
+	1030.1.1 = {	
+		death = {
+			death_reason = death_accident
+		}
+	}
+}
+2604 = {
+	name = Bayle
+	dynasty = 205007
+	father = 2603 # Alec III
+	
+	religion = catholic
+	culture = ffolk
+	
+	1005.1.1 = {
+		birth = yes
+	}
+	1052.1.1 = {
+		death = yes
+	}
+}
+2605 = {
+	name = Unnamed # Bayle needs a brother because Yolanda is grandniece of Alec III
+	dynasty = 205007
+	father = 2603 # Alec III
+	
+	religion = catholic
+	culture = ffolk
+	
+	1006.1.1 = {
+		birth = yes
+	}
+	1050.1.1 = {
+		death = yes
+	}
+}
+2606 = {
+	name = Yolanda # Grandniece of Alec III
+	female = yes
+	dynasty = 205007
+	father = 2605 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	1029.1.1 = {
+		birth = yes
+	}
+	1049.1.1 = {
+		add_matrilineal_spouse = 900006 # Bertrand
+	}
+	1089.1.1 = {
+		trait = ill
+	}
+	1089.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2607 = {
+	name = Edwin # Edwin I
+	dynasty = 205007
+	father = 900006 # Bertrand
+	mother = 2606 # Yolanda
+	
+	religion = catholic
+	culture = ffolk
+	
+	1055.1.1 = {
+		birth = yes
+	}
+	1127.1.1 = {
+		death = yes
+	}
+}
+2608 = {
+	name = Bethany
+	female = yes
+	dynasty = 205007
+	father = 2607 # Edwin I
+	
+	religion = catholic
+	culture = ffolk
+	
+	1084.1.1 = {
+		birth = yes
+	}
+	1133.1.1 = {
+		trait = ill
+	}
+	1133.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2609 = {
+	name = Edwin # Edwin II
+	dynasty = 205007
+	mother = 2608 # Bethany
+	
+	religion = catholic
+	culture = ffolk
+	
+	1103.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		add_spouse = 900007 # Eleanor
+	}
+	1135.1.1 = {
+		death = {
+			death_reason = death_accident
+		}
+	}
+}
+2610 = {
+	name = Adrian
+	dynasty = 205007
+	mother = 900007 # Eleanor, wife of Edwin II
+	father = 2700 # Adom Kimball, secretly the father, not Edwin II
+	
+	religion = catholic
+	culture = ffolk
+	
+	1125.1.1 = {
+		birth = yes
+	}
+	1141.1.1 = {
+		give_nickname = nick_the_twinblade
+	}
+	1207.1.1 = {
+		death = yes
+	}
+}
+2611 = {
+	name = Unnamed # Adrian had one daughter, source doesn't give name
+	female = yes
+	dynasty = 205007
+	father = 2610 # Adrian
+	
+	religion = catholic
+	culture = ffolk
+	
+	1150.1.1 = { # Estimate
+		birth = yes
+	}
+	1200.1.1 = { # Estimate
+		death = yes
+	}
+}
+2612 = {
+	name = Cedric # Grandson of Adrian
+	dynasty = 205007
+	mother = 2611 # Unnamed
+	
+	religion = catholic
+	culture = ffolk
+	
+	1176.1.1 = {
+		birth = yes
+	}
+	1243.1.1 = {
+		death = yes
+	}
+}
+2613 = {
+	name = Vance
+	dynasty = 205007
+	father = 2612 # Cedric
+	
+	religion = catholic
+	culture = ffolk
+	
+	1193.1.1 = {
+		birth = yes
+	}
+	1266.1.1 = {
+		death = yes
+	}
+}
+2614 = {
+	name = Teldin
+	dynasty = 205007
+	father = 2613 # Vance
+	
+	religion = catholic
+	culture = ffolk
+	
+	1216.1.1 = {
+		birth = yes
+	}
+	1271.1.1 = {
+		death = yes
+	}
+}
+2615 = {
+	name = Rieger
+	dynasty = 205007
+	father = 2614 # Teldin
+	
+	religion = catholic
+	culture = ffolk
+	
+	1238.1.1 = {
+		birth = yes
+	}
+	1273.1.1 = {
+		death = yes # Disappeared
+	}
+}
+2616 = {
+	name = Benjamin
+	dynasty = 205007
+	father = 2615 # Rieger
+	
+	religion = catholic
+	culture = ffolk
+	
+	1257.1.1 = {
+		birth = yes
+	}
+	1296.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+2617 = {
+	name = Alec # Alec IV
+	dynasty = 205007
+	father = 2616 # Benjamin
+	
+	religion = catholic
+	culture = ffolk
+	
+	1274.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		death = yes
+	}
+}
+2618 = {
+	name = Reginald
+	dynasty = 205007
+	father = 2617 # Alec IV
+	
+	religion = catholic
+	culture = ffolk
+	
+	1312.1.1 = {
+		birth = yes
+	}
+	1380.1.1 = { # Estimate
+		death = yes
+	}
+}

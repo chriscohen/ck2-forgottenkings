@@ -1,0 +1,20 @@
+# KIMBALL
+# Range = 2700-2799
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2700 = {
+	name = Adom
+	dynasty = 205008
+	
+	religion = catholic
+	culture = northman
+	
+	1096.1.1 = {
+		birth = yes
+	}
+	1150.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -17,5 +17,7 @@
 # 2300   - 2399     Horstall
 # 2400   - 2499     Cyric
 # 2500   - 2599     Cambridge
+# 2600   - 2699     Carrathal
+# 2700   - 2799     Kimball
 #
 # 900000 - 999999 Lowborn

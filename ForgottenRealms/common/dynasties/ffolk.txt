@@ -29,3 +29,11 @@
 	name = Horstall
 	culture = ffolk
 }
+205007 = {
+	name = Carrathal
+	culture = ffolk
+}
+205008 = {
+	name = Kimball
+	culture = northman
+}

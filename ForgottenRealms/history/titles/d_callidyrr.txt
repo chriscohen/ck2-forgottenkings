@@ -1,3 +1,54 @@
-1056.1.1 = {
-	holder = 71
+944.1.1 = {
+	holder = 2600 # Niall
+}
+954.1.1 = {
+	holder = 2601 # Erfle
+}
+1012.1.1 = {
+	holder = 2603 # Alec III
+}
+1030.1.1 = {
+	holder = 2604 # Bayle
+}
+1052.1.1 = {
+	holder = 2606 # Yolanda
+}
+1089.1.11 = {
+	holder = 900006 # Bertrand
+}
+1095.1.1 = {
+	holder = 2607 # Edwin I
+}
+1127.1.1 = {
+	holder = 2608 # Bethany
+}
+1133.1.11 = {
+	holder = 2609 # Edwin II
+}
+1135.1.1 = {
+	holder = 2700 # Adom Kimball
+}
+1141.1.1 = {
+	holder = 2610 # Adrian
+}
+1207.1.1 = {
+	holder = 2612 # Cedric
+}
+1243.1.1 = {
+	holder = 2613 # Vance
+}
+1266.1.1 = {
+	holder = 2614 # Teldin
+}
+1271.1.1 = {
+	holder = 2615 # Rieger
+}
+1273.1.1 = {
+	holder = 2616 # Benjamin
+}
+1296.1.1 = {
+	holder = 2617 # Alec IV
+}
+1332.1.1 = {
+	holder = 2618 # Reginald
 }

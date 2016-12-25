@@ -30,4 +30,6 @@ nick_the_steel_regent = {}
 nick_the_tortured_king = {}
 nick_the_touched = {}
 nick_the_true = {}
+nick_the_twinblade = {}
 nick_the_unfortunate = {}
+nick_the_venerable_one = {}
