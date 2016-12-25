@@ -1,0 +1,15 @@
+# c_rabins_reef
+
+# County Title
+title = c_rabins_reef
+
+# Settlements
+max_settlements = 1
+
+b_rabins_reef = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

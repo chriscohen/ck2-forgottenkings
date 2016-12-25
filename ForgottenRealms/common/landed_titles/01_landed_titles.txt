@@ -527,7 +527,7 @@ k_moonshae = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 province_id = 29 } }
+				any_demesne_province = { OR = { province_id = 40 province_id = 41 province_id = 42 } }
 			}
 		}
 		capital = 41 # Corwell
@@ -569,6 +569,86 @@ k_moonshae = {
 			b_macsheehan = {
 			}
 			b_horstall = {
+			}
+		}
+	}
+	d_korinn = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = {
+					province_id = 44
+					province_id = 45
+					province_id = 46
+					province_id = 47
+					province_id = 48
+					province_id = 49
+					province_id = 50
+					province_id = 51
+				} }
+			}
+		}
+		capital = 47 # Ventris
+		
+		c_caftenor = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_caftenor = {
+			}
+		}
+		c_highport = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_highport = {
+			}
+		}
+		c_barrets_quay = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_barrets_quay = {
+			}
+		}
+		c_ventris = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_ventris = {
+			}
+		}
+		c_rabins_reef = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_rabins_reef = {
+			}
+		}
+		c_dennik = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_dennik = {
+			}
+		}
+		c_jacaman = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_jacaman = {
+			}
+		}
+		c_pandira = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_westhaven = {
+			}
+			b_pandira = {
 			}
 		}
 	}

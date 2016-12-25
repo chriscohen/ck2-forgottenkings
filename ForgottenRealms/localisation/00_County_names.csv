@@ -1,8 +1,12 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 c_arabel;Arabel;;;;;;;;;;;;;x
 c_arabel_adj;Arabellan;;;;;;;;;;;;;x
+c_barrets_quay;Barret’s Quay;;;;;;;;;;;;;x
+c_barrets_quay_adj;Barret’s Quayan;;;;;;;;;;;;;x
 c_black_mountains;Black Mountains;;;;;;;;;;;;;x
 c_black_mountains_adj;Black Mountainer;;;;;;;;;;;;;x
+c_caftenor;Caftenor;;;;;;;;;;;;;x
+c_caftenor_adj;Caftenoran;;;;;;;;;;;;;x
 c_cambro_mountains;Cambro Mountains;;;;;;;;;;;;;x
 c_cambro_mountains_adj;Cambro Mountainer;;;;;;;;;;;;;x
 c_codsbay;Codsbay;;;;;;;;;;;;;x
@@ -11,6 +15,8 @@ c_cormyr;Cormyr;Cormyr;Cormyr;;Cormyr;;;;;;;;;x
 c_cormyr_adj;Cormyrean;;;;;;;;;;;;;x
 c_corwell;Corwell;;;;;;;;;;;;;x
 c_corwell_adj;Corwellian;;;;;;;;;;;;;x
+c_dennik;Dennik;;;;;;;;;;;;;x
+c_dennik_adj;Dennikian;;;;;;;;;;;;;x
 c_east_cormyr;East Cormyr;East Cormyr;East Cormyr;;East Cormyr;;;;;;;;;x
 c_east_cormyr_adj;East Cormyrean;;;;;;;;;;;;;x
 c_east_oman;East Oman;;;;;;;;;;;;;x
@@ -25,10 +31,14 @@ c_gwynneth_highlands;Gwynneth Highlands;;;;;;;;;;;;;x
 c_gwynneth_highlands_adj;Gwynneth Highlander;;;;;;;;;;;;;x
 c_hermits_woods;Hermit's Woods;Hermit's Woods;Hermit's Woods;;Hermit's Woods;;;;;;;;;x
 c_hermits_woods_adj;Hermit's Woodsian;;;;;;;;;;;;;x
+c_highport;Highport;;;;;;;;;;;;;x
+c_highport_adj;Highportan;;;;;;;;;;;;;x
 c_hullack_forest;Hullack Forest;Hullack Forest;Hullack Forest;;Hullack Forest;;;;;;;;;x
 c_hullack_forest_adj;Hullack Forester;;;;;;;;;;;;;x
 c_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 c_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
+c_jacaman;Jacaman;;;;;;;;;;;;;x
+c_jacaman_adj;Jacamanian;;;;;;;;;;;;;x
 c_kimball;Kimball;;;;;;;;;;;;;x
 c_kimball_adj;Kimballan;;;;;;;;;;;;;x
 c_kingsbay;Kingsbay;;;;;;;;;;;;;x
@@ -43,6 +53,10 @@ c_myrloch_vale;Myrloch Vale;;;;;;;;;;;;;x
 c_myrloch_vale_adj;Myrloch Valen;;;;;;;;;;;;;x
 c_north_alaron;North Alaron;;;;;;;;;;;;;x
 c_north_alaron_adj;North Alaronian;;;;;;;;;;;;;x
+c_pandira;Pandira;;;;;;;;;;;;;x
+c_pandira_adj;Pandiran;;;;;;;;;;;;;x
+c_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
+c_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 c_stagford;Stagford;;;;;;;;;;;;;x
 c_stagford_adj;Stagforder;;;;;;;;;;;;;x
 c_stirgewick;Stirgewick;;;;;;;;;;;;;x
@@ -63,6 +77,8 @@ c_thunder_peaks;Thunder Peaks;Thunder Peaks;Thunder Peaks;;Thunder Peaks;;;;;;;;
 c_thunder_peaks_adj;Thunder Peakser;;;;;;;;;;;;;x
 c_tilverton;Tilverton;Tilverton;Tilverton;;Tilverton;;;;;;;;;x
 c_tilverton_adj;Tilvertonian;;;;;;;;;;;;;x
+c_ventris;Ventris;;;;;;;;;;;;;x
+c_ventris_adj;Ventricular;;;;;;;;;;;;;x
 c_west_oman;West Oman;;;;;;;;;;;;;x
 c_west_oman_adj;West Omanian;;;;;;;;;;;;;x
 c_winterglen;Winterglen;;;;;;;;;;;;;x

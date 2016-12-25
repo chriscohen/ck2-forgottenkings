@@ -1,0 +1,15 @@
+# c_jacaman
+
+# County Title
+title = c_jacaman
+
+# Settlements
+max_settlements = 1
+
+b_jacaman = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

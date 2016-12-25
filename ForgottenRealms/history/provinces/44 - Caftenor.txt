@@ -1,0 +1,15 @@
+# c_caftenor
+
+# County Title
+title = c_caftenor
+
+# Settlements
+max_settlements = 1
+
+b_caftenor = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

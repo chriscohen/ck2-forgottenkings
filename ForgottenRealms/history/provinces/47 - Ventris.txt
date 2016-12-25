@@ -1,0 +1,15 @@
+# c_ventris
+
+# County Title
+title = c_ventris
+
+# Settlements
+max_settlements = 1
+
+b_ventris = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

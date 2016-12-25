@@ -1,0 +1,15 @@
+# c_pandira
+
+# County Title
+title = c_pandira
+
+# Settlements
+max_settlements = 2
+
+b_westhaven = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

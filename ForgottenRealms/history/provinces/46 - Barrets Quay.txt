@@ -1,0 +1,15 @@
+# c_barrets_quay
+
+# County Title
+title = c_barrets_quay
+
+# Settlements
+max_settlements = 1
+
+b_barrets_quay = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_dennik
+
+# County Title
+title = c_dennik
+
+# Settlements
+max_settlements = 1
+
+b_dennik = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History

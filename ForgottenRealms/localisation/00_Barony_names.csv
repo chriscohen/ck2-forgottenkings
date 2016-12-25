@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 b_arabel;Arabel;;;;;;;;;;;;;x
 b_arabel_adj;Arabellan;;;;;;;;;;;;;x
+b_barrets_quay;Barret’s Quay;;;;;;;;;;;;;x
+b_barrets_quay_adj;Barret’s Quayan;;;;;;;;;;;;;x
 b_blackstone;Blackstone;;;;;;;;;;;;;x
 b_blackstone_adj;Blackstoner;;;;;;;;;;;;;x
 b_borth;Borth;;;;;;;;;;;;;x
@@ -9,6 +11,8 @@ b_bukhara_spires;Bukhara Spires;;;;;;;;;;;;;x
 b_bukhara_spires_adj;Bukharan;;;;;;;;;;;;;x
 b_caer_corwell;Caer Corwell;;;;;;;;;;;;;x
 b_caer_corwell_adj;Caer Corwellan;;;;;;;;;;;;;x
+b_caftenor;Caftenor;;;;;;;;;;;;;x
+b_caftenor_adj;Caftenoran;;;;;;;;;;;;;x
 b_callidyrr;Callidyrr;;;;;;;;;;;;;x
 b_callidyrr_adj;Callidyrran;;;;;;;;;;;;;x
 b_castle_of_skulls;Castle of Skulls;;;;;;;;;;;;;x
@@ -21,6 +25,8 @@ b_darkhorn_castle;Darkhorn Castle;;;;;;;;;;;;;x
 b_darkhorn_castle_adj;Darkhorn Castalian;;;;;;;;;;;;;x
 b_deepglen;Deepglen;;;;;;;;;;;;;x
 b_deepglen_adj;Deepglenian;;;;;;;;;;;;;x
+b_dennik;Dennik;;;;;;;;;;;;;x
+b_dennik_adj;Dennikian;;;;;;;;;;;;;x
 b_dultann;Dultann;;;;;;;;;;;;;x
 b_dultann_adj;Dultannian;;;;;;;;;;;;;x
 b_dynnatt;Dynnatt;;;;;;;;;;;;;x
@@ -39,10 +45,14 @@ b_gwarch;Gwarch;;;;;;;;;;;;;x
 b_gwarch_adj;Gwarchan;;;;;;;;;;;;;x
 b_highhome;Highhome;;;;;;;;;;;;;x
 b_highhome_adj;Highhomer;;;;;;;;;;;;;x
+b_highport;Highport;;;;;;;;;;;;;x
+b_highport_adj;Highportan;;;;;;;;;;;;;x
 b_highrock;Highrock;;;;;;;;;;;;;x
 b_highrock_adj;Highrocker;;;;;;;;;;;;;x
 b_horstall;Horstall;;;;;;;;;;;;;x
 b_horstall_adj;Horstallan;;;;;;;;;;;;;x
+b_jacaman;Jacaman;;;;;;;;;;;;;x
+b_jacaman_adj;Jacamanian;;;;;;;;;;;;;x
 b_kingsbay;Kingsbay;;;;;;;;;;;;;x
 b_kingsbay_adj;Kingsbayan;;;;;;;;;;;;;x
 b_koart;Koart;;;;;;;;;;;;;x
@@ -57,8 +67,12 @@ b_myrrdale;Myrrdale;;;;;;;;;;;;;x
 b_myrrdale_adj;Myrrdaler;;;;;;;;;;;;;x
 b_o_malley;O’Malley;;;;;;;;;;;;;x
 b_o_malley_adj;O’Mallean;;;;;;;;;;;;;x
+b_pandira;Pandira;;;;;;;;;;;;;x
+b_pandira_adj;Pandiran;;;;;;;;;;;;;x
 b_pontswain;Pontswain;;;;;;;;;;;;;x
 b_pontswain_adj;Pontswainian;;;;;;;;;;;;;x
+b_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
+b_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 b_ramshorn;Ramshorn;;;;;;;;;;;;;x
 b_ramshorn_adj;Ramshorner;;;;;;;;;;;;;x
 b_shee_pool;Shee Pool;;;;;;;;;;;;;x
@@ -75,5 +89,9 @@ b_thorndyke;Thorndyke;;;;;;;;;;;;;x
 b_thorndyke_adj;Thorndykean;;;;;;;;;;;;;x
 b_trondhelm;Trondhelm;;;;;;;;;;;;;x
 b_trondhelm_adj;Trondhelmer;;;;;;;;;;;;;x
+b_ventris;Ventris;;;;;;;;;;;;;x
+b_ventris_adj;Ventricular;;;;;;;;;;;;;x
+b_westhaven;Westhaven;;;;;;;;;;;;;x
+b_westhaven_adj;Westhavian;;;;;;;;;;;;;x
 b_wyngate;Wyngate;;;;;;;;;;;;;x
 b_wyngate_adj;Wyngater;;;;;;;;;;;;;x

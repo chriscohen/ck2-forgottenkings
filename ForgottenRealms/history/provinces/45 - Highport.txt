@@ -1,0 +1,15 @@
+# c_highport
+
+# County Title
+title = c_highport
+
+# Settlements
+max_settlements = 1
+
+b_highport = castle
+
+# Misc
+culture = northman
+religion = catholic
+
+#History
