@@ -12,7 +12,7 @@ b_sunderstaad = castle
 #b_hermits_woods_4 = castle
 
 # Misc
-culture = northlander
+culture = northman
 religion = catholic
 
 #History

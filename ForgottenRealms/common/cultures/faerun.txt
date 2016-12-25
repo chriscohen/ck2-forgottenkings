@@ -220,7 +220,7 @@ human = {
 		allow_looting = no
 		seafarer = no
 	}
-	northlander = {
+	northman = {
 		graphical_cultures = { westerngfx }
 		
 		color = { 0.3 0.55 0.8 }
