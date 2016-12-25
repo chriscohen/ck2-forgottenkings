@@ -27,6 +27,8 @@ c_eastern_stormhorns;Eastern Stormhorns;Eastern Stormhorns;Eastern Stormhorns;;E
 c_eastern_stormhorns_adj;Eastern Stormhorner;;;;;;;;;;;;;x
 c_fairheight;Fairheight;;;;;;;;;;;;;x
 c_fairheight_adj;Fairheighter;;;;;;;;;;;;;x
+c_flamsterd;Flamsterd;;;;;;;;;;;;;x
+c_flamsterd_adj;Flamsterdian;;;;;;;;;;;;;x
 c_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 c_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
 c_graygrunn;Graygrunn;;;;;;;;;;;;;x
@@ -61,6 +63,8 @@ c_llorgh;Llorgh;;;;;;;;;;;;;x
 c_llorgh_adj;Llorghan;;;;;;;;;;;;;x
 c_marsember;Marsember;;;;;;;;;;;;;x
 c_marsember_adj;Marsembian;;;;;;;;;;;;;x
+c_moray;Moray;;;;;;;;;;;;;x
+c_moray_adj;Morayan;;;;;;;;;;;;;x
 c_myrloch_vale;Myrloch Vale;;;;;;;;;;;;;x
 c_myrloch_vale_adj;Myrloch Valen;;;;;;;;;;;;;x
 c_norland;Norland;;;;;;;;;;;;;x
@@ -69,6 +73,10 @@ c_north_alaron;North Alaron;;;;;;;;;;;;;x
 c_north_alaron_adj;North Alaronian;;;;;;;;;;;;;x
 c_north_cape;North Cape;;;;;;;;;;;;;x
 c_north_cape_adj;North Caper;;;;;;;;;;;;;x
+c_orcskill;Orcskill;;;;;;;;;;;;;x
+c_orcskill_adj;Orcskillian;;;;;;;;;;;;;x
+c_ossian_rock;Ossian Rock;;;;;;;;;;;;;x
+c_ossian_rock_adj;Ossinian;;;;;;;;;;;;;x
 c_pandira;Pandira;;;;;;;;;;;;;x
 c_pandira_adj;Pandiran;;;;;;;;;;;;;x
 c_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
@@ -93,8 +101,12 @@ c_thunder_peaks;Thunder Peaks;Thunder Peaks;Thunder Peaks;;Thunder Peaks;;;;;;;;
 c_thunder_peaks_adj;Thunder Peakser;;;;;;;;;;;;;x
 c_tilverton;Tilverton;Tilverton;Tilverton;;Tilverton;;;;;;;;;x
 c_tilverton_adj;Tilvertonian;;;;;;;;;;;;;x
+c_trollclaw;Trollclaw;;;;;;;;;;;;;x
+c_trollclaw_adj;Trollclawed;;;;;;;;;;;;;x
 c_ventris;Ventris;;;;;;;;;;;;;x
 c_ventris_adj;Ventricular;;;;;;;;;;;;;x
+c_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
+c_wave_rocks_adj;Wave Rocker;;;;;;;;;;;;;x
 c_west_oman;West Oman;;;;;;;;;;;;;x
 c_west_oman_adj;West Omanian;;;;;;;;;;;;;x
 c_winterglen;Winterglen;;;;;;;;;;;;;x

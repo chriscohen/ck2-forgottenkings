@@ -1,0 +1,16 @@
+# c_moray
+
+# County Title
+title = c_moray
+
+# Settlements
+max_settlements = 6
+
+b_caer_moray = castle
+b_bray = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

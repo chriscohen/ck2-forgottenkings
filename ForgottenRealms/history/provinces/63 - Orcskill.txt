@@ -1,0 +1,15 @@
+# c_orcskill
+
+# County Title
+title = c_orcskill
+
+# Settlements
+max_settlements = 1
+
+b_highpeak = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

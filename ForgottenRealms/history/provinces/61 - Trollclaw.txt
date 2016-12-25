@@ -1,0 +1,15 @@
+# c_trollclaw
+
+# County Title
+title = c_trollclaw
+
+# Settlements
+max_settlements = 1
+
+b_dennins_delve = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

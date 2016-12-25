@@ -25,6 +25,7 @@ world_faerun_moonshae = {
 		d_corwell
 		d_gnarhelm
 		d_korinn
+		d_moray
 		d_myrloch
 		d_norheim
 		d_norland

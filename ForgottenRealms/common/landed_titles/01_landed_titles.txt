@@ -273,42 +273,114 @@ k_moonshae = {
 	capital = 25 # West Oman, for now
 	culture = moonshae
 	
-	d_oman = {
+	d_callidyrr = {
 		color={ 10 245 5 }
 		color2={ 255 255 255 }
 		
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 24 province_id = 25 } }
+				any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 province_id = 29 } }
 			}
 		}
-		capital = 25 # West Oman
+		capital = 31 # Talffolk
 		
-		c_east_oman = {
-			color={ 30 0 255 }
+		c_talffolk = {
+			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
-			b_ramshorn = {
+			b_callidyrr = {
 			}
-			b_east_oman_2 = {
+			b_talffolk_2 = {
 			}
-			b_east_oman_3 = {
+			b_talffolk_3 = {
 			}
-			b_east_oman_4 = {
+			b_talffolk_4 = {
 			}
 		}
-		c_west_oman = {
-			color={ 30 0 255 }
+		c_stagford = {
+			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
-			b_trondhelm = {
+			b_stagford = {
 			}
-			b_west_oman_2 = {
+			b_stagford_2 = {
 			}
-			b_west_oman_3 = {
+			b_stagford_3 = {
 			}
-			b_west_oman_4 = {
+			b_stagford_4 = {
+			}
+		}
+		c_stirgewick = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_stirgewick = {
+			}
+			b_stirgewick_2 = {
+			}
+			b_stirgewick_3 = {
+			}
+			b_stirgewick_4 = {
+			}
+		}
+	}
+	d_corwell = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 40 province_id = 41 province_id = 42 } }
+			}
+		}
+		capital = 41 # Corwell
+		
+		c_corwell = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_caer_corwell = {
+			}
+			b_o_malley = {
+			}
+			b_dynnatt = {
+			}
+			b_koart = {
+			}
+		}
+		c_kimball = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_wyngate = {
+			}
+			b_graystone = {
+			}
+			b_pontswain = {
+			}
+			b_castle_of_skulls = {
+			}
+		}
+		c_kingsbay = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_kingsbay = {
+			}
+			b_borth = {
+			}
+			b_macsheehan = {
+			}
+			b_horstall = {
+			}
+		}
+		c_flamsterd = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_flamsterd = {
 			}
 		}
 	}
@@ -374,201 +446,6 @@ k_moonshae = {
 			b_gnarhelm_3 = {
 			}
 			b_gnarhelm_4 = {
-			}
-		}
-	}
-	d_callidyrr = {
-		color={ 10 245 5 }
-		color2={ 255 255 255 }
-		
-		allow = {
-			OR = {
-				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 province_id = 29 } }
-			}
-		}
-		capital = 31 # Talffolk
-		
-		c_talffolk = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_callidyrr = {
-			}
-			b_talffolk_2 = {
-			}
-			b_talffolk_3 = {
-			}
-			b_talffolk_4 = {
-			}
-		}
-		c_stagford = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_stagford = {
-			}
-			b_stagford_2 = {
-			}
-			b_stagford_3 = {
-			}
-			b_stagford_4 = {
-			}
-		}
-		c_stirgewick = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_stirgewick = {
-			}
-			b_stirgewick_2 = {
-			}
-			b_stirgewick_3 = {
-			}
-			b_stirgewick_4 = {
-			}
-		}
-	}
-	d_winterglen = {
-		color={ 10 245 5 }
-		color2={ 255 255 255 }
-		
-		allow = {
-			OR = {
-				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 33 province_id = 34 province_id = 39 } }
-			}
-		}
-		capital = 33 # Winterglen
-		
-		c_winterglen = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_grimstad = {
-			}
-			b_codscove = {
-			}
-			b_citadel_umbra = {
-			}
-		}
-		c_codsbay = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_manger = {
-			}
-		}
-		c_cambro_mountains = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_myrrdale = {
-			}
-			b_highhome = {
-			}
-			b_dultann = {
-			}
-			b_thorndyke = {
-			}
-			b_darkhorn_castle = {
-			}
-		}
-	}
-	d_myrloch = {
-		color={ 10 245 5 }
-		color2={ 255 255 255 }
-		
-		allow = {
-			OR = {
-				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
-			}
-		}
-		capital = 36 # Myrloch Vale
-		
-		c_myrloch_vale = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_deepglen = {
-			}
-			b_shee_pool = {
-			}
-		}
-		c_black_mountains = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_storaad = {
-			}
-		}
-		c_gwynneth_highlands = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_elyssyrr = {
-			}
-			b_bukhara_spires = {
-			}
-		}
-		c_the_shrouded_lands = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_fenton = {
-			}
-		}
-	}
-	d_corwell = {
-		color={ 10 245 5 }
-		color2={ 255 255 255 }
-		
-		allow = {
-			OR = {
-				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 40 province_id = 41 province_id = 42 } }
-			}
-		}
-		capital = 41 # Corwell
-		
-		c_corwell = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_caer_corwell = {
-			}
-			b_o_malley = {
-			}
-			b_dynnatt = {
-			}
-			b_koart = {
-			}
-		}
-		c_kimball = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_wyngate = {
-			}
-			b_graystone = {
-			}
-			b_pontswain = {
-			}
-			b_castle_of_skulls = {
-			}
-		}
-		c_kingsbay = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_kingsbay = {
-			}
-			b_borth = {
-			}
-			b_macsheehan = {
-			}
-			b_horstall = {
 			}
 		}
 	}
@@ -649,6 +526,104 @@ k_moonshae = {
 			b_westhaven = {
 			}
 			b_pandira = {
+			}
+		}
+	}
+	d_moray = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = {
+					province_id = 24 province_id = 25
+				} }
+			}
+		}
+		capital = 62 # Moray
+		
+		c_trollclaw = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_dennins_delve = {
+			}
+		}
+		c_moray = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_caer_moray = {
+			}
+			b_bray = {
+			}
+			b_farview = {
+			}
+			b_horst = {
+			}
+			b_dynnegall = {
+			}
+			b_kork = {
+			}
+		}
+		c_orcskill = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_highpeak = {
+			}
+		}
+		c_ossian_rock = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_ossian_rock = {
+			}
+		}
+	}
+	d_myrloch = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
+			}
+		}
+		capital = 36 # Myrloch Vale
+		
+		c_myrloch_vale = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_deepglen = {
+			}
+			b_shee_pool = {
+			}
+		}
+		c_black_mountains = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_storaad = {
+			}
+		}
+		c_gwynneth_highlands = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_elyssyrr = {
+			}
+			b_bukhara_spires = {
+			}
+		}
+		c_the_shrouded_lands = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_fenton = {
 			}
 		}
 	}
@@ -753,6 +728,98 @@ k_moonshae = {
 			b_sommersdal = {
 			}
 			b_follebu = {
+			}
+		}
+		c_wave_rocks = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_wave_rocks = {
+			}
+		}
+	}
+	d_oman = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 24 province_id = 25 } }
+			}
+		}
+		capital = 25 # West Oman
+		
+		c_east_oman = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_ramshorn = {
+			}
+			b_east_oman_2 = {
+			}
+			b_east_oman_3 = {
+			}
+			b_east_oman_4 = {
+			}
+		}
+		c_west_oman = {
+			color={ 30 0 255 }
+			color2={ 255 255 255 }
+			
+			b_trondhelm = {
+			}
+			b_west_oman_2 = {
+			}
+			b_west_oman_3 = {
+			}
+			b_west_oman_4 = {
+			}
+		}
+	}
+	d_winterglen = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 33 province_id = 34 province_id = 39 } }
+			}
+		}
+		capital = 33 # Winterglen
+		
+		c_winterglen = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_grimstad = {
+			}
+			b_codscove = {
+			}
+			b_citadel_umbra = {
+			}
+		}
+		c_codsbay = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_manger = {
+			}
+		}
+		c_cambro_mountains = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_myrrdale = {
+			}
+			b_highhome = {
+			}
+			b_dultann = {
+			}
+			b_thorndyke = {
+			}
+			b_darkhorn_castle = {
 			}
 		}
 	}

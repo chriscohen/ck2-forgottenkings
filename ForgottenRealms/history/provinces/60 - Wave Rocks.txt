@@ -1,0 +1,15 @@
+# c_wave_rocks
+
+# County Title
+title = c_wave_rocks
+
+# Settlements
+max_settlements = 1
+
+b_wave_rocks = tribal
+
+# Misc
+culture = northman
+religion = catholic
+
+#History
