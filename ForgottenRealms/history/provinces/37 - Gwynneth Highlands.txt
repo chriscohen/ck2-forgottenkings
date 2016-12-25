@@ -1,0 +1,15 @@
+# c_gwynneth_highlands
+
+# County Title
+title = c_gwynneth_highlands
+
+# Settlements
+max_settlements = 2
+
+b_elyssyrr = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

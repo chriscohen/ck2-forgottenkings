@@ -429,4 +429,147 @@ k_moonshae = {
 			}
 		}
 	}
+	d_winterglen = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 33 province_id = 34 province_id = 39 } }
+			}
+		}
+		capital = 33 # Winterglen
+		
+		c_winterglen = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_grimstad = {
+			}
+			b_codscove = {
+			}
+			b_citadel_umbra = {
+			}
+		}
+		c_codsbay = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_manger = {
+			}
+		}
+		c_cambro_mountains = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_myrrdale = {
+			}
+			b_highhome = {
+			}
+			b_dultann = {
+			}
+			b_thorndyke = {
+			}
+			b_darkhorn_castle = {
+			}
+		}
+	}
+	d_myrloch = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
+			}
+		}
+		capital = 36 # Myrloch Vale
+		
+		c_myrloch_vale = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_deepglen = {
+			}
+			b_shee_pool = {
+			}
+		}
+		c_black_mountains = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_storaad = {
+			}
+		}
+		c_gwynneth_highlands = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_elyssyrr = {
+			}
+			b_bukhara_spires = {
+			}
+		}
+		c_the_shrouded_lands = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_fenton = {
+			}
+		}
+	}
+	d_corwell = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 province_id = 29 } }
+			}
+		}
+		capital = 41 # Corwell
+		
+		c_corwell = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_caer_corwell = {
+			}
+			b_o_malley = {
+			}
+			b_dynnatt = {
+			}
+			b_koart = {
+			}
+		}
+		c_kimball = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_wyngate = {
+			}
+			b_graystone = {
+			}
+			b_pontswain = {
+			}
+			b_castle_of_skulls = {
+			}
+		}
+		c_kingsbay = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_kingsbay = {
+			}
+			b_borth = {
+			}
+			b_macsheehan = {
+			}
+			b_horstall = {
+			}
+		}
+	}
 }

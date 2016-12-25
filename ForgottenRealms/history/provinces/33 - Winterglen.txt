@@ -1,0 +1,15 @@
+# c_winterglen
+
+# County Title
+title = c_winterglen
+
+# Settlements
+max_settlements = 3
+
+b_grimstad = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

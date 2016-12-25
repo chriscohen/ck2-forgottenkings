@@ -1,0 +1,15 @@
+# c_the_shrouded_lands
+
+# County Title
+title = c_the_shrouded_lands
+
+# Settlements
+max_settlements = 1
+
+b_fenton = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

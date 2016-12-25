@@ -1,0 +1,16 @@
+# c_corwell
+
+# County Title
+title = c_corwell
+
+# Settlements
+max_settlements = 4
+
+b_caer_corwell = castle
+b_koart = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

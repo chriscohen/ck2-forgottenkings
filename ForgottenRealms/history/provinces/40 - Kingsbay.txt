@@ -1,0 +1,16 @@
+# c_kingsbay
+
+# County Title
+title = c_kingsbay
+
+# Settlements
+max_settlements = 4
+
+b_kingsbay = castle
+b_horstall = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_black_mountains
+
+# County Title
+title = c_black_mountains
+
+# Settlements
+max_settlements = 1
+
+b_storaad = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

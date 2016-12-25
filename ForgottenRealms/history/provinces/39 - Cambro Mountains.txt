@@ -1,0 +1,16 @@
+# c_cambro_mountains
+
+# County Title
+title = c_cambro_mountains
+
+# Settlements
+max_settlements = 5
+
+b_myrrdale = castle
+b_highhome = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History

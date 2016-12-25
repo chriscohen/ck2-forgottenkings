@@ -1,0 +1,15 @@
+# c_kimball
+
+# County Title
+title = c_kimball
+
+# Settlements
+max_settlements = 4
+
+b_wyngate = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History
