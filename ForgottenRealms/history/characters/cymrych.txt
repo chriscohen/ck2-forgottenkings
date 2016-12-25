@@ -306,6 +306,7 @@
 }
 2118 = {
 	name = Miranda
+	female = yes
 	dynasty = 205004
 	father = 2117 # Gordon
 	
