@@ -1,0 +1,12 @@
+195.1.1 = {
+	holder = 2500 # Argus
+}
+219.1.1 = {
+	holder = 2501 # Baltayr
+}
+256.1.1 = {
+	holder = 2502 # Bryce
+}
+257.1.1 = {
+	holder = 2503 # Ayodh
+}
