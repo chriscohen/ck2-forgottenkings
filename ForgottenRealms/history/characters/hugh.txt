@@ -49,3 +49,21 @@
 		death = yes
 	}
 }
+1903 = {
+	name = Unnamed # We know Cymrych had a daughter
+	dynasty = 205002
+	father = 1901 # Cymrych
+	
+	religion = catholic
+	culture = ffolk
+	
+	189.1.1 = { # Estimate
+		birth = yes
+	}
+	196.1.1 = { # Estimate, must have been after Argus took power in 195
+		add_spouse = 2500 # Argus Cambro
+	}
+	219.1.1 = { # Estimate
+		death = yes
+	}
+}

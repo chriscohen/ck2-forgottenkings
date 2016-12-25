@@ -1,0 +1,11 @@
+# NORTHMAN (MOONSHAES)
+# Range = 206000-206999
+
+206000 = {
+	name = Cyric
+	culture = northman
+}
+206001 = {
+	name = Cambridge
+	culture = northman
+}

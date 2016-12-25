@@ -1,0 +1,20 @@
+# CYRIC
+# Range = 2400-2499
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2400 = {
+	name = Ventris
+	dynasty = 206000
+	
+	religion = catholic
+	culture = northman
+	
+	172.1.1 = {
+		birth = yes
+	}
+	191.1.1 = {
+		death = yes # Disappeared
+	}
+}

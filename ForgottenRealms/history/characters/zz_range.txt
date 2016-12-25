@@ -15,5 +15,7 @@
 # 2100   - 2199     Cymrych
 # 2200   - 2299     Kincaid
 # 2300   - 2399     Horstall
+# 2400   - 2499     Cyric
+# 2500   - 2599     Cambridge
 #
 # 900000 - 999999 Lowborn

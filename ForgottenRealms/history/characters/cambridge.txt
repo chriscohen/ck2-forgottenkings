@@ -1,0 +1,76 @@
+# CAMBRIDGE
+# Range = 2500-2599
+#
+# Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
+# http://www.candlekeep.com/downloads/frad_08.pdf
+
+2500 = {
+	name = Argus
+	dynasty = 206001
+	
+	religion = catholic
+	culture = northman
+	
+	173.1.1 = {
+		birth = yes
+	}
+	196.1.1 = {
+		add_spouse = 1903 # Unnamed Hugh
+	}
+	219.1.1 = {
+		death = yes
+	}
+}
+2501 = {
+	name = Baltayr
+	dynasty = 206001
+	father = 2500 # Argus
+	mother = 1903 # Unnamed Hugh
+	
+	religion = catholic
+	culture = northman
+	
+	199.1.1 = {
+		birth = yes
+	}
+	256.1.1 = {
+		death = yes
+	}
+}
+2502 = {
+	name = Bryce
+	dynasty = 206001
+	father = 2501 # Baltayr
+	
+	religion = catholic
+	culture = northman
+	
+	218.1.1 = {
+		birth = yes
+	}
+	256.11.1 = {
+		trait = maimed
+	}
+	257.1.1 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+2503 = {
+	name = Ayodh
+	dynasty = 206001
+	father = 2502 # Bryce
+	
+	religion = catholic
+	culture = northman
+	
+	237.1.1 = {	
+		birth = yes
+	}
+	275.1.1 = {
+		death = {
+			death_reason = death_sacrifice
+		}
+	}
+}

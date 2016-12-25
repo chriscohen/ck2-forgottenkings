@@ -5,4 +5,4 @@
 # 203000 - 203999   Esparin
 # 204000 - 204999   Cormanthor
 # 205000 - 205999   Ffolk (Moonshaes)
-# 206000 - 206999   Northlanders (Moonshaes)
+# 206000 - 206999   Northman (Moonshaes)
