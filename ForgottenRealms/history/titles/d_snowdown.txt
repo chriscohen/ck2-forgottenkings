@@ -1,0 +1,11 @@
+177.1.1 = {
+	holder = 2201 # Gwylloch Kincaid
+}
+# Gap
+485.1.1 = {
+	holder = 2200 # Edmund Kincaid
+}
+# Gap
+1096.1.1 = { # Estimate
+	holder = 2202 # Arrasynd Kincaid
+}

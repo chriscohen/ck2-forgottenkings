@@ -18,3 +18,32 @@
 		death = yes
 	}
 }
+2201 = {
+	name = Gwylloch
+	dynasty = 205005
+	
+	religion = catholic
+	culture = ffolk
+	
+	150.1.1 = { # Estimate
+		birth = yes
+	}
+	230.1.1 = { # Estimate
+		death = yes
+	}
+}
+2202 = {
+	name = Arrasynd
+	female = yes
+	dynasty = 205005
+	
+	religion = catholic
+	culture = ffolk
+	
+	1080.1.1 = { # Estimate
+		birth = yes
+	}
+	1149.1.1 = {
+		death = yes
+	}
+}
