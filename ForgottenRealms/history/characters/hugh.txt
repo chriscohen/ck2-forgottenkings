@@ -51,6 +51,7 @@
 }
 1903 = {
 	name = Unnamed # We know Cymrych had a daughter
+	female = yes
 	dynasty = 205002
 	father = 1901 # Cymrych
 	
