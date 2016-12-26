@@ -320,13 +320,7 @@ k_moonshae = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
-			b_callidyrr = {
-			}
-			b_talffolk_2 = {
-			}
-			b_talffolk_3 = {
-			}
-			b_talffolk_4 = {
+			b_caer_callidyrr = {
 			}
 		}
 		c_stagford = {
