@@ -17,7 +17,7 @@
 			give_job_title = job_chancellor
 		}
 	}
-	1389.1.1 = { # Estimate
+	1370.3.3 = { # http://www.candlekeep.com/library/articles/mintarn.htm
 		death = yes
 	}
 }
