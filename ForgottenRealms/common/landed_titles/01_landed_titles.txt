@@ -337,13 +337,15 @@ k_moonshae = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
-			b_stagford = {
+			b_doncastle = {
 			}
-			b_stagford_2 = {
+			b_holyhead = {
 			}
-			b_stagford_3 = {
+			b_aithelar = {
 			}
-			b_stagford_4 = {
+			b_codfin = {
+			}
+			b_hickorydale = {
 			}
 		}
 		c_stirgewick = {

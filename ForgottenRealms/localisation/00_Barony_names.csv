@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+b_aithelar;Aithelar;;;;;;;;;;;;;x
+b_aithelar_adj;Aithelarran;;;;;;;;;;;;;x
 b_arabel;Arabel;;;;;;;;;;;;;x
 b_arabel_adj;Arabellan;;;;;;;;;;;;;x
 b_arfinnsheim;Arfinnsheim;;;;;;;;;;;;;x
@@ -35,6 +37,8 @@ b_citadel_umbra;Citadel Umbra;;;;;;;;;;;;;x
 b_citadel_umbra_adj;Citadel Umbrian;;;;;;;;;;;;;x
 b_cobb;Cobb;;;;;;;;;;;;;x
 b_cobb_adj;Cobbian;;;;;;;;;;;;;x
+b_codfin;Codfin;;;;;;;;;;;;;x
+b_codfin_adj;Codfinnian;;;;;;;;;;;;;x
 b_codscove;Codscove;;;;;;;;;;;;;x
 b_codscove_adj;Codscovian;;;;;;;;;;;;;x
 b_dalheim;Dalheim;;;;;;;;;;;;;x
@@ -49,6 +53,8 @@ b_dennik;Dennik;;;;;;;;;;;;;x
 b_dennik_adj;Dennikian;;;;;;;;;;;;;x
 b_dennins_delve;Dennin’s Delve;;;;;;;;;;;;;x
 b_dennins_delve_adj;Denninian;;;;;;;;;;;;;x
+b_doncastle;Doncastle;;;;;;;;;;;;;x
+b_doncastle;Doncastelian;;;;;;;;;;;;;x
 b_dultann;Dultann;;;;;;;;;;;;;x
 b_dultann_adj;Dultannian;;;;;;;;;;;;;x
 b_dynnatt;Dynnatt;;;;;;;;;;;;;x
@@ -81,6 +87,8 @@ b_hammerstaad;Hammerstaad;;;;;;;;;;;;;x
 b_hammerstaad_adj;Hammerstaadian;;;;;;;;;;;;;x
 b_harloch;Harloch;;;;;;;;;;;;;x
 b_harloch_adj;Harlochian;;;;;;;;;;;;;x
+b_hickorydale;Hickorydale;;;;;;;;;;;;;x
+b_hickorydale_adj;Hickorydaler;;;;;;;;;;;;;x
 b_highhome;Highhome;;;;;;;;;;;;;x
 b_highhome_adj;Highhomer;;;;;;;;;;;;;x
 b_highpeak;Highpeak;;;;;;;;;;;;;x
@@ -89,6 +97,8 @@ b_highport;Highport;;;;;;;;;;;;;x
 b_highport_adj;Highportan;;;;;;;;;;;;;x
 b_highrock;Highrock;;;;;;;;;;;;;x
 b_highrock_adj;Highrocker;;;;;;;;;;;;;x
+b_holyhead;Holyhead;;;;;;;;;;;;;x
+b_holyhead_adj;Holyheadian;;;;;;;;;;;;;x
 b_horsa;Horsa;;;;;;;;;;;;;x
 b_horsa_adj;Horsan;;;;;;;;;;;;;x
 b_horst;Horst;;;;;;;;;;;;;x
@@ -149,8 +159,6 @@ b_sommersdal;Sommersdal;;;;;;;;;;;;;x
 b_sommersdal_adj;Sommersdallan;;;;;;;;;;;;;x
 b_sordal;Sordal;;;;;;;;;;;;;x
 b_sordal_adj;Sordallan;;;;;;;;;;;;;x
-b_stagford;Stagford;;;;;;;;;;;;;x
-b_stagford_adj;Stagforder;;;;;;;;;;;;;x
 b_stirgewick;Stirgewick;;;;;;;;;;;;;x
 b_stirgewick_adj;Stirgewicker;;;;;;;;;;;;;x
 b_storaad;Storaad;;;;;;;;;;;;;x
