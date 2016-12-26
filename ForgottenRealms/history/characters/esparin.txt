@@ -5,6 +5,7 @@
 
 1200 = {
 	name = Enchara
+	female = yes
 	dynasty = 203000
 	
 	religion = catholic
