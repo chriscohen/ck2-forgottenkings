@@ -4,12 +4,10 @@
 title = c_talffolk
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
 b_callidyrr = castle
-#b_hermits_woods_2 = city
-#b_hermits_woods_3 = temple
-#b_hermits_woods_4 = castle
+b_ogden = castle
 
 # Misc
 culture = ffolk

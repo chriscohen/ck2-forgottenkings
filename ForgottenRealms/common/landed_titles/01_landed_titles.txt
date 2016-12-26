@@ -322,6 +322,16 @@ k_moonshae = {
 			
 			b_caer_callidyrr = {
 			}
+			b_ogden = {
+			}
+			b_horsa = {
+			}
+			b_cobb = {
+			}
+			b_lehigh = {
+			}
+			b_bounty = {
+			}
 		}
 		c_stagford = {
 			color={ 10 245 5 }

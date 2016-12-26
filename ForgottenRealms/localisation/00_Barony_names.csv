@@ -15,6 +15,8 @@ b_brannoch;Brannoch;;;;;;;;;;;;;x
 b_brannoch_adj;Brannochian;;;;;;;;;;;;;x
 b_bray;Bray;;;;;;;;;;;;;x
 b_bray_adj;Brayan;;;;;;;;;;;;;x
+b_bounty;Bounty;;;;;;;;;;;;;x
+b_bounty_adj;Bountian;;;;;;;;;;;;;x
 b_bukhara_spires;Bukhara Spires;;;;;;;;;;;;;x
 b_bukhara_spires_adj;Bukharan;;;;;;;;;;;;;x
 b_caer_callidyrr;Caer Callidyrr;;;;;;;;;;;;;x
@@ -31,6 +33,8 @@ b_castle_of_skulls;Castle of Skulls;;;;;;;;;;;;;x
 b_castle_of_skulls_adj;Castle of Skullsian;;;;;;;;;;;;;x
 b_citadel_umbra;Citadel Umbra;;;;;;;;;;;;;x
 b_citadel_umbra_adj;Citadel Umbrian;;;;;;;;;;;;;x
+b_cobb;Cobb;;;;;;;;;;;;;x
+b_cobb_adj;Cobbian;;;;;;;;;;;;;x
 b_codscove;Codscove;;;;;;;;;;;;;x
 b_codscove_adj;Codscovian;;;;;;;;;;;;;x
 b_dalheim;Dalheim;;;;;;;;;;;;;x
@@ -85,6 +89,8 @@ b_highport;Highport;;;;;;;;;;;;;x
 b_highport_adj;Highportan;;;;;;;;;;;;;x
 b_highrock;Highrock;;;;;;;;;;;;;x
 b_highrock_adj;Highrocker;;;;;;;;;;;;;x
+b_horsa;Horsa;;;;;;;;;;;;;x
+b_horsa_adj;Horsan;;;;;;;;;;;;;x
 b_horst;Horst;;;;;;;;;;;;;x
 b_horst_adj;Horstian;;;;;;;;;;;;;x
 b_horstall;Horstall;;;;;;;;;;;;;x
@@ -97,6 +103,8 @@ b_koart;Koart;;;;;;;;;;;;;x
 b_koart_adj;Koartan;;;;;;;;;;;;;x
 b_kork;Kork;;;;;;;;;;;;;x
 b_kork_adj;Korkian;;;;;;;;;;;;;x
+b_lehigh;Lehigh;;;;;;;;;;;;;x
+b_lehigh_adj;Lehighan;;;;;;;;;;;;;x
 b_llandrain;Llandrain;;;;;;;;;;;;;x
 b_llandrain_adj;Llandrainian;;;;;;;;;;;;;x
 b_macsheehan;MacSheehan;;;;;;;;;;;;;x
@@ -111,6 +119,8 @@ b_myrrdale;Myrrdale;;;;;;;;;;;;;x
 b_myrrdale_adj;Myrrdaler;;;;;;;;;;;;;x
 b_o_malley;O’Malley;;;;;;;;;;;;;x
 b_o_malley_adj;O’Mallean;;;;;;;;;;;;;x
+b_ogden;Ogden;;;;;;;;;;;;;x
+b_ogden_adj;Ogdenian;;;;;;;;;;;;;x
 b_ossian_rock;Ossian Rock;;;;;;;;;;;;;x
 b_ossian_rock_adj;Ossian Rocker;;;;;;;;;;;;;x
 b_pandira;Pandira;;;;;;;;;;;;;x
