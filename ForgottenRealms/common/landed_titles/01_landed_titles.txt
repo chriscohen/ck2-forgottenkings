@@ -468,12 +468,6 @@ k_moonshae = {
 			
 			b_highrock = {
 			}
-			b_lisburnt_mountains_2 = {
-			}
-			b_lisburnt_mountains_3 = {
-			}
-			b_lisburnt_mountains_4 = {
-			}
 		}
 		c_gnarhelm = {
 			color={ 10 245 5 }
