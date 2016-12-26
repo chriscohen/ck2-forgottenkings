@@ -126,6 +126,22 @@
 		death = yes
 	}
 }
+900008 = {
+	name = Toris # Dungeon 131 Supplement Map & Handout
+	
+	religion = catholic
+	culture = ffolk
+	
+	1321.1.1 = {
+		birth = yes
+	}
+	1357.1.1 = { # Estimate
+		employer = 2800 # Tarnheel Embuirhan # Dungeon 131 Map & Handout Supplement
+	}
+	1371.1.1 = { # Estimate
+		death = yes
+	}
+}
 900029 = {
 	name = Kurrurdan
 	
