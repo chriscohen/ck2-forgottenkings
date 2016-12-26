@@ -352,13 +352,19 @@ k_moonshae = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
-			b_stirgewick = {
+			b_llewellyn = {
 			}
-			b_stirgewick_2 = {
+			b_regents_field = {
 			}
-			b_stirgewick_3 = {
+			b_blythe = {
 			}
-			b_stirgewick_4 = {
+			b_pembroke = {
+			}
+			b_grady = {
+			}
+			b_dorset = {
+			}
+			b_kythyss = {
 			}
 		}
 		c_fairheight = {

@@ -11,6 +11,8 @@ b_barrets_quay;Barret’s Quay;;;;;;;;;;;;;x
 b_barrets_quay_adj;Barret’s Quayan;;;;;;;;;;;;;x
 b_blackstone;Blackstone;;;;;;;;;;;;;x
 b_blackstone_adj;Blackstoner;;;;;;;;;;;;;x
+b_blythe;Blythe;;;;;;;;;;;;;x
+b_blythe_adj;Blythen;;;;;;;;;;;;;x
 b_borth;Borth;;;;;;;;;;;;;x
 b_borth_adj;Borthan;;;;;;;;;;;;;x
 b_brannoch;Brannoch;;;;;;;;;;;;;x
@@ -55,6 +57,8 @@ b_dennins_delve;Dennin’s Delve;;;;;;;;;;;;;x
 b_dennins_delve_adj;Denninian;;;;;;;;;;;;;x
 b_doncastle;Doncastle;;;;;;;;;;;;;x
 b_doncastle;Doncastelian;;;;;;;;;;;;;x
+b_dorset;Dorset;;;;;;;;;;;;;x
+b_dorset_adj;Dorsettian;;;;;;;;;;;;;x
 b_dultann;Dultann;;;;;;;;;;;;;x
 b_dultann_adj;Dultannian;;;;;;;;;;;;;x
 b_dynnatt;Dynnatt;;;;;;;;;;;;;x
@@ -73,6 +77,8 @@ b_follebu;Follebu;;;;;;;;;;;;;x
 b_follebu_adj;Follebian;;;;;;;;;;;;;x
 b_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 b_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
+b_grady;Grady;;;;;;;;;;;;;x
+b_grady_adj;Gradyian;;;;;;;;;;;;;x
 b_graystone;Graystone;;;;;;;;;;;;;x
 b_graystone_adj;Graystoner;;;;;;;;;;;;;x
 b_greystaad;Greystaad;;;;;;;;;;;;;x
@@ -113,10 +119,14 @@ b_koart;Koart;;;;;;;;;;;;;x
 b_koart_adj;Koartan;;;;;;;;;;;;;x
 b_kork;Kork;;;;;;;;;;;;;x
 b_kork_adj;Korkian;;;;;;;;;;;;;x
+b_kythyss;Kythyss;;;;;;;;;;;;;x
+b_kythyss_adj;Kythyssian;;;;;;;;;;;;;x
 b_lehigh;Lehigh;;;;;;;;;;;;;x
 b_lehigh_adj;Lehighan;;;;;;;;;;;;;x
 b_llandrain;Llandrain;;;;;;;;;;;;;x
 b_llandrain_adj;Llandrainian;;;;;;;;;;;;;x
+b_llewellyn;Llewellyn;;;;;;;;;;;;;x
+b_llewellyn_adj;Llewellynian;;;;;;;;;;;;;x
 b_macsheehan;MacSheehan;;;;;;;;;;;;;x
 b_macsheehan_adj;MacSheehan;;;;;;;;;;;;;x
 b_manger;Manger;;;;;;;;;;;;;x
@@ -135,6 +145,8 @@ b_ossian_rock;Ossian Rock;;;;;;;;;;;;;x
 b_ossian_rock_adj;Ossian Rocker;;;;;;;;;;;;;x
 b_pandira;Pandira;;;;;;;;;;;;;x
 b_pandira_adj;Pandiran;;;;;;;;;;;;;x
+b_pembroke;Pembroke;;;;;;;;;;;;;x
+b_pembroke_adj;Pembroken;;;;;;;;;;;;;x
 b_pengram;Pengram;;;;;;;;;;;;;x
 b_pengram_adj;Pengramian;;;;;;;;;;;;;x
 b_pontswain;Pontswain;;;;;;;;;;;;;x
@@ -145,6 +157,8 @@ b_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 b_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 b_ramshorn;Ramshorn;;;;;;;;;;;;;x
 b_ramshorn_adj;Ramshorner;;;;;;;;;;;;;x
+b_regents_field;Regent’s Field;;;;;;;;;;;;;x
+b_regents_field_adj;Regent’s Fieldian;;;;;;;;;;;;;x
 b_rogarsheim;Rogarsheim;;;;;;;;;;;;;x
 b_rogarsheim_adj;Rogarsheimian;;;;;;;;;;;;;x
 b_rottesheim;Rottesheim;;;;;;;;;;;;;x
@@ -159,8 +173,6 @@ b_sommersdal;Sommersdal;;;;;;;;;;;;;x
 b_sommersdal_adj;Sommersdallan;;;;;;;;;;;;;x
 b_sordal;Sordal;;;;;;;;;;;;;x
 b_sordal_adj;Sordallan;;;;;;;;;;;;;x
-b_stirgewick;Stirgewick;;;;;;;;;;;;;x
-b_stirgewick_adj;Stirgewicker;;;;;;;;;;;;;x
 b_storaad;Storaad;;;;;;;;;;;;;x
 b_storaad_adj;Storaadan;;;;;;;;;;;;;x
 b_sunderstaad;Sunderstaad;;;;;;;;;;;;;x
