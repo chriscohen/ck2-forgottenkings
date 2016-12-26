@@ -363,7 +363,11 @@ k_moonshae = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 40 province_id = 41 province_id = 42 } }
+				any_demesne_province = { OR = {
+					province_id = 40
+					province_id = 41
+					province_id = 42
+				} }
 			}
 		}
 		capital = 41 # Corwell
