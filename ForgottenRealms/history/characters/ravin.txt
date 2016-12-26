@@ -1,0 +1,23 @@
+# RAVIN
+# Range = 3000-3099
+
+3000 = {
+	name = Szentarr
+	dynasty = 207001
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1311.1.1 = { # Estimate
+		birth = yes
+	}
+	1357.1.1 = {
+		employer = 2800 # Tarnheel Embuirhan / Mintarn
+		effect = {
+			give_job_title = job_chancellor
+		}
+	}
+	1389.1.1 = { # Estimate
+		death = yes
+	}
+}

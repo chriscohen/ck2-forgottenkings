@@ -6,3 +6,5 @@
 # 204000 - 204999   Cormanthor
 # 205000 - 205999   Ffolk (Moonshaes)
 # 206000 - 206999   Northman (Moonshaes)
+# 207000 - 207999   Tethyr
+# 208000 - 208999   Vaasa

@@ -1,0 +1,26 @@
+# ZHAN
+# Range = 2900-2999
+
+2900 = {
+	name = Bharandas
+	dynasty = 208000
+	
+	religion = catholic
+	culture = vaasan
+	
+	1309.1.1 = { # Estimate
+		birth = yes
+	}
+	1329.1.1 = {
+		trait = zhentarim
+	}
+	1357.1.1 = {
+		employer = 2800 # Tarnheel Embuirhan / Mintarn
+		effect = {
+			give_job_title = job_spymaster
+		}
+	}
+	1387.1.1 = { # Estimate
+		death = yes
+	}
+}

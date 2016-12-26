@@ -1,0 +1,11 @@
+# TETHYRIAN
+# Range = 207000-207999
+
+207000 = {
+	name = Embuirhan
+	culture = tethyrian
+}
+207001 = {
+	name = Ravin
+	culture = tethyrian
+}

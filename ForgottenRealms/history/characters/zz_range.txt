@@ -19,5 +19,8 @@
 # 2500   - 2599     Cambridge
 # 2600   - 2699     Carrathal
 # 2700   - 2799     Kimball
+# 2800   - 2899     Embuirhan
+# 2900   - 2999     Zhan
+# 3000   - 3099     Ravin
 #
 # 900000 - 999999 Lowborn
