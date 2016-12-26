@@ -142,6 +142,36 @@
 		death = yes
 	}
 }
+900009 = {
+	name = Allisynn
+	
+	religion = catholic
+	culture = ffolk
+	
+	210.1.1 = { # Estimate
+		birth = yes
+	}
+	230.1.1 = { # Estimate
+		add_spouse = 1091 # Cymrych Hugh
+	}
+	240.1.1 = { # Estimate
+		death = yes
+	}
+}
+900010 = {
+	# TSR9217 Moonshae p.33
+	name = McDonnell
+	
+	religion = catholic
+	culture = ffolk
+	
+	1323.1.1 = { # Estimate
+		birth = yes
+	}
+	1381.1.1 = { # Estimate
+		death = yes
+	}
+}
 900029 = {
 	name = Kurrurdan
 	
