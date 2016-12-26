@@ -7,7 +7,7 @@ title = c_stirgewick
 max_settlements = 7
 
 b_llewellyn = castle
-b_regents_field = castle
+b_kythyss = castle
 
 # Misc
 culture = ffolk
