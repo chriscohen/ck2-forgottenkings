@@ -1,0 +1,180 @@
+177.1.1 = {
+	holder = 1900 # Callidyrr Hugh
+}
+193.1.1 = {
+	holder = 1901 # Cymrych Hugh
+}
+201.1.1 = {
+	holder = 2000 # Christopher Riker (regency)
+}
+250.1.1 = {
+	holder = 2001 # Cedric Riker (regency)
+}
+275.1.1 = {
+	holder = 1702 # Kendrick Hugh (in the Kendrick Dynasty though)
+}
+289.1.1 = {
+	holder = 2103 # Gwylloch Hugh (seized power)
+}
+293.1.1 = {
+	holder = 1703 # Durnhal Kendrick
+}
+295.1.1 = {
+	holder = 2103 # Gwylloch Hugh (seized power again)
+}
+299.1.1 = {
+	holder = 1704 # Dhryden Kendrick
+}
+302.1.11 = {
+	holder = 1705 # Rhydian Kendrick - source says 303, but this would leave a gap
+}
+335.1.1 = {
+	holder = 1709 # Stryllan Kendrick
+}
+360.1.11 = {
+	holder = 1710 # Ryndal Kendrick
+}
+363.1.1 = {
+	holder = 1711 # Colwyn Kendrick - source says 364, but this would leave a gap
+}
+375.1.11 = {
+	holder = 1713 # Corwyn Kendrick
+}
+395.1.1 = {
+	holder = 1714 # Conrayd Kendrick
+}
+402.1.1 = {
+	holder = 2110 # Lann Cymrych (regency)
+}
+416.1.1 = {
+	holder = 1715 # Kryllen Kendrick
+}
+469.1.1 = {
+	holder = 1716 # Glynn Kendrick
+}
+479.1.1 = {
+	holder = 1717 # Garwyn Kendrick
+}
+502.1.1 = {
+	holder = 1718 # Ballard Kendrick
+}
+526.1.1 = {
+	holder = 1720 # Ballam Kendrick
+}
+542.1.1 = {
+	holder = 1721 # Roary Kendrick
+}
+570.1.1 = {
+	holder = 1723 # Boryld Kendrick
+}
+603.1.1 = {
+	holder = 1724 # Styffan Kendrick
+}
+621.1.1 = {
+	holder = 1725 # Gwillian Kendrick - source says 622, but this would leave a gap
+}
+624.1.1 = {
+	holder = 1726 # Diffayn Kendrick
+}
+630.1.1 = {
+	holder = 1727 # Dafyn Kendrick
+}
+632.1.1 = {
+	holder = 1728 # Lyndra Kendrick
+}
+649.1.1 = {
+	holder = 1729 # Merfan Kendrick
+}
+661.1.1 = {
+	holder = 2124 # Warren II Cymrych (regency)
+}
+674.1.1 = {
+	holder = 2125 # Tobert Cymrych (regency)
+}
+676.1.1 = {
+	holder = 1730 # Wrynn Kendrick
+}
+729.1.1 = {
+	holder = 1731 # Wystan Kendrick
+}
+739.1.1 = {
+	holder = 1732 # Tannystan Kendrick
+}
+749.1.1 = {
+	holder = 1733 # Tarkwyn Kendrick
+}
+759.1.1 = {
+	holder = 1734 # Torkwyl Kendrick
+}
+764.1.1 = {
+	holder = 1735 # Tristayn Kendrick
+}
+770.1.11 = {
+	holder = 1736 # Krytan Kendrick
+}
+781.1.1 = {
+	holder = 1737 # Sartayln Kendrick
+}
+801.1.1 = {
+	holder = 1738 # Eryllam Kendrick
+}
+837.1.1 = {
+	holder = 1739 # Erllan Kendrick
+}
+853.1.1 = {
+	holder = 1740 # Myrtaln Kendrick
+}
+877.1.1 = {
+	holder = 1741 # Owyn Kendrick
+}
+899.1.1 = {
+	holder = 1742 # Orweln Kendrick
+}
+927.1.1 = {
+	holder = 1743 # Storlln Kendrick
+}
+947.1.1 = {
+	holder = 1744 # Serylln Kendrick
+}
+1000.1.11 = {
+	holder = 1746 # Martyn Kendrick
+}
+1018.1.1 = {
+	holder = 1747 # Rhobyt Kendrick
+}
+1025.1.1 = {
+	holder = 1748 # Ryllard Kendrick
+}
+1047.1.11 = {
+	holder = 1749 # Powyl Kendrick
+}
+1106.1.1 = {
+	holder = 1751 # Serdilln Kendrick
+}
+1110.1.1 = {
+	holder = 1752 # Myrfana Kendrick - source says 1117, but that would leave a gap
+}
+1161.1.1 = {
+	holder = 1754 # Tyndal Kendrick
+}
+1171.1.1 = {
+	holder = 1752 # Myrfana Kendrick (regency)
+}
+1181.1.1 = {
+	holder = 1755 # Chrystan Kendrick
+}
+1226.1.1 = {
+	holder = 1756 # Brytain Kendrick - source says 1227, but this would leave a gap
+}
+1254.1.1 = {
+	holder = 1757 # Cerestan Kendrick
+}
+1271.1.1 = {
+	holder = 1758 # Brystan II Kendrick
+}
+1319.1.1 = {
+	holder = 1701 # Bryon Kendrick
+}
+1346.1.1 = {
+	holder = 1700 # Tristan Kendrick
+}
