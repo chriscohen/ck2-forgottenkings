@@ -459,11 +459,7 @@ k_moonshae = {
 			
 			b_sunderstaad = {
 			}
-			b_north_alaron_2 = {
-			}
-			b_north_alaron_3 = {
-			}
-			b_north_alaron_4 = {
+			b_castle_morose = {
 			}
 		}
 		c_lisburnt_mountains = {
