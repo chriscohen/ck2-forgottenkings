@@ -355,6 +355,15 @@ k_moonshae = {
 			b_stirgewick_4 = {
 			}
 		}
+		c_fairheight = {
+			color={ 10 245 5 }
+			color2={ 255 255 255 }
+			
+			b_blackstone = {
+			}
+			b_white_rock = {
+			}
+		}
 	}
 	d_corwell = {
 		color={ 10 245 5 }
@@ -456,19 +465,6 @@ k_moonshae = {
 			b_lisburnt_mountains_3 = {
 			}
 			b_lisburnt_mountains_4 = {
-			}
-		}
-		c_fairheight = {
-			color={ 10 245 5 }
-			color2={ 255 255 255 }
-			
-			b_blackstone = {
-			}
-			b_fairheight_2 = {
-			}
-			b_fairheight_3 = {
-			}
-			b_fairheight_4 = {
 			}
 		}
 		c_gnarhelm = {
