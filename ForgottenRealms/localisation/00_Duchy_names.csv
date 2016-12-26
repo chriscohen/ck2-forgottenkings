@@ -13,6 +13,8 @@ d_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 d_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
 d_korinn;Korinn Archipelago;;;;;;;;;;;;;x
 d_korinn_adj;Korinnian;;;;;;;;;;;;;x
+d_mintarn;Mintarn;;;;;;;;;;;;;x
+d_mintarn_adj;Mintarnan;;;;;;;;;;;;;x
 d_moray;Moray;;;;;;;;;;;;;x
 d_moray_adj;Morayan;;;;;;;;;;;;;x
 d_myrloch;Myrloch;;;;;;;;;;;;;x
@@ -23,6 +25,8 @@ d_norland;Norland;;;;;;;;;;;;;x
 d_norland_adj;Norlander;;;;;;;;;;;;;x
 d_oman;Oman;;;;;;;;;;;;;x
 d_oman_adj;Omanian;;;;;;;;;;;;;x
+d_skadaurak;Skadaurak;;;;;;;;;;;;;x
+d_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
 d_snowdown;Snowdown;;;;;;;;;;;;;x
 d_snowdown_adj;Snowdownian;;;;;;;;;;;;;x
 d_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;;;;;;;x

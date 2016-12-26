@@ -266,12 +266,38 @@ k_icewind_dale = {
 		}
 	}
 }
+d_mintarn = {
+	color={ 30 225 15 }
+	color2={ 255 255 255 }
+	
+	capital = 68 # Mintarn
+	culture = ffolk # TODO: own culture for Mintarn?
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 68
+			}
+		}
+	}
+	
+	c_mintarn = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		b_mintarn = {
+		}
+		b_queens_cove = {
+		}
+	}
+}
 k_moonshae = {
 	color={ 30 225 15 }
 	color2={ 255 255 255 }
 	
 	capital = 25 # West Oman, for now
-	culture = moonshae
+	culture = ffolk
 	
 	d_callidyrr = {
 		color={ 10 245 5 }
@@ -280,7 +306,12 @@ k_moonshae = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 province_id = 29 } }
+				any_demesne_province = { OR = {
+					province_id = 26
+					province_id = 27
+					province_id = 28
+					province_id = 29
+				} }
 			}
 		}
 		capital = 31 # Talffolk
@@ -862,6 +893,30 @@ k_moonshae = {
 			}
 			b_darkhorn_castle = {
 			}
+		}
+	}
+}
+d_skadaurak = {
+	color={ 30 225 15 }
+	color2={ 255 255 255 }
+	
+	capital = 67 # Skadaurak
+	culture = ffolk # TODO: own culture for Skadaurak?
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 67
+			}
+		}
+	}
+	
+	c_skadaurak = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		b_skadaurak = {
 		}
 	}
 }

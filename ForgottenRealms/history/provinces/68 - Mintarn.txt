@@ -1,0 +1,15 @@
+# c_mintarn
+
+# County Title
+title = c_mintarn
+
+# Settlements
+max_settlements = 2
+
+b_mintarn = castle
+
+# Misc
+culture = ffolk
+religion = catholic
+
+#History
