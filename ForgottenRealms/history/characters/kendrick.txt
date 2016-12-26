@@ -15,6 +15,9 @@
 	1328.1.1 = {
 		birth = yes
 	}
+	1390.1.1 = { # Estimate
+		death = yes
+	}
 }
 1701 = {
 	name = Bryon
