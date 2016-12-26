@@ -143,8 +143,12 @@ b_o_malley;O’Malley;;;;;;;;;;;;;x
 b_o_malley_adj;O’Mallean;;;;;;;;;;;;;x
 b_ogden;Ogden;;;;;;;;;;;;;x
 b_ogden_adj;Ogdenian;;;;;;;;;;;;;x
+b_olafstaad;Olafstaad;;;;;;;;;;;;;x
+b_olafstaad_adj;Olafstaadian;;;;;;;;;;;;;x
 b_ossian_rock;Ossian Rock;;;;;;;;;;;;;x
 b_ossian_rock_adj;Ossian Rocker;;;;;;;;;;;;;x
+b_otta;Otta;;;;;;;;;;;;;x
+b_otta_adj;Ottan;;;;;;;;;;;;;x
 b_pandira;Pandira;;;;;;;;;;;;;x
 b_pandira_adj;Pandiran;;;;;;;;;;;;;x
 b_pembroke;Pembroke;;;;;;;;;;;;;x
@@ -187,6 +191,8 @@ b_trondhelm;Trondhelm;;;;;;;;;;;;;x
 b_trondhelm_adj;Trondhelmer;;;;;;;;;;;;;x
 b_ventris;Ventris;;;;;;;;;;;;;x
 b_ventris_adj;Ventricular;;;;;;;;;;;;;x
+b_warlsbry;Warlsbry;;;;;;;;;;;;;x
+b_warlsbry_adj;Warlsbryan;;;;;;;;;;;;;x
 b_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
 b_wave_rocks_adj;Wave Rocker;;;;;;;;;;;;;x
 b_westhaven;Westhaven;;;;;;;;;;;;;x

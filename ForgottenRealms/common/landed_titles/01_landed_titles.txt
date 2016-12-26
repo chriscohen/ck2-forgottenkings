@@ -475,11 +475,11 @@ k_moonshae = {
 			
 			b_gnarhelm = {
 			}
-			b_gnarhelm_2 = {
+			b_olafstaad = {
 			}
-			b_gnarhelm_3 = {
+			b_warlsbry = {
 			}
-			b_gnarhelm_4 = {
+			b_otta = {
 			}
 		}
 	}
