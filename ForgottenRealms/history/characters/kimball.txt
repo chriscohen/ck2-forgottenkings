@@ -14,6 +14,11 @@
 	1096.1.1 = {
 		birth = yes
 	}
+	1124.1.1 = {
+		effect = {
+			add_lover = 900007 # Eleanor
+		}
+	}
 	1150.1.1 = { # Estimate
 		death = yes
 	}

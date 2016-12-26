@@ -118,7 +118,9 @@
 		add_spouse = 2609 # Edwin II Carrathal
 	}
 	1124.1.1 = {
-		add_lover = 2700 # Adom Kimball
+		effect = {
+			add_lover = 2700 # Adom Kimball
+		}
 	}
 	1140.1.1 = { # Estimate
 		death = yes
