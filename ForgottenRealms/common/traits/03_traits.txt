@@ -18,3 +18,8 @@ purple_dragon = {
 	
 	general_opinion = 5
 }
+zhentarim = {
+	random = no
+	
+	lifestyle = yes
+}
