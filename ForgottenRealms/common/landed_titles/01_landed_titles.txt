@@ -367,6 +367,7 @@ k_moonshae = {
 					province_id = 40
 					province_id = 41
 					province_id = 42
+					province_id = 65
 				} }
 			}
 		}
