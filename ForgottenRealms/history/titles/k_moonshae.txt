@@ -19,8 +19,120 @@
 	holder = 2000 # Christopher Riker
 }
 250.1.1 = {
-	holder = 2001 # Cedric Riker
+	holder = 2100 # Warren I Cymrych
 }
-1346.1.1 = {
-	holder = 1700 # Tristan Kendrick
+259.1.1 = {
+	holder = 2101 # Tamara Cymrych
+}
+287.1.1 = {
+	holder = 2103 # Gwylloch Cymrych
+}
+299.1.1 = {
+	holder = 2104 # Gorham Cymrych
+}
+322.1.1 = {
+	holder = 2105 # Markus Cymrych
+}
+333.1.1 = {
+	holder = 2107 # Cameron Cymrych
+}
+370.1.1 = {
+	holder = 2108 # Bran Cymrych
+}
+378.1.1 = {
+	holder = 2109 # Conall Cymrych
+}
+389.1.1 = {
+	holder = 2110 # Lann Cymrych
+}
+420.1.1 = {
+	holder = 2111 # Carrig II Cymrych
+}
+431.1.1 = {
+	holder = 2112 # Kemble Cymrych
+}
+482.1.1 = {
+	holder = 2113 # Tristram Cymrych
+}
+483.1.1 = {
+	holder = 2114 # Tuathal Cymrych
+}
+499.1.1 = {
+	holder = 2115 # Carrig III Cymrych
+}
+500.1.1 = {
+	holder = 2200 # Edmund Kincaid (regency)
+}
+507.1.1 = {
+	holder = 2116 # Colin Cymrych
+}
+549.1.1 = {
+	holder = 2117 # Gordon Cymrych
+}
+569.1.1 = {
+	holder = 2118 # Miranda Cymrych
+}
+609.1.1 = {
+	holder = 2119 # Embro I Cymrych
+}
+614.1.1 = {
+	holder = 2120 # Embro II Cymrych
+}
+632.1.1 = {
+	holder = 2121 # Alec I Cymrych
+}
+640.1.1 = {
+	holder = 2122 # Rowland Cymrych
+}
+642.1.1 = {
+	holder = 2123 # Samuel Cymrych
+}
+651.1.1 = {
+	holder = 2124 # Warren II Cymrych
+}
+674.1.1 = {
+	holder = 2125 # Tobert Cymrych
+}
+679.1.1 = {
+	holder = 2126 # Ernest Cymrych
+}
+731.1.1 = {
+	holder = 2127 # Carthus Cymrych
+}
+731.7.1 = {
+	holder = 2128 # Alec II Cymrych
+}
+738.1.1 = {
+	holder = 2129 # Pendar Cymrych
+}
+749.1.1 = {
+	holder = 2130 # Declan Cymrych
+}
+762.1.1 = {
+	holder = 2131 # Ciaran Cymrych
+}
+773.1.1 = {
+	holder = 2133 # Ardan Cymrych
+}
+796.1.1 = {
+	holder = 2134 # Byron I Cymrych
+}
+826.1.1 = {
+	holder = 2135 # Kevan Cymrych
+}
+850.1.1 = {
+	holder = 2136 # Dolan Cymrych
+}
+852.1.1 = {
+	holder = 2137 # Conn Cymrych
+}
+885.1.1 = {
+	holder = 2138 # Byron II Cymrych
+}
+902.1.11 = {
+	holder = 2139 # Tanner Cymrych
+	holder = 2139 # Tanner Cymrych
+}
+944.1.1 = {
+	holder = 0 # End of rule of Moonshae Isles as a whole
 }
