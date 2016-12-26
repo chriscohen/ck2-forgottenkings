@@ -440,7 +440,7 @@ k_moonshae = {
 			b_north_alaron_4 = {
 			}
 		}
-		c_lisburnt_moutains = {
+		c_lisburnt_mountains = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
