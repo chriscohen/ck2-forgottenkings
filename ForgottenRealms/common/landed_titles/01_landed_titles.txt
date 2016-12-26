@@ -683,7 +683,7 @@ k_moonshae = {
 		}
 		capital = 53 # Llorgh
 		
-		c_graygrunn = {
+		c_graygruun = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			

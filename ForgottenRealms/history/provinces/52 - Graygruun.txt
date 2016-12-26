@@ -1,7 +1,7 @@
-# c_graygrunn
+# c_graygruun
 
 # County Title
-title = c_graygrunn
+title = c_graygruun
 
 # Settlements
 max_settlements = 2
