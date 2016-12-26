@@ -113,6 +113,8 @@ b_horst;Horst;;;;;;;;;;;;;x
 b_horst_adj;Horstian;;;;;;;;;;;;;x
 b_horstall;Horstall;;;;;;;;;;;;;x
 b_horstall_adj;Horstallan;;;;;;;;;;;;;x
+b_iron_keep;Iron Keep;;;;;;;;;;;;;x
+b_iron_keep_adj;Iron Keeper;;;;;;;;;;;;;x
 b_jacaman;Jacaman;;;;;;;;;;;;;x
 b_jacaman_adj;Jacamanian;;;;;;;;;;;;;x
 b_kingsbay;Kingsbay;;;;;;;;;;;;;x
@@ -125,6 +127,8 @@ b_kythyss;Kythyss;;;;;;;;;;;;;x
 b_kythyss_adj;Kythyssian;;;;;;;;;;;;;x
 b_lehigh;Lehigh;;;;;;;;;;;;;x
 b_lehigh_adj;Lehighan;;;;;;;;;;;;;x
+b_lillemaren;Lillemaren;;;;;;;;;;;;;x
+b_lillemaren_adj;Lillemarian;;;;;;;;;;;;;x
 b_llandrain;Llandrain;;;;;;;;;;;;;x
 b_llandrain_adj;Llandrainian;;;;;;;;;;;;;x
 b_llewellyn;Llewellyn;;;;;;;;;;;;;x
@@ -175,6 +179,8 @@ b_shee_pool;Shee Pool;;;;;;;;;;;;;x
 b_shee_pool_adj;Shee Pooler;;;;;;;;;;;;;x
 b_skadaurak;Skadaurak;;;;;;;;;;;;;x
 b_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
+b_skten;Skten;;;;;;;;;;;;;x
+b_skten_adj;Sktenan;;;;;;;;;;;;;x
 b_sommersdal;Sommersdal;;;;;;;;;;;;;x
 b_sommersdal_adj;Sommersdallan;;;;;;;;;;;;;x
 b_sordal;Sordal;;;;;;;;;;;;;x

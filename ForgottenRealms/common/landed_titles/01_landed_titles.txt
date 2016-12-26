@@ -801,11 +801,9 @@ k_moonshae = {
 			
 			b_ramshorn = {
 			}
-			b_east_oman_2 = {
+			b_lillemaren = {
 			}
-			b_east_oman_3 = {
-			}
-			b_east_oman_4 = {
+			b_iron_keep = {
 			}
 		}
 		c_west_oman = {
@@ -814,11 +812,7 @@ k_moonshae = {
 			
 			b_trondhelm = {
 			}
-			b_west_oman_2 = {
-			}
-			b_west_oman_3 = {
-			}
-			b_west_oman_4 = {
+			b_skten = {
 			}
 		}
 	}
