@@ -1,0 +1,9 @@
+140.1.1 = {
+	liege = "k_moonshae"
+}
+944.1.1 = {
+	liege = 0 # End of rule of Moonshae Isles as a whole
+}
+1365.1.1 = {
+	liege = "k_moonshae"
+}

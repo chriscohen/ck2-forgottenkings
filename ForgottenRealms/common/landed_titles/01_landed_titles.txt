@@ -296,7 +296,7 @@ k_moonshae = {
 	color={ 30 225 15 }
 	color2={ 255 255 255 }
 	
-	capital = 25 # West Oman, for now
+	capital = 41 # Corwell
 	culture = ffolk
 	
 	title = "TITLE_HIGH_KING"

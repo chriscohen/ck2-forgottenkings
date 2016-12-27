@@ -136,3 +136,6 @@
 944.1.1 = {
 	holder = 0 # End of rule of Moonshae Isles as a whole
 }
+1365.1.1 = {
+	holder = 1759 # Alicia Kendrick
+}

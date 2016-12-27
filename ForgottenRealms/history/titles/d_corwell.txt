@@ -1,3 +1,6 @@
+140.1.1 = {
+	liege = "k_moonshae"
+}
 177.1.1 = {
 	holder = 1900 # Callidyrr Hugh
 }
@@ -133,6 +136,9 @@
 927.1.1 = {
 	holder = 1743 # Storlln Kendrick
 }
+944.1.1 = {
+	liege = 0 # End of rule of Moonshae Isles as a whole
+}
 947.1.1 = {
 	holder = 1744 # Serylln Kendrick
 }
@@ -177,4 +183,8 @@
 }
 1346.1.1 = {
 	holder = 1700 # Tristan Kendrick
+}
+1365.1.1 = {
+	liege = "k_moonshae"
+	holder = 1759 # Alicia Kendrick
 }

@@ -1,11 +1,22 @@
 177.1.1 = {
+	liege = "k_moonshae"
 	holder = 2201 # Gwylloch Kincaid
 }
-# Gap
+230.1.1 = {
+	holder = 0
+}
 485.1.1 = {
 	holder = 2200 # Edmund Kincaid
 }
-# Gap
+507.1.1 = {
+	holder = 0
+}
+944.1.1 = {
+	liege = 0 # End of rule of Moonshae Isles as a whole
+}
 1096.1.1 = { # Estimate
 	holder = 2202 # Arrasynd Kincaid
+}
+1365.1.1 = {
+	liege = "k_moonshae"
 }

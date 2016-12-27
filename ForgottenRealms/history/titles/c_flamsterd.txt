@@ -178,3 +178,6 @@
 1346.1.1 = {
 	holder = 1700 # Tristan Kendrick
 }
+1365.1.1 = {
+	holder = 1759 # Alicia Kendrick
+}

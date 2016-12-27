@@ -52,3 +52,6 @@
 1332.1.1 = {
 	holder = 2618 # Reginald
 }
+1365.1.1 = {
+	liege = "k_moonshae"
+}

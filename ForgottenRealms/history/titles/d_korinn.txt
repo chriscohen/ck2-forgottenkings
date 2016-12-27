@@ -1,3 +1,12 @@
 191.1.1 = {
 	holder = 2400 # Ventris Cyric, very brief holder
 }
+191.11.1 = {
+	holder = 0
+}
+944.1.1 = {
+	liege = 0 # End of rule of Moonshae Isles as a whole
+}
+1365.1.1 = {
+	liege = "k_moonshae"
+}
