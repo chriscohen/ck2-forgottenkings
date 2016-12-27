@@ -474,7 +474,7 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adom Adrian Alec Ardan
+			Adom Adrian Alec Ardan Arlen
 			Ballam Ballard Bayle Benjamin Boryld Bran Bryon Brystan Brytain Byron
 			Callidyrr Cameron Carrig Carthus Cedric Cerestan Christopher Chrystan Ciaran Colin Coltyn Colwyn Conn Connal Conrayd Corwyn Cymrych
 			Dafyn Declan Deric Diffayn Dolan Durnhal Dhryden
