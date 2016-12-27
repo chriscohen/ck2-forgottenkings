@@ -266,7 +266,7 @@ human = {
 			Dafyn Declan Deric Diffayn Dolan Durnhal Dhryden
 			Edmund Edwin Embro Erfle Erllan Ernest Eryllam
 			Glynn Gordon Gorham Gwillian Gwylloch
-			Kemble Kendrick Ketheryll Kevan Kryllen Krytan
+			Kemble Kendrick Keren Ketheryll Kevan Kryllen Krytan
 			Lann
 			Markus Martyn Merfan Myrtaln
 			Niall
