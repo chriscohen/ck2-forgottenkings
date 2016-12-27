@@ -1,3 +1,217 @@
+dwarf = {
+	graphical_cultures = { westerngfx }
+	
+	arctic_dwarf = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.7 0.4 0.1 }
+		
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	duergar = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.6 0.35 0.05 }
+		
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	gold_dwarf = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.7 0.65 0.1 }
+		
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	shield_dwarf = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.7 0.4 0.7 }
+		
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	urdunnir = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.7 0.35 0.15 }
+		
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	wild_dwarf = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.7 0.9 0.1 }
+		
+		male_names = {
+			Unnamed
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+}
 elf = {
 	graphical_cultures = { westerngfx }
 	
@@ -41,7 +255,7 @@ halfling = {
 	graphical_cultures = { westerngfx }
 	
 	ghostwise = {
-		graphical_cultures = { westergfx }
+		graphical_cultures = { westerngfx }
 		color = { 0.9 0.9 0.1 }
 		
 		male_names = {
@@ -75,7 +289,7 @@ halfling = {
 		seafarer = no
 	}
 	lightfoot = {
-		graphical_cultures = { westergfx }
+		graphical_cultures = { westerngfx }
 		color = { 0.9 0.9 0.3 }
 		
 		male_names = {
@@ -109,7 +323,7 @@ halfling = {
 		seafarer = no
 	}
 	strongheart = {
-		graphical_cultures = { westergfx }
+		graphical_cultures = { westerngfx }
 		color = { 0.9 0.9 0.5 }
 		
 		male_names = {
