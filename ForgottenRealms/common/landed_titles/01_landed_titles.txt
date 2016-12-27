@@ -1136,6 +1136,8 @@ k_sembia = {
 			
 			b_tulbegh = {
 			}
+			b_surd = {
+			}
 		}
 	}
 	d_saerloon = {
