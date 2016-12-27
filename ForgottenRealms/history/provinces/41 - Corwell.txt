@@ -7,10 +7,12 @@ title = c_corwell
 max_settlements = 4
 
 b_caer_corwell = castle
-b_koart = castle
 
 # Misc
 culture = ffolk
 religion = catholic
 
-#History
+# History
+1338.1.1 = {
+	b_koart = castle
+}

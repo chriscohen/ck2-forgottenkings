@@ -45,3 +45,7 @@
 	name = Kythyss
 	culture = ffolk
 }
+205011 = {
+	name = Koart
+	culture = ffolk
+}

@@ -24,5 +24,6 @@
 # 3000   - 3099     Ravin
 # 3100   - 3199     Llewellyn
 # 3200   - 3299     Kythyss
+# 3300   - 3399     Koart
 #
 # 900000 - 999999 Lowborn

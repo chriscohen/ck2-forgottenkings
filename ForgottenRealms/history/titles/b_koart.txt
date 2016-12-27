@@ -1,0 +1,7 @@
+1338.1.1 = {
+	liege = "c_corwell"
+	holder = 3300 # Adrian Koart
+}
+1371.1.1 = {
+	holder = 0
+}
