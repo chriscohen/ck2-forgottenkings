@@ -15,6 +15,12 @@
 	1328.1.1 = {
 		birth = yes
 	}
+	1346.1.1 = {
+		add_spouse = 900012 # Robyn
+	}
+	1352.1.1 = {
+		trait = depressed # Wife dead
+	}
 	1390.1.1 = { # Estimate
 		death = yes
 	}
