@@ -226,6 +226,27 @@
 		trait = immortal # He's a wizard, Harry
 	}
 }
+900014 = {
+	name = Pawldo
+	
+	religion = catholic
+	culture = lightfoot
+	
+	1301.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		employer = 1700 # Tristan Kendrick
+	}
+	1365.1.1 = {
+		employer = 1365 # Alicia Kendrick
+	}
+	1365.6.1 = {
+		death = {
+			death_reason = death_accident # Killed by Ityak-Ortheel (monster)
+		}
+	}
+}
 900029 = {
 	name = Kurrurdan
 	
