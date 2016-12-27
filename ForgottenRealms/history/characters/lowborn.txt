@@ -207,6 +207,25 @@
 		death = yes
 	}
 }
+900013 = {
+	name = Keane
+	
+	religion = catholic
+	culture = ffolk
+	
+	1322.1.1 = { # Estimate
+		birth = yes
+	}
+	1346.1.1 = {
+		employer = 1700 # Tristan Kendrick
+	}
+	1366.6.1 = { # Estimated month and day
+		add_matrilineal_spouse = 1759 # Alicia Kendrick
+	}
+	1410.1.1 = {
+		trait = immortal # He's a wizard, Harry
+	}
+}
 900029 = {
 	name = Kurrurdan
 	

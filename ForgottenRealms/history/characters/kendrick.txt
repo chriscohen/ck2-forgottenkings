@@ -1010,6 +1010,9 @@
 	1346.11.1 = { # Estimated month and day
 		birth = yes
 	}
+	1366.6.1 = { # Estimated month and day
+		add_matrilineal_spouse = 900013 # Keane
+	}
 	1407.1.1 = { # Uncited
 		death = yes
 	}
