@@ -1,4 +1,4 @@
-max_provinces = 69
+max_provinces = 94
 # stats:  21 provinces
 # unused:
 definitions = "definition.csv"
@@ -19,12 +19,12 @@ seasons = "seasons.txt"
 externals = {
 }
 
-sea_zones = { 3 9 }
+sea_zones = { 3 7 }
 sea_zones = { 18 18 }
 sea_zones = { 43 43 }
 
 ocean_region = {	# OCEAN
-	sea_zones = { 1 2 }
+	sea_zones = { 1 2 3 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
@@ -34,5 +34,7 @@ major_rivers =
 {
 	# OCEAN
 	3 4 5 6 7 8 9  #Ocean
-	18 
+	18 # Wyvernwater
+	43 # Myrloch
+	69 70 71 72 73 74 75 76 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 # Moonshaes	
 }

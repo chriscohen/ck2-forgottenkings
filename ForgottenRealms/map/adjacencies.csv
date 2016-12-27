@@ -1,1 +1,20 @@
 From;To;Type;Through;-1;-1;-1;-1;Comment
+65;42;sea;8;-1;-1;-1;-1;Flamsterd-Kimball
+40;66;sea;70;-1;-1;-1;-1;Kingsbay-Snowdown
+66;32;sea;72;-1;-1;-1;-1;Snowdown-Stirgewick
+33;30;sea;71;-1;-1;-1;-1;Stagford-Winterglen
+35;63;sea;8;-1;-1;-1;-1;Black Mountains-Orcskill
+24;34;sea;75;-1;-1;-1;-1;East Oman-Codsbay
+61;59;sea;76;-1;-1;-1;-1;Trollclaw-Grondsgrunn
+57;55;sea;81;-1;-1;-1;-1;Norland-Canthrell
+55;54;sea;81;-1;-1;-1;-1;Canthrell-Jotunspine
+54;52;sea;80;-1;-1;-1;-1;Jotunspine-Graygruun
+52;53;sea;80;-1;-1;-1;-1;Graygruun-Llorgh
+26;44;sea;91;-1;-1;-1;-1;North Alaron-Caftenor
+44;45;sea;91;-1;-1;-1;-1;Caftenor-Highport
+44;47;sea;91;-1;-1;-1;-1;Caftenor-Ventris
+47;48;sea;90;-1;-1;-1;-1;Ventris-Rabins Reef
+47;46;sea;91;-1;-1;-1;-1;Ventris-Barrets Quay
+48;49;sea;90;-1;-1;-1;-1;Rabins Reef-Dennik
+49;50;sea;90;-1;-1;-1;-1;Dennik-Jacaman
+49;51;sea;90;-1;-1;-1;-1;Dennik-Pandira

@@ -1,13 +1,13 @@
 province;red;green;blue;x;x
 1;0;255;0;Icewind Dale;x
 2;30;0;255;Ten-Towns;x
-3;255;0;0;Ocean1;x
-4;21;181;141;Ocean2;x
-5;255;43;238;Ocean3;x
-6;147;221;203;Ocean4;x
-7;77;159;139;Ocean5;x
-8;177;102;171;Ocean6;x
-9;134;20;125;Ocean7;x
+3;121;73;149;Flamsterd Head;x
+4;131;89;175;Dragon Head;x
+5;183;157;210;Lotans Abyss;x
+6;120;65;177;Last Head;x
+7;106;21;193;Corwell Firth;x
+8;174;105;228;Strait of the Leviathan;x
+9;189;131;235;Tir faoi Thoinn;x
 10;170;39;39;The Stonelands;x
 11;145;22;22;Tilverton;x
 12;180;111;111;Thunder Peaks;x
@@ -67,3 +67,28 @@ province;red;green;blue;x;x
 66;6;62;137;Snowdown;x
 67;189;183;21;Skadaurak;x
 68;214;208;34;Mintarn;x
+69;90;58;108;Sea of Snowdown;x
+70;158;65;230;Sea of Kingsbay;x
+71;116;77;147;Strait of Alaron;x
+72;100;17;165;South Great Head;x
+73;63;16;99;East Great Head;x
+74;80;13;132;Ossian Reefs;x
+75;137;59;197;Strait of Oman;x
+76;202;175;222;Trackless Strait;x
+77;128;46;191;North Cape Bay;x
+78;164;63;242;Bay of Norland;x
+79;124;77;160;Sea of Moonshae;x
+80;200;154;235;Northwind Strait;x
+81;181;152;204;Canthrell Sea;x
+82;153;103;182;Jotunhammer Bay;x
+83;126;63;162;Wave Rocks Bay;x
+84;95;14;141;North Norland Sea;x
+85;175;128;202;Norheim Sea;x
+86;144;60;230;Jotunspine Sea;x
+87;139;62;199;Salmon Bay;x
+88;147;96;199;Graygruun Strait;x
+89;121;107;136;North Norheim Sea;x
+90;116;63;170;Korinn Sea;x
+91;133;125;142;Barrets Sea;x
+92;114;64;164;Amarune Point;x
+93;141;40;219;Whitefish Bay;x

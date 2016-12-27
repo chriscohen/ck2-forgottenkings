@@ -1,12 +1,12 @@
 PROV1;Icewind Dale;;;;;;;;;;;x
 PROV2;Ten-Towns;;;;;;;;;;;x
-PROV3;Ocean;;;;;;;;;;;x
-PROV4;Ocean;;;;;;;;;;;x
-PROV5;Ocean;;;;;;;;;;;x
-PROV6;Ocean;;;;;;;;;;;x
-PROV7;Ocean;;;;;;;;;;;x
-PROV8;Ocean;;;;;;;;;;;x
-PROV9;Ocean;;;;;;;;;;;x
+PROV3;Flamsterd Head;;;;;;;;;;;x
+PROV4;Dragon Head;;;;;;;;;;;x
+PROV5;Lotan’s Abyss;;;;;;;;;;;x
+PROV6;Last Head;;;;;;;;;;;x
+PROV7;Corwell Firth;;;;;;;;;;;x
+PROV8;Strait of the Leviathan;;;;;;;;;;;x
+PROV9;Tir faoi Thoinn;;;;;;;;;;;x
 PROV10;The Stonelands;;;;;;;;;;;x
 PROV11;Tilverton;;;;;;;;;;;x
 PROV12;Thunder Peaks;;;;;;;;;;;x
@@ -66,3 +66,28 @@ PROV65;Flamsterd;;;;;;;;;;;x
 PROV66;Snowdown;;;;;;;;;;;x
 PROV67;Skadaurak;;;;;;;;;;;x
 PROV68;Mintarn;;;;;;;;;;;x
+PROV69;Sea of Snowdown;;;;;;;;;;;x
+PROV70;Kingsbay;;;;;;;;;;;x
+PROV71;Strait of Alaron;;;;;;;;;;;x
+PROV72;South Great Head;;;;;;;;;;;x
+PROV73;East Great Head;;;;;;;;;;;x
+PROV74;Ossian Reefs;;;;;;;;;;;x
+PROV75;Strait of Oman;;;;;;;;;;;x
+PROV76;Trackless Strait;;;;;;;;;;;x
+PROV77;North Cape Bay;;;;;;;;;;;x
+PROV78;Bay of Norland;;;;;;;;;;;x
+PROV79;Sea of Moonshae;;;;;;;;;;;x
+PROV80;Northwind Strait;;;;;;;;;;;x
+PROV81;Canthrell Sea;;;;;;;;;;;x
+PROV82;Jotunhammer Bay;;;;;;;;;;;x
+PROV83;Wave Rocks Bay;;;;;;;;;;;x
+PROV84;North Norland Sea;;;;;;;;;;;x
+PROV85;Norheim Sea;;;;;;;;;;;x
+PROV86;Jotunspine Sea;;;;;;;;;;;x
+PROV87;Salmon Bay;;;;;;;;;;;x
+PROV88;Graygruun Strait;;;;;;;;;;;x
+PROV89;North Norheim Sea;;;;;;;;;;;x
+PROV90;Korinn Sea;;;;;;;;;;;x
+PROV91;Barret’s Sea;;;;;;;;;;;x
+PROV92;Amarune Point;;;;;;;;;;;x
+PROV93;Whitefish Bay;;;;;;;;;;;x
