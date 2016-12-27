@@ -247,6 +247,29 @@
 		}
 	}
 }
+900015 = {
+	name = Daryth
+	
+	religion = catholic
+	culture = calishite
+	
+	1324.1.1 = { # Estimate
+		birth = yes
+	}
+	1345.3.20 = {
+		employer = 1701 # Bryon Kendrick
+		effect = { give_minor_title = title_houndmaster	}
+	}
+	1346.1.1 = {
+		employer = 1700 # Tristan Kendrick
+	}
+	1365.1.1 = {
+		employer = 1759 # Alicia Kendrick
+	}
+	1383.1.1 = { # Estimate
+		death = yes
+	}
+}
 900029 = {
 	name = Kurrurdan
 	
