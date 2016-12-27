@@ -994,3 +994,23 @@
 		death = yes
 	}
 }
+1759 = {
+	name = Alicia
+	female = yes
+	dynasty = 205000
+	father = 1700 # Tristan Kendrick
+	mother = 900012 # Robyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	dna="0akde0ggcb0"
+	properties="ic0f0b00000000"
+	
+	1346.11.1 = { # Estimated month and day
+		birth = yes
+	}
+	1407.1.1 = { # Uncited
+		death = yes
+	}
+}
