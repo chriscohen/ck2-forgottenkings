@@ -15,7 +15,7 @@
 	1328.1.1 = {
 		birth = yes
 	}
-	1346.1.1 = {
+	1345.1.1 = {
 		add_spouse = 900012 # Robyn
 	}
 	1352.1.1 = {
@@ -1012,5 +1012,28 @@
 	}
 	1407.1.1 = { # Uncited
 		death = yes
+	}
+}
+1760 = {
+	name = Deidre
+	female = yes
+	dynasty = 205000
+	father = 1700 # Tristan Kendrick
+	mother = 900012 # Robyn
+	
+	religion = catholic
+	culture = ffolk
+	
+	dna="0jcde0ggcb0"
+	properties="ib0f0b00000000"
+	
+	1345.10.18 = { # Estimated month and day
+		birth = yes
+	}
+	1365.5.1 = { # Estimated month and day
+		death = {
+			death_reason = death_murder
+			killer = 1759 # Alicia
+		}
 	}
 }

@@ -197,10 +197,10 @@
 	dna="0akic0ggcb0"
 	properties="ic0c0b00000000"
 	
-	1330.1.1 = {
+	1329.1.1 = {
 		birth = yes
 	}
-	1346.1.1 = {
+	1345.1.1 = {
 		add_spouse = 1700 # Tristan Kendrick
 	}
 	1352.1.1 = { # Based on TSR9217 being set in 1357 DR and saying "died six years earlier"
