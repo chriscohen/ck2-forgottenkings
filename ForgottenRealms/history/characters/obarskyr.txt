@@ -1399,6 +1399,7 @@
 }
 85 = {
 	name = Sulesta # Sister of Azoun IV
+	female = yes
 	dynasty = 201000
 	father = 80 # Rhigaerd II
 	mother = 3500 # Tanalusta Truesilver
