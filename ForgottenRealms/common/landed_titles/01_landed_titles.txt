@@ -71,11 +71,11 @@ k_cormyr = {
 			b_hullack_forest_4 = {
 			}
 		}
-		c_cormyr = { # 17
+		c_suzail = { # 17
 			color={ 255 75 75 }
 			color2={ 255 255 255 }
 			
-			b_cormyr = {
+			b_suzail = {
 			}
 			b_cormyr_2 = {
 			}

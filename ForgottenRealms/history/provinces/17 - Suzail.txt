@@ -1,12 +1,12 @@
-# c_cormyr
+# c_suzail
 
 # County Title
-title = c_cormyr
+title = c_suzail
 
 # Settlements
 max_settlements = 4
 
-b_cormyr = castle
+b_suzail = castle
 #b_cormyr_2 = city
 #b_cormyr_3 = temple
 #b_cormyr_4 = castle
