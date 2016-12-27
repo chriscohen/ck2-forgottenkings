@@ -270,6 +270,43 @@
 		death = yes
 	}
 }
+900016 = {
+	name = "Keren Donnell"
+	
+	religion = catholic
+	culture = ffolk
+	
+	1318.1.1 = { # Estimate
+		birth = yes
+	}
+	1346.1.1 = {
+		employer = 1700 # Tristan Kendrick
+	}
+	1365.1.1 = {
+		employer = 1759 # Alicia Kendrick
+	}
+	1399.1.1 = { # Estimate
+		death = yes
+	}
+}
+900017 = {
+	name = Finnellen
+	female =  yes
+	
+	religion = catholic
+	culture = wild_dwarf # Guess at subtype
+	
+	1145.1.1 = { # Estimate
+		birth = yes
+		trait = immortal
+	}
+	1346.1.1 = {
+		employer = 1700 # Tristan Kendrick
+	}
+	1364.1.1 = { # Estimate
+		death = yes
+	}
+}
 900029 = {
 	name = Kurrurdan
 	
