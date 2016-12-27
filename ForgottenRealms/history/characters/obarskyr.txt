@@ -1296,7 +1296,7 @@
 	}
 }
 80 = {
-	name = Rhiigaerd # Rhiigaerd II
+	name = Rhigaerd # Rhigaerd II
 	dynasty = 201000
 	father = 78 # Azoun III
 	
@@ -1306,6 +1306,9 @@
 	1269.1.1 = {
 		birth = yes
 	}
+	1295.1.1 = {
+		add_spouse = 3500 # Tanalusta Truesilver
+	}
 	1335.1.1 = {
 		death = yes
 	}
@@ -1313,7 +1316,8 @@
 81 = {
 	name = Azoun # Azoun IV
 	dynasty = 201000
-	father = 80 # Rhiigaerd II
+	father = 80 # Rhigaerd II
+	mother = 3500 # Tanalusta Truesilver
 	
 	religion = catholic
 	culture = cormyrean
@@ -1344,8 +1348,10 @@
 	1370.1.1 = {
 		add_spouse = 1500 # Rowen Cormaeril
 	}
-	1371.10.1 = { # Estimated month and day
-		death = yes
+	1371.1.1 = {
+		death = {
+			death_reason = death_childbirth
+		}
 	}
 }
 83 = {
@@ -1364,7 +1370,11 @@
 	1371.10.1 = {
 		give_nickname = nick_the_steel_regent
 	}
-	1384.1.1 = { # Disappeared, but whatever.
+	1384.1.1 = {
+		employer = 84 # Azoun V
+		effect = { give_job_title = job_marshal }
+	}
+	1390.3.1 = { # Disappeared, but whatever.
 		death = yes
 	}
 }
@@ -1382,5 +1392,15 @@
 	}
 	1449.1.1 = {
 		death = yes
+	}
+}
+85 = {
+	name = Sulesta # Sister of Azoun IV
+	dynasty = 201000
+	father = 80 # Rhigaerd II
+	mother = 3500 # Tanalusta Truesilver
+	
+	1309.1.1 = { # Estimate, 2 years younger than brother Azoun IV
+		birth = yes
 	}
 }
