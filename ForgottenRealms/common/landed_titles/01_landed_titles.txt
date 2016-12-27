@@ -299,6 +299,9 @@ k_moonshae = {
 	capital = 25 # West Oman, for now
 	culture = ffolk
 	
+	title = "TITLE_HIGH_KING"
+	title_female = "TITLE_HIGH_QUEEN"
+	
 	d_callidyrr = {
 		color={ 10 245 5 }
 		color2={ 255 255 255 }
@@ -315,6 +318,9 @@ k_moonshae = {
 			}
 		}
 		capital = 31 # Talffolk
+		
+		title = "TITLE_KING"
+		title_female = "TITLE_QUEEN"
 		
 		c_talffolk = {
 			color={ 10 245 5 }
@@ -393,6 +399,9 @@ k_moonshae = {
 			}
 		}
 		capital = 41 # Corwell
+		
+		title = "TITLE_KING"
+		title_female = "TITLE_QUEEN"
 		
 		c_corwell = {
 			color={ 10 245 5 }
@@ -579,6 +588,9 @@ k_moonshae = {
 			}
 		}
 		capital = 62 # Moray
+		
+		title = "TITLE_KING"
+		title_female = "TITLE_QUEEN"
 		
 		c_trollclaw = {
 			color={ 30 0 255 }
@@ -829,6 +841,9 @@ k_moonshae = {
 			}
 		}
 		capital = 66 # Snowdown
+		
+		title = "TITLE_KING"
+		title_female = "TITLE_QUEEN"
 		
 		c_snowdown = {
 			color={ 30 0 255 }
