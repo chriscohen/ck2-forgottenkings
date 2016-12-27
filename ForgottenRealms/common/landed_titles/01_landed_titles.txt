@@ -326,51 +326,96 @@ k_moonshae = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_caer_callidyrr = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_ogden = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_horsa = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_cobb = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_lehigh = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_bounty = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_stagford = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_doncastle = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_holyhead = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_aithelar = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_codfin = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_hickorydale = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_stirgewick = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_llewellyn = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_regents_field = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_blythe = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_pembroke = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_grady = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_dorset = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_kythyss = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_fairheight = {
@@ -378,8 +423,12 @@ k_moonshae = {
 			color2={ 255 255 255 }
 			
 			b_blackstone = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_white_rock = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 	}
@@ -407,13 +456,24 @@ k_moonshae = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_caer_corwell = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_o_malley = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_dynnatt = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_koart = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_kimball = {
@@ -421,32 +481,56 @@ k_moonshae = {
 			color2={ 255 255 255 }
 			
 			b_wyngate = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_graystone = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_pontswain = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_castle_of_skulls = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_kingsbay = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_kingsbay = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_borth = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_macsheehan = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_horstall = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_flamsterd = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_flamsterd = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 	}
@@ -596,38 +680,68 @@ k_moonshae = {
 			color={ 30 0 255 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_dennins_delve = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_moray = {
 			color={ 30 0 255 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_caer_moray = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_bray = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_farview = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_horst = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_dynnegall = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_kork = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_orcskill = {
 			color={ 30 0 255 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_highpeak = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 		c_ossian_rock = {
 			color={ 10 245 5 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_ossian_rock = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 	}
@@ -849,15 +963,28 @@ k_moonshae = {
 			color={ 30 0 255 }
 			color2={ 255 255 255 }
 			
+			title = "TITLE_LAIRD"
+			title_female = "TITLE_LAIRD"
+			
 			b_caer_westphal = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_pengram = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_harloch = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_brannoch = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 			b_llandrain = {
+				title = "TITLE_LAIRD"
+				title_female = "TITLE_LAIRD"
 			}
 		}
 	}
