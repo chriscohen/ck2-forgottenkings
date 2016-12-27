@@ -1,0 +1,15 @@
+# c_sembian_peninsula
+
+# County Title
+title = c_sembian_peninsula
+
+# Settlements
+max_settlements = 1
+
+b_tulbegh = castle
+
+# Misc
+culture = sembian
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_urmlaspyr
+
+# County Title
+title = c_urmlaspyr
+
+# Settlements
+max_settlements = 2
+
+b_urmlaspyr = castle
+
+# Misc
+culture = sembian
+religion = catholic
+
+#History

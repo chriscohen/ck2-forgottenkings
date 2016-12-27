@@ -1,0 +1,15 @@
+# c_yhaunn
+
+# County Title
+title = c_yhaunn
+
+# Settlements
+max_settlements = 1
+
+b_yhaunn = castle
+
+# Misc
+culture = sembian
+religion = catholic
+
+#History

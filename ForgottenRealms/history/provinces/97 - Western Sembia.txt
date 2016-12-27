@@ -1,0 +1,15 @@
+# c_western_sembia
+
+# County Title
+title = c_western_sembia
+
+# Settlements
+max_settlements = 2
+
+b_saerb = castle
+
+# Misc
+culture = cormyrean
+religion = catholic
+
+#History

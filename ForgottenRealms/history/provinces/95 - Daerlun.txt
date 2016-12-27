@@ -1,0 +1,16 @@
+# c_daerlun
+
+# County Title
+title = c_daerlun
+
+# Settlements
+max_settlements = 4
+
+b_hultail = castle
+b_junirill = castle
+
+# Misc
+culture = cormyrean
+religion = catholic
+
+#History

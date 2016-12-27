@@ -1,0 +1,15 @@
+# c_saerloon
+
+# County Title
+title = c_saerloon
+
+# Settlements
+max_settlements = 2
+
+b_saerloon = castle
+
+# Misc
+culture = sembian
+religion = catholic
+
+#History

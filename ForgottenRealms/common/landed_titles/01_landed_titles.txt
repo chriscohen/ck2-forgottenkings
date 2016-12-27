@@ -1066,6 +1066,167 @@ k_moonshae = {
 		}
 	}
 }
+k_sembia = {
+	color={ 15 255 15 }
+	color2={ 255 255 255 }
+	
+	capital = 101 # c_ordulin
+	culture = sembian
+	
+	d_daerlun = {
+		color = { 24 150 29 }
+		color2 = { 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { province_id = 95 }
+			}
+		}
+		
+		capital = 95 # Daerlun
+		
+		c_daerlun = {
+			color = { 24 150 29 }
+			color2 = { 255 255 255 }
+			
+			b_daerlun = {
+			}
+			b_nolin = {
+			}
+			b_seaspring = {
+			}
+			b_skultan = {
+			}
+		}
+	}
+	d_ordulin = {
+		color={ 12 177 18 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = {
+					province_id = 101
+					province_id = 102
+					province_id = 103
+				} }
+			}
+		}
+		capital = 101 # c_ordulin
+		
+		c_ordulin = { # 101
+			color={ 12 177 18 }
+			color2={ 255 255 255 }
+			
+			b_ordulin = {
+			}
+		}
+		c_yhaunn = { # 102
+			color={ 149 228 152 }
+			color2={ 255 255 255 }
+			
+			b_yhaunn = {
+			}
+		}
+		c_sembian_peninsula = {
+			color = { 23 166 29 }
+			color2 = { 255 255 255 }
+			
+			b_tulbegh = {
+			}
+		}
+	}
+	d_saerloon = {
+		color={ 128 176 130 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = {
+					province_id = 97
+					province_id = 98
+				} }
+			}
+		}
+		capital = 98 # c_saerloon
+		
+		c_saerloon = {
+			color = { 128 176 130 }
+			color2 = { 255 255 255 }
+			
+			b_saerloon = {
+			}
+			b_mulhessen = {
+			}
+		}
+		c_western_sembia = {
+			color = { 90 238 95 }
+			color2 = { 255 255 255 }
+			
+			b_saerb = {
+			}
+			b_kulta = {
+			}
+		}
+	}
+	d_selgaunt = {
+		color={ 8 237 17 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = { OR = {
+					province_id = 99
+					province_id = 100
+				} }
+			}
+		}
+		capital = 100 # c_selgaunt
+		
+		c_selgaunt = {
+			color = { 8 237 17 }
+			color2 = { 255 255 255 }
+			
+			b_selgaunt = {
+			}
+		}
+		c_northern_sembia = {
+			color = { 35 104 38 }
+			color2 = { 255 255 255 }
+			
+			b_northern_sembia = {
+			}
+		}
+	}
+	d_urmlaspyr = {
+		color={ 80 201 85 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 96
+				}
+			}
+		}
+		capital = 96 # c_urmlaspyr
+		
+		c_urmlaspyr = {
+			color = { 80 201 85 }
+			color2 = { 255 255 255 }
+			
+			b_urmlaspyr = {
+			}
+			b_huddagh = {
+			}
+		}
+	}
+}
 d_skadaurak = {
 	color={ 30 225 15 }
 	color2={ 255 255 255 }

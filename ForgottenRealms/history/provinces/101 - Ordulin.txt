@@ -1,0 +1,15 @@
+# c_ordulin
+
+# County Title
+title = c_ordulin
+
+# Settlements
+max_settlements = 1
+
+b_ordulin = castle
+
+# Misc
+culture = sembian
+religion = catholic
+
+#History

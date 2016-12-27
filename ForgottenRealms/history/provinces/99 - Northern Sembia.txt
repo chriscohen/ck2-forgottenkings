@@ -1,0 +1,15 @@
+# c_northern_sembia
+
+# County Title
+title = c_northern_sembia
+
+# Settlements
+max_settlements = 1
+
+b_northern_sembia = castle
+
+# Misc
+culture = sembian
+religion = catholic
+
+#History

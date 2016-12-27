@@ -5,6 +5,8 @@ d_cormyr;Cormyr;Cormyr;Cormyr;;Cormyr;;;;;;;;;x
 d_cormyr_adj;Cormyrean;;;;;;;;;;;;;x
 d_corwell;Corwell;;;;;;;;;;;;;x
 d_corwell_adj;Corwellan;;;;;;;;;;;;;x
+d_daerlun;Daerlun;;;;;;;;;;;;;x
+d_daerlun_adj;Daerlunian;;;;;;;;;;;;;x
 d_east_cormyr;East Cormyr;East Cormyr;East Cormyr;;East Cormyr;;;;;;;;;x
 d_east_cormyr_adj;East Cormyrean;;;;;;;;;;;;;x
 d_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
@@ -25,6 +27,12 @@ d_norland;Norland;;;;;;;;;;;;;x
 d_norland_adj;Norlander;;;;;;;;;;;;;x
 d_oman;Oman;;;;;;;;;;;;;x
 d_oman_adj;Omanian;;;;;;;;;;;;;x
+d_ordulin;Ordulin;;;;;;;;;;;;;x
+d_ordulin_adj;Ordulinian;;;;;;;;;;;;;x
+d_saerloon;Saerloon;;;;;;;;;;;;;x
+d_saerloon_adj;Saerloonian;;;;;;;;;;;;;x
+d_selgaunt;Selgaunt;;;;;;;;;;;;;x
+d_selgaunt_adj;Selgauntian;;;;;;;;;;;;;x
 d_skadaurak;Skadaurak;;;;;;;;;;;;;x
 d_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
 d_snowdown;Snowdown;;;;;;;;;;;;;x
@@ -33,5 +41,7 @@ d_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;
 d_the_stonelands_adj;Stonelander;;;;;;;;;;;;;x
 d_the_stormhorns;The Stormhorns;The Stormhorns;The Stormhorns;;The Stormhorns;;;;;;;;;x
 d_the_stormhorns_adj;Stormhorner;;;;;;;;;;;;;x
+d_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
+d_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
 d_winterglen;Winterglen;;;;;;;;;;;;;x
 d_winterglen_adj;Winterglenian;;;;;;;;;;;;;x
