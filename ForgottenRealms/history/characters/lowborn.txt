@@ -307,6 +307,29 @@
 		death = yes
 	}
 }
+900018 = {
+	# TSR9217 Moonshae p.39
+	name = Arlen
+	
+	religion = catholic
+	culture = ffolk
+	
+	martial = 8
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 4
+	learning = 2
+	
+	trait = tough_soldier
+	
+	1319.1.1 = { # Estimate
+		birth = yes
+	}
+	1346.1.1 = {
+		employer = 1700 # Tristan Kendrick
+		effect = { give_job_title = job_marshal }
+	}
+}
 900029 = {
 	name = Kurrurdan
 	
