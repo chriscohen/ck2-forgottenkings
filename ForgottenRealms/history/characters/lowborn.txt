@@ -290,7 +290,7 @@
 	}
 }
 900017 = {
-	name = Finnellen
+	name = Finellen
 	female =  yes
 	
 	religion = catholic
