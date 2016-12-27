@@ -293,7 +293,7 @@ d_mintarn = {
 	}
 }
 k_moonshae = {
-	color={ 30 225 15 }
+	color={ 23 172 248 }
 	color2={ 255 255 255 }
 	
 	capital = 41 # Corwell
