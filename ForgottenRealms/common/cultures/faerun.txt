@@ -138,7 +138,9 @@ human = {
 			Warren Wrynn Wystan
 		}
 		female_names = {
+			Alicia
 			Bethany
+			Deidre
 			Gwynneth
 			Lyndra
 			Miranda Myrfana
