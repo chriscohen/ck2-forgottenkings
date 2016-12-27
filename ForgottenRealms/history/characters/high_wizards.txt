@@ -62,3 +62,24 @@
 		death = yes
 	}
 }
+1304 = {
+	name = Caladnei
+	female = yes
+	
+	religion = catholic
+	culture = turmish
+	
+	1340.1.1 = { # Estimate
+		birth = yes
+	}
+	1372.1.2 = {
+		employer = 83 # Alusair Obarskyr
+		effect = { give_job_title = job_spymaster }
+	}
+	1384.1.1 = {
+		employer = 84 # Azoun V Obarskyr
+	}
+	1399.1.1 = {
+		death = yes
+	}
+}
