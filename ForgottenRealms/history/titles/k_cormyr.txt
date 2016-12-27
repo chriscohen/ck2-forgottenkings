@@ -206,14 +206,14 @@
 	holder = 79 # Salember
 }
 1286.1.1 = {
-	holder = 80 # Rhiigaerd II
+	holder = 80 # Rhigaerd II
 }
 1335.1.1 = {
 	holder = 81 # Azoun IV
 }
 1371.1.1 = {
-	holder = 83 # Alusair
+	holder = 83 # Alusair (regency)
 }
-1371.10.1 = {
+1384.1.1 = {
 	holder = 84 # Azoun V
 }

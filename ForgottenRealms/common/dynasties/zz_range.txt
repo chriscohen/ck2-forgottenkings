@@ -8,3 +8,5 @@
 # 206000 - 206999   Northman (Moonshaes)
 # 207000 - 207999   Tethyr
 # 208000 - 208999   Vaasa
+# 209000 - 209999   Calimshan
+# 300000 - 399999   Miscellaneous

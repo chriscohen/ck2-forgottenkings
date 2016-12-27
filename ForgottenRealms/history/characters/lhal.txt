@@ -1,0 +1,34 @@
+# LHAL
+# Range 3400-3499
+
+3400 = {
+	name = Haverstrom
+	dynasty = 201005
+	father = 3401 # Unnamed, married to Sulesta Obarskyr
+	mother = 85 # Sulesta Obarskyr
+	
+	1325.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = { # Estimate
+		add_spouse = 900020 # Myrmeen Lhal
+	}
+	1352.1.1 = { # Estimate
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+3401 = {
+	# We need Haverstrom Lhal to have a father married to Sulesta Obarskyr
+	# so that Haverstrom is cousin of Azoun IV
+	name = Unnamed
+	dynasty = 201005
+	
+	1306.1.1 = { # Estimate
+		birth = yes
+	}
+	1336.1.1 = { # Estimate
+		death = yes
+	}
+}

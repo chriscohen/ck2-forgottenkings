@@ -17,3 +17,11 @@
 	name = Bleth
 	culture = cormyrean
 }
+201004 = {
+	name = Truesilver
+	culture = cormyrean
+}
+201005 = {
+	name = Lhal
+	culture = calishite
+}

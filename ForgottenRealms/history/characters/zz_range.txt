@@ -25,5 +25,8 @@
 # 3100   - 3199     Llewellyn
 # 3200   - 3299     Kythyss
 # 3300   - 3399     Koart
+# 3400   - 3499     Lhal
+# 3500   - 3599     Truesilver
+# 3600   - 3699     Aeiulvana
 #
 # 900000 - 999999 Lowborn

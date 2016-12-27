@@ -330,6 +330,116 @@
 		effect = { give_job_title = job_marshal }
 	}
 }
+900019 = {
+	# First husband of Myrmeen Lhal
+	name = Dak
+	
+	religion = catholic
+	culture = calishite
+	
+	1320.1.1 = { # Estimate
+		birth = yes
+	}
+	1343.1.1 = {
+		add_spouse = 900020 # Myrmeen Lhal
+	}
+	1344.1.1 = {
+		remove_spouse = 900020 # Myrmeen Lhal
+	}
+}
+900020 = {
+	# Myrmeen Lhal
+	name = Myrmeen
+	female = yes
+	mother = 900021
+	
+	religion = catholic
+	culture = calishite
+	
+	1323.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		add_spouse = 900019 # Dak
+	}
+	1344.1.1 = {
+		remove_spouse = 900019 # Dak
+	}
+	1350.1.1 = {
+		employer = 84 # Azoun IV Obarskyr
+		add_spouse = 3400 # Haverstrom Lhal
+		effect = {
+			dynasty = 201005 # Inherits the Lhal dynasty
+		}
+	}
+	1373.1.1 = {
+		add_spouse = 3600 # Vangerdahast Aeiulvana
+	}
+	1414.1.1 = {
+		death = yes
+	}
+}
+900021 = {
+	# Myrmeen's mother
+	name = Unnamed
+	female = yes
+	
+	religion = catholic
+	culture = calishite
+	
+	1305.1.1 = { # Estimate
+		birth = yes
+	}
+	1335.1.1 = { # Estimate
+		death = yes
+	}
+}
+900022 = {
+	# Myrmeen's mother's lost child
+	name = Unnamed
+	mother = 900021 # Myrmeen's mother
+	
+	religion = catholic
+	culture = calishite
+	
+	1329.1.1 = { # Myrmeen was aged 6
+		birth = yes
+	}
+	1329.11.2 = { # Lost child during a storm, estimated date
+		death = yes
+	}
+}
+900023 = {
+	# Unnamed first child of Myrmeen
+	name = Unnamed
+	mother = 900020 # Myrmeen
+	father = 900019 # Dak
+	
+	1343.10.1 = {
+		birth = yes
+	}
+	1343.10.2 = { # Disappeared, didn't really die though, but has no further point in being in the game
+		death = yes
+	}
+}
+900024 = {
+	name = Gondegal
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1310.1.1 = { # Estimate
+		birth = yes
+	}
+	1352.3.1 = {
+		give_nickname = nick_the_usurper
+	}
+	1352.3.9 = { # Didn't die, but game can't represent the transition to the Demiplane of Dread
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
 900029 = {
 	name = Kurrurdan
 	

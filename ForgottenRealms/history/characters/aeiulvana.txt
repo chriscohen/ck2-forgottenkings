@@ -1,0 +1,86 @@
+# AEIULVANA
+# Range 3600-3699
+
+3600 = {
+	name = Vangerdahast
+	dynasty = 300000 # Aeiulvana
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1012.1.1 = {
+		birth = yes
+	}
+	1028.1.1 = {
+		employer = 69 # Arangor Obarskyr
+		effect = { give_job_title = job_spymaster }
+	}
+	1042.1.1 = {
+		employer = 70 # Azoun II Obarskyr
+	}
+	1056.1.1 = {
+		employer = 71 # Proster Obarskyr
+	}
+	1082.1.1 = {
+		add_trait = immortal # He's a wizard, Harry
+	}
+	1122.1.1 = {
+		employer = 73 # Baerovus Obarskyr
+	}
+	1164.1.1 = {
+		employer = 74 # Palaghard I Obarskyr
+	}
+	1187.1.1 = {
+		employer = 75 # Pryntaler Obarskyr
+	}
+	1210.1.1 = {
+		employer = 76 # Dhalmass Obarskyr
+	}
+	1227.1.1 = {
+		employer = 77 # Palaghard II Obarskyr
+	}
+	1261.1.1 = {
+		employer = 78 # Azoun III Obarskyr
+	}
+	1275.1.1 = {
+		employer = 79 # Salember Obarskyr
+	}
+	1286.1.1 = {
+		employer = 80 # Rhigaerd II Obarskyr
+	}
+	1335.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1371.1.1 = {
+		employer = 83 # Alusair Obarskyr
+	}
+	1372.1.1 = { # Retires from public life
+		effect = { remove_job_title = job_spymaster }
+	}
+	1373.1.1 = { # Estimate
+		add_spouse = 900020 # Myrmeen Lhal
+	}
+	1390.1.1 = { # Estimate
+		death = yes
+	}
+}
+3601 = {
+	name = Ganrahast
+	dynasty = 300000
+	father = 3600 # Vangerdahast
+	mother = 900020 # Myrmeen Lhal
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1374.1.1 = {
+		birth = yes
+	}
+	1390.1.1 = {
+		employer = 84 # Azoun V Obarskyr
+		effect = { give_job_title = job_spymaster }
+	}
+	1444.1.1 = {
+		add_trait = immortal # He's a wizard
+	}
+}

@@ -1,0 +1,7 @@
+# MISCELLANEOUS
+# Dynasties that don't fit in a particular culture or region
+# Range 300000-399999
+
+300000 = {
+	name = Aeiulvana
+}

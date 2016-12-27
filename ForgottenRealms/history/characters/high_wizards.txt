@@ -58,21 +58,7 @@
 	900.1.1 = { # Estimate
 		birth = yes
 	}
-	1020.1.1 = { # Estimate
-		death = yes
-	}
-}
-1304 = {
-	name = Vangerdahast
-	father = 1303 # Jorunhast - not really, but we need lineage
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1012.1.1 = {
-		birth = yes
-	}
-	1380.1.1 = { # Estimate
+	1028.1.1 = { # Estimate
 		death = yes
 	}
 }
