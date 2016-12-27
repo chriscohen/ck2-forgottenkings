@@ -1,14 +1,14 @@
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
 
 k_cormyr = {
-	color={ 200 9 54 }
+	color={ 190 26 231 }
 	color2={ 255 255 255 }
 	
 	capital = 17 # c_cormyr
 	culture = irish
 	
 	d_the_stonelands = {
-		color={ 180 29 44 }
+		color={ 139 94 150 }
 		color2={ 255 255 255 }
 		
 		allow = {
@@ -30,7 +30,7 @@ k_cormyr = {
 		}
 	}
 	d_cormyr = {
-		color={ 235 5 20 }
+		color={ 206 56 243 }
 		color2={ 255 255 255 }
 		
 		allow = {
@@ -118,7 +118,7 @@ k_cormyr = {
 		}
 	}
 	d_east_cormyr = {
-		color={ 170 121 106 }
+		color={ 214 134 234 }
 		color2={ 255 255 255 }
 		
 		allow = {
@@ -207,7 +207,7 @@ k_cormyr = {
 		}
 	}
 	d_the_stormhorns = {
-		color={ 214 8 23 }
+		color={ 150 21 182 }
 		color2={ 255 255 255 }
 		
 		allow = {
