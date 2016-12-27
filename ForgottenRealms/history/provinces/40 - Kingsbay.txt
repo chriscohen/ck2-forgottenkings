@@ -7,10 +7,12 @@ title = c_kingsbay
 max_settlements = 4
 
 b_kingsbay = castle
-b_horstall = castle
 
 # Misc
 culture = ffolk
 religion = catholic
 
-#History
+# History
+1115.1.1 = {
+	b_horstall = castle
+}
