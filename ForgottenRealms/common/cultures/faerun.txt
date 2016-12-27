@@ -185,7 +185,7 @@ dwarf = {
 			Unnamed
 		}
 		female_names = {
-			Unnamed
+			Finellen
 		}
 		
 		dukes_called_kings = no
