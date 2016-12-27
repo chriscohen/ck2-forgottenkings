@@ -13,6 +13,9 @@
 	1339.1.1 = { # Five years younger than Tanalasta Obarskyr
 		birth = yes
 	}
+	1371.1.1 = {
+		add_spouse = 900025 # Krystin Lhal
+	}
 	1403.1.1 = { # Estimate
 		death = yes
 	}
@@ -73,6 +76,7 @@
 	female = yes
 	dynasty = 201006
 	father = 3700 # Dauneth
+	mother = 900025 # Krystin Lhal
 	
 	religion = catholic
 	culture = cormyrean

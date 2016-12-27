@@ -443,6 +443,29 @@
 		}
 	}
 }
+900025 = {
+	name = Krystin # Adopted daughter of Myrmeen Lhal
+	female = yes
+	mother = 900025 # Adopted
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1342.1.1 = { # Estimate
+		birth = yes
+	}
+	1352.1.1 = {
+		effect = {
+			dynasty = 201005 # Adopted into the Lhal dynasty
+		}
+	}
+	1371.1.1 = { # Estimate
+		add_spouse = 3700 # Dauneth Marliir
+	}
+	1403.1.1 = { # Estimate
+		death = yes
+	}
+}
 900029 = {
 	name = Kurrurdan
 	
