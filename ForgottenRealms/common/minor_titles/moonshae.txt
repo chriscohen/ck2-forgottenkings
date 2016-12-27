@@ -1,0 +1,19 @@
+# Houndmaster, specific to Kendrick dynasty of Corwell, Moonshae
+title_houndmaster = {
+	dignity = 0.10
+	grant_limit = 1
+	opinion_effect = 5
+	
+	monthly_salary = 0.1
+	monthly_prestige = 0.15
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = d_corwell
+	}
+}
