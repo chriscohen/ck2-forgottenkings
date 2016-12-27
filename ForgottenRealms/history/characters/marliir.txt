@@ -1,0 +1,86 @@
+# MARLIIR
+# Range 3700-3799
+
+3700 = {
+	name = Dauneth
+	dynasty = 201006
+	father = 3701 # Raynaar
+	mother = 3703 # Merelda
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1339.1.1 = { # Five years younger than Tanalasta Obarskyr
+		birth = yes
+	}
+	1403.1.1 = { # Estimate
+		death = yes
+	}
+}
+3701 = {
+	name = Raynaar
+	dynasty = 201006
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1319.1.1 = { # Estimate
+		birth = yes
+	}
+	1337.1.1 = { # Estimate
+		add_spouse = 3703 # Merelda
+	}
+	1359.1.1 = { # Estimate
+		death = yes
+	}
+}
+3702 = {
+	name = Dardreth # Brother of Dauneth
+	dynasty = 201006
+	father = 3701 # Raynaar
+	mother = 3703 # Merelda
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}
+3703 = {
+	name = Merelda
+	female = yes
+	dynasty = 201006
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1319.1.1 = { # Estimate
+		birth = yes
+	}
+	1337.1.1 = { # Estimate
+		add_spouse = 3701 # Raynaar
+	}
+	1358.1.1 = { # Estimate
+		death = yes
+	}
+}
+3704 = {
+	name = Nalara
+	female = yes
+	dynasty = 201006
+	father = 3700 # Dauneth
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1372.1.1 = { # Estimate
+		birth = yes
+	}
+	1396.1.1 = {
+		add_spouse = 84 # Azoun V Obarskyr
+	}
+}

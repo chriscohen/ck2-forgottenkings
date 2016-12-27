@@ -53,6 +53,10 @@ k_cormyr = {
 			
 			b_arabel = {
 			}
+			b_bospir = {
+			}
+			b_sunset_hill = {
+			}
 		}
 		c_hullack_forest = { # 14
 			color={ 225 15 15 }

@@ -23,5 +23,9 @@
 }
 201005 = {
 	name = Lhal
-	culture = calishite
+	culture = cormyrean
+}
+201006 = {
+	name = Marliir
+	culture = cormyrean
 }

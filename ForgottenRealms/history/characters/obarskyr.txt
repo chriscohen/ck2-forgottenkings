@@ -1390,6 +1390,9 @@
 	1371.1.1 = {
 		birth = yes
 	}
+	1396.1.1 = {
+		add_spouse = 3704 # Nalara Marliir
+	}
 	1449.1.1 = {
 		death = yes
 	}

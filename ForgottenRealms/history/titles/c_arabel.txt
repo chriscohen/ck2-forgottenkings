@@ -209,14 +209,23 @@
 	holder = 80 # Rhiigaerd II
 }
 1335.1.1 = {
-	holder = 81 # Azoun IV
+	liege = "d_cormyr"
+	holder = 3701 # Raynaar Marliir
 }
 1352.3.1 = {
+	liege = 0
 	holder = 900024 # Gondegal the Usurper King
 }
 1359.1.9 = {
+	liege = "d_cormyr"
 	holder = 900020 # Myrmeen Lhal is given Arabel by Azoun IV
 }
-1381.1.1 = { # Myrmeen Lhal moves back to Suzail
+1381.1.1 = {
+	# Myrmeen Lhal moves back to Suzail
+	# Giving Arabel back to Marliir household
+	holder = 3700 # Dauneth Marliir
+}
+1403.1.1 = {
+	liege = 0
 	holder = 84 # Azoun V
 }
