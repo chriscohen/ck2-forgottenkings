@@ -7,10 +7,12 @@ title = c_stirgewick
 max_settlements = 7
 
 b_llewellyn = castle
-b_kythyss = castle
 
 # Misc
 culture = ffolk
 religion = catholic
 
-#History
+# History
+1340.1.1 = {
+	b_kythyss = castle
+}

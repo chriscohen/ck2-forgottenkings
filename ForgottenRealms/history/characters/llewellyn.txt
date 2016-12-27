@@ -1,0 +1,18 @@
+# LLEWELLYN
+# Range 3100-3199
+
+3100 = {
+	# TSR9217 Moonshae - most details are made up
+	name = Rhobyt
+	dynasty = 205009
+	
+	religion = catholic
+	culture = ffolk
+	
+	1314.1.1 = {
+		birth = yes
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

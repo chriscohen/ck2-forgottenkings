@@ -49,6 +49,10 @@
 1296.1.1 = {
 	holder = 2617 # Alec IV
 }
-1332.1.1 = {
-	holder = 2618 # Reginald
+1330.1.1 = {
+	liege = "d_callidyrr"
+	holder = 3100 # Rhobyt Llewellyn
+}
+1391.1.1 = {
+	holder = 0
 }

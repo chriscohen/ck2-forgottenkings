@@ -37,3 +37,11 @@
 	name = Kimball
 	culture = northman
 }
+205009 = {
+	name = Llewellyn
+	culture = ffolk
+}
+205010 = {
+	name = Kythyss
+	culture = ffolk
+}

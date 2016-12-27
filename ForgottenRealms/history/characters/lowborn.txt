@@ -172,6 +172,20 @@
 		death = yes
 	}
 }
+900011 = {
+	# TSR9217 Moonshae p.34
+	name = "O'Roarke"
+	
+	religion = catholic
+	culture = ffolk
+	
+	1348.1.1 = {
+		birth = yes
+	}
+	1364.1.1 = {
+		employer = 2618 # Reginald Carrathal
+	}
+}
 900029 = {
 	name = Kurrurdan
 	

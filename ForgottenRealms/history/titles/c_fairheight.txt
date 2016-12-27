@@ -52,3 +52,10 @@
 1332.1.1 = {
 	holder = 2618 # Reginald
 }
+1343.1.1 = {
+	liege = "d_callidyrr"
+	holder = 900010 # McDonnell, baron of Blackstone
+}
+1381.1.1 = {
+	holder = 0
+}

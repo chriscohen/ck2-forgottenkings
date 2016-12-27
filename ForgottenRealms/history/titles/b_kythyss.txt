@@ -1,0 +1,7 @@
+1340.1.1 = {
+	liege = "c_stirgewick"
+	holder = 3200 # Kimball Kythyss
+}
+1401.1.1 = {
+	holder = 0
+}

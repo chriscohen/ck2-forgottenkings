@@ -22,5 +22,7 @@
 # 2800   - 2899     Embuirhan
 # 2900   - 2999     Zhan
 # 3000   - 3099     Ravin
+# 3100   - 3199     Llewellyn
+# 3200   - 3299     Kythyss
 #
 # 900000 - 999999 Lowborn
