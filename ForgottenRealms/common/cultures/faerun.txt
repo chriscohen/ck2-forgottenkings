@@ -146,6 +146,41 @@ halfling = {
 human = {
 	graphical_cultures = { westerngfx }
 	
+	calishite = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.5 0.5 0.8 }
+		
+		male_names = {
+			Daryth
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 35
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 35
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
 	cormyrean = {
 		graphical_cultures = { westerngfx }
 		
