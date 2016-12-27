@@ -4,12 +4,11 @@
 title = c_east_cormyr
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 
-b_east_cormyr = castle
-#b_east_cormyr_2 = city
-#b_east_cormyr_3 = temple
-#b_east_cormyr_4 = castle
+b_monksblade = castle
+b_kirinwood = castle
+b_dawngleam = castle
 
 # Misc
 culture = cormyrean

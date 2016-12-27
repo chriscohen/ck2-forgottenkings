@@ -1,7 +1,5 @@
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
 
-
-
 k_cormyr = {
 	color={ 200 9 54 }
 	color2={ 255 255 255 }
@@ -16,7 +14,9 @@ k_cormyr = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 10 province_id = 11 } }
+				any_demesne_province = {
+					province_id = 10
+				}
 			}
 		}
 		capital = 10 # c_the_stonelands
@@ -27,12 +27,6 @@ k_cormyr = {
 			
 			b_gwarch = {
 			}
-			b_the_stonelands_2 = {
-			}
-			b_the_stonelands_3 = {
-			}
-			b_the_stonelands_4 = {
-			}
 		}
 	}
 	d_cormyr = {
@@ -42,7 +36,14 @@ k_cormyr = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 14 province_id = 16 province_id = 17 } }
+				any_demesne_province = { OR = {
+					province_id = 11
+					province_id = 14
+					province_id = 16
+					province_id = 17
+					province_id = 22
+					province_id = 23
+				} }
 			}
 		}
 		capital = 17 # c_cormyr
@@ -62,13 +63,7 @@ k_cormyr = {
 			color={ 225 15 15 }
 			color2={ 255 255 255 }
 			
-			b_hullack_forest = {
-			}
-			b_hullack_forest_2 = {
-			}
-			b_hullack_forest_3 = {
-			}
-			b_hullack_forest_4 = {
+			b_hillmarch = {
 			}
 		}
 		c_suzail = { # 17
@@ -77,24 +72,24 @@ k_cormyr = {
 			
 			b_suzail = {
 			}
-			b_cormyr_2 = {
-			}
-			b_cormyr_3 = {
-			}
-			b_cormyr_4 = {
+			b_gray_oaks = {
 			}
 		}
 		c_kings_forest = { # 16
 			color={ 220 44 44 }
 			color2={ 255 255 255 }
 			
-			b_kings_forest = {
+			b_dhedluk = {
 			}
-			b_kings_forest_2 = {
+			b_waymoot = {
 			}
-			b_kings_forest_3 = {
+			b_stagsteads = {
 			}
-			b_kings_forest_4 = {
+			b_knightswood = {
+			}
+			b_collinwood = {
+			}
+			b_mouth_o_gargoyles = {
 			}
 		}
 		c_marsember = { # 23
@@ -103,6 +98,12 @@ k_cormyr = {
 			
 			b_marsember = {
 			}
+			b_bogbrook = {
+			}
+			b_kallamarn = {
+			}
+			b_hilp = {
+			}
 		}
 		c_tilverton = { # 11
 			color={ 145 22 22 }
@@ -110,11 +111,9 @@ k_cormyr = {
 			
 			b_tilverton = {
 			}
-			b_tilverton_2 = {
+			b_halfhap = {
 			}
-			b_tilverton_3 = {
-			}
-			b_tilverton_4 = {
+			b_griffon_hill = {
 			}
 		}
 	}
@@ -125,7 +124,12 @@ k_cormyr = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 12 province_id = 15 province_id = 20 province_id = 21 } }
+				any_demesne_province = { OR = {
+					province_id = 12
+					province_id = 15
+					province_id = 20
+					province_id = 21
+				} }
 			}
 		}
 		capital = 20 # c_east_cormyr
@@ -134,52 +138,71 @@ k_cormyr = {
 			color={ 180 111 111 }
 			color2={ 255 255 255 }
 			
-			b_thunder_peaks = {
+			b_thunderholme = {
 			}
-			b_thunder_peaks_2 = {
+			b_highcastle = {
 			}
-			b_thunder_peaks_3 = {
-			}
-			b_thunder_peaks_4 = {
+			b_hidden_vale = {
 			}
 		}
 		c_east_cormyr = { # 20
 			color={ 241 129 129 }
 			color2={ 255 255 255 }
 			
-			b_east_cormyr = {
+			b_monksblade = {
 			}
-			b_east_cormyr_2 = {
+			b_kirinwood = {
 			}
-			b_east_cormyr_3 = {
+			b_dawngleam = {
 			}
-			b_east_cormyr_4 = {
+			b_wormtower = {
+			}
+			b_smugglers_stone = {
+			}
+			b_dreamers_rock = {
+			}
+			b_battlerise = {
 			}
 		}
 		c_hermits_woods = { # 21
 			color={ 217 19 19 }
 			color2={ 255 255 255 }
 			
-			b_hermits_woods = {
+			b_wheloon = {
 			}
-			b_hermits_woods_2 = {
+			b_nesmyth = {
 			}
-			b_hermits_woods_3 = {
+			b_gladehap = {
 			}
-			b_hermits_woods_4 = {
+			b_onguls_water = {
+			}
+			b_moonever = {
+			}
+			b_blustich = {
 			}
 		}
 		c_the_vast_swamp = { # 15
 			color={ 234 167 167 }
 			color2={ 255 255 255 }
 			
-			b_the_vast_swamp = {
+			b_orvaskyte_keep = {
 			}
-			b_the_vast_swamp_2 = {
+			b_lost_refuge = {
 			}
-			b_the_vast_swamp_3 = {
+		}
+		c_thunder_way = {
+			color={ 234 167 167 }
+			color2={ 255 255 255 }
+			
+			b_hultail = {
 			}
-			b_the_vast_swamp_4 = {
+			b_junirill = {
+			}
+			b_thunderstone = {
+			}
+			b_besert = {
+			}
+			b_ghars = {
 			}
 		}
 	}
@@ -199,26 +222,30 @@ k_cormyr = {
 			color={ 204 18 18 }
 			color2={ 255 255 255 }
 			
-			b_the_stormhorns = {
+			b_high_horn = {
 			}
-			b_the_stormhorns_2 = {
+			b_espar = {
 			}
-			b_the_stormhorns_3 = {
+			b_minroe = {
 			}
-			b_the_stormhorns_4 = {
+			b_eagle_peak = {
+			}
+			b_valkurs_roar = {
 			}
 		}
 		c_eastern_stormhorns = { # 19
 			color={ 248 97 97 }
 			color2={ 255 255 255 }
 			
-			b_eastern_stormhorns = {
+			b_eveningstar = {
 			}
-			b_eastern_stormhorns_2 = {
+			b_tyrluk = {
 			}
-			b_eastern_stormhorns_3 = {
+			b_castle_crag = {
 			}
-			b_eastern_stormhorns_4 = {
+			b_redspring = {
+			}
+			b_slingdyke = {
 			}
 		}
 	}

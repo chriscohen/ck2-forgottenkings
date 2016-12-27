@@ -1,13 +1,13 @@
-# c_the_stormhorns
+# c_thunder_way
 
 # County Title
-title = c_the_stormhorns
+title = c_thunder_way
 
 # Settlements
 max_settlements = 5
 
-b_high_horn = castle
-b_espar = castle
+b_hultail = castle
+b_junirill = castle
 
 # Misc
 culture = cormyrean

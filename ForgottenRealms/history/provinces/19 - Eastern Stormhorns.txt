@@ -4,12 +4,10 @@
 title = c_eastern_stormhorns
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
-b_eastern_stormhorns = castle
-#b_eastern_stormhorns_2 = city
-#b_eastern_stormhorns_3 = temple
-#b_eastern_stormhorns_4 = castle
+b_eveningstar = castle
+b_castle_crag = castle
 
 # Misc
 culture = cormyrean

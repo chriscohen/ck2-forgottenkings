@@ -9,18 +9,28 @@ b_arndthergom;Arndthergom;;;;;;;;;;;;;x
 b_arndthergom_adj;Arndthergomian;;;;;;;;;;;;;x
 b_barrets_quay;Barret’s Quay;;;;;;;;;;;;;x
 b_barrets_quay_adj;Barret’s Quayan;;;;;;;;;;;;;x
+b_battlerise;Battlerise;;;;;;;;;;;;;x
+b_battlerise_adj;Battleriser;;;;;;;;;;;;;x
+b_besert;Besert;;;;;;;;;;;;;x
+b_besert_adj;Besertian;;;;;;;;;;;;;x
 b_blackstone;Blackstone;;;;;;;;;;;;;x
 b_blackstone_adj;Blackstoner;;;;;;;;;;;;;x
+b_blustich;Blustich;;;;;;;;;;;;;x
+b_blustich_adj;Blustichian;;;;;;;;;;;;;x
 b_blythe;Blythe;;;;;;;;;;;;;x
 b_blythe_adj;Blythen;;;;;;;;;;;;;x
+b_bogbrook;Bogbrook;;;;;;;;;;;;;x
+b_bogbrook_adj;Bogbrookian;;;;;;;;;;;;;x
 b_borth;Borth;;;;;;;;;;;;;x
 b_borth_adj;Borthan;;;;;;;;;;;;;x
+b_bospir;Bospir;;;;;;;;;;;;;x
+b_bospir_adj;Bospiran;;;;;;;;;;;;;x
+b_bounty;Bounty;;;;;;;;;;;;;x
+b_bounty_adj;Bountian;;;;;;;;;;;;;x
 b_brannoch;Brannoch;;;;;;;;;;;;;x
 b_brannoch_adj;Brannochian;;;;;;;;;;;;;x
 b_bray;Bray;;;;;;;;;;;;;x
 b_bray_adj;Brayan;;;;;;;;;;;;;x
-b_bounty;Bounty;;;;;;;;;;;;;x
-b_bounty_adj;Bountian;;;;;;;;;;;;;x
 b_bukhara_spires;Bukhara Spires;;;;;;;;;;;;;x
 b_bukhara_spires_adj;Bukharan;;;;;;;;;;;;;x
 b_caer_callidyrr;Caer Callidyrr;;;;;;;;;;;;;x
@@ -33,6 +43,8 @@ b_caer_westphal;Caer Westphal;;;;;;;;;;;;;x
 b_caer_westphal_adj;Caer Westphallic;;;;;;;;;;;;;x
 b_caftenor;Caftenor;;;;;;;;;;;;;x
 b_caftenor_adj;Caftenoran;;;;;;;;;;;;;x
+b_castle_crag;Castle Crag;;;;;;;;;;;;;x
+b_castle_crag_adj;Castle Cragger;;;;;;;;;;;;;x
 b_castle_morose;Castle Morose;;;;;;;;;;;;;x
 b_castle_morose_adj;Castle Morosian;;;;;;;;;;;;;x
 b_castle_of_skulls;Castle of Skulls;;;;;;;;;;;;;x
@@ -45,30 +57,44 @@ b_codfin;Codfin;;;;;;;;;;;;;x
 b_codfin_adj;Codfinnian;;;;;;;;;;;;;x
 b_codscove;Codscove;;;;;;;;;;;;;x
 b_codscove_adj;Codscovian;;;;;;;;;;;;;x
+b_collinwood;Collinwood;;;;;;;;;;;;;x
+b_collinwood_adj;Collinwoodian;;;;;;;;;;;;;x
 b_dalheim;Dalheim;;;;;;;;;;;;;x
 b_dalheim_adj;Dalheimian;;;;;;;;;;;;;x
 b_darkhorn_castle;Darkhorn Castle;;;;;;;;;;;;;x
 b_darkhorn_castle_adj;Darkhorn Castalian;;;;;;;;;;;;;x
 b_daryns_rest;Daryn’s Rest;;;;;;;;;;;;;x
 b_daryns_rest_adj;Darynian;;;;;;;;;;;;;x
+b_dawngleam;Dawngleam;;;;;;;;;;;;;x
+b_dawngleam_adj;Dawngleaman;;;;;;;;;;;;;x
 b_deepglen;Deepglen;;;;;;;;;;;;;x
 b_deepglen_adj;Deepglenian;;;;;;;;;;;;;x
 b_dennik;Dennik;;;;;;;;;;;;;x
 b_dennik_adj;Dennikian;;;;;;;;;;;;;x
 b_dennins_delve;Dennin’s Delve;;;;;;;;;;;;;x
 b_dennins_delve_adj;Denninian;;;;;;;;;;;;;x
+b_dhedluk;Dhedluk;;;;;;;;;;;;;x
+b_dhedluk_adj;Dhedlukian;;;;;;;;;;;;;x
 b_doncastle;Doncastle;;;;;;;;;;;;;x
 b_doncastle;Doncastelian;;;;;;;;;;;;;x
 b_dorset;Dorset;;;;;;;;;;;;;x
 b_dorset_adj;Dorsettian;;;;;;;;;;;;;x
+b_dreamers_rock;Dreamer’s Rock;;;;;;;;;;;;;x
+b_dreamers_rock_adj;Dreamer’s Rocker;;;;;;;;;;;;;x
 b_dultann;Dultann;;;;;;;;;;;;;x
 b_dultann_adj;Dultannian;;;;;;;;;;;;;x
 b_dynnatt;Dynnatt;;;;;;;;;;;;;x
 b_dynnatt_adj;Dynnattan;;;;;;;;;;;;;x
 b_dynnegall;Dynnegall;;;;;;;;;;;;;x
 b_dynnegall_adj;Dynnegallan;;;;;;;;;;;;;x
+b_eagle_peak;Eagle Peak;;;;;;;;;;;;;x
+b_eagle_peak_adj;Eagle Peakian;;;;;;;;;;;;;x
 b_elyssyrr;Elyssyrr;;;;;;;;;;;;;x
 b_elyssyrr_adj;Elyssyrran;;;;;;;;;;;;;x
+b_espar;Espar;;;;;;;;;;;;;x
+b_espar_adj;Esparran;;;;;;;;;;;;;x
+b_eveningstar;Eveningstar;;;;;;;;;;;;;x
+b_eveningstar_adj;Eveningstarran;;;;;;;;;;;;;x
 b_farview;Farview;;;;;;;;;;;;;x
 b_farview_adj;Farviewer;;;;;;;;;;;;;x
 b_fenton;Fenton;;;;;;;;;;;;;x
@@ -77,26 +103,42 @@ b_flamsterd;Flamsterd;;;;;;;;;;;;;x
 b_flamsterd;Flamsterdan;;;;;;;;;;;;;x
 b_follebu;Follebu;;;;;;;;;;;;;x
 b_follebu_adj;Follebian;;;;;;;;;;;;;x
+b_ghars;Ghars;;;;;;;;;;;;;x
+b_ghars_adj;Gharsian;;;;;;;;;;;;;x
+b_gladehap;Gladehap;;;;;;;;;;;;;x
+b_gladehap_adj;Gladehappian;;;;;;;;;;;;;x
 b_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 b_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
 b_grady;Grady;;;;;;;;;;;;;x
 b_grady_adj;Gradyian;;;;;;;;;;;;;x
+b_gray_oaks;Gray Oaks;;;;;;;;;;;;;x
+b_gray_oaks_adj;Gray Oaksian;;;;;;;;;;;;;x
 b_graystone;Graystone;;;;;;;;;;;;;x
 b_graystone_adj;Graystoner;;;;;;;;;;;;;x
 b_greystaad;Greystaad;;;;;;;;;;;;;x
 b_greystaad_adj;Greystaadian;;;;;;;;;;;;;x
+b_griffon_hill;Griffon Hill;;;;;;;;;;;;;x
+b_griffon_hill_adj;Griffon Hillian;;;;;;;;;;;;;x
 b_grimstad;Grimstad;;;;;;;;;;;;;x
 b_grimstad_adj;Grimstadian;;;;;;;;;;;;;x
 b_gudbrandstad;Gudbrandstad;;;;;;;;;;;;;x
 b_gudbrandstad_adj;Gudbrandstadian;;;;;;;;;;;;;x
 b_gwarch;Gwarch;;;;;;;;;;;;;x
 b_gwarch_adj;Gwarchan;;;;;;;;;;;;;x
+b_halfhap;Halfhap;;;;;;;;;;;;;x
+b_halfhap_adj;Halfhappian;;;;;;;;;;;;;x
 b_hammerstaad;Hammerstaad;;;;;;;;;;;;;x
 b_hammerstaad_adj;Hammerstaadian;;;;;;;;;;;;;x
 b_harloch;Harloch;;;;;;;;;;;;;x
 b_harloch_adj;Harlochian;;;;;;;;;;;;;x
 b_hickorydale;Hickorydale;;;;;;;;;;;;;x
 b_hickorydale_adj;Hickorydaler;;;;;;;;;;;;;x
+b_hidden_vale;Hidden Vale;;;;;;;;;;;;;x
+b_hidden_vale_adj;Hidden Valen;;;;;;;;;;;;;x
+b_high_horn;High Horn;;;;;;;;;;;;;x
+b_high_horn_adj;High Horner;;;;;;;;;;;;;x
+b_highcastle;Highcastle;;;;;;;;;;;;;x
+b_highcastle_adj;Highcastilian;;;;;;;;;;;;;x
 b_highhome;Highhome;;;;;;;;;;;;;x
 b_highhome_adj;Highhomer;;;;;;;;;;;;;x
 b_highpeak;Highpeak;;;;;;;;;;;;;x
@@ -105,6 +147,10 @@ b_highport;Highport;;;;;;;;;;;;;x
 b_highport_adj;Highportan;;;;;;;;;;;;;x
 b_highrock;Highrock;;;;;;;;;;;;;x
 b_highrock_adj;Highrocker;;;;;;;;;;;;;x
+b_hillmarch;Hillmarch;;;;;;;;;;;;;x
+b_hillmarch_adj;Hillmarchian;;;;;;;;;;;;;x
+b_hilp;Hilp;;;;;;;;;;;;;x
+b_hilp_adj;Hilpian;;;;;;;;;;;;;x
 b_holyhead;Holyhead;;;;;;;;;;;;;x
 b_holyhead_adj;Holyheadian;;;;;;;;;;;;;x
 b_horsa;Horsa;;;;;;;;;;;;;x
@@ -113,12 +159,22 @@ b_horst;Horst;;;;;;;;;;;;;x
 b_horst_adj;Horstian;;;;;;;;;;;;;x
 b_horstall;Horstall;;;;;;;;;;;;;x
 b_horstall_adj;Horstallan;;;;;;;;;;;;;x
+b_hultail;Hultail;;;;;;;;;;;;;x
+b_hultail_adj;Hultailan;;;;;;;;;;;;;x
 b_iron_keep;Iron Keep;;;;;;;;;;;;;x
 b_iron_keep_adj;Iron Keeper;;;;;;;;;;;;;x
 b_jacaman;Jacaman;;;;;;;;;;;;;x
 b_jacaman_adj;Jacamanian;;;;;;;;;;;;;x
+b_junirill;Junirill;;;;;;;;;;;;;x
+b_junirill_adj;Junirillian;;;;;;;;;;;;;x
+b_kallamarn;Kallamarn;;;;;;;;;;;;;x
+b_kallamarn_adj;Kallamarnian;;;;;;;;;;;;;x
 b_kingsbay;Kingsbay;;;;;;;;;;;;;x
 b_kingsbay_adj;Kingsbayan;;;;;;;;;;;;;x
+b_kirinwood;Kirinwood;;;;;;;;;;;;;x
+b_kirinwood_adj;Kirinwoodian;;;;;;;;;;;;;x
+b_knightswood;Knightswood;;;;;;;;;;;;;x
+b_knightswood_adj;Knightswoodian;;;;;;;;;;;;;x
 b_koart;Koart;;;;;;;;;;;;;x
 b_koart_adj;Koartan;;;;;;;;;;;;;x
 b_kork;Kork;;;;;;;;;;;;;x
@@ -133,22 +189,38 @@ b_llandrain;Llandrain;;;;;;;;;;;;;x
 b_llandrain_adj;Llandrainian;;;;;;;;;;;;;x
 b_llewellyn;Llewellyn;;;;;;;;;;;;;x
 b_llewellyn_adj;Llewellynian;;;;;;;;;;;;;x
+b_lost_refuge;Lost Refuge;;;;;;;;;;;;;x
+b_lost_refuge_adj;Lost Refuger;;;;;;;;;;;;;x
 b_macsheehan;MacSheehan;;;;;;;;;;;;;x
 b_macsheehan_adj;MacSheehan;;;;;;;;;;;;;x
 b_manger;Manger;;;;;;;;;;;;;x
 b_manger_adj;Mangeran;;;;;;;;;;;;;x
 b_marsember;Marsember;;;;;;;;;;;;;x
 b_marsember_adj;Marsembian;;;;;;;;;;;;;x
+b_minroe;Minroe;;;;;;;;;;;;;x
+b_minroe_adj;Minroan;;;;;;;;;;;;;x
 b_mintarn;Mintarn;;;;;;;;;;;;;x
 b_mintarn_adj;Mintarnan;;;;;;;;;;;;;x
+b_monksblade;Monksblade;;;;;;;;;;;;;x
+b_monksblade_adj;Monksblader;;;;;;;;;;;;;x
+b_moonever;Moonever;;;;;;;;;;;;;x
+b_moonever_adj;Mooneveran;;;;;;;;;;;;;x
+b_mouth_o_gargoyles;Mouth O’ Gargoyles;;;;;;;;;;;;;x
+b_mouth_o_gargoyles_adj;Mouth O’ Gargoylian;;;;;;;;;;;;;x
 b_myrrdale;Myrrdale;;;;;;;;;;;;;x
 b_myrrdale_adj;Myrrdaler;;;;;;;;;;;;;x
+b_nesmyth;Nesmyth;;;;;;;;;;;;;x
+b_nesmyth_adj;Nesmythian;;;;;;;;;;;;;x
 b_o_malley;O’Malley;;;;;;;;;;;;;x
 b_o_malley_adj;O’Mallean;;;;;;;;;;;;;x
 b_ogden;Ogden;;;;;;;;;;;;;x
 b_ogden_adj;Ogdenian;;;;;;;;;;;;;x
 b_olafstaad;Olafstaad;;;;;;;;;;;;;x
 b_olafstaad_adj;Olafstaadian;;;;;;;;;;;;;x
+b_onguls_water;Ongul’s Water;;;;;;;;;;;;;x
+b_onguls_water_adj;Ongul’s Wateran;;;;;;;;;;;;;x
+b_orvaskyte_keep;Orvaskyte Keep;;;;;;;;;;;;;x
+b_orvaskyte_keep_adj;Orvaskytian;;;;;;;;;;;;;x
 b_ossian_rock;Ossian Rock;;;;;;;;;;;;;x
 b_ossian_rock_adj;Ossian Rocker;;;;;;;;;;;;;x
 b_otta;Otta;;;;;;;;;;;;;x
@@ -167,6 +239,8 @@ b_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 b_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 b_ramshorn;Ramshorn;;;;;;;;;;;;;x
 b_ramshorn_adj;Ramshorner;;;;;;;;;;;;;x
+b_redspring;Redspring;;;;;;;;;;;;;x
+b_redspring_adj;Redspringan;;;;;;;;;;;;;x
 b_regents_field;Regent’s Field;;;;;;;;;;;;;x
 b_regents_field_adj;Regent’s Fieldian;;;;;;;;;;;;;x
 b_rogarsheim;Rogarsheim;;;;;;;;;;;;;x
@@ -181,31 +255,55 @@ b_skadaurak;Skadaurak;;;;;;;;;;;;;x
 b_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
 b_skten;Skten;;;;;;;;;;;;;x
 b_skten_adj;Sktenan;;;;;;;;;;;;;x
+b_slingdyke;Slingdyke;;;;;;;;;;;;;x
+b_slingdyke_adj;Slingdykian;;;;;;;;;;;;;x
+b_smugglers_stone;Smuggler’s Stone;;;;;;;;;;;;;x
+b_smugglers_stone_adj;Smuggler’s Stoner;;;;;;;;;;;;;x
 b_sommersdal;Sommersdal;;;;;;;;;;;;;x
 b_sommersdal_adj;Sommersdallan;;;;;;;;;;;;;x
 b_sordal;Sordal;;;;;;;;;;;;;x
 b_sordal_adj;Sordallan;;;;;;;;;;;;;x
+b_stagsteads;Stagsteads;;;;;;;;;;;;;x
+b_stagsteads_adj;Stagsteadsian;;;;;;;;;;;;;x
 b_storaad;Storaad;;;;;;;;;;;;;x
 b_storaad_adj;Storaadan;;;;;;;;;;;;;x
 b_sunderstaad;Sunderstaad;;;;;;;;;;;;;x
 b_sunderstaad_adj;Sunderstaader;;;;;;;;;;;;;x
+b_sunset_hill;Sunset Hill;;;;;;;;;;;;;x
+b_sunset_hill_adj;Sunset Hillian;;;;;;;;;;;;;x
 b_suzail;Suzail;;;;;;;;;;;;;x
 b_suzail_adj;Suzailan;;;;;;;;;;;;;x
 b_thorndyke;Thorndyke;;;;;;;;;;;;;x
 b_thorndyke_adj;Thorndykean;;;;;;;;;;;;;x
 b_threlloch;Threlloch;;;;;;;;;;;;;x
 b_threlloch_adj;Threllochian;;;;;;;;;;;;;x
+b_thunderholme;Thunderholme;;;;;;;;;;;;;x
+b_thunderholme_adj;Thunderholmian;;;;;;;;;;;;;x
+b_thunderstone;Thunderstone;;;;;;;;;;;;;x
+b_thunderstone_adj;Thunderstonian;;;;;;;;;;;;;x
+b_tilverton;Tilverton;;;;;;;;;;;;;x
+b_tilverton_adj;Tilvertonian;;;;;;;;;;;;;x
 b_trondhelm;Trondhelm;;;;;;;;;;;;;x
 b_trondhelm_adj;Trondhelmer;;;;;;;;;;;;;x
+b_tyrluk;Tyrluk;;;;;;;;;;;;;x
+b_tyrluk_adj;Tyrlukian;;;;;;;;;;;;;x
+b_valkurs_roar;Valkur’s Roar;;;;;;;;;;;;;x
+b_valkurs_roar_adj;Valkur’s Roarian;;;;;;;;;;;;;x
 b_ventris;Ventris;;;;;;;;;;;;;x
 b_ventris_adj;Ventricular;;;;;;;;;;;;;x
 b_warlsbry;Warlsbry;;;;;;;;;;;;;x
 b_warlsbry_adj;Warlsbryan;;;;;;;;;;;;;x
 b_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
 b_wave_rocks_adj;Wave Rocker;;;;;;;;;;;;;x
+b_waymoot;Waymoot;;;;;;;;;;;;;x
+b_waymoot_adj;Waymootan;;;;;;;;;;;;;x
 b_westhaven;Westhaven;;;;;;;;;;;;;x
 b_westhaven_adj;Westhavian;;;;;;;;;;;;;x
+b_wheloon;Wheloon;;;;;;;;;;;;;x
+b_wheloon_adj;Wheloonian;;;;;;;;;;;;;x
 b_white_rock;White Rock;;;;;;;;;;;;;x
 b_white_rock_adj;White Rocker;;;;;;;;;;;;;x
+b_wormtower;Wormtower;;;;;;;;;;;;;x
+b_wormtower_adj;Wormtowerian;;;;;;;;;;;;;x
 b_wyngate;Wyngate;;;;;;;;;;;;;x
 b_wyngate_adj;Wyngater;;;;;;;;;;;;;x
