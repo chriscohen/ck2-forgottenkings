@@ -415,7 +415,7 @@ human = {
 			Landon Larak Lareth Londal Lothan
 			Manarech Marthin Melder Mhaernos Mondar Morligul Mulcaster
 			Naeryk
-			Obraerl Ogden Ohlmer Ondrin Oric Ormion
+			Obraerl Ogden Ohlmer Ondrin Oric Ormion Ordmann
 			Paramyr
 			Raedlar Raegl Rastafan Rauligus Ravos Reldyk Renstameir Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Staephon
@@ -427,7 +427,7 @@ human = {
 			Yarjack
 		}
 		female_names = {
-			Alazne Albhaera Alusair Amarsa Ammaratha Ashala
+			Adenia Alazne Albhaera Alusair Amarsa Ammaratha Ashala
 			Constancia
 			Dove
 			Elestra
@@ -438,11 +438,12 @@ human = {
 			Jalassra
 			Katriana Klaire
 			Laspeera Lorelei
-			Maea Marantine Mela
+			Maea Maranth Marantine Mela
 			Omalra Ospra
 			Pella
 			Solatha
 			Talantra Tanalasta Threena
+			Varauna
 			Vindala
 		}
 		
