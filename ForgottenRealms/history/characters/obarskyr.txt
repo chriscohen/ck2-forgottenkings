@@ -1434,9 +1434,6 @@
 	1405.1.1 = {
 		birth = yes
 	}
-	1436.1.1 = {
-		add_spouse = 4800 # Solatha Boldtree
-	}
 	1437.10.1 = { # Dungeon 198 p.10
 		death = yes
 	}

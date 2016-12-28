@@ -1,0 +1,5 @@
+1438.1.1 = {
+	# Dungeon 198 p.9
+	liege = "c_kings_forest"
+	holder = 4800 # Solatha Boldtree
+}

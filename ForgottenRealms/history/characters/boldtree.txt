@@ -13,7 +13,7 @@
 	1417.1.1 = {
 		birth = yes
 	}
-	1436.1.1 = {
-		add_spouse = 86 # Ernvar Obarskyr
+	1492.1.1 = {
+		death = yes
 	}
 }
