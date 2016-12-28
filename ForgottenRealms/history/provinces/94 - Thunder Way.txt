@@ -13,4 +13,7 @@ b_junirill = castle
 culture = cormyrean
 religion = catholic
 
-#History
+# History
+1336.1.1 = {
+	b_thunderstone = castle
+}
