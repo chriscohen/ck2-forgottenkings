@@ -11,6 +11,11 @@
 	1358.1.1 = { # Estimate
 		birth = yes
 	}
+	1374.1.1 = {
+		trait = wizard
+		employer = 83 # Alusair Obarskyr
+		effect = { give_minor_title = title_council_of_mages }
+	}
 	1377.1.1 = {
 		add_spouse = 4500 # Laspeera Naerinth
 	}
