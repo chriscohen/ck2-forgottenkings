@@ -1,0 +1,21 @@
+# FIREHANDS
+# Range 4100-4199
+
+4100 = {
+	name = Cadellin
+	dynasty = 210003
+	
+	religion = catholic
+	culture = sembian
+	
+	1310.1.1 = { # Estimate
+		birth = yes
+	}
+	1344.1.1 = {
+		employer = 3901 # Merelith Tymmyr
+		effect = { give_job_title = job_spymaster }
+	}
+	1401.1.1 = { # Estimate
+		death = yes
+	}
+}

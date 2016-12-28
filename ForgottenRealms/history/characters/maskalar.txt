@@ -1,0 +1,22 @@
+# MASKALAR
+# Range 4000-4999
+
+4000 = {
+	name = Thauna
+	female = yes
+	dynasty = 201002
+	
+	religion = catholic
+	culture = sembian
+	
+	1332.1.1 = { # Estimate
+		birth = yes
+		employer = 3900 # Halath Tymmyr / Daerlun
+	}
+	1342.1.1 = {
+		effect = { give_job_title = job_spymaster }
+	}
+	1417.1.1 = { # Estimate
+		death = yes
+	}
+}

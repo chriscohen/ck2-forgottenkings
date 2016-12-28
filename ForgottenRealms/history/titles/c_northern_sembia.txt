@@ -1,0 +1,4 @@
+1325.1.1 = {
+	liege = "d_selgaunt"
+	holder = 4200 # Andeth Ilchammar
+}

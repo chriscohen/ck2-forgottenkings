@@ -1,0 +1,4 @@
+1335.1.1 = {
+	liege = "d_ordulin"
+	holder = 4400 # Andilal Tharimpar
+}

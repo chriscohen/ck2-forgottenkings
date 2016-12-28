@@ -29,5 +29,12 @@
 # 3500   - 3599     Truesilver
 # 3600   - 3699     Aeiulvana
 # 3700   - 3799     Marliir
+# 3800   - 3899     Yarmmaster
+# 3900   - 3999     Tymmyr
+# 4000   - 4099     Maskalar
+# 4100   - 4199     Firehands
+# 4200   - 4299     Ilchammar
+# 4300   - 4399     Sumbrar
+# 4400   - 4499     Tharimpar
 #
 # 900000 - 999999 Lowborn

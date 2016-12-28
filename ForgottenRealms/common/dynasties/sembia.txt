@@ -1,0 +1,31 @@
+# SEMBIA
+# Range 210000-210999
+
+210000 = {
+	name = Yarmmaster
+	culture = sembian
+}
+210001 = {
+	name = Tymmyr
+	culture = sembian
+}
+210002 = {
+	name = Maskalar
+	culture = sembian
+}
+210003 = {
+	name = Firehands
+	culture = sembian
+}
+210004 = {
+	name = Ilchammar
+	culture = sembian
+}
+210005 = {
+	name = Sumbrar
+	culture = sembian
+}
+210006 = {
+	name = Tharimpar
+	culture = sembian
+}

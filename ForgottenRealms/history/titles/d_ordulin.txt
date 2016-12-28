@@ -1,0 +1,4 @@
+1338.1.1 = {
+	liege = "k_sembia"
+	holder = 3800 # Elduth Yarmmaster
+}

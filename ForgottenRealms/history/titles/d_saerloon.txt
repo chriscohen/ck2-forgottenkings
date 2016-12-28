@@ -1,0 +1,4 @@
+1344.1.1 = {
+	liege = "k_sembia"
+	holder = 3901 # Lady Merelith "of the Guard"
+}

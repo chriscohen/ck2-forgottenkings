@@ -1,0 +1,20 @@
+# THARIMPAR
+# Range 4400-4499
+
+4400 = {
+	name = Andilal
+	dynasty = 210006
+	
+	religion = catholic
+	culture = sembian
+	
+	1319.1.1 = { # Estimate
+		birth = yes
+	}
+	1339.1.1 = {
+		give_nickname = nick_the_stout
+	}
+	1387.1.1 = { # Estimate
+		death = yes
+	}
+}

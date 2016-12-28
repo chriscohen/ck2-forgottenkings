@@ -1,0 +1,34 @@
+# TYMMYR
+# Range 3900-3999
+
+3900 = {
+	name = Halath
+	dynasty = 210001
+	
+	religion = catholic
+	culture = sembian
+	
+	1309.1.1 = { # Estimate
+		birth = yes
+	}
+	1399.1.1 = { # Estimate
+		death = yes
+	}
+}
+3901 = {
+	# TSR1085 FRCS2e p.61
+	# Last name not given, but we need her in a dynasty to be able to hold titles
+	name = Merelith
+	female = yes
+	dynasty = 210001
+	
+	religion = catholic
+	culture = sembian
+	
+	1328.1.1 = { # Estimate
+		birth = yes
+	}
+	1411.1.1 = { # Estimate
+		death = yes
+	}
+}

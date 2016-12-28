@@ -708,10 +708,14 @@ human = {
 		color = { 0.2 0.9 0.2 }
 		
 		male_names = {
-			Unnamed
+			Aluin Andeth Andilal
+			Cadellin
+			Elduth
+			Halath
 		}
 		female_names = {
-			Unnamed
+			Merelith
+			Thauna
 		}
 		
 		dukes_called_kings = no

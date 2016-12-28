@@ -1,0 +1,3 @@
+1338.1.1 = {
+	holder = 3800 # Elduth Yarmmaster
+}

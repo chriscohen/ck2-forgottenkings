@@ -1,0 +1,4 @@
+1325.1.1 = {
+	liege = "k_sembia"
+	holder = 3900 # Halath Tymmyr
+}
