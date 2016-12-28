@@ -38,5 +38,6 @@
 # 4400   - 4499     Tharimpar
 # 4500   - 4599     Naerinth
 # 4600   - 4699     Inthré
+# 4700   - 4799     Selzair
 #
 # 900000 - 999999 Lowborn

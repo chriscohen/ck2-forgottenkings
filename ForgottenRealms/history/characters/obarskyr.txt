@@ -1326,7 +1326,7 @@
 		birth = yes
 	}
 	1330.1.1 = {
-		add_spouse = 900001 # Filfaeril Selzair
+		add_spouse = 4700 # Filfaeril Selzair
 	}
 	1371.1.1 = {
 		death = yes
@@ -1337,7 +1337,7 @@
 	female = yes
 	dynasty = 201000
 	father = 81 # Azoun IV
-	mother = 900001 # Filfaeril
+	mother = 4700 # Filfaeril
 	
 	religion = catholic
 	culture = cormyrean
@@ -1359,7 +1359,7 @@
 	female = yes
 	dynasty = 201000
 	father = 81 # Azoun IV
-	mother = 900001 # Filfaeril
+	mother = 4700 # Filfaeril
 	
 	religion = catholic
 	culture = cormyrean

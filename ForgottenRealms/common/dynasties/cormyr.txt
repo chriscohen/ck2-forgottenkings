@@ -37,3 +37,7 @@
 	name = Inthré
 	culture = cormyrean
 }
+201009 = {
+	name = Selzair
+	culture = cormyrean
+}
