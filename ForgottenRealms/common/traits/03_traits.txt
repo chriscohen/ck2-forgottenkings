@@ -18,6 +18,15 @@ purple_dragon = {
 	
 	general_opinion = 5
 }
+spectral_harpist = {
+	customizer = no
+	random = no
+	
+	immortal = yes
+	can_hold_titles = no
+	cannot_marry = yes
+	cannot_inherit = yes
+}
 zhentarim = {
 	random = no
 	
