@@ -1,0 +1,26 @@
+# THOND
+# Range 6000-6099
+
+6000 = {
+	# Backdrop: Suzail p.2
+	name = Eleanor
+	female = yes
+	dynasty = 201021
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = ambitious
+	trait = charismatic_negotiator
+	
+	1428.1.1 = {
+		birth = yes
+	}
+	1456.1.1 = {
+		employer = 5900 # Edwin Morahan
+		effect = { give_job_title = job_steward }
+	}
+	1507.1.1 = {
+		death = yes
+	}
+}

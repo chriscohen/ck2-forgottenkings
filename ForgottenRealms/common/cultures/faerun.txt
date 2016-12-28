@@ -430,7 +430,7 @@ human = {
 			Aceeta Adenia Alazne Albhaera Alusair Amarsa Ammaratha Ashala
 			Constancia
 			Dove
-			Earilde Elestra
+			Earilde Eleanor Elestra
 			Florin
 			Glathra Gorloun
 			Helindra

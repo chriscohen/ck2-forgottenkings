@@ -1,0 +1,60 @@
+# HAWKLIN
+# Range 6100-6199
+
+6100 = {
+	name = Barandos
+	dynasty = 201022
+	father = 6101 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1385.1.1 = {
+		death = yes
+	}
+}
+6101 = {
+	name = Unnamed # Father of Barandos so that he can have a brother
+	dynasty = 201022
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1295.1.1 = {
+		birth = yes
+	}
+	1330.1.1 = {
+		death = yes
+	}
+}
+6102 = {
+	name = Unnamed # Unnamed brother of Barandos
+	dynasty = 201022
+	father = 6101 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1371.1.1 = {
+		death = yes
+	}
+}
+6103 = {
+	name = Unnamed # Source only says "Lady Hawklin"
+	female = yes
+	dynasty = 201022
+	father = 6100 # Taking a stab in the dark with this
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
