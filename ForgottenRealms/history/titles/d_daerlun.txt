@@ -2,3 +2,7 @@
 	liege = "k_sembia"
 	holder = 3900 # Halath Tymmyr
 }
+1397.1.1 = {
+	# Dungeon 198 p.17
+	liege = "k_cormyr"
+}

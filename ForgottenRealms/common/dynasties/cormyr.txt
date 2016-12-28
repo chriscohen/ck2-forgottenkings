@@ -29,3 +29,11 @@
 	name = Marliir
 	culture = cormyrean
 }
+201007 = {
+	name = Naerinth
+	culture = cormyrean
+}
+201008 = {
+	name = Inthré
+	culture = cormyrean
+}

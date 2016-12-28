@@ -36,5 +36,7 @@
 # 4200   - 4299     Ilchammar
 # 4300   - 4399     Sumbrar
 # 4400   - 4499     Tharimpar
+# 4500   - 4599     Naerinth
+# 4600   - 4699     Inthré
 #
 # 900000 - 999999 Lowborn

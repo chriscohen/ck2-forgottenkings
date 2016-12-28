@@ -1,0 +1,25 @@
+# NAERINTH
+# Range 4500-4599
+
+4500 = {
+	name = Laspeera
+	female = yes
+	dynasty = 201007
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1359.1.1 = { # Estimate
+		birth = yes
+	}
+	1377.1.1 = {
+		add_spouse = 4600 # Aundable Inthré
+	}
+	1399.1.2 = {
+		employer = 84 # Azoun IV
+		effect = { give_job_title = job_spymaster }
+	}
+	1459.1.1 = { # Estimate
+		death = yes
+	}
+}

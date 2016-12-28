@@ -401,7 +401,7 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Aubrin Augrathar Auldus Aunadar Austrus
+			Adris Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Aubrin Augrathar Auldus Aunadar Aundable Austrus
 			Baerauble Baern Baert Barandos Blundebel Boris
 			Chalannos Chansobal Coobert Corleth
 			Danthalus Deinyn Del Draguth Drounan Duncan Dunlath Duth
@@ -437,7 +437,7 @@ human = {
 			Illistyl Iyrytharna
 			Jalassra
 			Katriana Klaire
-			Lorelei
+			Laspeera Lorelei
 			Maea Marantine Mela
 			Omalra Ospra
 			Pella

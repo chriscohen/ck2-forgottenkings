@@ -1,0 +1,37 @@
+# INTHRE
+# Range 4600-4699
+
+4600 = {
+	name = Aundable
+	dynasty = 201008
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1358.1.1 = { # Estimate
+		birth = yes
+	}
+	1377.1.1 = {
+		add_spouse = 4500 # Laspeera Naerinth
+	}
+	1450.1.1 = { # Estimate
+		death = yes
+	}
+}
+4601 = {
+	name = Alazne
+	female = yes
+	dynasty = 201008
+	father = 4600 # Aundable
+	mother = 4500 # Laspeera Naerinth
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1378.1.1 = { # Estimate
+		birth = yes
+	}
+	1457.1.1 = { # Estimate
+		death = yes
+	}
+}

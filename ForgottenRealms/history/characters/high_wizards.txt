@@ -79,7 +79,7 @@
 	1384.1.1 = {
 		employer = 84 # Azoun V Obarskyr
 	}
-	1399.1.1 = {
+	1399.1.1 = { # Dungeon 198 p.17
 		death = yes
 	}
 }
