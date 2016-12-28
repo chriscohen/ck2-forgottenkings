@@ -405,8 +405,8 @@ human = {
 			Baerauble Baern Baert Barandos Blundebel Boris
 			Chalannos Chansobal Coobert Corleth
 			Danthalus Deinyn Del Draguth Drounan Duncan Dunlath Duth
-			Eldur Ellard Elmariel Elvarin Embryn Emlar Erdreth Eregar Estelner
-			Falzo Faril Filani
+			Eldur Ellard Elmariel Elvarin Embryn Emlar Erdreth Eregar Ernvar Estelner
+			Falzo Faril Filani Foril
 			Galados Gardumn Gaspar Gelnur Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harrandave Helmur Hesperdan
 			Ildamoor
@@ -427,7 +427,7 @@ human = {
 			Yarjack
 		}
 		female_names = {
-			Albhaera Amarsa Ammaratha Ashala
+			Alazne Albhaera Amarsa Ammaratha Ashala
 			Constancia
 			Dove
 			Elestra
