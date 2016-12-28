@@ -363,6 +363,9 @@
 	1344.1.1 = {
 		remove_spouse = 900020 # Myrmeen Lhal
 	}
+	1355.1.1 = { # Estimate
+		death = yes
+	}
 }
 900020 = {
 	# Myrmeen Lhal
@@ -571,6 +574,9 @@
 	}
 	1449.1.1 = {
 		employer = 87 # Foril I Obarskyr
+	}
+	1456.1.1 = {
+		add_friend = 5900 # Edwin Morahan
 	}
 	1499.1.1 = { # Estimate
 		death = yes
