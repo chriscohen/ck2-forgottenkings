@@ -6,3 +6,7 @@
 	# Dungeon 198 p.17
 	liege = "k_cormyr"
 }
+1441.1.1 = {
+	# Dungeon 198 p.18
+	liege = 0
+}
