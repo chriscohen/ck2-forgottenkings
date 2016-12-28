@@ -215,3 +215,6 @@
 1401.1.1 = {
 	holder = 84 # Azoun V, death of Sthavar
 }
+1449.1.1 = {
+	holder = 87 # Foril I
+}

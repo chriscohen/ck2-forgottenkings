@@ -1,4 +1,5 @@
 26.1.1 = {
+	liege = "d_cormyr"
 	holder = 1 # Faerlthann
 }
 55.1.1 = {
@@ -209,7 +210,6 @@
 	holder = 80 # Rhiigaerd II
 }
 1335.1.1 = {
-	liege = "d_cormyr"
 	holder = 3701 # Raynaar Marliir
 }
 1352.3.1 = {
@@ -226,6 +226,8 @@
 	holder = 3700 # Dauneth Marliir
 }
 1403.1.1 = {
-	liege = 0
 	holder = 84 # Azoun V
+}
+1449.1.1 = {
+	holder = 87 # Foril I
 }
