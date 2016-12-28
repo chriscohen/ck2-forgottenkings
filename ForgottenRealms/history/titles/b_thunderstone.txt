@@ -1,0 +1,7 @@
+1336.1.1 = {
+	liege = c_thunder_way
+	holder = 6100 # Barandos Hawklin
+}
+1385.1.1 = {
+	holder = 0
+}
