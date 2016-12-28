@@ -1,0 +1,26 @@
+# MARAMMAS
+# Range 5100-5199
+
+5100 = {
+	name = Argûl
+	dynasty = 201012
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1302.1.1 = { # Estimate
+		birth = yes
+	}
+	1318.1.1 = {
+		trait = wizard
+	}
+	1371.1.1 = { # Dungeon 198 p.5
+		employer = 83 # Alusair Obarskyr
+		effect = {
+			give_minor_title = title_council_of_mages
+		}
+	}
+	1392.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -42,5 +42,7 @@
 # 4800   - 4899     Boldtree
 # 4900   - 4999     Rhindaun
 # 5000   - 5999     Goldfeather
+# 5100   - 5199     Marammas
+# 5200   - 5299     Hlar
 #
 # 900000 - 999999 Lowborn

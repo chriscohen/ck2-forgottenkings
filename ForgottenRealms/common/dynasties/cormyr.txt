@@ -49,3 +49,11 @@
 	name = Goldfeather
 	culture = cormyrean
 }
+201012 = {
+	name = Marammas
+	culture = cormyrean
+}
+201013 = {
+	name = Hlar
+	culture = cormyrean
+}

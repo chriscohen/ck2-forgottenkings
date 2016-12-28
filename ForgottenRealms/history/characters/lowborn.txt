@@ -512,6 +512,51 @@
 		death = yes
 	}
 }
+900031 = {
+	name = Tsharlura
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1319.1.1 = { # Estimate
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = wizard
+	}
+	1371.1.1 = { # Dungeon 198 p.5
+		employer = 83 # Alusair Obarskyr
+		effect = {
+			give_minor_title = title_council_of_mages
+		}
+	}
+	1409.1.1 = { # Estimate
+		death = yes
+	}
+}
+900032 = {
+	name = Filani
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1320.6.1 = { # Estimate
+		birth = yes
+	}
+	1336.6.1 = {
+		trait = wizard
+	}
+	1371.1.1 = { # Dungeon 198 p.5
+		employer = 83 # Alusair Obarskyr
+		effect = {
+			give_minor_title = title_council_of_mages
+		}
+	}
+	1421.1.1 = { # Estimate
+		death = yes
+	}
+}
 900036 = {
 	name = Askran
 	

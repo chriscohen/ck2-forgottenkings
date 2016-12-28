@@ -1,0 +1,26 @@
+# HLAR
+# Range 5200-5299
+
+5200 = {
+	name = Maxer
+	dynasty = 201013
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1304.1.1 = { # Estimate
+		birth = yes
+	}
+	1320.1.1 = {
+		trait = wizard
+	}
+	1371.1.1 = { # Dungeon 198 p.5
+		employer = 83 # Alusair Obarskyr
+		effect = {
+			give_minor_title = title_council_of_mages
+		}
+	}
+	1415.1.1 = { # Estimate
+		death = yes
+	}
+}
