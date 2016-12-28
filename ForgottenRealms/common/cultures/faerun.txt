@@ -405,7 +405,7 @@ human = {
 			Baerauble Baern Baert Barandos Blundebel Boris
 			Chalannos Chansobal Coobert Corleth
 			Danthalus Deinyn Del Draguth Drounan Duncan Dunlath Duth
-			Eldur Ellard Elmariel Elvarin Embryn Emlar Erdreth Eregar Ernvar Estelner
+			Eldur Ellard Elmariel Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
 			Falzo Faril Filani Foril
 			Galados Gardumn Gaspar Gelnur Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harrandave Helmur Hesperdan

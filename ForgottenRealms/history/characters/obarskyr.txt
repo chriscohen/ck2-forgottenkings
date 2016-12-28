@@ -1423,7 +1423,7 @@
 	}
 }
 86 = {
-	name = Ernvar
+	name = Emvar
 	dynasty = 201000
 	father = 84 # Azoun V
 	mother = 3704 # Nalara Marliir
@@ -1481,7 +1481,7 @@
 89 = {
 	name = Erzoured
 	dynasty = 201000
-	father = 86 # Ernvar
+	father = 86 # Emvar
 	mother = 4800 # Solatha Boldtree
 	
 	religion = catholic
