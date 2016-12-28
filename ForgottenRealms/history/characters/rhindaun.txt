@@ -60,7 +60,9 @@
 	1430.1.1 = { # Estimate
 		add_spouse = 87 # Foril I Obarskyr
 	}
-	1437.1.1 = {
-		death = yes
+	1437.10.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
 	}
 }

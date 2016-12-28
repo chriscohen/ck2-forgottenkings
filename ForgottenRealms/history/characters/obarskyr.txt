@@ -1435,7 +1435,9 @@
 		birth = yes
 	}
 	1437.10.1 = { # Dungeon 198 p.10
-		death = yes
+		death = {
+			death_reason = death_battle
+		}
 	}
 }
 87 = {
