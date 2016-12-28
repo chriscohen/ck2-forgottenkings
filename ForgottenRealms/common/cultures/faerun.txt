@@ -415,7 +415,7 @@ human = {
 			Landon Larak Lareth Londal Lothan
 			Manarech Marthin Melder Mhaernos Mondar Morligul Mulcaster
 			Naeryk
-			Obraerl Ogden Ohlmer Ondrin Oric Ormion Ordmann
+			Obraerl Ogden Ohlmer Ondrin Oric Ormion Ordmann Ortwin
 			Paramyr
 			Raedlar Raegl Rastafan Rauligus Ravos Reldyk Renstameir Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Staephon
@@ -441,7 +441,7 @@ human = {
 			Maea Maranth Marantine Mela
 			Omalra Ospra Ossani
 			Pella
-			Solatha
+			Saha Solatha
 			Talantra Tanalasta Threena
 			Varauna
 			Vindala

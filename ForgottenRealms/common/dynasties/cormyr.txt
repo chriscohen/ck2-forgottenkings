@@ -65,3 +65,17 @@
 	name = Thralos
 	culture = cormyrean
 }
+201016 = {
+	name = Barcantle
+}
+201017 = {
+	name = Durncaskyn
+	culture = cormyrean
+}
+201018 = {
+	name = Kolmar
+	culture = cormyrean
+}
+201019 = {
+	name = Tovan
+}

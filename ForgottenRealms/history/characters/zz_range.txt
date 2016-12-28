@@ -46,5 +46,8 @@
 # 5200   - 5299     Hlar
 # 5300   - 5399     Eveningspire
 # 5400   - 5499     Thralos
-#
+# 5500   - 5599     Barcantle
+# 5600   - 5699     Durncaskyn
+# 5700   - 5799     Kolmar
+# 5800   - 5899     Tovan
 # 900000 - 999999 Lowborn

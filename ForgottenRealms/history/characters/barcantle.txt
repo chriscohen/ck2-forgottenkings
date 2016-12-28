@@ -1,0 +1,25 @@
+# BARCANTLE
+# Range 5500-5599
+
+5500 = {
+	# Dungeon 198 p.11
+	name = Glathra
+	female = yes
+	dynasty = 201016
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = ambitious
+	
+	1438.1.1 = {
+		birth = yes
+	}
+	1454.1.1 = {
+		employer = 87 # Foril I Obarskyr
+		trait = wizard
+	}
+	1515.1.1 = {
+		death = yes
+	}
+}

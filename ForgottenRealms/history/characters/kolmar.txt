@@ -1,0 +1,23 @@
+# KOLMAR
+# 5700-5799
+
+5700 = {
+	# Dungeon 198 p.12
+	name = Ortwin
+	dynasty = 201018
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = craven
+	
+	1429.1.1 = {
+		birth = yes
+	}
+	1449.1.1 = {
+		employer = 87 # Foril I Obarskyr
+	}
+	1487.1.1 = {
+		death = yes
+	}
+}

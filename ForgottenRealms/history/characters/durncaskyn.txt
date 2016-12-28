@@ -1,0 +1,22 @@
+# DURNCASKYN
+# Range 5600-5699
+
+5600 = {
+	# Dungeon 198 p.11
+	name = Lothan
+	dynasty = 201017
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1445.1.1 = {
+		birth = yes
+	}
+	1461.1.1 = {
+		employer = 87 # Foril I Obarskyr
+		trait = purple_dragon
+	}
+	1501.1.1 = {
+		death = yes
+	}
+}
