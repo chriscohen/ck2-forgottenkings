@@ -21,6 +21,7 @@
 	name = Shayna # Sister of Athlan
 	female = yes
 	dynasty = 201027
+	father = 6605 # Pyramus
 	mother = 6800 # Zarova Battlestar
 	
 	religion = catholic
@@ -103,7 +104,7 @@
 	1338.1.1 = {
 		add_spouse = 6800 # Zarova Battlestar
 	}
-	1351.1.1 = {
+	1361.1.1 = {
 		death = yes
 	}
 }
