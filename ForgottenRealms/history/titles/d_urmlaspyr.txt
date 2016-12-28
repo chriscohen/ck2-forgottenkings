@@ -2,3 +2,7 @@
 	liege = "k_sembia"
 	holder = 4300 # Aluin Sumbrar
 }
+1408.1.1 = {
+	# Dungeon 198 p.17
+	liege = "k_cormyr"
+}
