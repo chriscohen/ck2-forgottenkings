@@ -1,0 +1,19 @@
+1274.1.1 = {
+	liege = c_hullack_forest
+	holder = 6603 # Unnamed Summerstar
+}
+1318.1.1 = {
+	holder = 6602 # Rauvor Summerstar
+}
+1341.1.1 = {
+	holder = 6605 # Pyramus Summerstar
+}
+1361.1.1 = {
+	holder = 6600 # Athlan Summerstar
+}
+1365.7.4 = {
+	holder = 6610 # Erlander Summerstar
+}
+1411.1.1 = {
+	holder = 0
+}

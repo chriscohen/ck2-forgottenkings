@@ -12,4 +12,7 @@ b_hillmarch = castle
 culture = cormyrean
 religion = catholic
 
-#History
+# History
+1274.1.1 = {
+	b_firefall_keep = castle
+}
