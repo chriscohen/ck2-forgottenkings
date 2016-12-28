@@ -21,10 +21,10 @@ c_daerlun;Daerlun;;;;;;;;;;;;;x
 c_daerlun_adj;Daerlunian;;;;;;;;;;;;;x
 c_dennik;Dennik;;;;;;;;;;;;;x
 c_dennik_adj;Dennikian;;;;;;;;;;;;;x
-c_east_cormyr;East Cormyr;East Cormyr;East Cormyr;;East Cormyr;;;;;;;;;x
-c_east_cormyr_adj;East Cormyrean;;;;;;;;;;;;;x
 c_east_oman;East Oman;;;;;;;;;;;;;x
 c_east_oman_adj;East Omanian;;;;;;;;;;;;;x
+c_eastern_marches;Eastern Marches;;;;;;;;;;;;;x
+c_eastern_marches_adj;Eastern Marchian;;;;;;;;;;;;;x
 c_eastern_stormhorns;Eastern Stormhorns;Eastern Stormhorns;Eastern Stormhorns;;Eastern Stormhorns;;;;;;;;;x
 c_eastern_stormhorns_adj;Eastern Stormhorner;;;;;;;;;;;;;x
 c_fairheight;Fairheight;;;;;;;;;;;;;x

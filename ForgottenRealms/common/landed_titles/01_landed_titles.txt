@@ -120,7 +120,7 @@ k_cormyr = {
 			}
 		}
 	}
-	d_east_cormyr = {
+	d_eastern_marches = {
 		color={ 214 134 234 }
 		color2={ 255 255 255 }
 		
@@ -135,7 +135,7 @@ k_cormyr = {
 				} }
 			}
 		}
-		capital = 20 # c_east_cormyr
+		capital = 20 # c_eastern_marches
 		
 		c_thunder_peaks = { # 12
 			color={ 180 111 111 }
@@ -148,7 +148,7 @@ k_cormyr = {
 			b_hidden_vale = {
 			}
 		}
-		c_east_cormyr = { # 20
+		c_eastern_marches = { # 20
 			color={ 241 129 129 }
 			color2={ 255 255 255 }
 			
