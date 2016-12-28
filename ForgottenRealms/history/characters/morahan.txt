@@ -1,0 +1,26 @@
+# MORAHAN
+# Range 5900-5999
+
+5900 = {
+	# Dungeon 198 p.2
+	name = Edwin
+	dynasty = 201020
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1420.1.1 = {
+		birth = yes
+	}
+	1436.1.1 = {
+		trait = purple_dragon
+	}
+	1456.1.1 = {
+		effect = {
+			add_friend = 900033 # Vainrence
+		}
+	}
+	1498.1.1 = {
+		death = yes
+	}
+}

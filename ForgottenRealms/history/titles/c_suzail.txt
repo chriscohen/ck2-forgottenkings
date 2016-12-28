@@ -218,3 +218,9 @@
 1449.1.1 = {
 	holder = 87 # Foril I
 }
+1456.1.1 = {
+	holder = 5900 # Edwin Morahan
+}
+1498.1.1 = {
+	holder = 87 # Foril I
+}

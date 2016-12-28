@@ -50,4 +50,5 @@
 # 5600   - 5699     Durncaskyn
 # 5700   - 5799     Kolmar
 # 5800   - 5899     Tovan
+# 5900   - 5999     Morahan
 # 900000 - 999999 Lowborn
