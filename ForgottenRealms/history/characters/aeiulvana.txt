@@ -13,6 +13,7 @@
 	}
 	1028.1.1 = {
 		employer = 69 # Arangor Obarskyr
+		trait = wizard
 		effect = { give_job_title = job_spymaster }
 	}
 	1042.1.1 = {
