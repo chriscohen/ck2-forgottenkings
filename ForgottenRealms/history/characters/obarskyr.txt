@@ -1505,8 +1505,11 @@
 	1431.1.1 = {
 		birth = yes
 	}
-	1452.1.1 = {
+	1448.1.1 = {
 		add_spouse = 5000 # Ospra Goldfeather
+	}
+	1516.1.1 = { # Estimate
+		death = yes
 	}
 }
 91 = {
