@@ -1,0 +1,74 @@
+# THRALOS
+# Range 5400-5499
+
+5400 = {
+	# Sister of Ossani Eveningspire
+	name = Icaura
+	female = yes
+	dynasty = 201015
+	mother = 5401 # Unnamed granddaughter of Alazne Inthré
+	father = 5301 # Unnamed father
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1439.1.1 = {
+		birth = yes
+	}
+	1499.2.1 = {
+		death = yes
+	}
+}
+5401 = {
+	name = Unnamed # Granddaughter of Alazne Inthré
+	female = yes
+	dynasty = 201015
+	mother = 5402 # Unnamed daughter of Alazne Inthré
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1419.1.1 = {
+		birth = yes
+	}
+	1437.1.1 = {
+		add_spouse = 5301 # Unnamed father of Ossani Eveningstar & siblings
+	}
+	1487.1.1 = {
+		death = yes
+	}
+	
+}
+5402 = {
+	name = Unnamed # Daughter of Alazne Inthré and Unnamed 5403
+	dynasty = 201015
+	father = 5403 # Unnamed
+	mother = 4601 # Alazne Inthré
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1397.1.1 = {
+		birth = yes
+	}
+	1465.1.1 = {
+		death = yes
+	}
+}
+5403 = {
+	name = Unnamed # Husband of Alazne Inthré so we can involve the Thralos dynasty
+	dynasty = 201015
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1378.1.1 = {
+		birth = yes
+	}
+	1396.1.1 = {
+		add_spouse = 4601 # Alazne Inthré
+	}
+	1425.1.1 = {
+		death = yes
+	}
+}

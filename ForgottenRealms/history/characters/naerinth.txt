@@ -23,3 +23,21 @@
 		death = yes
 	}
 }
+4501 = {
+	# Sister of Ossani Eveningspire
+	name = Aceeta
+	female = yes
+	dynasty = 201007
+	father = 5301 # Unnamed
+	mother = 5401 # Unnamed
+
+	religion = catholic
+	culture = cormyrean
+	
+	1441.1.1 = {
+		birth = yes
+	}
+	1488.1.1 = {
+		death = yes
+	}
+}

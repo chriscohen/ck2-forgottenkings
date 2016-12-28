@@ -57,3 +57,11 @@
 	name = Hlar
 	culture = cormyrean
 }
+201014 = {
+	name = Eveningspire
+	culture = cormyrean
+}
+201015 = {
+	name = Thralos
+	culture = cormyrean
+}

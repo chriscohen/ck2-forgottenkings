@@ -1,0 +1,44 @@
+# EVENINGSPIRE
+# Range 5300-5399
+
+5300 = {
+	# Dungeon 198 p.11
+	name = Ossani
+	female = yes
+	dynasty = 201014
+	father = 5301 # Unnamed
+	mother = 5401 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1438.1.1 = {
+		birth = yes
+	}
+	1456.1.1 = {
+		employer = 87 # Foril I Obarskyr
+		effect = {
+			give_minor_title = title_sage_royal
+		}
+	}
+	1499.1.1 = {
+		death = yes
+	}
+}
+5301 = {
+	name = Unnamed
+	dynasty = 201014
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1419.1.1 = {
+		birth = yes
+	}
+	1437.1.1 = {
+		add_spouse = 5401 # Unnamed granddaughter of Alazne Inthré
+	}
+	1497.1.1 = {
+		death = yes
+	}
+}

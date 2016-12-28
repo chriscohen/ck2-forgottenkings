@@ -36,7 +36,28 @@
 	1378.1.1 = { # Estimate
 		birth = yes
 	}
+	1496.1.1 = {
+		add_spouse = 5403 # Unnamed Thralos
+	}
 	1457.1.1 = { # Estimate
+		death = yes
+	}
+}
+4602 = {
+	# Sister of Ossani Eveningspire
+	name = Earilde
+	female = yes
+	dynasty = 201008
+	father = 5301 # Unnamed
+	mother = 5401 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1440.1.1 = {
+		birth = yes
+	}
+	1490.1.1 = {
 		death = yes
 	}
 }

@@ -427,19 +427,19 @@ human = {
 			Yarjack
 		}
 		female_names = {
-			Adenia Alazne Albhaera Alusair Amarsa Ammaratha Ashala
+			Aceeta Adenia Alazne Albhaera Alusair Amarsa Ammaratha Ashala
 			Constancia
 			Dove
-			Elestra
+			Earilde Elestra
 			Florin
 			Glathra Gorloun
 			Helindra
-			Illistyl Iyrytharna
+			Icuara Illistyl Iyrytharna
 			Jalassra
 			Katriana Klaire
 			Laspeera Lorelei
 			Maea Maranth Marantine Mela
-			Omalra Ospra
+			Omalra Ospra Ossani
 			Pella
 			Solatha
 			Talantra Tanalasta Threena
