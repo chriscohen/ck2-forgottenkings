@@ -1440,3 +1440,24 @@
 		death = yes
 	}
 }
+88 = {
+	name = Foril
+	dynasty = 201000
+	father = 81 # Azoun IV
+	mother = 4700 # Filfaeril Selzair
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1332.1.1 = {
+		birth = yes
+	}
+	1334.1.1 = {
+		trait = ill
+	}
+	1334.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
