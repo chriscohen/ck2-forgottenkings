@@ -1,0 +1,32 @@
+# IMMERDUSK
+# Range 6900-6999
+
+6900 = {
+	name = Unnamed # Mother of bastard 1st child of Baerovus Obarskyr
+	female = yes
+	dynasty = 201030
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1101.1.1 = {
+		birth = yes
+	}
+	1150.1.1 = {
+		death = yes
+	}
+}
+6901 = {
+	# Baerovus had a bastard child with 
+	name = "Casplar Hundyl"
+	dynasty = 201030
+	father = 73 # Baerovus Obarskyr, you naughty boy
+	mother = 6900 # Unnamed Immerdusk
+	
+	1125.1.1 = {
+		birth = yes
+	}
+	1170.1.1 = {
+		death = yes
+	}
+}

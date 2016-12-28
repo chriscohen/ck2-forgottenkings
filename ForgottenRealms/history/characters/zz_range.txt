@@ -60,5 +60,6 @@
 # 6600   - 6699     Summerstar
 # 6700   - 6799     Sarmyn
 # 6800   - 6899     Battlestar
+# 6900   - 6999     Immerdusk
 #
 # 900000 - 999999 Lowborn
