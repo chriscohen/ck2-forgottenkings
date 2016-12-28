@@ -1,4 +1,5 @@
 26.1.1 = {
+	liege = k_cormyr
 	holder = 1 # Faerlthann
 }
 55.1.1 = {

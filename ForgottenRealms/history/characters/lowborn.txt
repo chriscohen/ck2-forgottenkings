@@ -484,7 +484,7 @@
 	name = Kurrurdan
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	246.1.1 = { # Estimate
 		birth = yes
@@ -497,6 +497,19 @@
 			death_reason = death_murder
 			killer = 31 # Gordroun Obarskyr
 		}
+	}
+}
+900030 = {
+	name = Sthavar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1318.1.1 = { # Estimate
+		birth = yes
+	}
+	1401.1.1 = { # Estimate
+		death = yes
 	}
 }
 900036 = {

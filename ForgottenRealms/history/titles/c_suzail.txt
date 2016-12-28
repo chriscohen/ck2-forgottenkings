@@ -1,4 +1,5 @@
 26.1.1 = {
+	liege = "d_cormyr"
 	holder = 1 # Faerlthann
 }
 55.1.1 = {
@@ -209,11 +210,8 @@
 	holder = 80 # Rhigaerd II
 }
 1335.1.1 = {
-	holder = 81 # Azoun IV
+	holder = 900030 # Sthavar
 }
-1371.1.1 = {
-	holder = 83 # Alusair (regency)
-}
-1384.1.1 = {
-	holder = 84 # Azoun V
+1401.1.1 = {
+	holder = 84 # Azoun V, death of Sthavar
 }
