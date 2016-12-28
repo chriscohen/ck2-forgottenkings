@@ -1,0 +1,19 @@
+# SPURBRIGHT
+# Range 6400-6499
+
+6400 = {
+	name = Aglara
+	female = yes
+	dynasty = 201025
+	
+	religion = catholic
+	culture = cormyrean
+	
+	# Source just says "lived some centuries ago"
+	1210.1.1 = {
+		birth = yes
+	}
+	1296.1.1 = {
+		death = yes
+	}
+}

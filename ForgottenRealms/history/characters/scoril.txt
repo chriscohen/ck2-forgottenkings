@@ -1,0 +1,20 @@
+# SCORIL
+# Range 6200-6299
+
+6200 = {
+	name = Bledryn
+	dynasty = 201023
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		employer = 6300 # Unnamed Ildool, Marsember
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

@@ -53,4 +53,8 @@
 # 5900   - 5999     Morahan
 # 6000   - 6099     Thond
 # 6100   - 6199     Hawklin
+# 6200   - 6299     Scoril
+# 6300   - 6399     Ildool
+# 6400   - 6499     Spurbright
+#
 # 900000 - 999999 Lowborn

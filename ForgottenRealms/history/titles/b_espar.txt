@@ -1,0 +1,7 @@
+1226.1.1 = {
+	liege = c_the_stormhorns
+	holder = 6400 # Aglara Spurbright
+}
+1296.1.1 = {
+	holder = 0
+}

@@ -209,13 +209,10 @@
 1286.1.1 = {
 	holder = 80 # Rhigaerd II
 }
-1335.1.1 = {
-	holder = 81 # Azoun IV
+1328.1.1 = {
+	holder = 6300 # Unnamed Ildool
 }
-1371.1.1 = {
-	holder = 83 # Alusair (regency)
-}
-1384.1.1 = {
+1394.1.1 = {
 	holder = 84 # Azoun V
 }
 1449.1.1 = {
