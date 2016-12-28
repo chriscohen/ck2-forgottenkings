@@ -57,7 +57,7 @@
 	1408.1.1 = {
 		birth = yes
 	}
-	1426.1.1 = { # Estimate
+	1430.1.1 = { # Estimate
 		add_spouse = 87 # Foril I Obarskyr
 	}
 	1437.1.1 = {
