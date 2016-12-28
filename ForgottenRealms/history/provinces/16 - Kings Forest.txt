@@ -6,8 +6,8 @@ title = c_kings_forest
 # Settlements
 max_settlements = 6
 
-b_dhedluk = castle
 b_waymoot = castle
+b_dhedluk = castle
 
 # Misc
 culture = cormyrean

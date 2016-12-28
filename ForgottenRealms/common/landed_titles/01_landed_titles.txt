@@ -79,9 +79,9 @@ k_cormyr = {
 			color={ 220 44 44 }
 			color2={ 255 255 255 }
 			
-			b_dhedluk = {
-			}
 			b_waymoot = {
+			}
+			b_dhedluk = {
 			}
 			b_stagsteads = {
 			}
