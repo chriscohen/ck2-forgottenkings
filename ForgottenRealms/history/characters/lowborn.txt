@@ -557,6 +557,25 @@
 		death = yes
 	}
 }
+900033 = {
+	name = Vainrence
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1430.1.1 = { # Estimate
+		birth = yes
+	}
+	1446.1.1 = {
+		trait = wizard
+	}
+	1449.1.1 = {
+		employer = 87 # Foril I Obarskyr
+	}
+	1499.1.1 = { # Estimate
+		death = yes
+	}
+}
 900036 = {
 	name = Askran
 	
