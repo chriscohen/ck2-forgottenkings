@@ -5,7 +5,7 @@
 	name = Coram
 	dynasty = 207002
 	
-	religon = catholic
+	religion = catholic
 	culture = tethyrian
 	
 	1370.7.1 = {
