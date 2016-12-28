@@ -34,7 +34,7 @@
 	culture = cormyrean
 }
 201008 = {
-	name = InthrÃ©
+	name = Inthré
 	culture = cormyrean
 }
 201009 = {
