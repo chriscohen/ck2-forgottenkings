@@ -5,6 +5,7 @@
 	name = Ospra
 	female = yes
 	dynasty = 201011
+	father = 5001 # Ordmann
 	
 	religion = catholic
 	culture = cormyrean
@@ -14,5 +15,85 @@
 	}
 	1452.1.1 = { # Estimated
 		add_spouse = 90 # Irvel Obarskyr
+	}
+}
+5001 = {
+	# Dungeon 198 p.9
+	name = Ordmann
+	dynasty = 201011
+	father = 5002 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1413.1.1 = { # Estimate
+		birth = yes
+	}
+	1471.1.1 = { # Estimate
+		death = yes
+	}
+}
+5002 = {
+	name = Unnamed # Acts as father to Ordmann and Adenia
+	dynasty = 201011
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1380.1.1 = { # Estimate
+		birth = yes
+	}
+	1430.1.1 = { # Estimate
+		death = yes
+	}
+}
+5003 = {
+	# Dungeon 198 p.9
+	name = Adenia
+	female = yes
+	dynasty = 201011
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1415.1.1 = { # Estimate
+		birth = yes
+	}
+	1470.1.1 = { # Estimate
+		death = yes
+	}
+}
+5004 = {
+	# Dungeon 198 p.9
+	name = Maranth
+	female = yes # Guess
+	dynasty = 201011
+	mother = 5003 # Adenia
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1434.1.1 = { # Estimate
+		birth = yes
+	}
+	1487.1.1 = { # Estimate
+		death = yes
+	}
+}
+5005 = {
+	# Dungeon 198 p.9
+	name = Varauna
+	female = yes
+	dynasty = 201011
+	mother = 5003 # Adenia
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1435.1.1 = { # Estimate
+		birth = yes
+	}
+	1491.1.1 = { # Estimate
+		death = yes
 	}
 }
