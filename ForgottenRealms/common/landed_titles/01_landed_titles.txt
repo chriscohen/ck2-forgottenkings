@@ -70,6 +70,9 @@ k_cormyr = {
 			color={ 255 75 75 }
 			color2={ 255 255 255 }
 			
+			title = TITLE_LORD_MAGISTER
+			title_female = TITLE_LADY_MAGISTER
+			
 			b_suzail = {
 			}
 			b_gray_oaks = {
