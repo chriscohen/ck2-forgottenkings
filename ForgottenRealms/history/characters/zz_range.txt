@@ -56,5 +56,9 @@
 # 6200   - 6299     Scoril
 # 6300   - 6399     Ildool
 # 6400   - 6499     Spurbright
+# 6500   - 6599     Dawninghunt
+# 6600   - 6699     Summerstar
+# 6700   - 6799     Sarmyn
+# 6800   - 6899     Battlestar
 #
 # 900000 - 999999 Lowborn

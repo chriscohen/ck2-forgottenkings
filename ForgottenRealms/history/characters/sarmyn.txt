@@ -1,0 +1,20 @@
+# SARMYN
+# Range 6700-6799
+
+6700 = {
+	name = Broglan
+	dynasty = 201028
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1364.1.1 = {
+		add_matrilineal_spouse = 6601 # Shayna Summerstar
+	}
+	1385.1.1 = {
+		death = yes
+	}
+}

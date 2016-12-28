@@ -1,0 +1,20 @@
+# DAWNINGHUNT
+# Range 6500-6599
+
+6500 = {
+	name = Harglast
+	dynasty = 201026
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1126.1.1 = {
+		birth = yes
+	}
+	1142.1.1 = {
+		add_spouse = 900034 # Rhyndaera
+	}
+	1185.1.1 = {
+		death = yes
+	}
+}

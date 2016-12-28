@@ -65,6 +65,8 @@ k_cormyr = {
 			
 			b_hillmarch = {
 			}
+			b_firefall_keep = {
+			}
 		}
 		c_suzail = { # 17
 			color={ 255 75 75 }

@@ -4,7 +4,7 @@
 title = c_hullack_forest
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
 b_hillmarch = castle
 

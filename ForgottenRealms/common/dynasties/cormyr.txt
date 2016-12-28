@@ -176,3 +176,67 @@
         }
     }
 }
+201026 = {
+	name = Dawninghunt
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 3
+            emblem = 7
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}
+201027 = {
+	name = Summerstar
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 14
+            color = 2
+            color = 2
+            color = 2
+        }
+    }
+}
+201028 = {
+	name = Sarmyn
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 9
+            emblem = 8
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}
+201029 = {
+	name = Battlestar
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 3
+            emblem = 14
+            color = 3
+            color = 6
+            color = 6
+        }
+    }
+}

@@ -1,0 +1,21 @@
+# BATTLESTAR
+# Range 6800-6899
+
+6800 = {
+	name = Zarova # Mother to Athlan and Shayla Summerstar
+	female = yes
+	dynasty = 201029
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1321.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		add_spouse = 6605 # Pyramus Summerstar
+	}
+	1359.1.1 = {
+		death = yes
+	}
+}

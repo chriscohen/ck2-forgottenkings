@@ -1,0 +1,265 @@
+# SUMMERSTAR
+# Range 6600-6699
+
+6600 = {
+	name = Athlan
+	dynasty = 201027
+	father = 6605 # Pyramus
+	mother = 6800 # Zarova Battlestar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1344.1.1 = {
+		birth = yes
+	}
+	1365.7.4 = {
+		death = yes
+	}
+}
+6601 = {
+	name = Shayna # Sister of Athlan
+	female = yes
+	dynasty = 201027
+	mother = 6800 # Zarova Battlestar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1348.1.1 = {
+		birth = yes
+	}
+	1364.1.1 = {
+		add_matrilineal_spouse = 6700 # Broglan Samryn
+	}
+	1403.1.1 = {
+		death = yes
+	}
+}
+6602 = {
+	name = Rauvor
+	dynasty = 201027
+	father = 6603 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1290.1.1 = {
+		birth = yes
+	}
+	1321.1.1 = {
+		add_spouse = 900035 # Pheirauze
+	}
+	1340.1.1 = {
+		trait = ill
+	}
+	1341.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+6603 = {
+	name = Unnamed # Father of Rauvor and Hergrest
+	dynasty = 201027
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1258.1.1 = {
+		birth = yes
+	}
+	1318.1.1 = {
+		death = yes
+	}
+}
+6604 = {
+	name = Hergrest # Brother of Rauvor
+	dynasty = 201027
+	father = 6603 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1292.1.1 = {
+		birth = yes
+	}
+	1339.1.1 = {
+		death = yes
+	}
+}
+6605 = {
+	name = Pyramus # Father of Athlan, 1st child of Rauvor
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		add_spouse = 6800 # Zarova Battlestar
+	}
+	1351.1.1 = {
+		death = yes
+	}
+}
+6606 = {
+	name = "Orm Hlannan" # 2nd child of Rauvor
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1323.1.1 = {
+		birth = yes
+	}
+	1339.1.1 = {
+		trait = wizard
+	}
+	1353.1.1 = {
+		death = yes
+	}
+}
+6607 = {
+	name = Darander # 3rd child of Rauvor
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1357.1.1 = {
+		death = yes
+	}
+}
+6608 = {
+	name = Brezm # 4th child of Rauvor
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1362.1.1 = {
+		death = yes
+	}
+}
+6609 = {
+	name = Dalestra # 5th child of Rauvor
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1365.1.1 = {
+		death = yes
+	}
+}
+6610 = {
+	name = Erlander # 5th child of Rauvor - contradictory source
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	1328.1.1 = {
+		birth = yes
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}
+6611 = {
+	name = Margot # 6th child of Pheirauze
+	female = yes
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1368.7.1 = {
+		death = yes
+	}
+}
+6612 = {
+	name = Nalanna # 7th child of Pheirauze - like rabbits!
+	female = yes
+	dynasty = 201027
+	father = 6602 # Rauvor
+	mother = 900035 # Pheirauze
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1358.1.1 = {
+		death = yes
+	}
+}
+6613 = {
+	name = Thalance
+	dynasty = 201027
+	father = 900037 # Unnamed
+	mother = 6609 # Dalestra
+	
+	1347.1.1 = {
+		birth = yes
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}
+6614 = {
+	name = Ileira # 1st child of Broglan and Shayna
+	female = yes
+	dynasty = 201027
+	father = 6700 # Broglan Samryn
+	mother = 6601 # Shayna
+	
+	1366.1.1 = {
+		birth = yes
+	}
+	1445.1.1 = {
+		death = yes
+	}
+}
+6615 = {
+	name = Storm # 2nd child of Broglan and Shayna
+	female = yes
+	dynasty = 201027
+	father = 6700 # Broglan Samryn
+	mother = 6601 # Shayna
+	
+	1368.1.1 = {
+		birth = yes
+	}
+	1457.1.1 = {
+		death = yes
+	}
+}
+6616 = {
+	name = Rauvoril # 3rd child of Broglan and Shayna
+	dynasty = 201027
+	father = 6700 # Broglan Samryn
+	mother = 6601 # Shayna
+	
+	1369.1.1 = {
+		birth = yes
+	}
+	1429.1.1 = {
+		death = yes
+	}
+}

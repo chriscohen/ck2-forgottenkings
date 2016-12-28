@@ -401,25 +401,25 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Alaphondar Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Aubrin Augrathar Auldus Aunadar Aundable Austrus
-			Baerauble Baern Baert Barandos Bledryn Blundebel Boris
+			Adris Alaphondar Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Auldus Aunadar Aundable Austrus
+			Baerauble Baern Baert Barandos Bledryn Blundebel Boris Brezm Broglan
 			Chalannos Chansobal Coobert Corleth
-			Danthalus Deinyn Del Draguth Drounan Duncan Dunlath Duth
+			Danthalus Darander Deinyn Del Draguth Drounan Duncan Dunlath Duth
 			Edwin Eldur Ellard Elmariel Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
 			Falzo Faril Filani Foril
 			Galados Gardumn Gaspar Gelnur Gruen Gustin Gwydion
-			Hadley Haerldoun Haldos Halston Harrandave Helmur Hesperdan
+			Hadley Haerldoun Haldos Halston Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
 			Ildamoor Irvel
 			Jarlin Jelde Juarkin Junstal
 			Kae Kallimar Keolan
 			Landon Larak Lareth Londal Lothan
 			Manarech Marthin Melder Mhaernos Mondar Morligul Mulcaster
 			Naeryk
-			Obraerl Ogden Ohlmer Ondrin Oric Ormion Ordmann Ortwin
-			Paramyr
-			Raedlar Raegl Rastafan Rauligus Ravos Reldyk Renstameir Roond Rorlyn Rorstil Rowen
+			Obraerl Ogden Ohlmer Ondrin Oric Ordmann Orm Ormion Ortwin
+			Paramyr Pyramus
+			Raedlar Raegl Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Staephon
-			Tarmel Tenshorn Thessilion Thorndor Trenton Tystarn
+			Tarmel Tenshorn Thalance Thessilion Thorndor Trenton Tystarn
 			Umbarl
 			Vorik
 			Warved
@@ -429,22 +429,24 @@ human = {
 		female_names = {
 			Aceeta Adenia Aglara Alazne Albhaera Alusair Amarsa Ammaratha Ashala
 			Constancia
-			Dove
+			Dalestra Dove
 			Earilde Eleanor Elestra
 			Florin
 			Glathra Gorloun
 			Helindra
-			Icuara Illistyl Iyrytharna
+			Icuara Ileira Illistyl Iyrytharna
 			Jalassra
 			Katriana Klaire
 			Laspeera Lorelei
-			Maea Maranth Marantine Mela
+			Maea Maranth Marantine Margot Mela
+			Nalanna
 			Omalra Ospra Ossani
-			Pella
-			Saha Solatha
+			Pella Pheirauze
+			Rhyndaera
+			Saha Shayla Solatha Storm
 			Talantra Tanalasta Threena
-			Varauna
-			Vindala
+			Varauna Vindala
+			Zarova
 		}
 		
 		dukes_called_kings = no

@@ -582,6 +582,40 @@
 		death = yes
 	}
 }
+900034 = {
+	name = Rhyndaera
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1126.1.1 = {
+		birth = yes
+	}
+	1142.1.1 = {
+		add_spouse = 6500 # Harglast Dawninghunt
+	}
+	1178.1.1 = {
+		death = yes
+	}
+}
+900035 = {
+	name = Pheirauze
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1305.1.1 = {
+		birth = yes
+	}
+	1321.1.1 = {
+		add_spouse = 6602 # Rauvor Summerstar
+	}
+	1367.1.1 = {
+		death = yes
+	}
+}
 900036 = {
 	name = Askran
 	
@@ -598,6 +632,19 @@
 		give_nickname = nick_the_pretender
 	}
 	340.1.1 = { # Estimate
+		death = yes
+	}
+}
+900037 = {
+	name = Unnamed # Lowborn father of Thalance Summerstar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1367.1.1 = {
 		death = yes
 	}
 }
