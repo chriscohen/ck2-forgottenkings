@@ -39,5 +39,8 @@
 # 4500   - 4599     Naerinth
 # 4600   - 4699     Inthré
 # 4700   - 4799     Selzair
+# 4800   - 4899     Boldtree
+# 4900   - 4999     Rhindaun
+# 5000   - 5999     Goldfeather
 #
 # 900000 - 999999 Lowborn

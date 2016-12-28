@@ -41,3 +41,11 @@
 	name = Selzair
 	culture = cormyrean
 }
+201010 = {
+	name = Boldtree
+	culture = cormyrean
+}
+201011 = {
+	name = Goldfeather
+	culture = cormyrean
+}

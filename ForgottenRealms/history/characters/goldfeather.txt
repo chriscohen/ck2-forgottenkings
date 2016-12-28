@@ -1,0 +1,18 @@
+# GOLDFEATHER
+# Range 5000-5999
+
+5000 = {
+	name = Ospra
+	female = yes
+	dynasty = 201011
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1433.1.1 = {
+		birth = yes
+	}
+	1452.1.1 = { # Estimated
+		add_spouse = 90 # Irvel Obarskyr
+	}
+}

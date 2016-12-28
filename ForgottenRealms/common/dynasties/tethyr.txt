@@ -9,3 +9,7 @@
 	name = Ravin
 	culture = tethyrian
 }
+207002 = {
+	name = Rhindaun
+	culture = tethyrian
+}

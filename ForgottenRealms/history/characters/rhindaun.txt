@@ -1,0 +1,66 @@
+# RHINDAUN
+# Range 4900-4999
+
+4900 = {
+	name = Coram
+	dynasty = 207002
+	
+	religon = catholic
+	culture = tethyrian
+	
+	1370.7.1 = {
+		birth = yes
+	}
+	1470.1.1 = { # Estimate
+		death = yes
+	}
+}
+4901 = {
+	name = Sybille
+	female = yes
+	dynasty = 207002
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1370.7.1. = {
+		birth = yes
+	}
+	1470.1.1 = { # Estimate
+		death = yes
+	}
+}
+4902 = {
+	name = Cyriana
+	female = yes
+	dynasty = 207002
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1370.7.1 = {
+		birth = yes
+	}
+	1470.1.1 = { # Estimate
+		death = yes
+	}
+}
+4904 = {
+	name = Jemra
+	female = yes
+	dynasty = 207002
+	father = 4900 # Coram
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1408.1.1 = {
+		birth = yes
+	}
+	1426.1.1 = { # Estimate
+		add_spouse = 87 # Foril I Obarskyr
+	}
+	1437.1.1 = {
+		death = yes
+	}
+}

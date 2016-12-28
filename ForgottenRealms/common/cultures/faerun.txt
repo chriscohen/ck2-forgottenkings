@@ -409,7 +409,7 @@ human = {
 			Falzo Faril Filani Foril
 			Galados Gardumn Gaspar Gelnur Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harrandave Helmur Hesperdan
-			Ildamoor
+			Ildamoor Irvel
 			Jarlin Jelde Juarkin Junstal
 			Kae Kallimar Keolan
 			Landon Larak Lareth Londal Lothan
@@ -427,7 +427,7 @@ human = {
 			Yarjack
 		}
 		female_names = {
-			Alazne Albhaera Amarsa Ammaratha Ashala
+			Alazne Albhaera Alusair Amarsa Ammaratha Ashala
 			Constancia
 			Dove
 			Elestra
@@ -441,7 +441,8 @@ human = {
 			Maea Marantine Mela
 			Omalra Ospra
 			Pella
-			Talantra Threena
+			Solatha
+			Talantra Tanalasta Threena
 			Vindala
 		}
 		
@@ -747,11 +748,15 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
+			Coram
 			Halanter
 			Sarshel
 		}
 		female_names = {
 			Ariia
+			Cyriana
+			Jemra
+			Sybille
 		}
 		
 		dukes_called_kings = no

@@ -1,0 +1,19 @@
+# BOLDTREE
+# Range 4800-4999
+
+4800 = {
+	# Dungeon 198 p.10
+	name = Solatha
+	female = yes
+	dynasty = 201010
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1417.1.1 = {
+		birth = yes
+	}
+	1436.1.1 = {
+		add_spouse = 86 # Ernvar Obarskyr
+	}
+}

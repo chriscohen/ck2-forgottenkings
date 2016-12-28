@@ -1404,8 +1404,14 @@
 	father = 80 # Rhigaerd II
 	mother = 3500 # Tanalusta Truesilver
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1309.1.1 = { # Estimate, 2 years younger than brother Azoun IV
 		birth = yes
+	}
+	1480.1.1 = { # Estimate
+		death = yes
 	}
 }
 86 = {
@@ -1420,12 +1426,15 @@
 	1405.1.1 = {
 		birth = yes
 	}
-	1499.1.1 = { # Estimate
+	1436.1.1 = {
+		add_spouse = 4800 # Solatha Boldtree
+	}
+	1437.10.1 = { # Dungeon 198 p.10
 		death = yes
 	}
 }
 87 = {
-	name = Foril
+	name = Foril # Foril I
 	dynasty = 201000
 	father = 84 # Azoun V
 	mother = 3704 # Nalara Marliir
@@ -1459,5 +1468,61 @@
 		death = {
 			death_reason = death_trait
 		}
+	}
+}
+89 = {
+	name = Erzoured
+	dynasty = 201000
+	father = 86 # Ernvar
+	mother = 4800 # Solatha Boldtree
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1438.1.1 = {
+		birth = yes
+	}
+}
+90 = {
+	name = Irvel
+	dynasty = 201000
+	father = 87 # Foril I
+	mother = 4904 # Jemra Rhindaun
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1431.1.1 = {
+		birth = yes
+	}
+	1452.1.1 = {
+		add_spouse = 5000 # Ospra Goldfeather
+	}
+}
+91 = {
+	name = Baerovus
+	dynasty = 201000
+	father = 90 # Irvel
+	mother = 5000 # Ospra Goldfeather
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1454.1.1 = {
+		birth = yes
+	}
+}
+92 = {
+	name = Raedra
+	female = yes
+	dynasty = 201000
+	father = 90 # Irvel
+	mother = 5000 # Ospra Goldfeather
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1460.1.1 = {
+		birth = yes
 	}
 }
