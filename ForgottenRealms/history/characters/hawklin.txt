@@ -31,7 +31,7 @@
 	}
 }
 6102 = {
-	name = Unnamed # Unnamed brother of Barandos
+	name = Tenshorn # Brother of Barandos
 	dynasty = 201022
 	father = 6101 # Unnamed
 	
