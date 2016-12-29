@@ -1,0 +1,10 @@
+moonelf = {
+	random = no
+	immortal = yes
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	
+	martial = -2
+	learning = 1
+	diplomacy = 1
+}

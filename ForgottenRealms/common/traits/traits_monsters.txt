@@ -1,0 +1,20 @@
+ghazneth = {
+	customizer = no
+	random = no
+	
+	diplomacy = -5
+	stewardship = 5
+	martial = 10
+	intrigue = 10
+	
+	general_opinion = -100
+}
+spectral_harpist = {
+	customizer = no
+	random = no
+	
+	immortal = yes
+	can_hold_titles = no
+	cannot_marry = yes
+	cannot_inherit = yes
+}

@@ -1,0 +1,4 @@
+wizard = {
+	learning = 2
+	martial = -2
+}
