@@ -1,0 +1,23 @@
+harper = {
+	random = no
+	
+	diplomacy = 3
+	stewardship = 3
+	intrigue = 5
+	learning = 5
+	
+	general_opinion = 20
+}
+purple_dragon = {
+	# Military order in Cormyr
+	random = no
+	
+	martial = 3
+	
+	general_opinion = 5
+}
+zhentarim = {
+	random = no
+	
+	lifestyle = yes
+}
