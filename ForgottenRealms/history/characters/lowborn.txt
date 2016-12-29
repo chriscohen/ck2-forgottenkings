@@ -463,7 +463,7 @@
 900025 = {
 	name = Krystin # Adopted daughter of Myrmeen Lhal
 	female = yes
-	mother = 900025 # Adopted
+	mother = 900020 # Adopted
 	
 	religion = catholic
 	culture = cormyrean
