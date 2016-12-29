@@ -7,7 +7,28 @@ ghazneth = {
 	martial = 10
 	intrigue = 10
 	
+	immortal = yes
+	can_hold_titles = no
+	cannot_marry = yes
+	cannot_inherit = yes
+	
 	general_opinion = -100
+}
+shade = {
+	customizer = no
+	random = no
+	
+	diplomacy = -10
+	stewardship = -10
+	intrigue = 10
+	martial = 7
+	
+	immortal = yes
+	can_hold_titles = no
+	cannot_marry = yes
+	cannot_inherit = yes
+	
+	general_opinion = -50
 }
 spectral_harpist = {
 	customizer = no
