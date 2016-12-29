@@ -1,4 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_archendale;Archendale;;;;;;;;;;;;;x
+d_archendale_adj;Archendalen;;;;;;;;;;;;;x
+d_battledale;Battledale;;;;;;;;;;;;;x
+d_battledale_adj;Battledalen;;;;;;;;;;;;;x
 d_callidyrr;Callidyrr;;;;;;;;;;;;;x
 d_callidyrr_adj;Callidyrran;;;;;;;;;;;;;x
 d_cormyr;Cormyr;Cormyr;Cormyr;;Cormyr;;;;;;;;;x
@@ -7,16 +11,28 @@ d_corwell;Corwell;;;;;;;;;;;;;x
 d_corwell_adj;Corwellan;;;;;;;;;;;;;x
 d_daerlun;Daerlun;;;;;;;;;;;;;x
 d_daerlun_adj;Daerlunian;;;;;;;;;;;;;x
+d_daggerdale;Daggerdale;;;;;;;;;;;;;x
+d_daggerdale_adj;Daggerdalen;;;;;;;;;;;;;x
+d_deepingdale;Deepingdale;;;;;;;;;;;;;x
+d_deepingdale_adj;Deepingdalen;;;;;;;;;;;;;x
 d_eastern_marches;Eastern Marches;;;;;;;;;;;;;x
 d_eastern_marches_adj;Eastern Marchian;;;;;;;;;;;;;x
+d_featherdale;Featherdale;;;;;;;;;;;;;x
+d_featherdale_adj;Featherdalen;;;;;;;;;;;;;x
 d_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 d_gnarhelm_adj;Gnarhelman;;;;;;;;;;;;;x
+d_harrowdale;Harrowdale;;;;;;;;;;;;;x
+d_harrowdale_adj;Harrowdalen;;;;;;;;;;;;;x
+d_high_dale;High Dale;;;;;;;;;;;;;x
+d_high_dale_adj;High Dalen;;;;;;;;;;;;;x
 d_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 d_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
 d_korinn;Korinn Archipelago;;;;;;;;;;;;;x
 d_korinn_adj;Korinnian;;;;;;;;;;;;;x
 d_mintarn;Mintarn;;;;;;;;;;;;;x
 d_mintarn_adj;Mintarnan;;;;;;;;;;;;;x
+d_mistledale;Mistledale;;;;;;;;;;;;;x
+d_mistledale_adj;Mistledalen;;;;;;;;;;;;;x
 d_moray;Moray;;;;;;;;;;;;;x
 d_moray_adj;Morayan;;;;;;;;;;;;;x
 d_myrloch;Myrloch;;;;;;;;;;;;;x
@@ -31,12 +47,22 @@ d_ordulin;Ordulin;;;;;;;;;;;;;x
 d_ordulin_adj;Ordulinian;;;;;;;;;;;;;x
 d_saerloon;Saerloon;;;;;;;;;;;;;x
 d_saerloon_adj;Saerloonian;;;;;;;;;;;;;x
+d_scardale;Scardale;;;;;;;;;;;;;x
+d_scardale_adj;Scardalen;;;;;;;;;;;;;x
 d_selgaunt;Selgaunt;;;;;;;;;;;;;x
 d_selgaunt_adj;Selgauntian;;;;;;;;;;;;;x
+d_semberholme;Semberholme;;;;;;;;;;;;;x
+d_semberholme_adj;Semberholmian;;;;;;;;;;;;;x
+d_shadowdale;Shadowdale;;;;;;;;;;;;;x
+d_shadowdale_adj;Shadowdalen;;;;;;;;;;;;;x
 d_skadaurak;Skadaurak;;;;;;;;;;;;;x
 d_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
 d_snowdown;Snowdown;;;;;;;;;;;;;x
 d_snowdown_adj;Snowdownian;;;;;;;;;;;;;x
+d_tarkhaldale;Tarkhaldale;;;;;;;;;;;;;x
+d_tarkhaldale_adj;Tarkhaldalen;;;;;;;;;;;;;x
+d_tasseldale;Tasseldale;;;;;;;;;;;;;x
+d_tasseldale_adj;Tasseldalen;;;;;;;;;;;;;x
 d_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;;;;;;;x
 d_the_stonelands_adj;Stonelander;;;;;;;;;;;;;x
 d_the_stormhorns;The Stormhorns;The Stormhorns;The Stormhorns;;The Stormhorns;;;;;;;;;x

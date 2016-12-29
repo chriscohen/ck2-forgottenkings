@@ -1,0 +1,13 @@
+# County Title
+title = c_daggerdale
+
+# Settlements
+max_settlements = 2
+
+b_dagger_falls = castle
+
+# Misc
+culture = dalelander
+religion = catholic
+
+#History

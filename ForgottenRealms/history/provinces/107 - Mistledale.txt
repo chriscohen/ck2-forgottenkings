@@ -1,0 +1,13 @@
+# County Title
+title = c_mistledale
+
+# Settlements
+max_settlements = 3
+
+b_ashabenford = castle
+
+# Misc
+culture = dalelander
+religion = catholic
+
+#History

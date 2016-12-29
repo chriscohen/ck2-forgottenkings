@@ -1,0 +1,13 @@
+# County Title
+title = c_cold_fields
+
+# Settlements
+max_settlements = 1
+
+b_chandlers_cross = castle
+
+# Misc
+culture = dalelander
+religion = catholic
+
+#History

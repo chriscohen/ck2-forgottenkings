@@ -1,0 +1,13 @@
+# County Title
+title = c_shadowdale
+
+# Settlements
+max_settlements = 2
+
+b_shadowdale = castle
+
+# Misc
+culture = dalelander
+religion = catholic
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_tasseldale
+
+# Settlements
+max_settlements = 7
+
+b_archtassel = castle
+
+# Misc
+culture = dalelander
+religion = catholic
+
+#History

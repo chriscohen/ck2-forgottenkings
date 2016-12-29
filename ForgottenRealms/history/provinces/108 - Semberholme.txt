@@ -1,0 +1,13 @@
+# County Title
+title = c_semberholme
+
+# Settlements
+max_settlements = 7
+
+b_semberholme = castle
+
+# Misc
+culture = moonelf # temporary
+religion = catholic
+
+#History
