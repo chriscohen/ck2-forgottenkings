@@ -1490,6 +1490,9 @@ d_shadowdale = {
 	capital = 105 # Shadowdale
 	culture = dalelander
 	
+	title = TITLE_LORD
+	title_female = TITLE_LADY
+	
 	allow = {
 		OR = {
 			lower_tier_than = KING
