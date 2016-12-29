@@ -1,7 +1,5 @@
-# c_east_cormyr
-
 # County Title
-title = c_east_cormyr
+title = c_eastern_marches
 
 # Settlements
 max_settlements = 7
