@@ -24,9 +24,7 @@ shade = {
 	martial = 7
 	
 	immortal = yes
-	can_hold_titles = no
 	cannot_marry = yes
-	cannot_inherit = yes
 	
 	general_opinion = -50
 }
