@@ -1015,6 +1015,13 @@
 	405.1.1 = { # Estimate
 		add_spouse = 1001 # Daverna Turcassan
 	}
+	433.1.1 = {
+		# Dragon 279 p.83
+		add_spouse = 1503 # Threena Cormaeril
+	}
+	476.1.1 = {
+		add_spouse = 900049 # Jhanthyl
+	}
 	465.1.1 = {
 		give_nickname = nick_longyears
 	}
@@ -1026,6 +1033,7 @@
 	name = Galaghard # Galaghard I
 	dynasty = 201000
 	father = 61 # Duar
+	mother = 1503 # Threena Cormaeril
 	
 	religion = catholic
 	culture = cormyrean

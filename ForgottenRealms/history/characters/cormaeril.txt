@@ -56,3 +56,24 @@
 		}
 	}
 }
+1503 = {
+	name = Threena
+	female = yes
+	dynasty = 201002
+	
+	religion = catholic
+	culture = cormyrean
+	
+	410.1.1 = { # Estimate
+		birth = yes
+	}
+	426.1.1 = {
+		add_spouse = 9100 # Unnamed Lord Dheolur
+	}
+	433.1.1 = {
+		add_spouse = 61 # Duar Obarskyr
+	}
+	471.1.1 = { # Estimate
+		death = yes
+	}
+}

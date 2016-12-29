@@ -1,0 +1,27 @@
+# VILHON
+# Range 215000-215999
+
+215000 = {
+	name= Lagarr
+	culture = vilhonian
+	
+	coat_of_arms = {
+        template = 1
+        layer = {
+            texture = 1
+            texture_internal = 6
+            emblem = 0
+            color = 5
+            color = 3
+            color = 5
+        }
+        layer = {
+            texture = 1
+            texture_internal = 6
+            emblem = 11
+            color = 5
+            color = 5
+            color = 3
+        }
+    }
+}

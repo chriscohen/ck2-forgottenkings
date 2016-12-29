@@ -1,0 +1,20 @@
+# CROWNSILVER
+# 9200-9299
+
+9200 = {
+	name = Elvrin
+	dynasty = 201039
+	
+	religion = catholic
+	culture = cormyrean
+	
+	427.1.1 = {
+		birth = yes
+	}
+	445.1.1 = {
+		employer = 61 # Duar Obarskyr
+	}
+	475.1.1 = { # Disappared
+		death = yes
+	}
+}

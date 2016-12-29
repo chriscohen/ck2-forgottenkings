@@ -81,5 +81,8 @@
 # 8700   - 8799     Ammaeth
 # 8800   - 8899     Etharr
 # 8900   - 8999     Rallyhorn
+# 9000   - 9099     Lagarr
+# 9100   - 9199     Dheolur
+# 9200   - 9299     Crownsilver
 #
 # 900000 - 999999 Lowborn

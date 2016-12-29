@@ -1,0 +1,23 @@
+# LAGARR
+# 9000-9099
+
+9000 = {
+	# Dragon 279 p.83
+	name = Kuthor
+	dynasty = 215000
+	
+	religion = catholic
+	culture = vilhonian
+	
+	430.1.1 = {
+		birth = yes
+	}
+	470.1.1 = {
+		add_spouse = 900049 # Jhanthyl
+	}
+	475.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

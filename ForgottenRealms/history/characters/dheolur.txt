@@ -1,0 +1,41 @@
+# DHEOLUR
+# Range 9100-9199
+
+9100 = {
+	name = Unnamed
+	dynasty = 201038
+	
+	religion = catholic
+	culture = cormyrean
+	
+	401.1.1 = { # Estimate
+		birth = yes
+	}
+	426.1.1 = {
+		add_spouse = 1503 # Threena Cormaeril
+	}
+	432.1.1 = {
+		death = {
+			death_reason = death_execution_beheading
+			killer = 61 # Duar Obarskyr
+		}
+	}
+}
+9101 = {
+	name = Pella
+	female = yes
+	dynasty = 201038
+	
+	religion = catholic
+	culture = cormyrean
+	
+	403.1.1 = { # Estimate
+		birth = yes
+	}
+	432.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 1301 # Amedahast
+		}
+	}
+}

@@ -364,3 +364,43 @@
         }
     }
 }
+201038 = {
+	name = Dheolur
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 1
+        layer = {
+            texture = 1
+            texture_internal = 1
+            emblem = 0
+            color = 1
+            color = 6
+            color = 1
+        }
+        layer = {
+            texture = 1
+            texture_internal = 10
+            emblem = 1
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}
+201039 = {
+	name = Crownsilver
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 12
+            emblem = 19
+            color = 2
+            color = 2
+            color = 2
+        }
+    }
+}

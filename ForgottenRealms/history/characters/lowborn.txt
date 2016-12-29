@@ -801,3 +801,25 @@
 		}
 	}
 }
+900049 = {
+	# Dragon 279 p.82
+	# We don't have maiden name for Janthyl so she has to be lowborn
+	name = Jhanthyl
+	female = yes
+	
+	religion = catholic
+	culture = vilhonian # Assumption
+	
+	454.1.1 = {
+		birth = yes
+	}
+	470.1.1 = {
+		add_spouse = 9000 # Kuthor Lagarr
+	}
+	476.1.1 = {
+		add_spouse = 61 # Duar Obarskyr
+	}
+	510.1.1 = {
+		death = yes
+	}
+}

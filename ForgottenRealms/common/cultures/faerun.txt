@@ -464,7 +464,7 @@ human = {
 			Baerauble Baergast Baern Baert Barandos Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
-			Edwin Eldur Ellard Elmariel Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
+			Edwin Eldur Ellard Elmariel Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
 			Falzo Faril Filani Florin Foril
 			Galados Gardumn Gaspar Gelnur Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
@@ -942,6 +942,41 @@ human = {
 		female_names = {
 			Ariia
 			Vala
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	vilhonian = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.96 0.66 0.09 }
+		
+		male_names = {
+			Kuthor
+		}
+		female_names = {
+			Jhanthyl
 		}
 		
 		dukes_called_kings = no
