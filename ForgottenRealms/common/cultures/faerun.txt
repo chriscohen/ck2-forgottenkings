@@ -472,6 +472,41 @@ human = {
 		allow_looting = no
 		seafarer = no
 	}
+	dalelander = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.25 0.29 0.91 }
+		
+		male_names = {
+			Dornal
+		}
+		female_names = {
+			Elué
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 35
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 35
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
 	ffolk = {
 		graphical_cultures = { westerngfx }
 		
