@@ -5,6 +5,9 @@
 	name = Baerauble
 	dynasty = 211002
 	
+	dna="ajbdc0cce00"
+    properties="mj0dbf00000000"
+	
 	religion = catholic
 	culture = netherese
 	
@@ -12,9 +15,244 @@
 		birth = yes
 	}
 	17.1.1 = {
+		trait = wizard
+		trait = immortal
 		add_spouse = 1400 # Alea Dahast
+	}
+	26.1.1 = {
+		employer = 1 # Faerlthann Obarskyr
+		effect = { give_job_title = job_spymaster }
+	}
+	55.1.1 = {
+		employer = 2 # Imlon Obarskyr
+	}
+	57.1.1 = {
+		employer = 3 # Bryndar Obarskyr
+	}
+	64.1.1 = {
+		employer = 4 # Eskruis Obarskyr
+	}
+	66.1.1 = {
+		employer = 5 # Rhiiman Obarskyr
+	}
+	79.1.1 = {
+		employer = 6 # Embrus Obarskyr
+	}
+	84.1.1 = {
+		employer = 7 # Kaspler Obarskyr
+	}
+	90.1.1 = {
+		employer = 8 # Imbre Obarskyr
+	}
+	94.1.1 = {
+		employer = 9 # Sacrast Obarskyr
+	}
+	123.1.1 = {
+		employer = 10 # Daravvan Obarskyr
+	}
+	124.1.1 = {
+		employer = 11 # Dorglor Obarskyr
+	}
+	134.1.1 = {
+		employer = 12 # Embrold Obarskyr
+	}
+	145.1.1 = {
+		employer = 72 # Irbruin Obarskyr
+	}
+	169.1.1 = {
+		employer = 14 # Moriann Obarskyr
+	}
+	201.1.1 = {
+		employer = 15 # Tharyann Obarskyr
+	}
+	238.1.1 = {
+		employer = 17 # Boldovar Obarskyr
+	}
+	242.1.1 = {
+		employer = 18 # Iltharl Obarskyr
+	}
+	245.1.1 = {
+		employer = 19 # Gantharla Obarskyr
+	}
+	261.1.1 = {
+		employer = 20 # Roderin Obarskyr
+	}
+	267.1.1 = {
+		employer = 21 # Thargreve Obarskyr
+	}
+	268.1.1 = {
+		employer = 23 # Holordrym Obarskyr
+	}
+	272.1.1 = {
+		employer = 24 # Belereve Obarskyr
+	}
+	274.1.1 = {
+		employer = 26 # Thargram Obarskyr
+	}
+	276.1.1 = {
+		employer = 27 # Besmra Obarskyr
+	}
+	286.1.1 = {
+		employer = 28 # Torst Obarskyr
+	}
+	289.1.1 = {
+		employer = 31 # Gordroun Obarskyr
+	}
+	289.6.1 = {
+		employer = 32 # Keldroun Obarskyr
+	}
+	295.1.1 = {
+		employer = 33 # Berost Obarskyr
+	}
+	301.1.1 = {
+		employer = 35 # Gorann Obarskyr
+	}
+	303.1.1 = {
+		employer = 37 # Edrae Obarskyr
+	}
+	305.1.1 = {
+		employer = 39 # Ulbaeram Obarskyr
+	}
+	308.1.1 = {
+		employer = 900040 # Silbran
+	}
+	320.1.1 = {
+		employer = 41 # Raerboth Obarskyr
+	}
+	326.1.1 = {
+		employer = 42 # Baerildo Obarskyr
+	}
+	328.1.1 = {
+		employer = 43 # Belmuth Obarskyr
+	}
+	334.1.1 = {
+		employer = 44 # Sargrannon Obarskyr
+	}
+	336.1.1 = {
+		employer = 45 # Ortolar Obarskyr
+	}
+	337.1.1 = {
+		employer = 46 # Imbrus I Obarskyr
+	}
+	339.1.1 = {
+		employer = 47 # Artreth Obarskyr
+	}
+	340.1.1 = {
+		employer = 48 # Zoumdan Obarskyr
+	}
+	340.7.1 = {
+		employer = 49 # Imbrus II Obarskyr
+	}
+	341.1.1 = {
+		employer = 51 # Meurthe Obarskyr
+	}
+	344.1.1 = {
+		employer = 52 # Kasplara Obarskyr
+	}
+	345.1.1 = {
+		employer = 53 # Jasl Obarskyr
+	}
+	347.1.1 = {
+		employer = 54 # Arathra Obarskyr
+	}
+	348.1.1 = {
+		employer = 55 # Barander Obarskyr
+	}
+	349.1.1 = {
+		employer = 56 # Thargreve the Greater
+	}
+	360.1.1 = {
+		employer = 57 # Jarissra  Obarskyr
+	}
+	369.1.1 = {
+		employer = 58 # Andilber Obarskyr
+	}
+	370.1.1 = {
+		employer = 59 # Anglond Obarskyr
+	}
+	391.1.1 = {
+		employer = 60 # Azoun I Obarskyr
+	}
+	425.1.1 = {
+		employer = 61 # Duar Obarskyr
 	}
 	479.1.1 = {
 		death = yes
+	}
+}
+8801 = {
+	# Dragon 279 p.80
+	name = Baergast
+	dynasty = 211002
+	father = 8800 # Baerauble Etharr
+	mother = 1400 # Alea Dahast
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = humble
+	
+	50.1.1 = { # Estimate
+		birth = yes
+	}
+	122.1.1 = { # Estimate
+		death = yes
+	}
+}
+8802 = {
+	# Dragon 279 p.80
+	name = Aulard
+	dynasty = 211002
+	father = 8801 # Baergast
+	
+	religion = catholic
+	culture = cormyrean
+	
+	131.1.1 = { # Estimate
+		birth = yes
+	}
+	147.1.1 = { # Estimate
+		add_spouse = 8901 # Emrylara Rallyhorn
+	}
+	211.1.1 = { # Estimate
+		death = yes
+	}
+}
+8803 = {
+	# Dragon 279 p.80
+	name = Obrynn
+	dynasty = 211002
+	father = 8802 # Aulard
+	mother = 8901 # Emrylara Rallyhorn
+	
+	religion = catholic
+	culture = cormyrean
+	
+	148.1.1 = {
+		birth = yes
+	}
+	201.1.1 = { # Estimate
+		death = yes
+	}
+}
+8804 = {
+	# Dragon 279 p.80
+	name = Narnytha
+	dynasty = 211002
+	father = 8802 # Aulard
+	mother = 8901 # Emrylara Rallyhorn
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = sickly
+	
+	149.1.1 = { # Estimate
+		birth = yes
+	}
+	150.3.1 = { # Estimate
+		death = {
+			death_reason = death_trait
+		}
 	}
 }

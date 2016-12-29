@@ -80,5 +80,6 @@
 # 8600   - 8601     Ulphor
 # 8700   - 8799     Ammaeth
 # 8800   - 8899     Etharr
+# 8900   - 8999     Rallyhorn
 #
 # 900000 - 999999 Lowborn

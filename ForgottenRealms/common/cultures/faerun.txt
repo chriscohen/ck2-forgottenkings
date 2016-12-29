@@ -460,8 +460,8 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Alaphondar Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Auldus Aumry Aunadar Aundable Austrus Azalar
-			Baerauble Baern Baert Barandos Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
+			Adris Alaphondar Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
+			Baerauble Baergast Baern Baert Barandos Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Eldur Ellard Elmariel Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
@@ -474,11 +474,11 @@ human = {
 			Landon Larak Lareth Londal Lothan
 			Manarech Marthin Melder Mhaernos Mondar Morligul Mulcaster
 			Naeryk
-			Obraerl Ogden Ohlmer Ondrin Oric Ordmann Orm Ormion Ortwin
+			Obraerl Obrynn Ogden Ohlmer Ondrin Oric Ordmann Orm Ormion Ortwin
 			Paramyr Pyramus
 			Raedlar Raegl Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Staephon
-			Tarmel Tenshorn Thalance Thessilion Thomdor Thorndor Trenton Tystarn
+			Tarmel Tenshorn Thalance Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
 			Umbarl
 			Vorik
 			Warved
@@ -489,7 +489,7 @@ human = {
 			Aceeta Adenia Aglara Alazne Albhaera Alusair Amarsa Ammaratha Ashala
 			Constancia
 			Dalestra Dove
-			Earilde Eleanor Elestra
+			Earilde Eleanor Elestra Emrylara
 			Florin
 			Glathra Gorloun
 			Helindra
@@ -498,7 +498,7 @@ human = {
 			Katriana Klaire
 			Laspeera Lorelei
 			Maea Maranth Marantine Margot Mela
-			Nalanna
+			Nalanna Narnytha
 			Omalra Ospra Ossani
 			Pella Pheirauze
 			Rhyndaera

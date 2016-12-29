@@ -1006,6 +1006,9 @@
 	religion = catholic
 	culture = cormyrean
 	
+	trait = brilliant_strategist
+	trait = strong
+	
 	385.1.1 = {
 		birth = yes
 	}

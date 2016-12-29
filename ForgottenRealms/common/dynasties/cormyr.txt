@@ -340,3 +340,27 @@
         }
     }
 }
+201037 = {
+	name = Rallyhorn
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 1
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 24
+            color = 1
+            color = 6
+            color = 1
+        }
+        layer = {
+            texture = 1
+            texture_internal = 5
+            emblem = 0
+            color = 1
+            color = 6
+            color = 1
+        }
+    }
+}
