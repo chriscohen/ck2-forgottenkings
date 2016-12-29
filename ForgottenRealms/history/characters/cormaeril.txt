@@ -73,7 +73,7 @@
 	433.1.1 = {
 		add_spouse = 61 # Duar Obarskyr
 	}
-	471.1.1 = { # Estimate
+	474.1.1 = { # FRFAQ
 		death = yes
 	}
 }
