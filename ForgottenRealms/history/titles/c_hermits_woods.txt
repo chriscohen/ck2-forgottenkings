@@ -155,6 +155,16 @@
 425.1.1 = {
 	holder = 61 # Duar
 }
+470.1.1 = {
+	# Dragon 279 p.83
+	# Held briefly by Kuthor Lagarr - source says he took area near
+	# Wheloon, but we'll grant him Wheloon and, as capital, he gets
+	# the county.
+	9000 # Kuthor Lagarr
+}
+475.1.1 = {
+	holder = 61 # Duar
+}
 480.1.1 = {
 	holder = 62 # Galaghard I
 }
