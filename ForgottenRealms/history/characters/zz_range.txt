@@ -78,5 +78,6 @@
 # 8400   - 8499     Rowanmantle
 # 8500   - 8599     Lurelake
 # 8600   - 8601     Ulphor
+# 8700   - 8799     Ammaeth
 #
 # 900000 - 999999 Lowborn

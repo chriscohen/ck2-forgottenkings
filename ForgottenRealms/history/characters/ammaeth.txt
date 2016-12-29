@@ -1,0 +1,37 @@
+# AMMAETH
+# Range 8700-8799
+
+8700 = {
+	name = Thomdor
+	dynasty = 201036
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = gluttonous
+	
+	1298.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		death = { # Poisoned in Abraxus Affair
+			death_reason = death_murder_unknown_poison
+		}
+	}
+}
+8701 = {
+	name = Bhereu
+	dynasty = 201036
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		death = { # Poisoned in Abraxus Affair
+			death_reason = death_murder_unknown_poison
+		}
+	}
+}

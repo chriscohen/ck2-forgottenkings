@@ -324,3 +324,19 @@
         }
     }
 }
+201036 = {
+	name = Ammaeth
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 1
+            color = 6
+            color = 6
+            color = 6
+        }
+    }
+}
