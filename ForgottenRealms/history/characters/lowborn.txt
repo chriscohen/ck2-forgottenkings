@@ -650,6 +650,7 @@
 }
 900038 = {
 	name = Elué
+	female = yes
 	
 	religion = catholic
 	culture = dalelander
