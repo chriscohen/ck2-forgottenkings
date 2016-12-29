@@ -1,6 +1,28 @@
+906.1.1 = {
+	holder = 900047 # Ashaba
+}
+940.1.1 = {
+	holder = 0 # Death of Ashaba
+}
+1273.1.1 = {
+	holder = 900048 # Joadath
+}
 1300.1.1 = {
 	holder = 93 # Aumry Obarskyr
 }
 1339.1.1 = {
-	holder = 0
+	holder = 900046 # Jyordhan
+}
+1345.1.1 = {
+	# Source says 1348 but this would leave a gap
+	holder = 8300 # Doust Sulwood
+}
+1353.1.1 = {
+	holder = 8200 # Mourngrym Amcathra
+}
+1375.1.1 = {
+	holder = 8101 # Azalar Falconhand
+}
+1459.1.1 = {
+	holder = 8600 # Adee Ulphor
 }

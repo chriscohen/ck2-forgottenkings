@@ -7,3 +7,7 @@
 	name = Silverhand
 	culture = dalelander
 }
+211001 = {
+	name = Ulphor
+	culture = dalelander
+}

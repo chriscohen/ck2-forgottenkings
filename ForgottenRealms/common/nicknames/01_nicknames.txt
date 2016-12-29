@@ -26,6 +26,7 @@ nick_the_pretender = {}
 nick_the_rebel_prince = {}
 nick_the_royal_jester = {}
 nick_the_scarred_advisor = {}
+nick_the_stag_king = {}
 nick_the_steel_regent = {}
 nick_the_stout = {}
 nick_the_tortured_king = {}

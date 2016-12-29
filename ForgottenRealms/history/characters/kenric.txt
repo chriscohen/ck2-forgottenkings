@@ -1,0 +1,15 @@
+# KENRIC
+# Range 8000-8099
+
+8000 = {
+	name = Kleef
+	dynasty = 201031
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1450.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}

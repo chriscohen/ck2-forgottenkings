@@ -1,0 +1,7 @@
+# WATERDEEP
+# Range 214000-214999
+
+214000 = {
+	name = Amcathra
+	culture = waterdhavian
+}

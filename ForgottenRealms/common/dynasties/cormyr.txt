@@ -256,3 +256,71 @@
         }
     }
 }
+201031 = {
+	name = Kenric
+	culture = cormyrean
+}
+201032 = {
+	name = Falconhand
+	culture = cormyrean
+	
+	coat_of_arms = {
+		template = 0
+        layer = {
+            texture = 1
+            texture_internal = 11
+            emblem = 22
+            color = 13
+            color = 6
+            color = 6
+        }
+    }
+}
+201033 = {
+	name = Sulwood
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 20
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}
+201034 = {
+	name = Rowanmantle
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 10
+            emblem = 7
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}
+201035 = {
+	name = Lurelake
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 3
+            emblem = 16
+            color = 9
+            color = 2
+            color = 2
+        }
+    }
+}

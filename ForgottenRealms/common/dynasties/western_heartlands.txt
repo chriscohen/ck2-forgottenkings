@@ -1,0 +1,15 @@
+# WESTERN HEARTLANDS
+# Range 213000-213999
+
+213000 = {
+	name = Aumar
+	culture = athalantarran
+}
+213001 = {
+	name = Stoneblade
+	culture = athalantarran
+}
+213002 = {
+	name = Hornweather
+	culture = athalantarran
+}

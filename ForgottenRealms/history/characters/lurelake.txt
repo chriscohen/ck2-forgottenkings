@@ -1,0 +1,36 @@
+# LURELAKE
+# Range 8500-8599
+
+8500 = {
+	name = Buckman
+	dynasty = 201035
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1309.1.1 = { # Estimate
+		birth = yes
+	}
+	1337.1.1 = { # Estimate
+		death = yes
+	}
+}
+8501 = {
+	name = Islif
+	female = yes
+	dynasty = 201035
+	father = 8500 # Buckman
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1330.1.1 = { # Estimate
+		birth = yes
+	}
+	1356.1.1 = {
+		add_spouse = 8300 # Doust Sulwood
+	}
+	1384.1.1 = { # Estimate
+		death = yes
+	}
+}

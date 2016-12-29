@@ -664,24 +664,6 @@
 		death = yes
 	}
 }
-900039 = {
-	name = Alashar # Mother to Vattick and Mattick Tanthul
-	
-	religion = catholic
-	culture = netherese
-	
-	trait = shade
-	
-	1.1.1 = { # Estimate
-		birth = yes
-	}
-	26.1.1 = { # Estimate
-		add_spouse = 7501 # Telamont Tanthul
-	}
-	1448.1.1 = { # Estimate
-		death = yes
-	}
-}
 900040 = {
 	name = Silbran
 	female = yes
@@ -756,5 +738,65 @@
 	}
 	240.1.1 = { # Estimate
 		death = yes
+	}
+}
+900045 = {
+	name = "Vala Thorsdottir" # Killer of Escanor Tanthul
+	
+	religion = catholic
+	culture = vaasan
+	
+	1345.1.1 = { # Estimate
+		birth = yes
+	}
+	1399.1.1 = { # Estimate
+		death = yes
+	}
+}
+900046 = {
+	name = Jyordhan
+	
+	religion = catholic
+	culture = zhent
+	
+	1300.1.1 = { # Estimate
+		birth = yes
+	}
+	1345.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+900047 = {
+	name = Ashaba # First Lord of Shadowdale
+	
+	religion = catholic
+	culture = dalelander
+	
+	861.1.1 = { # Estimate
+		birth = yes
+	}
+	877.1.1 = {
+		trait = wizard
+		trait = immortal
+	}
+	940.1.1 = {
+		death = yes # Turned into water elemental, but sod trying to represent that
+	}
+}
+900048 = {
+	name = Joadath
+	
+	religion = catholic
+	culture = dalelander
+	
+	1240.1.1 = { # Estimate
+		birth = yes
+	}
+	1300.1.1 = {
+		death = {
+			death_reason = death_accident # Beast from nether planes
+		}
 	}
 }

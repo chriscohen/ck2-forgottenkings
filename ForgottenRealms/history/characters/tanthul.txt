@@ -1,0 +1,316 @@
+# TANTHUL
+# Range 7500-7599
+
+7500 = {
+	name = Mattick
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	50.1.1 = { # Estimate
+		birth = yes
+	}
+	1487.10.13 = { # Estimate
+		death = {
+			death_reason = death_murder
+			killer = 7600 # Elminster Aumar
+		}
+	}
+}
+7501 = {
+	name = Telamont # Father of Mattick, Vattick and Brennus
+	dynasty = 212000
+	
+	religion = catholic
+	culture = netherese
+	
+	1.1.1 = { # Born -645 but game can't go back that far
+		birth = yes
+	}
+	21.1.1 = {
+		trait = shade
+	}
+	26.1.1 = { # Estimate
+		add_spouse = 7900 # Alashar
+	}
+	1487.10.13 = {
+		death = {
+			death_reason = death_murder
+			killer = 7600 # Elminster Aumar
+		}
+	}
+}
+7502 = {
+	name = Vattick # Twin brother of Mattick
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	50.1.1 = { # Estimate
+		birth = yes
+	}
+	1487.10.13 = { # Estimate
+		death = {
+			death_reason = death_murder
+			killer = 7600 # Elminster Aumar
+		}
+	}
+}
+7503 = {
+	name = Escanor
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	20.1.1 = { # Estimate
+		birth = yes
+	}
+	1372.1.1 = { # Estimate
+		death = {
+			death_reason = death_murder
+			killer = 900045 # Vala Thorsdottir
+		}
+	}
+}
+7504 = {
+	name = Rivalen
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	30.1.1 = { # Estimate
+		birth = yes
+	}
+	1484.1.1 = {
+		death = yes
+	}
+}
+7505 = {
+	name = Clariburnus
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	40.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}
+7506 = {
+	name = Yder
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	60.1.1 = {
+		birth = yes
+	}
+	1486.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 8000 # Kleef Kenric
+		}
+	}
+}
+7507 = {
+	name = Melegaunt
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	70.1.1 = { # Estimate
+		birth = yes
+	}
+	1371.1.1 = {
+		death = {
+			death_reason = death_murder_unknown # Killed by lich Wulgreth but no need to add him as a character at this time
+		}
+	}
+}
+7508 = {
+	name = Lamorak
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	80.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}
+7509 = {
+	name = Draethren
+	dynasty = 212000
+	father = 7508 # Lamorak
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	100.1.1 = { # Estimate
+		birth = yes
+	}
+	116.1.1 = {
+		trait = wizard
+	}
+	# Death not recorded
+}
+7510 = {
+	name = Tantoras
+	dynasty = 212000
+	father = 7508 # Lamorak
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	98.1.1 = { # Estimate
+		birth = yes
+	}
+	1487.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 7501 # Telamont
+		}
+	}
+}
+7511 = {
+	name = Dethud
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	90.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}
+7512 = {
+	name = Manarlume
+	female = yes
+	dynasty = 212000
+	father = 7511 # Dethud
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	200.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}
+7513 = {
+	name = Levavdra
+	female =  yes
+	dynasty = 212000
+	father = 7511 # Dethud
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	210.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}
+7514 = {
+	name = Aglarel
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	100.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}
+7515 = {
+	name = Malath
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	110.1.1 = { # Estimate
+		birth = yes
+	}
+	# Death not recorded
+}
+7516.1.1 = {
+	name = Brennus
+	dynasty = 212000
+	father = 7501 # Telamont
+	mother = 7900 # Ashalar Crywinds
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	120.1.1 = {
+		birth = yes
+	}
+	1484.1.1 = {
+		death = yes
+	}
+}

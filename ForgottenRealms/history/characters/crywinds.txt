@@ -1,0 +1,24 @@
+# CRYWINDS
+# Range = 7900-7999
+
+7900 = {
+	name = Alashar # Mother to Vattick and Mattick Tanthul
+	female = yes
+	dynasty = 212001
+	
+	religion = catholic
+	culture = netherese
+	
+	1.1.1 = { # Estimate
+		birth = yes
+	}
+	26.1.1 = { # Estimate
+		add_spouse = 7501 # Telamont Tanthul
+	}
+	130.1.1 = { # Estimate
+		death = { # Occurred in -365 DR but game can't do negative years
+			death_reason = death_murder
+			killer = 7504 # Rivalen Tanthul
+		}
+	}
+}

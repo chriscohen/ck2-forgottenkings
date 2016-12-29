@@ -1,0 +1,38 @@
+# FALCONHAND
+# Range 8100-8199
+
+8100 = {
+	name = Florin
+	dynasty = 201032
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1335.1.1 = { # Estimate
+		birth = yes
+	}
+	1355.1.1 = {
+		add_spouse = 7003 # Dove Silverhand
+	}
+	1412.1.1 = { # Estimate
+		death = yes
+	}
+}
+8101 = {
+	name = Azalar
+	dynasty = 201032
+	father = 8100 # Florin
+	mother = 7003 # Dove Silverhand
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = brawny
+	
+	1359.1.1 = {
+		birth = yes
+	}
+	1459.1.1 = { # Estimate
+		death = yes
+	}
+}

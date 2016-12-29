@@ -1,0 +1,11 @@
+# NETHERESE
+# Range 212000-212999
+
+212000 = {
+	name = Tanthul
+	culture = netherese
+}
+212001 = {
+	name = Crywinds
+	culture = netherese
+}

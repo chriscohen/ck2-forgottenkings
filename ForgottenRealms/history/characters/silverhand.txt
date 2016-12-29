@@ -64,3 +64,30 @@
 		trait = immortal
 	}
 }
+7003 = {
+	name = Dove
+	female = yes
+	dynasty = 211000
+	father = 7000 # Dornal
+	mother = 900038 # Elué
+	
+	religion = catholic
+	culture = dalelander
+	
+	763.1.1 = {
+		birth = yes
+	}
+	779.1.1 = {
+		trait = wizard
+		trait = immortal
+	}
+	1355.1.1 = {
+		add_spouse = 8100 # Florin Falconhand
+	}
+	1487.10.13 = {
+		death = {
+			death_reason = death_murder
+			killer = 7502 # Vattick Tanthul
+		}
+	}
+}

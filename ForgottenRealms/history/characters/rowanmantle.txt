@@ -1,0 +1,21 @@
+# ROWANMANTLE
+# Range 8400-8499
+
+8400 = {
+	name = Shaerl
+	female = yes
+	dynasty = 201034
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1329.1.1 = { # Estimate
+		birth = yes
+	}
+	1355.7.1 = {
+		add_spouse = 8200 # Mourngrym Amcathra
+	}
+	1408.1.1 = { # Estimate
+		death = yes
+	}
+}

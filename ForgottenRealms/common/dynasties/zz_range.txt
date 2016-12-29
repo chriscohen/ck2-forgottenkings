@@ -13,6 +13,7 @@
 # 211000 - 211999   Dalelands
 # 212000 - 212999   Netherese
 # 213000 - 213999   Western Heartlands
+# 214000 - 214999   Waterdeep
 # 
 # 300000 - 399999   Miscellaneous
 #

@@ -1,0 +1,38 @@
+# AMCATHRA
+# Range 8200-8299
+
+8200 = {
+	name = Mourngrym
+	dynasty = 214000
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1355.7.1 = {
+		add_spouse = 8400 # Shaerl Rowanmantle
+	}
+	1374.1.1 = {
+		trait = infirm # Possessed by Yder Tanthul
+	}
+	1375.1.1 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+8201 = {
+	name = Scotti
+	dynasty = 214000
+	father = 8200 # Mourngrym
+	mother = 8400 # Shaerl Rowanmantle
+	
+	1358.1.1 = {
+		birth = yes
+	}
+	1418.1.1 = { # Estimate
+		death = yes
+	}
+}

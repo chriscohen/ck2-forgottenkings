@@ -385,6 +385,7 @@ human = {
 			Elminster Elthaun Elthryn
 			Felodar
 			Helm
+			Nrymm
 			Othglas
 			Undarl Uthgrael
 		}
@@ -459,24 +460,24 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Alaphondar Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Auldus Aumry Aunadar Aundable Austrus
-			Baerauble Baern Baert Barandos Bledryn Blundebel Boris Brezm Broglan
+			Adris Alaphondar Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Auldus Aumry Aunadar Aundable Austrus Azalar
+			Baerauble Baern Baert Barandos Bledryn Blundebel Boris Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Coobert Corleth
-			Danthalus Darander Deinyn Del Draguth Drounan Duncan Dunlath Duth
+			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Eldur Ellard Elmariel Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
-			Falzo Faril Filani Foril
+			Falzo Faril Filani Florin Foril
 			Galados Gardumn Gaspar Gelnur Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
 			Ildamoor Irvel
-			Jarlin Jelde Juarkin Junstal
-			Kae Kallimar Keolan
+			Jarlin Jelde Jhaok Juarkin Junstal
+			Kae Kallimar Keolan Kleef
 			Landon Larak Lareth Londal Lothan
 			Manarech Marthin Melder Mhaernos Mondar Morligul Mulcaster
 			Naeryk
 			Obraerl Ogden Ohlmer Ondrin Oric Ordmann Orm Ormion Ortwin
 			Paramyr Pyramus
 			Raedlar Raegl Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Roond Rorlyn Rorstil Rowen
-			Sagrast Sardasper Sarliman Scarmar Scoril Staephon
+			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Staephon
 			Tarmel Tenshorn Thalance Thessilion Thorndor Trenton Tystarn
 			Umbarl
 			Vorik
@@ -492,7 +493,7 @@ human = {
 			Florin
 			Glathra Gorloun
 			Helindra
-			Icuara Ileira Illistyl Iyrytharna
+			Icuara Ileira Illistyl Islif Iyrytharna
 			Jalassra
 			Katriana Klaire
 			Laspeera Lorelei
@@ -501,7 +502,7 @@ human = {
 			Omalra Ospra Ossani
 			Pella Pheirauze
 			Rhyndaera
-			Saha Shayla Solatha Storm
+			Saha Shaerl Shayla Solatha Storm
 			Talantra Tanalasta Threena
 			Varauna Vindala
 			Zarova
@@ -536,9 +537,12 @@ human = {
 		color = { 0.25 0.29 0.91 }
 		
 		male_names = {
+			Ashaba
 			Dornal
+			Joadath
 		}
 		female_names = {
+			Adee
 			Elué
 		}
 		
@@ -665,13 +669,24 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
+			Aglarel
+			Brennus
+			Clariburnus
+			Dethud
+			Escanor
 			Halanter
-			Mattick
+			Lamorak
+			Malath Mattick Melegaunt
+			Rivalen
 			Sarshel
+			Tantoras Telamont
 			Vattick
+			Yder
 		}
 		female_names = {
-			Ariia
+			Alashar Ariia
+			Levavdra
+			Manarlume
 		}
 		
 		dukes_called_kings = no
@@ -926,6 +941,77 @@ human = {
 		}
 		female_names = {
 			Ariia
+			Vala
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	waterdhavian = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.7 0.7 0.8 }
+		
+		male_names = {
+			Mourngrym
+		}
+		female_names = {
+			Unnamed
+		}
+		
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 50
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+		
+		allow_looting = no
+		seafarer = no
+	}
+	zhent = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0.1 0.1 0.1 }
+		
+		male_names = {
+			Jyordhan
+		}
+		female_names = {
+			Unnamed
 		}
 		
 		dukes_called_kings = no

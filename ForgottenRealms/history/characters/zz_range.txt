@@ -37,7 +37,7 @@
 # 4300   - 4399     Sumbrar
 # 4400   - 4499     Tharimpar
 # 4500   - 4599     Naerinth
-# 4600   - 4699     InthrÃ©
+# 4600   - 4699     Inthré
 # 4700   - 4799     Selzair
 # 4800   - 4899     Boldtree
 # 4900   - 4999     Rhindaun
@@ -70,5 +70,13 @@
 # 7600   - 7699     Aumar
 # 7700   - 7799     Stoneblade
 # 7800   - 7899     Hornweather
+# 7900   - 7999     Crywinds
+# 8000   - 8099     Kenric
+# 8100   - 8199     Falconhand
+# 8200   - 8299     Amcathra
+# 8300   - 8399     Sulwood
+# 8400   - 8499     Rowanmantle
+# 8500   - 8599     Lurelake
+# 8600   - 8601     Ulphor
 #
 # 900000 - 999999 Lowborn
