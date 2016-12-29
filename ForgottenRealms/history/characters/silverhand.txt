@@ -21,6 +21,7 @@
 }
 7001 = {
 	name = Syluné
+	female = yes
 	dynasty = 211000
 	father = 7000 # Dornal
 	mother = 900038 # Elué
