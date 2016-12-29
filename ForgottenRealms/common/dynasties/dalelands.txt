@@ -11,3 +11,20 @@
 	name = Ulphor
 	culture = dalelander
 }
+211002 = {
+	# Source says Baerauble (8800) was originally from Tarkhaldale
+	name = Etharr
+	culture = dalelander
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 0
+            color = 3
+            color = 2
+            color = 1
+        }
+    }
+}

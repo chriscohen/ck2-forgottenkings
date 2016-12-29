@@ -8,11 +8,11 @@
 	religion = catholic
 	culture = moonelf # A guess - it's not recorded
 	
-	-200.1.1 = { # Estimate
+	1.1.1 = { # Estimate
 		birth = yes
 	}
-	-75.1.1 = {
-		add_spouse = 1300 # Baerauble Etharr
+	17.1.1 = {
+		add_spouse = 8800 # Baerauble Etharr
 	}
 	429.1.1 = { # Estimate
 		death = yes

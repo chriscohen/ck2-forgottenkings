@@ -1,0 +1,20 @@
+# ETHARR
+# Range
+
+8800 = {
+	name = Baerauble
+	dynasty = 211002
+	
+	religion = catholic
+	culture = netherese
+	
+	1.1.1 = { # Actual birth was -166 but game can't do negative years.
+		birth = yes
+	}
+	17.1.1 = {
+		add_spouse = 1400 # Alea Dahast
+	}
+	479.1.1 = {
+		death = yes
+	}
+}

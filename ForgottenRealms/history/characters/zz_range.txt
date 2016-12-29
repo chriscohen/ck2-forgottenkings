@@ -79,5 +79,6 @@
 # 8500   - 8599     Lurelake
 # 8600   - 8601     Ulphor
 # 8700   - 8799     Ammaeth
+# 8800   - 8899     Etharr
 #
 # 900000 - 999999 Lowborn

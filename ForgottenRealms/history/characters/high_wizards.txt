@@ -1,22 +1,6 @@
 # HIGH WIZARDS OF CORMYR
 # Range = 1300 - 1399
 
-1300 = {
-	name = Baerauble
-	
-	religion = catholic
-	culture = netherese
-	
-	-116.1.1 = {
-		birth = yes
-	}
-	-75.1.1 = {
-		add_spouse = 1400 # Alea Dahast
-	}
-	479.1.1 = {
-		death = yes
-	}
-}
 1301 = {
 	name = Amedahast
 	father = 1300 # Baerauble - we don't have the lineage but this will have to do
