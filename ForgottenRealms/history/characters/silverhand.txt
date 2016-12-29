@@ -46,3 +46,21 @@
 		death = yes
 	}
 }
+7002 = {
+	name = Alustriel
+	female = yes
+	dynasty = 211000
+	father = 7000 # Dornal
+	mother = 900038 # Elué
+	
+	religion = catholic
+	culture = dalelander
+	
+	762.1.1 = {
+		birth = yes
+	}
+	778.1.1 = {
+		trait = wizard
+		trait = immortal
+	}
+}

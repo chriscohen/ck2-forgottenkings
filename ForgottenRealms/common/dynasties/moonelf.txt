@@ -9,3 +9,11 @@
 	name = Aerasumé
 	culture = moonelf
 }
+401002 = {
+	name = Moonweather
+	culture = moonelf
+}
+401003 = {
+	name = Tressymfriend
+	culture = moonelf
+}

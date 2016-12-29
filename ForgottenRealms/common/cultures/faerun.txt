@@ -221,6 +221,20 @@ elf = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
+			Alondel Andelver
+			Baerndar Boesild
+			Dalbrant
+			Dolthauvin
+			Elinthalar Elnriyr
+			Ghaelryss
+			Hardorbryn
+			Inthylyn
+			Lilinthar
+			Methrammar
+			Naerond
+			Raerilarr
+			Taerntym Tarthilmor
+			Uoundeld
 			Yarjack
 		}
 		female_names = {

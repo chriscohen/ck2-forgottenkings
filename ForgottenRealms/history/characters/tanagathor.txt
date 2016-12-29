@@ -1,0 +1,115 @@
+# TANAGATHOR
+# Range 7200-7299
+
+# Information on children of Alustriel from http://forum.candlekeep.com/topic.asp?TOPIC_ID=7525
+7200 = {
+	name = Taerntym
+	dynasty = 401000
+	
+	religion = catholic
+	# Type of elf not specified, assumption made
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1184.1.1 = { # Estimate
+		birth = yes
+	}
+	1404.1.1 = { # Estimate
+		death = yes
+	}
+}
+7201 = {
+	name = Dalbrant
+	dynasty = 401000
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1240.1.1 = {
+		birth = yes
+	}
+	1313.1.1 = {
+		death = yes # Disappeared
+	}
+}
+7202 = {
+	name = Hardorbryn
+	dynasty = 401000
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1242.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+7203 = {
+	name = Alondel
+	dynasty = 401000
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1242.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+7204 = {
+	name = Baerndar
+	dynasty = 401000
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1266.1.1 = {
+		birth = yes
+	}
+	1485.1.1 = { # Estimate
+		death = yes
+	}
+}
+7205 = {
+	name = Elinthalar
+	dynasty = 401000
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1477.1.1 = { # Estimate
+		death = yes
+	}
+}

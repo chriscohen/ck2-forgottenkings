@@ -1,0 +1,173 @@
+# AERASUME
+# Range 7100-7199
+
+# Information on children of Alustriel from http://forum.candlekeep.com/topic.asp?TOPIC_ID=7525
+7100 = {
+	name = Tarthilmor
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	# No death within scope
+}
+7101 = {
+	name = Methrammar
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1304.1.1 = {
+		birth = yes
+	}
+	1471.1.1 = { # Estimate
+		death = yes
+	}
+}
+7102 = {
+	name = Boesild
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1244.1.1 = {
+		birth = yes
+	}
+	1497.1.1 = { # Estimate
+		death = yes
+	}
+}
+7103 = {
+	name = Uoundeld
+	dynasty = 401001 # Assumed
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1269.1.1 = {
+		birth = yes
+	}
+	1455.1.1 = { # Estimate
+		death = yes
+	}
+}
+7104 = {
+	name = Dolthauvin
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1295.1.1 = {
+		birth = yes
+	}
+	# No death in scope
+}
+7105 = {
+	name = Inthylyn
+	dynasty = 401001 # Assumed
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1314.1.1 = {
+		birth = yes
+	}
+	# No death in scope
+}
+7106 = {
+	name = Naerond
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	# No death in scope
+}
+7107 = {
+	name = Tarthilmor
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	# No death in scope
+}
+7108 = {
+	name = Raerilarr
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1340.1.1 = {
+		birth = yes
+	}
+	# No death in scope
+}
+7109 = {
+	name = Ghaelryss
+	dynasty = 401001
+	father = 7200 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1345.1.1 = {
+		birth = yes
+	}
+	1361.1.1 = {
+		give_nickname = nick_the_bold
+	}
+	# No death in scope
+}

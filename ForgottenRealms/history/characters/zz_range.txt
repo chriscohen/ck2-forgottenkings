@@ -61,6 +61,10 @@
 # 6700   - 6799     Sarmyn
 # 6800   - 6899     Battlestar
 # 6900   - 6999     Immerdusk
-# 7000   - 7999     Silverhand
+# 7000   - 7099     Silverhand
+# 7100   - 7199     Aerasumé
+# 7200   - 7299     Tanagathor
+# 7300   - 7399     Moonweather
+# 7400   - 7499     Tressymfriend
 #
 # 900000 - 999999 Lowborn
