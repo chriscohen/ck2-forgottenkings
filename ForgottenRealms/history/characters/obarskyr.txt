@@ -1325,7 +1325,7 @@
 	1307.1.1 = {
 		birth = yes
 	}
-	1330.1.1 = {
+	1329.9.2 = {
 		add_spouse = 4700 # Filfaeril Selzair
 	}
 	1335.1.1 = {
