@@ -1,0 +1,6 @@
+1300.1.1 = {
+	holder = 93 # Aumry Obarskyr
+}
+1339.1.1 = {
+	holder = 0
+}

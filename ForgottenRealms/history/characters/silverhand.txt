@@ -1,0 +1,47 @@
+# SILVERHAND
+# Range 7000-7999
+
+7000 = {
+	name = Dornal
+	dynasty = 211000
+	
+	religion = catholic
+	culture = dalelander
+	
+	730.1.1 = { # Estimate
+		birth = yes
+	}
+	760.1.1 = {
+		add_spouse = 900038 # Elué
+	}
+	780.1.1 = {
+		# Ed says he's still around, so he's immortal I guess
+		trait = immortal
+	}
+}
+7001 = {
+	name = Syluné
+	dynasty = 211000
+	father = 7000 # Dornal
+	mother = 900038 # Elué
+	
+	religion = catholic
+	culture = dalelander
+	
+	761.1.1 = {
+		birth = yes
+	}
+	777.1.1 = {
+		trait = wizard
+		trait = immortal
+	}
+	1290.1.1 = {
+		add_spouse = 93 # Aumry Obarskyr
+	}
+	1356.1.1 = {
+		trait = spectral_harpist
+	}
+	1375.1.1 = {
+		death = yes
+	}
+}

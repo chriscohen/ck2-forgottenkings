@@ -1539,3 +1539,26 @@
 		birth = yes
 	}
 }
+93 = {
+	name = Aumry
+	dynasty = 201000
+	father = 78 # Azoun III
+	
+	religion = catholic
+	culture = cormyrean
+	
+	# Date of birth not given, but assuming he is son of Azoun III and
+	# 1270 since he was Lord of Shadowdale 1300-1339.
+	1270.1.1 = {
+		birth = yes
+	}
+	1290.1.1 = {
+		add_spouse = 7001 # Syluné Silverhand
+	}
+	# Killed by Zhentarim agents
+	1339.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}

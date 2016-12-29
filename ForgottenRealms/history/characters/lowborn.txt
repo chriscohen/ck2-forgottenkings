@@ -648,6 +648,22 @@
 		death = yes
 	}
 }
+900038 = {
+	name = Elué
+	
+	religion = catholic
+	culture = dalelander
+	
+	740.1.1 = { # Estimate
+		birth = yes
+	}
+	760.1.1 = {
+		add_spouse = 7000 # Dornal Silverhand
+	}
+	767.1.1 = {
+		death = yes
+	}
+}
 900040 = {
 	name = Silbran
 	female = yes

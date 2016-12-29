@@ -1,0 +1,9 @@
+# DALELANDS
+# Range 211000-211999
+
+211000 = {
+	# There's no definite origin culture for the Silverhand dynasty
+	# so we need to put something. Let's put them in the Dalelands.
+	name = Silverhand
+	culture = dalelander
+}
