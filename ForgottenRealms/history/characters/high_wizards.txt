@@ -3,6 +3,7 @@
 
 1301 = {
 	name = Amedahast
+	female = yes
 	father = 1300 # Baerauble - we don't have the lineage but this will have to do
 	mother = 1400 # Alea Dahast - we don't have the lineage either
 	
