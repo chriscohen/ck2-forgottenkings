@@ -1,0 +1,20 @@
+# STONEBLADE
+# Range 7700-7799
+
+7700 = {
+	name = Helm
+	dynasty = 213001
+	
+	religion = catholic
+	culture = athalantarran
+	
+	214.1.1 = { # Estimate
+		birth = yes
+	}
+	230.1.1 = {
+		employer = 7603 # Belaur Aumar
+	}
+	343.1.1 = {
+		death = yes
+	}
+}

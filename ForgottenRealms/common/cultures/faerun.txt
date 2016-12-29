@@ -380,11 +380,18 @@ human = {
 		color = { 0.95 0.29 0.19 }
 		
 		male_names = {
-			Elminster
-			Uthgrael
+			Belaur
+			Cauln
+			Elminster Elthaun Elthryn
+			Felodar
+			Helm
+			Othglas
+			Undarl Uthgrael
 		}
 		female_names = {
-			Unnamed
+			Amrythale
+			Niluembra
+			Syndrel
 		}
 		
 		dukes_called_kings = no
@@ -417,6 +424,7 @@ human = {
 		
 		male_names = {
 			Daryth
+			Rhanghaun
 		}
 		female_names = {
 			Unnamed

@@ -1,0 +1,173 @@
+# AUMAR
+# Range 7600-7699
+
+7600 = {
+	name = Elminster
+	dynasty = 213000
+	father = 7601 # Elthryn
+	mother = 900043 # Amrythale
+	
+	212.1.1 = {
+		birth = yes
+	}
+	228.1.1 = {
+		trait = wizard
+	}
+	292.1.1 = {
+		trait = immortal
+	}
+	
+}
+7601 = {
+	name = Elthryn
+	dynasty = 213000
+	father = 7602 # Uthgrael
+	mother = 7800 # Syndrel Hornweather
+	
+	192.1.1 = {
+		birth = yes
+	}
+	210.1.1 = {
+		add_spouse = 900043 # Amrythale
+	}
+	224.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 900042 # Undarl
+		}
+	}
+}
+7602 = {
+	name = Uthgrael
+	dynasty = 213000
+	
+	religion = catholic
+	culture = athalantarran
+	
+	160.1.1 = { # Estimate
+		birth = yes
+	}
+	183.1.1 = {
+		give_nickname = nick_the_stag_king
+	}
+	188.1.1 = {
+		add_spouse = 7800 # Syndrel Hornweather
+	}
+	216.1.1 = {
+		death = yes
+	}
+}
+7603 = {
+	name = Belaur
+	dynasty = 213000
+	father = 7602 # Uthgrael
+	mother = 7800 # Syndrel Hornweather
+	
+	religion = catholic
+	culture = athalantarran
+	
+	189.1.1 = { # Estimate
+		birth = yes
+	}
+	240.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 7600 # Elminster
+		}
+	}
+}
+7604 = {
+	name = Elthaun
+	dynasty = 213000
+	father = 7602 # Uthgrael
+	mother = 7800 # Syndrel Hornweather
+	
+	religion = catholic
+	culture = athalantarran
+	
+	190.1.1 = {
+		birth = yes
+	}
+	219.1.1 = {
+		death = yes
+	}
+}
+7605 = {
+	name = Cauln
+	dynasty = 213000
+	father = 7602 # Uthgrael
+	mother = 7800 # Syndrel Hornweather
+	
+	religion = catholic
+	culture = athalantarran
+	
+	191.1.1 = {
+		birth = yes
+	}
+	217.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 900044 # Rhanghaun
+		}
+	}
+}
+7606 = {
+	name = Othglas
+	dynasty = 213000
+	father = 7602 # Uthgrael
+	mother = 7800 # Syndrel Hornweather
+	
+	religion = catholic
+	culture = athalantarran
+	
+	193.1.1 = {
+		birth = yes
+	}
+	209.1.1 = {
+		trait = gluttonous
+	}
+	220.1.1 = {
+		death = {
+			death_reason = death_battle # Slain by own men after turning into boar
+		}
+	}
+}
+7607 = {
+	name = Felodar
+	dynasty = 213000
+	father = 7602 # Uthgrael
+	mother = 7800 # Syndrel Hornweather
+	
+	religion = catholic
+	culture = athalantarran
+	
+	194.1.1 = {
+		birth = yes
+	}
+	239.1.1 = {
+		death = {
+			death_reason = death_murder_unknown_poison
+		}
+	}
+}
+7608 = {
+	name = Nrymm
+	dynasty = 213000
+	father = 7602 # Uthgrael
+	mother = 7800 # Syndrel Hornweather
+	
+	religion = catholic
+	culture = athalantarran
+	
+	trait = frail
+	
+	195.1.1 = {
+		birth = yes
+	}
+	238.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 7607
+		}
+	}
+}

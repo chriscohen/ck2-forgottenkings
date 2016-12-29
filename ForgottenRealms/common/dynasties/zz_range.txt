@@ -11,6 +11,8 @@
 # 209000 - 209999   Calimshan
 # 210000 - 210999   Sembia
 # 211000 - 211999   Dalelands
+# 212000 - 212999   Netherese
+# 213000 - 213999   Western Heartlands
 # 
 # 300000 - 399999   Miscellaneous
 #

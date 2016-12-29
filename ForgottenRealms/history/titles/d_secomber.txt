@@ -1,0 +1,12 @@
+183.1.1 = {
+	holder = 7602 # Uthgrael Aumar
+}
+216.1.1 = {
+	holder = 7603 # Belaur Aumar
+}
+240.1.1 = {
+	holder = 7700 # Helm Stoneblade
+}
+343.1.1 = {
+	holder = 0
+}

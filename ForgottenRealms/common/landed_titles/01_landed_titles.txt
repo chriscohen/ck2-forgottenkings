@@ -1483,6 +1483,30 @@ d_scardale = {
 		}
 	}
 }
+d_secomber = {
+	color = { 54 227 54 }
+	color2 = { 255 255 255 }
+	
+	capital = 118 # Secomber
+	culture = athalantarran # Temporary
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 118
+			}
+		}
+	}
+	
+	c_secomber = {
+		color = { 54 227 54 }
+		color2 = { 255 255 255 }
+		
+		b_secomber = {
+		}
+	}
+}
 d_shadowdale = {
 	color = { 129 164 220 }
 	color2 = { 255 255 255 }

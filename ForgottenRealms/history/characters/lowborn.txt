@@ -664,12 +664,30 @@
 		death = yes
 	}
 }
+900039 = {
+	name = Alashar # Mother to Vattick and Mattick Tanthul
+	
+	religion = catholic
+	culture = netherese
+	
+	trait = shade
+	
+	1.1.1 = { # Estimate
+		birth = yes
+	}
+	26.1.1 = { # Estimate
+		add_spouse = 7501 # Telamont Tanthul
+	}
+	1448.1.1 = { # Estimate
+		death = yes
+	}
+}
 900040 = {
 	name = Silbran
 	female = yes
 	
 	religion = catholic
-	culture = irish
+	culture = cormyrean
 	
 	286.1.1 = {
 		birth = yes
@@ -678,6 +696,65 @@
 		add_spouse = 39 # Ulbaeram
 	}
 	324.1.1 = {
+		death = yes
+	}
+}
+900042 = {
+	name = Undarl
+	
+	religion = catholic
+	culture = athalantarran
+	
+	140.1.1 = { # Estimate
+		birth = yes
+	}
+	156.1.1 = {
+		trait = wizard
+	}
+	216.1.1 = {
+		employer = 7603 # Belaur Aumar
+		effect = { give_job_title = job_spymaster } # Royal Mage, close enough
+	}
+	240.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 7600
+		}
+	}
+}
+900043 = {
+	name = Amrythale # Wife of Elthryn Aumar
+	female = yes
+	
+	religion = catholic
+	culture = athalantarran
+	
+	162.1.1 = { # Estimate
+		birth = yes
+	}
+	210.1.1 = {
+		add_spouse = 7601 # Elthryn Aumar
+	}
+	224.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 900042 # Undarl
+		}
+	}
+}
+900044 = {
+	name = Rhanghaun # Killer of Cauln Aumar
+	
+	religion = catholic
+	culture = calishite
+	
+	180.1.1 = { # Estimate
+		birth = yes
+	}
+	196.1.1 = {
+		trait = wizard
+	}
+	240.1.1 = { # Estimate
 		death = yes
 	}
 }

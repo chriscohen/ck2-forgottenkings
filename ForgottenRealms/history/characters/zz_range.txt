@@ -66,5 +66,9 @@
 # 7200   - 7299     Tanagathor
 # 7300   - 7399     Moonweather
 # 7400   - 7499     Tressymfriend
+# 7500   - 7599     Tanthul
+# 7600   - 7699     Aumar
+# 7700   - 7799     Stoneblade
+# 7800   - 7899     Hornweather
 #
 # 900000 - 999999 Lowborn

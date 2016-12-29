@@ -1,0 +1,21 @@
+# HORNWEATHER
+# Range 7800-7899
+
+7800 = {
+	name = Syndrel
+	female = yes
+	dynasty = 213002
+	
+	religion = catholic
+	culture = athalantarran
+	
+	165.1.1 = { # Estimate
+		birth = yes
+	}
+	188.1.1 = {
+		add_spouse = 7602 # Uthgrael Aumar
+	}
+	196.1.1 = {	
+		death = yes
+	}
+}
