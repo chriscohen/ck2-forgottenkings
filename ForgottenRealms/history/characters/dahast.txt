@@ -3,6 +3,7 @@
 
 1400 = {
 	name = Alea
+	female = yes
 	dynasty = 204000
 	
 	religion = catholic
