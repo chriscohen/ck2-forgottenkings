@@ -460,7 +460,7 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Aiken Alaphondar Alin Althallan Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
+			Adris Aiken Alaphondar Alin Althallan Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Barad Barandos Bardanther Beldarm Bhereu Bledryn Blundebel Boris Brace Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Chanthar Cole Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
@@ -472,7 +472,7 @@ human = {
 			Jarlin Jelde Jhaok Juarkin Junstal
 			Kae Kallimar Keolan Kleef Krohn
 			Landon Larak Lareth Londal Lothan
-			Manarech Mark Marthin Melder Mhaernos Mondar Morligul Moss Mulcaster
+			Manarech Mark Marthin Melder Melot Mhaernos Mondar Morligul Moss Mulcaster
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Pyramus
