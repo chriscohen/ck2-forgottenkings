@@ -173,49 +173,59 @@
 953.1.1 = {
 	holder = 67 # Rhiigard
 }
-982.1.1 = {
-	holder = 68 # Bryntarth II
+# Giving county to Wyvernspur since they have a holding in b_hultail,
+# the capital
+966.1.1 = {
+	holder = 9500 # Paton Wyvernspur
 }
 1001.1.1 = {
-	holder = 69 # Arangor
+	holder = 9501 # Gould I Wyvernspur
 }
-1042.1.1 = {
-	holder = 70 # Azoun II
+1053.1.1 = {
+	holder = 9503 # Gerrin Wyvernspur
 }
-1056.1.1 = {
-	holder = 71 # Proster
+1070.1.1 = {
+	holder = 9506 # Aiken Wyvernspur, 2nd child but 1st male
 }
-1122.1.1 = {
-	holder = 73 # Baerovus
+1087.1.1 = {
+	holder = 9508 # Gould II Wyvernspur
 }
-1164.1.1 = {
-	holder = 74 # Palaghard I
+1120.1.1 = {
+	holder = 9511 # Krohn Wyvernspur
 }
-1187.1.1 = {
-	holder = 75 # Pryntaler
+1141.1.1 = {
+	holder = 9514 # Sojourner Wyvernspur
 }
-1210.1.1 = {
-	holder = 76 # Dhalmass
+1196.1.1 = {
+	holder = 9518 # Sherda Wyvernspur
 }
-1227.1.1 = {
-	holder = 77 # Palaghard II
+1211.1.1 = {
+	holder = 9522 # Krohn II Wyvernspur
 }
-1261.1.1 = {
-	holder = 78 # Azoun III
+1226.1.1 = {
+	holder = 9524 # Moss Wyvernspur
 }
-1275.1.1 = {
-	holder = 79 # Salember
+1243.1.1 = {
+	holder = 9529 # Gould III Wyvernspur
 }
-1286.1.1 = {
-	holder = 80 # Rhigaerd II
+1280.1.1 = {
+	holder = 9532 # Bender Wyvernspur
 }
-1335.1.1 = {
-	holder = 81 # Azoun IV
+1295.1.1 = {
+	holder = 9531 # Eswip Wyvernspur
 }
-1371.1.1 = {
-	holder = 83 # Alusair (regency)
+1306.1.1 = {
+	holder = 9534 # Grever Wyvernspur
 }
-1384.1.1 = {
+1322.1.1 = {
+	holder = 9539 # Wohl Wyvernspur
+}
+1352.1.1 = {
+	holder = 9543 # Frefford Wyvernspur
+}
+1398.1.1 = {
+	# Pass back to k_cormyr because we have no more lineage
+	# for Wyvernspur dynasty
 	holder = 84 # Azoun V
 }
 1449.1.1 = {

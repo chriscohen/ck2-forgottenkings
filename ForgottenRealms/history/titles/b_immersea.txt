@@ -8,3 +8,10 @@
 1206.1.1 = {
 	holder = 0
 }
+1369.1.1 = {
+	# Cormaeril stripped of lands after Abraxus Affair
+	holder = 9543 # Frefford Wyvernspur
+}
+1398.1.1 = {
+	holder = 0
+}
