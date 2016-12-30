@@ -1237,6 +1237,9 @@
 	1164.1.1 = {
 		birth = yes
 	}
+	1183.1.1 = {
+		add_spouse = 9202 # Alvandira Crownsilver
+	}
 	1185.1.1 = {
 		effect = {
 			add_friend = 9300 # Eltrym Drauthglas
@@ -1255,6 +1258,7 @@
 	name = Dhalmass
 	dynasty = 201000
 	father = 75 # Pryntaler
+	mother = 9202 # Alvandira Crownsilver
 	
 	religion = catholic
 	culture = cormyrean
