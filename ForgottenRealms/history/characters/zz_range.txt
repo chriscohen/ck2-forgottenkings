@@ -85,5 +85,6 @@
 # 9100   - 9199     Dheolur
 # 9200   - 9299     Crownsilver
 # 9300   - 9399     Drauthglas
+# 9400   - 9499     Jarthoon
 #
 # 900000 - 999999 Lowborn

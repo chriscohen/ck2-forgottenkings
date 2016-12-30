@@ -1,0 +1,10 @@
+# Cormaeril house had lands near Suzail, so we will give them the first
+# non-capital barony in c_suzail.
+
+1173.1.1 = {
+	liege = c_suzail
+	holder = 1504 # Donder Cormaeril
+}
+1206.1.1 = {
+	holder = 0
+}

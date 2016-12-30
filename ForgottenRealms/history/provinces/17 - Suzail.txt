@@ -7,6 +7,7 @@ title = c_suzail
 max_settlements = 2
 
 b_suzail = castle
+b_immersea = castle
 
 # Misc
 culture = cormyrean

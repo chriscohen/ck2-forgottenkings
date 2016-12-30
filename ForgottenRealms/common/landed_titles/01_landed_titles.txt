@@ -78,6 +78,8 @@ k_cormyr = {
 			
 			b_suzail = {
 			}
+			b_immersea = {
+			}
 			b_gray_oaks = {
 			}
 		}
