@@ -18,3 +18,19 @@
 		death = yes
 	}
 }
+9201 = {
+	name = Althallan
+	dynasty = 201039
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = attractive
+	
+	1157.1.1 = {
+		birth = yes
+	}
+	1212.1.1 = {
+		death = yes
+	}
+}

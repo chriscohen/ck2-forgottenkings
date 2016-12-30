@@ -460,7 +460,7 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Aiken Alaphondar Alin Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
+			Adris Aiken Alaphondar Alin Althallan Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Barad Barandos Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Cole Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
