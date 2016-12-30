@@ -1,0 +1,10 @@
+1328.1.1 = {
+	liege = c_marsember
+	holder = 11301 # Ondyn Thundersword
+}
+1380.1.1 = {
+	holder = 11302 # Talados Thundersword
+}
+1391.1.1 = {
+	holder = 0
+}

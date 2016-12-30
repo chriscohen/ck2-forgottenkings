@@ -668,3 +668,19 @@
         }
     }
 }
+201060 = {
+	name = Thundersword
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 8
+            emblem = 13
+            color = 6
+            color = 1
+            color = 6
+        }
+    }
+}

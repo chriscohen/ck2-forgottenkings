@@ -12,4 +12,8 @@ b_marsember = castle
 culture = cormyrean
 religion = catholic
 
-#History
+# History
+1328.1.1 = {
+	# Bring b_hilp in the game so the Thundersword dynasty can have it
+	b_hilp = castle
+}

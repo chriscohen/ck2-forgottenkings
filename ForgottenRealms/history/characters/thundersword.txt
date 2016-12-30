@@ -1,0 +1,64 @@
+# THUNDERSWORD
+# Range 11300-11399
+
+11300 = {
+	name = Harandil
+	dynasty = 201060
+	father = 11301 # Unsourced
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1340.1.1 = { # Estimate
+		birth = yes
+	}
+	1371.1.1 = {
+		employer = 83 # Alusair Obarskyr
+	}
+	1383.1.1 = { # Estimate
+		death = yes
+	}
+}
+11301 = {
+	name = Ondyn
+	dynasty = 201060
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1312.1.1 = { # Estimate
+		birth = yes
+	}
+	1335.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1371.1.1 = {
+		# Described as bodyguard of Filfaeril
+		employer = 83 # Alusair Obarskyr
+	}
+	1380.1.1 = {
+		death = yes
+	}
+}
+11302 = {
+	name = Talados
+	dynasty = 201060
+	father = 11301 # Unsourced
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1354.1.1 = {
+		employer = 11301 # Ondyn
+		effect = { give_job_title = job_marshal }
+	}
+	1380.1.1 = {
+		employer = 0
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}
