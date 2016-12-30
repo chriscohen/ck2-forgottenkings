@@ -464,7 +464,7 @@ human = {
 			Baerauble Baergast Baern Baert Barandos Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
-			Edwin Eldur Ellard Elmariel Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
+			Edwin Eldur Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
 			Falzo Faril Filani Florin Foril
 			Galados Gardumn Gaspar Gelnur Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
@@ -491,20 +491,21 @@ human = {
 			Dalestra Dove
 			Earilde Eleanor Elestra Emrylara
 			Florin
-			Glathra Gorloun
+			Ghaunyl Glathra Gorloun
 			Helindra
-			Icuara Ileira Illistyl Islif Iyrytharna
-			Jalassra
+			Icuara Ileeyra Ileira Illistyl Islif Iyrytharna
+			Jalalla Jalassra
 			Katriana Klaire
 			Laspeera Lorelei
 			Maea Maranth Marantine Margot Mela
 			Nalanna Narnytha
-			Omalra Ospra Ossani
+			Omalra Ormarra Ospra Ossani
 			Pella Pheirauze
 			Rhyndaera
 			Saha Shaerl Shayla Solatha Storm
 			Talantra Tanalasta Threena
 			Varauna Vindala
+			Yolara
 			Zarova
 		}
 		

@@ -404,3 +404,19 @@
         }
     }
 }
+201040 = {
+	name = Drauthglas
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 12
+            emblem = 15
+            color = 5
+            color = 5
+            color = 5
+        }
+    }
+}

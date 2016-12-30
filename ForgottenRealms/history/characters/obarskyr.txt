@@ -1084,7 +1084,7 @@
 65 = {
 	name = Bryntarth # Bryntarth I
 	dynasty = 201000
-	father = 64
+	father = 64 # Draxius
 	
 	religion = catholic
 	culture = cormyrean
@@ -1099,7 +1099,7 @@
 66 = {
 	name = Galaghard # Galaghard III
 	dynasty = 201000
-	father = 65
+	father = 65 # Bryntarth I
 	
 	religion = catholic
 	culture = cormyrean
@@ -1229,6 +1229,7 @@
 	name = Pryntaler
 	dynasty = 201000
 	father = 74 # Palaghard I
+	mother = 1200 # Enchara of Esparin
 	
 	religion = catholic
 	culture = cormyrean
@@ -1236,8 +1237,18 @@
 	1164.1.1 = {
 		birth = yes
 	}
+	1185.1.1 = {
+		effect = {
+			add_friend = 75 # Pryntaler Obarskyr
+		}
+	}
+	1190.1.1 = {
+		trait = ill
+	}
 	1210.1.1 = {
-		death = yes
+		death = {
+			death_reason = death_trait
+		}
 	}
 }
 76 = {
@@ -1570,6 +1581,39 @@
 	1339.1.1 = {
 		death = {
 			death_reason = death_murder_unknown
+		}
+	}
+}
+94 = {
+	name = Tanalar # 2nd child of Galaghard III
+	dynasty = 201000
+	father = 66 # Galaghard III
+	
+	religion = catholic
+	culture = cormyrean
+	
+	896.1.1 = { # Estimate
+		birth = yes
+	}
+	940.1.1 = { # Estimate
+		death = yes
+	}
+}
+95 = {
+	name = Kathla # 3rd child of Galaghard III
+	female = yes
+	dynasty = 201000
+	father = 66 # Galaghard III
+	
+	religion = catholic
+	culture = cormyrean
+	
+	897.1.1 = { # Estimate
+		birth = yes
+	}
+	925.1.1 = { # Estimate
+		death = {
+			death_reason = death_battle
 		}
 	}
 }

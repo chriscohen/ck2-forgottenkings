@@ -1,0 +1,195 @@
+# DRAUTHGLAS
+# 9300-9399
+# Details from Dragon 281
+
+9300 = {
+	name = Eltrym
+	dynasty = 201040
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = hunter
+	trait = tough_soldier
+	
+	1128.1.1 = {
+		birth = yes
+	}
+	1185.1.1 = {
+		effect = {
+			add_friend = 75 # Pryntaler Obarskyr
+		}
+	}
+	1198.1.1 = {
+		trait = maimed # Horse rolled over on him
+	}
+	1202.1.1 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+9301 = {
+	name = Unnamed # 1st child of Eltrym
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1146.1.1 = {
+		birth = yes
+	}
+	1184.1.1 = { # Estimate, all sons died in same battle
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+9302 = {
+	name = Unnamed # 2nd child of Eltrym
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1147.1.1 = {
+		birth = yes
+	}
+	1184.1.1 = { # Estimate, all sons died in same battle
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+9303 = {
+	name = Unnamed # 3rd child of Eltrym
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1148.1.1 = {
+		birth = yes
+	}
+	1184.1.1 = { # Estimate, all sons died in same battle
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+9304 = {
+	name = Unnamed # 4th child of Eltrym
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1149.1.1 = {
+		birth = yes
+	}
+	1184.1.1 = { # Estimate, all sons died in same battle
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+9305 = {
+	name = Jalalla
+	female = yes
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	1232.1.1 = { # Estimate
+		death = yes
+	}
+}
+9306 = {
+	name = Theera
+	female = yes
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1151.1.1 = {
+		birth = yes
+	}
+	1214.1.1 = { # Estimate
+		death = yes
+	}
+}
+9307 = {
+	name = Ghaunyl
+	female = yes
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1152.1.1 = {
+		birth = yes
+	}
+	1219.1.1 = { # Estimate
+		death = yes
+	}
+}
+9308 = {
+	name = Ileeyra
+	female = yes
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1153.1.1 = {
+		birth = yes
+	}
+	1201.1.1 = { # Estimate
+		death = yes
+	}
+}
+9309 = {
+	name = Ormarra
+	female = yes
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1154.1.1 = {
+		birth = yes
+	}
+	1241.1.1 = { # Estimate
+		death = yes
+	}
+}
+9310 = {
+	name = Yolara # 10th child, 6th daughter, you scallywag Eltrym!
+	female = yes
+	dynasty = 201040
+	father = 9300 # Eltrym
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1155.1.1 = {
+		birth = yes
+	}
+	1240.1.1 = { # Estimate
+		death = yes
+	}
+}

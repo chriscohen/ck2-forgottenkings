@@ -188,16 +188,17 @@
 1122.1.1 = {
 	holder = 73 # Baerovus
 }
-1164.1.1 = {
-	holder = 74 # Palaghard I
+1146.1.1 = {
+	holder = 9300 # Eltrym Drauthglas
 }
-1187.1.1 = {
-	holder = 75 # Pryntaler
+1202.1.1 = {
+	holder = 9305 # Jalalla Draugthglas
 }
-1210.1.1 = {
-	holder = 76 # Dhalmass
+1232.1.1 = {
+	holder = 9309 # Ormarra Draugthglas
 }
-1227.1.1 = {
+1241.1.1 = {
+	# Reverts back to crown as no further history available.
 	holder = 77 # Palaghard II
 }
 1261.1.1 = {
