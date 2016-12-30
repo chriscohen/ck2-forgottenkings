@@ -1,0 +1,90 @@
+# ORTHWOOD
+# Range 11100-11199
+
+11100 = {
+	name = Nelnar
+	dynasty = 201058
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1191.1.1 = {
+		birth = yes
+	}
+	1208.1.1 = {
+		add_spouse = 900058 # Freeyel
+	}
+	1210.1.1 = {
+		employer = 76 # Dhalmass Obarskyr
+	}
+	1227.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 11101 # Nars
+		}
+	}
+}
+11101 = {
+	name = Nars
+	dynasty = 201058
+	father = 11100 # Nelnar
+	mother = 900058 # Freeyel
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1209.1.1 = {
+		birth = yes
+	}
+	1227.1.3 = {
+		effect = {
+			k_cormyr = {
+				holder_scope = {
+					ROOT = {
+						imprison = PREV
+						set_character_flag = captured_in_battle
+					}
+				}
+			}
+		}
+	}
+	1240.1.1 = { # Estimate
+		death = {
+			death_reason = death_dungeon
+		}
+	}
+}
+11102 = {
+	name = Taeronissa
+	female = yes
+	dynasty = 201058
+	father = 11100 # Nelnar
+	mother = 900058 # Freeyel
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1211.1.1 = { # Estimate
+		birth = yes
+	}
+	1281.1.1 = { # Estimate
+		death = yes
+	}
+}
+11103 = {
+	name = Imroserel
+	female = yes
+	dynasty = 201058
+	father = 11100 # Nelnar
+	mother = 900058 # Freeyel
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1213.1.1 = { # Estimate
+		birth = yes
+	}
+	1272.1.1 = { # Estimate
+		death = yes
+	}
+}

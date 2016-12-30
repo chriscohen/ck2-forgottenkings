@@ -34,3 +34,17 @@
 		death = yes
 	}
 }
+3502 = {
+	name = Beldarm
+	dynasty = 201004
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1169.1.1 = {
+		birth = yes
+	}
+	1235.1.1 = {
+		death = yes
+	}
+}

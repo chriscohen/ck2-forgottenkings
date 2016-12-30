@@ -1,0 +1,19 @@
+# ROARINGHORN
+# Range 10900-10999
+
+10900 = {
+	name = Tharim
+	dynasty = 201056
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = gregarious
+	
+	1185.1.1 = {
+		birth = yes
+	}
+	1227.1.1 = {
+		death = yes
+	}
+}

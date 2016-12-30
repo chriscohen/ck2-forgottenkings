@@ -460,11 +460,11 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Aiken Alaphondar Alin Althallan Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
-			Baerauble Baergast Baern Baert Barad Barandos Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
+			Adris Aiken Alaphondar Alin Althallan Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
+			Baerauble Baergast Baern Baert Barad Barandos Beldarm Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Chanthar Cole Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
-			Edwin Eldur Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
+			Edwin Elbryn Eldur Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
 			Falzo Faril Filani Finder Florin Foril Fortney Frefford
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
@@ -473,12 +473,12 @@ human = {
 			Kae Kallimar Keolan Kleef Krohn
 			Landon Larak Lareth Londal Lothan
 			Manarech Mark Marthin Melder Mhaernos Mondar Morligul Moss Mulcaster
-			Naeryk
-			Obraerl Obrynn Ogden Ohlmer Ondrin Oric Ordmann Orm Ormion Ortwin
+			Naeryk Nars Nelnar
+			Obraerl Obrynn Ogden Ohlmer Ondrin Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Pyramus
 			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Riley Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Staephon
-			Tarmel Tenshorn Thalance Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
+			Tarmel Tenshorn Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
 			Umbarl
 			Vorik
 			Warved Wohl
@@ -486,14 +486,14 @@ human = {
 			Yarjack York
 		}
 		female_names = {
-			Aceeta Adenia Aglara Alazne Albhaera Alusair Amalee Amarsa Amber Ammaratha Ashala Austa
+			Aceeta Adenia Aglara Alazne Albhaera Alusair Alvandira Amalee Amarsa Amber Ammaratha Ashala Austa
 			Calty Carissa Catha Cinda Connel Constancia
 			Dalestra Dove
 			Earilde Eleanor Elestra Emrylara
-			Florin
+			Florin Freeyel
 			Gaylyn Ghaunyl Glathra Gorloun
 			Helindra Holly
-			Icuara Ileeyra Ileira Illistyl Islif Iyrytharna
+			Icuara Ileeyra Ileira Illistyl Imroserel Islif Iyrytharna
 			Jalalla Jalassra Janet Jasanna Jenmic Julia
 			Katriana Klaire
 			Lamala Laspeera Leah Leona Linnese Lorelei
@@ -503,7 +503,7 @@ human = {
 			Pella Pheirauze
 			Rhyndaera
 			Saha Sarah Shaerl Shara Shayla Sima Sojourner Solatha Steele Storm
-			Talantra Tanalasta Taney Tara Threena Tisha
+			Taeronissa Talantra Tanalasta Taney Tara Threena Tisha
 			Varauna Veras Vindala
 			Yolara
 			Zarova

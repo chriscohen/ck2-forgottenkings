@@ -36,3 +36,25 @@
 		death = yes
 	}
 }
+8102 = {
+	name = Ardagast
+	dynasty = 201032
+	
+	religion = catholic
+	culture = cormyrean
+	
+	dna="bhjdf0cg0b0"
+	properties="ej0fbf00000000"
+	
+	trait = tough_soldier
+	
+	1187.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		employer = 76 # Dhalmass Obarskyr
+	}
+	1246.1.1 = {
+		death = yes
+	}
+}

@@ -94,3 +94,47 @@
 		death = yes
 	}
 }
+1505 = {
+	# Dragon 281 p.77
+	name = Auleethaea
+	female = yes
+	dynasty = 201002
+	
+	religion = catholic
+	culture = cormyrean
+	
+	dna="acdg00fk0a0"
+	properties="dk0c0k00000000"
+	
+	1176.1.1 = { # Estimate
+		birth = yes
+	}
+	1187.1.1 = {
+		# Lady in waiting to Queen Alvandira
+		employer = 75 # Pryntaler Obarskyr
+	}
+	1210.1.1 = {
+		employer = 0
+	}
+	1264.1.1 = { # Estimate
+		death = yes
+	}
+}
+1506 = {
+	# Dragon 281 p.77
+	name = Orngrym
+	dynasty = 201002
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = tough_soldier
+	trait = lustful
+	
+	1196.1.1 = {
+		birth = yes
+	}
+	1249.1.1 = {
+		death = yes
+	}
+}

@@ -100,5 +100,9 @@
 # 10600  - 10699    Silversmith
 # 10700  - 10799    Dimswart
 # 10800  - 10899    Huntsilver
+# 10900  - 10999    Roaringhorn
+# 11000  - 11099    Scatterstars
+# 11100  - 11199    Orthwood
+# 11200  - 11299    Uleeyon
 #
 # 900000 - 999999 Lowborn

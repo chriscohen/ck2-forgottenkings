@@ -960,3 +960,20 @@
 		death = yes
 	}
 }
+900058 = {
+	name = Freeyel
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1192.1.1 = { # Estimate
+		birth = yes
+	}
+	1208.1.1 = {
+		add_spouse = 11100 # Nelnar Orthwood
+	}
+	1256.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -1263,6 +1263,12 @@
 	religion = catholic
 	culture = cormyrean
 	
+	dna="b0jd000c0a0"
+    properties="0j0gdf00000000"
+	
+	trait = brilliant_strategist
+	trait = brawny
+	
 	1186.1.1 = {
 		birth = yes
 	}

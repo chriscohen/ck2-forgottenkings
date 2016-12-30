@@ -1,0 +1,22 @@
+# ULEEYON
+# Range 11200-11299
+
+11200 = {
+	name = Bardanther
+	dynasty = 201059
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = schemer
+	
+	1177.1.1 = {
+		birth = yes
+	}
+	1210.1.1 = {
+		employer = 76 # Dhalmass Obarskyr
+	}
+	1226.1.1 = { # Estimate
+		death = yes
+	}
+}
