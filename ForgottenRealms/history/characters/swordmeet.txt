@@ -1,0 +1,21 @@
+# SWORDMEET
+# Range 10300-10399
+
+10300 = {
+	name = Tara
+	female = yes
+	dynasty = 201050
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1241.1.1 = { # Estimate
+		birth = yes
+	}
+	1263.1.1 = {
+		add_spouse = 9529 # Gould III Wyvernspur
+	}
+	1291.1.1 = { # Estimate
+		death = yes
+	}
+}

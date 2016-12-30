@@ -1,0 +1,21 @@
+# RIVER
+# Range 10100-10199
+
+10100 = {
+	name = Taney
+	female = yes
+	dynasty = 201048
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1173.1.1 = { # Estimate
+		birth = yes
+	}
+	1194.1.1 = {
+		add_spouse = 9523 # Riley Wyvernspur
+	}
+	1219.1.1 = { # Estimate
+		death = yes
+	}
+}

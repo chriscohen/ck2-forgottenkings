@@ -1,0 +1,21 @@
+# SILVERSMITH
+# Range 10600-10699
+
+10600 = {
+	name = Mazey
+	female = yes
+	dynasty = 201053
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1317.1.1 = { # Estimate
+		birth = yes
+	}
+	1336.1.1 = { # Estimate
+		add_spouse = 9540 # Piper Wyvernspur
+	}
+	1365.1.1 = { # Estimate
+		death = yes
+	}
+}

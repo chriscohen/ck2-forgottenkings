@@ -1,0 +1,18 @@
+# HAWKS
+# Range 10200-10299
+
+10200 = {
+	name = Gorta
+	female = yes
+	dynasty = 201049
+	
+	1198.1.1 = { # Estimate
+		birth = yes
+	}
+	1219.1.1 = {
+		add_spouse = 9524 # Moss Wyvernspur
+	}
+	1254.1.1 = { # Estimate
+		death = yes
+	}
+}

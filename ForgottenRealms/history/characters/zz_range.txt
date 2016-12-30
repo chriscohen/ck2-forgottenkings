@@ -86,5 +86,18 @@
 # 9200   - 9299     Crownsilver
 # 9300   - 9399     Drauthglas
 # 9400   - 9499     Jarthoon
+# 9500   - 9599     Wyvernspur
+# 9600   - 9699     Larkspar
+# 9700   - 9799     Winter
+# 9800   - 9899     Sweetwater
+# 9900   - 9999     Guildstaff
+# 10000  - 10099    Taper
+# 10100  - 10199    River
+# 10200  - 10299    Hawks
+# 10300  - 10399    Swordmeet
+# 10400  - 10499    Tolbin
+# 10500  - 10599    Swordsong
+# 10600  - 10699    Silversmith
+# 10700  - 10799    Dimswart
 #
 # 900000 - 999999 Lowborn

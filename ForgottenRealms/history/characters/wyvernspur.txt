@@ -1,0 +1,857 @@
+# WYVERNSPUR
+# 9500-9599
+
+9500 = {
+	name = Paton
+	dynasty = 201042
+	
+	religion = catholic
+	culture = cormyrean
+	
+	951.1.1 = {
+		birth = yes
+	}
+	978.1.1 = {
+		add_spouse = 9600 # Jasanna Larkspar
+	}
+	1001.1.1 = {
+		death = yes
+	}
+}
+9501 = {
+	name = Gould # Gould I
+	dynasty = 201042
+	father = 9500 # Paton
+	mother = 9600 # Jasanna Larkspar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	981.1.1 = {
+		birth = yes
+	}
+	1003.1.1 = {
+		add_spouse = 9700 # Amalee Winter
+	}
+	1053.1.1 = {
+		death = yes
+	}
+}
+9502 = {
+	name = Andra # 2nd child of Paton / Jasanna Larkspar
+	female = yes
+	dynasty = 201042
+	father = 9500 # Paton
+	mother = 9600 # Jasanna Larkspar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	983.1.1 = { # Estimate
+		birth = yes
+	}
+	1041.1.1 = { # Estimate
+		death = yes
+	}
+}
+9503 = {
+	name = Gerrin
+	dynasty = 201042
+	father = 9501 # Gould I
+	mother = 9700 # Amalee Winter
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1005.1.1 = {
+		birth = yes
+	}
+	1031.1.1 = {
+		add_spouse = 900050 # Maritha of Mistledale
+	}
+	1070.1.1 = {
+		death = yes
+	}
+}
+9504 = {
+	name = Finder
+	dynasty = 201042
+	father = 9501 # Gould I
+	mother = 9700 # Amalee Winter
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1006.1.1 = { # Estimate
+		birth = yes
+	}
+	1069.1.1 = { # Estimate
+		death = yes # Became deity, but can't really represent that
+	}
+}
+9505 = {
+	name = Sarah
+	female = yes
+	dynasty = 201042
+	father = 9503 # Gerrin
+	mother = 900050 # Maritha of Mistledale
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1032.1.1 = { # Estimate
+		birth = yes
+	}
+	1091.1.1 = { # Estimate
+		death = yes
+	}
+}
+9506 = {
+	name = Aiken
+	dynasty = 201042
+	father = 9503 # Gerrin
+	mother = 900050 # Maritha of Mistledale
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = shy
+	
+	1033.1.1 = {
+		birth = yes
+	}
+	1064.1.1 = {
+		add_spouse = 9800 # Cinda Sweetwater
+	}
+	1087.1.1 = {
+		death = yes
+	}
+}
+9507 = {
+	name = Linnese
+	female = yes
+	dynasty = 201042
+	father = 9503 # Gerrin
+	mother = 900050 # Maritha of Mistledale
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1034.1.1 = { # Estimate
+		birth = yes
+	}
+	1072.1.1 = { # Eatimate
+		death = yes
+	}
+}
+9508 = {
+	name = Gould # Gould II
+	dynasty = 201042
+	father = 9506 # Aiken
+	mother = 9800 # Cinda Sweetwater
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1065.1.1 = {
+		birth = yes
+	}
+	1089.1.1 = { # Estimate
+		add_spouse = 3501 # Connel Truesilver
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+9509 = {
+	name = Leah
+	female = yes
+	dynasty = 201042
+	father = 9506 # Aiken
+	mother = 9800 # Cinda Sweetwater
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1066.1.1 = { # Estimate
+		birth = yes
+	}
+	1109.1.1 = { # Estimate
+		death = yes
+	}
+}
+9510 = {
+	name = Carissa
+	female = yes
+	dynasty = 201042
+	father = 9508 # Gould II
+	mother = 3501 # Connel Truesilver
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1090.1.1 = {
+		birth = yes
+	}
+	1139.1.1 = { # Estimate
+		death = yes
+	}
+}
+9511 = {
+	name = Krohn
+	dynasty = 201042
+	father = 9508 # Gould II
+	mother = 3501 # Connel Truesilver
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1091.1.1 = {
+		birth = yes
+	}
+	1110.1.1 = {
+		add_spouse = 9900 # Holly Guildstaff
+	}
+	1141.1.1 = {
+		death = yes
+	}
+}
+9512 = {
+	name = Rankin
+	dynasty = 201042
+	father = 9508 # Gould II
+	mother = 3501 # Connel Truesilver
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1095.1.1 = {
+		birth = yes
+	}
+	1114.1.1 = { # Estimate
+		add_spouse = 900051 # Lise
+	}
+	1165.1.1 = {
+		death = yes
+	}
+}
+9513 = {
+	name = York
+	dynasty = 201042
+	father = 9508 # Gould II
+	mother = 3501 # Connel Truesilver
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1097.1.1 = { # Estimate
+		birth = yes
+	}
+	1117.1.1 = {
+		add_spouse = 9701 # Shara Winter
+	}
+	1156.1.1 = { # Estimate
+		death = yes
+	}
+}
+9514 = {
+	name = Sojourner
+	female = yes
+	dynasty = 201042
+	father = 9511 # Krohn
+	mother = 9900 # Holly Guildstaff
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1111.1.1 = {
+		birth = yes
+	}
+	1196.1.1 = {
+		death = yes
+	}
+}
+9515 = {
+	name = Piper
+	dynasty = 201042
+	father = 9512 # Rankin
+	mother = 900051 # Lise
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1115.1.1 = {
+		birth = yes
+	}
+	1135.1.1 = { # Estimate
+		add_spouse = 900052 # Glenda of Selune
+	}
+	1175.1.1 = {
+		death = yes
+	}
+}
+9516 = {
+	name = Grevor
+	dynasty = 201042
+	father = 9512 # Rankin
+	mother = 900051 # Lise
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1117.1.1 = { # Estimate
+		birth = yes
+	}
+	1135.1.1 = {
+		add_spouse = 900053 # Veras of Arabel
+	}
+	1172.1.1 = { # Estimate
+		death = yes
+	}
+}
+9517 = {
+	name = Catha
+	female = yes
+	dynasty = 201042
+	father = 9515 # Piper
+	mother = 900052 # Glenda of Selune
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1136.1.1 = { # Estimate
+		birth = yes
+	}
+	1181.1.1 = { # Estimate
+		death = yes
+	}
+}
+9518 = {
+	name = Sherda
+	dynasty = 201042
+	father = 9515 # Piper
+	mother = 900052 # Glenda of Selune
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1141.1.1 = {
+		birth = yes
+	}
+	1170.1.1 = {
+		add_spouse = 900054 # Marge of Suzail
+	}
+	1211.1.1 = {
+		death = yes
+	}
+}
+9519 = {
+	name = Amalee
+	female = yes
+	dynasty = 201042
+	father = 9516 # Grevas
+	mother = 900053 # Veras of Arabel
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1136.1.1 = { # Estimate
+		birth = yes
+	}
+	1138.1.1 = { # Estimate
+		death = yes
+	}
+}
+9520 = {
+	name = Sarah
+	female = yes
+	dynasty = 201042
+	father = 9516 # Grevas
+	mother = 900053 # Veras of Arabel
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1137.1.1 = { # Estimate
+		birth = yes
+	}
+	1172.1.1 = { # Estimate
+		death = yes
+	}
+}
+9521 = {
+	name = Jenmic
+	female = yes # Assumption
+	dynasty = 201042
+	father = 9516 # Grevas
+	mother = 900053 # Veras of Arabel
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1138.1.1 = { # Estimate
+		birth = yes
+	}
+	1212.1.1 = { # Estimate
+		death = yes
+	}
+}
+9522 = {
+	name = Krohn # Krohn II
+	dynasty = 201042
+	father = 9518 # Sherda
+	mother = 900054 # Marge of Suzail
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1171.1.1 = {
+		birth = yes
+	}
+	1192.1.1 = {
+		add_spouse = 10000 # Janet Taper
+	}
+	1226.1.1 = {
+		death = yes
+	}
+}
+9523 = {
+	name = Riley
+	dynasty = 201042
+	father = 9518 # Sherda
+	mother = 900054 # Marge of Suzail
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1172.1.1 = { # Estimate
+		birth = yes
+	}
+	1194.1.1 = {
+		add_spouse = 10100 # Taney River
+	}
+	1220.1.1 = { # Estimate
+		death = yes
+	}
+}
+9524 = {
+	name = Moss
+	dynasty = 201042
+	father = 9522 # Krohn II
+	mother = 10000 # Janet Taper
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1193.1.1 = {
+		birth = yes
+	}
+	1219.1.1 = {
+		add_spouse = 10200 # Gorta Hawks
+	}
+	1243.1.1 = {
+		death = yes
+	}
+}
+9525 = {
+	name = Mark
+	dynasty = 201042
+	father = 9522 # Krohn II
+	mother = 10000 # Janet Taper
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1194.1.1 = { # Estimate
+		birth = yes
+	}
+	1211.1.1 = { # Estimate
+		add_spouse = 9526 # Sima
+	}
+	1247.1.1 = { # Estimate
+		death = yes
+	}
+}
+9526 = {
+	name = Sima
+	female = yes
+	dynasty = 201042
+	father = 9523 # Riley
+	mother = 10100 # Taney River
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1195.1.1 = {
+		birth = yes
+	}
+	1211.1.1 = {
+		add_spouse = 9525 # Mark
+	}
+	1271.1.1 = {
+		death = yes
+	}
+}
+9527 = {
+	name = Stesea
+	female = yes
+	dynasty = 201042
+	father = 9525 # Mark
+	mother = 9526 # Sima
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1212.1.1 = { # Estimate
+		birth = yes
+	}
+	1279.1.1 = { # Estimate
+		death = yes
+	}
+}
+9528 = {
+	name = Franjam # Male, assumed
+	dynasty = 201042
+	father = 9525 # Mark
+	mother = 9526 # Sima
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1214.1.1 = { # Estimated
+		birth = yes
+	}
+	1246.1.1 = { # Estimated
+		death = yes
+	}
+}
+9529 = {
+	name = Gould # Gould III
+	dynasty = 201042
+	father = 9524 # Moss
+	mother = 10200 # Gorta
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1220.1.1 = {
+		birth = yes
+	}
+	1263.1.1 = { # Estimate
+		add_spouse = 10300 # Tara Swordmeet
+	}
+	1280.1.1 = {
+		death = yes
+	}
+}
+9530 = {
+	name = Gerrin # Gerrin II
+	dynasty = 201042
+	father = 9524 # Moss
+	mother = 10200 # Gorta
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1222.1.1 = { # Estimate
+		birth = yes
+	}
+	1246.1.1 = {
+		add_spouse = 10400 # Callum Tolbin
+	}
+	1279.1.1 = { # Estimate
+		death = yes
+	}
+}
+9531 = {
+	name = Eswip
+	female = yes
+	dynasty = 201042
+	father = 9529 # Gould III
+	mother = 10300 # Tara Swordmeet
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1264.1.1 = {
+		birth = yes
+	}
+	1280.1.1 = {
+		add_spouse = 9532 # Bender
+	}
+	1306.1.1 = {
+		death = yes
+	}
+}
+9532 = {
+	name = Bender
+	dynasty = 201042
+	father = 9530 # Gerrin II
+	mother = 10400 # Callum Tolbin
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1247.1.1 = {
+		birth = yes
+	}
+	1280.1.1 = {
+		add_spouse = 9531 # Eswip
+	}
+	1295.1.1 = {
+		death = yes
+	}
+}
+9533 = {
+	name = Barad
+	dynasty = 201042
+	father = 9530 # Gerrin II
+	mother = 10400 # Callum Tolbin
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1252.1.1 = { # Estimate
+		birth = yes
+	}
+	1284.1.1 = { # Estimate
+		add_spouse = 900055 # Austa of Suzail
+	}
+}
+9534 = {
+	name = Grever
+	dynasty = 201042
+	father = 9532 # Bender
+	mother = 9531 # Eswip
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1283.1.1 = {
+		birth = yes
+	}
+	1301.1.1 = {
+		add_spouse = 9537 # Tisha
+	}
+	1322.1.1 = {
+		death = yes
+	}
+}
+9535 = {
+	name = Dorath
+	dynasty = 201042
+	father = 9532 # Bender
+	mother = 9531 # Eswip
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1281.1.1 = {
+		birth = yes
+	}
+	1373.1.1 = { # Estimate
+		death = yes
+	}
+}
+9536 = {
+	name = Fortney
+	dynasty = 201042
+	father = 9532 # Bender
+	mother = 9531 # Eswip
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1293.1.1 = {
+		birth = yes
+	}
+	1318.1.1 = {
+		add_spouse = 10500 # Calty Swordsong
+	}
+	1325.1.1 = {
+		death = yes
+	}
+}
+9537 = {
+	name = Tisha
+	female = yes
+	dynasty = 201042
+	father = 9533 # Barad
+	mother = 900055 # Austa of Suzail
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1285.1.1 = { # Estimate
+		birth = yes
+	}
+	1301.1.1 = {
+		add_spouse = 9534 # Grever
+	}
+	1342.1.1 = { # Estimate
+		death = yes
+	}
+}
+9538 = {
+	name = Cole
+	dynasty = 201042
+	father = 9536 # Fortney
+	mother = 10500 # Calty Swordsong
+
+	religion = catholic
+	culture = cormyrean
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1334.1.1 = {
+		add_spouse = 900056 # Bette Shar of Suzail
+	}
+	1343.1.1 = {
+		death = yes
+	}
+}
+9539 = {
+	name = Wohl
+	dynasty = 201042
+	father = 9534 # Grever
+	mother = 9537 # Tisha
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		add_spouse = 9702 # Lamala Winter
+	}
+	1352.1.1 = {
+		death = yes
+	}
+}
+9540 = {
+	name = Piper
+	dynasty = 201042
+	father = 9534 # Grever
+	mother = 9537 # Tisha
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1303.1.1 = {
+		birth = yes
+	}
+	1336.1.1 = { # Estimate
+		add_spouse = 10600 # Mazey Silversmith
+	}
+	1355.1.1 = {
+		death = yes
+	}
+}
+9541 = {
+	name = Drone
+	dynasty = 201042
+	father = 9533 # Barad
+	mother = 900055 # Austa of Suzail
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1300.1.1 = {
+		birth = yes
+	}
+	1381.1.1 = { # Estimate
+		death = yes
+	}
+}
+9542 = {
+	name = Giogioni
+	dynasty = 201042
+	father = 9538 # Cole
+	mother = 900056 # Bette Shar of Suzail
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1335.1.1 = {
+		birth = yes
+	}
+	1401.1.1 = { # Estimate
+		death = yes
+	}
+}
+9543 = {
+	name = Frefford
+	dynasty = 201042
+	father = 9539 # Wohl
+	mother = 9702 # Lamala Winter
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1336.1.1 = {
+		birth = yes
+	}
+	1357.1.1 = {
+		add_spouse = 10700 # Gaylyn Dimswart
+	}
+	1398.1.1 = { # Estimate
+		death = yes
+	}
+}
+9544 = {
+	name = Steele
+	female = yes # Assumed
+	dynasty = 201042
+	father = 9540 # Piper
+	mother = 10600 # Mazey Silversmith
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	1410.1.1 = { # Estimate
+		death = yes
+	}
+}
+9545 = {
+	name = Julia
+	female = yes # Assumed
+	dynasty = 201042
+	father = 9540 # Piper
+	mother = 10600 # Mazey Silversmith
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = sickly
+	
+	1340.1.1 = {
+		birth = yes
+	}
+	1342.1.1 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+9546 = {
+	name = "Amber Leona"
+	female = yes
+	dynasty = 201042
+	father = 9543 # Frefford
+	mother = 10700 # Gaylyn Dimswart
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1358.1.1 = {
+		birth = yes
+	}
+	1420.1.1 = { # Estimate
+		death = yes
+	}
+}

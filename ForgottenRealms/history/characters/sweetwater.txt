@@ -1,0 +1,21 @@
+# SWEETWATER
+# 9800-9899
+
+9800 = {
+	name = Cinda
+	female = yes
+	dynasty = 201045
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1043.1.1 = { # Estimate
+		birth = yes
+	}
+	1064.1.1 = {
+		add_spouse = 9506 # Aiken Wyvernspur
+	}
+	1101.1.1 = { # Estimate
+		death = yes
+	}
+}

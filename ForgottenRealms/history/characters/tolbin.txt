@@ -1,0 +1,18 @@
+# TOLBIN
+# Range 10400-10499
+
+10400 = {
+	name = Callum
+	female = yes
+	dynasty = 201051
+	
+	1226.1.1 = { # Estimate
+		birth = yes
+	}
+	1246.1.1 = {
+		add_spouse = 9530 # Gerrin II Wyvernspur
+	}
+	1298.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -1,0 +1,21 @@
+# SWORDSONG
+# Range 10500-10599
+
+10500 = {
+	name = Calty
+	female = yes
+	dynasty = 201052
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1301.1.1 = { # Estimate
+		birth = yes
+	}
+	1318.1.1 = { # Estimate
+		add_spouse = 9536 # Fortney Wyvernspur
+	}
+	1343.1.1 = { # Estimate
+		death = yes
+	}
+}

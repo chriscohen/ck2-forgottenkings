@@ -1,0 +1,21 @@
+# TAPER
+# Range 10000-10099
+
+10000 = {
+	name = Janet
+	female = yes
+	dynasty = 201047
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1172.1.1 = { # Estimate
+		birth = yes
+	}
+	1192.1.1 = {
+		add_spouse = 9522 # Krohn II Wyvernspur
+	}
+	1229.1.1 = { # Estimate
+		death = yes
+	}
+}

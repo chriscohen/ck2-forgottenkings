@@ -1,0 +1,21 @@
+# DIMSWART
+# Range 10700-10799
+
+10700 = {
+	name = Gaylyn
+	female = yes
+	dynasty = 201054
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1357.1.1 = {
+		add_spouse = 9543 # Frefford Wyvernspur
+	}
+	1377.1.1 = {
+		death = yes
+	}
+}

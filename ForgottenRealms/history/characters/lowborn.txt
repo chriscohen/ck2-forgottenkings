@@ -823,3 +823,140 @@
 		death = yes
 	}
 }
+900050 = {
+	name = Maritha # "of Mistledale"
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	1013.1.1 = { # Estimate
+		birth = yes
+	}
+	1031.1.1 = {
+		add_spouse = 9503 # Gerrin Wyvernspur
+	}
+	1060.1.1 = { # Estimate
+		death = yes
+	}
+}
+900051 = {
+	name = Lise
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1095.1.1 = { # Estimate
+		birth = yes
+	}
+	1114.1.1 = { # Estimate
+		add_spouse = 9512 # Rankin Wyvernspur
+	}
+	1139.1.1 = { # Estimate
+		death = yes
+	}
+}
+900052 = {
+	name = Glenda # of Selune
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1119.1.1 = { # Estimate
+		birth = yes
+	}
+	1135.1.1 = { # Estimate
+		add_spouse = 9515 # Piper Wyvernspur
+	}
+	1149.1.1 = { # Estimate
+		death = yes
+	}
+}
+900053 = {
+	name = Veras # of Arabel
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1117.1.1 = {
+		birth = yes
+	}
+	1135.1.1 = {
+		add_spouse = 9516 # Grevor Wyvernspur
+	}
+	1158.1.1 = {
+		death = yes
+	}
+}
+900054 = {
+	name = Marge # of Suzail
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1151.1.1 = { # Estimate
+		birth = yes
+	}
+	1170.1.1 = {
+		add_spouse = 9518 # Sherda Wyvernspur
+	}
+	1209.1.1 = { # Estimate
+		death = yes
+	}
+}
+900055 = {
+	name = Austa # of Suzail
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1266.1.1 = { # Estimate
+		birth = yes
+	}
+	1284.1.1 = { # Estimate
+		add_spouse = 9533 # Barad Wyvernspur
+	}
+	1288.1.1 = { # Estimate
+		death = yes
+	}
+}
+900056 = {
+	name = "Bette Shar" # of Suzail
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1334.1.1 = {
+		add_spouse = 9538 # Cole Wyvernspur
+	}
+	1344.1.1 = {
+		death = yes
+	}
+}
+900057 = {
+	name = Cat
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1340.1.1 = { # Estimate
+		birth = yes
+	}
+	1356.1.1 = {
+		trait = wizard
+		add_spouse = 9542 # Giogioni Wyvernspur
+	}
+	1442.1.1 = { # Estimate
+		death = yes
+	}
+}

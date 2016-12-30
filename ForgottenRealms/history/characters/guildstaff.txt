@@ -1,0 +1,21 @@
+# GUILDSTAFF
+# Range 9900-9999
+
+9900 = {
+	name = Holly
+	female = yes
+	dynasty = 201046
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1085.1.1 = { # Estimate
+		birth = yes
+	}
+	1110.1.1 = {
+		add_spouse = 9511 # Krohn Wyvernspur
+	}
+	1140.1.1 = {
+		death = yes
+	}
+}
