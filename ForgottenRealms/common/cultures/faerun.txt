@@ -461,24 +461,24 @@ human = {
 		
 		male_names = {
 			Adris Aiken Alaphondar Alin Althallan Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
-			Baerauble Baergast Baern Baert Barad Barandos Beldarm Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
+			Baerauble Baergast Baern Baert Barad Barandos Bardanther Beldarm Bhereu Bledryn Blundebel Boris Brace Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Chanthar Cole Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Elbryn Eldur Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
 			Falzo Faril Filani Finder Florin Foril Fortney Frefford
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
-			Hadley Haerldoun Haldos Halston Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
+			Hadley Haerldoun Haldos Halston Harandil Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
 			Ildamoor Irvel
 			Jarlin Jelde Jhaok Juarkin Junstal
 			Kae Kallimar Keolan Kleef Krohn
 			Landon Larak Lareth Londal Lothan
 			Manarech Mark Marthin Melder Mhaernos Mondar Morligul Moss Mulcaster
-			Naeryk Nars Nelnar
-			Obraerl Obrynn Ogden Ohlmer Ondrin Oric Ordmann Orm Ormion Orngrym Ortwin
+			Naeryk Narbreth Nars Nelnar
+			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Pyramus
 			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Riley Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Staephon
-			Tarmel Tenshorn Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
+			Talados Tarmel Tenshorn Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
 			Umbarl
 			Vorik
 			Warved Wohl
