@@ -1,0 +1,38 @@
+# SKATTERHAWK
+# Range 11400-11499
+
+11400 = {
+	name = Brace
+	dynasty = 201061
+	father = 11401 # Narbreth
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1342.1.1 = { # Estimate
+		birth = yes
+	}
+	1358.1.1 = {
+		employer = 900030 # Sthavar
+	}
+	1379.1.1 = { # Estimate
+		death = yes
+	}
+}
+11401 = {
+	name = Narbreth
+	dynasty = 201061
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1321.1.1 = { # Estimate
+		birth = yes
+	}
+	1337.1.1 = {
+		employer = 900030 # Sthavar
+	}
+	1359.1.1 = { # Estimate
+		death = yes
+	}
+}

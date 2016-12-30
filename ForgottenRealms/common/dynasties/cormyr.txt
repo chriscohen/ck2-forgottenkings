@@ -684,3 +684,43 @@
         }
     }
 }
+201061 = {
+	name = Skatterhawk
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 3
+        layer = {
+            texture = 1
+            texture_internal = 7
+            emblem = 22
+            color = 6
+            color = 1
+            color = 6
+        }
+        layer = {
+            texture = 1
+            texture_internal = 9
+            emblem = 0
+            color = 6
+            color = 1
+            color = 6
+        }
+        layer = {
+            texture = 0
+            texture_internal = 19
+            emblem = 0
+            color = 1
+            color = 6
+            color = 6
+        }
+        layer = {
+            texture = 1
+            texture_internal = 2
+            emblem = 22
+            color = 6
+            color = 6
+            color = 6
+        }
+    }
+}

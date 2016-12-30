@@ -105,5 +105,6 @@
 # 11100  - 11199    Orthwood
 # 11200  - 11299    Uleeyon
 # 11300  - 11399    Thundersword
+# 11400  - 11499    Skatterhawk
 #
 # 900000 - 999999 Lowborn
