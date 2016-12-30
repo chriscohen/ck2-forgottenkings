@@ -1,0 +1,21 @@
+# HUNTSILVER
+# Range 10800-10899
+
+10800 = {
+	name = Chanthar
+	dynasty = 201055
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1162.1.1 = {
+		birth = yes
+	}
+	1190.1.1 = { # Estimated
+		# Took a knife to the face for King Pryntaler
+		trait = scarred
+	}
+	1203.1.1 = {
+		death = yes
+	}
+}

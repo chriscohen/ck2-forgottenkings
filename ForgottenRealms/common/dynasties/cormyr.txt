@@ -580,3 +580,19 @@
 	name = Dimswart
 	culture = cormyrean
 }
+201055 = {
+	name = Huntsilver
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 2
+            emblem = 7
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}

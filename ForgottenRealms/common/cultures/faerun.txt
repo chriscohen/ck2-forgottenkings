@@ -462,7 +462,7 @@ human = {
 		male_names = {
 			Adris Aiken Alaphondar Alin Althallan Amnic Andarphisk Andranth Arclath Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Barad Barandos Bhereu Bledryn Blundebel Boris Brezm Broglan Buckman
-			Casplar Chalannos Chansobal Cole Coobert Corleth
+			Casplar Chalannos Chansobal Chanthar Cole Coobert Corleth
 			Danthalus Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Eldur Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Estelner
 			Falzo Faril Filani Finder Florin Foril Fortney Frefford

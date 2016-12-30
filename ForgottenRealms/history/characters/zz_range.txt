@@ -99,5 +99,6 @@
 # 10500  - 10599    Swordsong
 # 10600  - 10699    Silversmith
 # 10700  - 10799    Dimswart
+# 10800  - 10899    Huntsilver
 #
 # 900000 - 999999 Lowborn
