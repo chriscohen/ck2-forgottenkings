@@ -21,8 +21,10 @@
 	}
 }
 3701 = {
+	# We will make Raynaar and Jolithan brothers
 	name = Raynaar
 	dynasty = 201006
+	father = 3707 # Unnamed
 	
 	religion = catholic
 	culture = cormyrean
@@ -46,6 +48,8 @@
 	religion = catholic
 	culture = cormyrean
 	
+	trait = intricate_webweaver
+	
 	1338.1.1 = {
 		birth = yes
 	}
@@ -60,6 +64,8 @@
 	
 	religion = catholic
 	culture = cormyrean
+	
+	trait = ugly
 	
 	1319.1.1 = { # Estimate
 		birth = yes
@@ -86,5 +92,51 @@
 	}
 	1396.1.1 = {
 		add_spouse = 84 # Azoun V Obarskyr
+	}
+}
+3705 = {
+	# Founded of dynasty, circa 1227
+	name = Rhodes
+	dynasty = 201006
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1201.1.1 = { # Estimate
+		birth = yes
+	}
+	1251.1.1 = { # Estimate
+		death = yes
+	}
+}
+3706 = {
+	# We know he had 2 daughters but no names, no mother, not worth
+	# including
+	name = Jolithan
+	dynasty = 201007
+	father = 3707 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1317.1.1 = { # Estimate
+		birth = yes
+	}
+	1362.1.1 = { # Estimate, dead before ~1370
+		death = yes
+	}
+}
+3707 = {
+	name = Unnamed # Acts as father to make Jolithan and Raynaar brothers
+	dynasty = 201007
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1289.1.1 = { # Estimate
+		birth = yes
+	}
+	1331.1.1 = { # Estimate
+		death = yes
 	}
 }
