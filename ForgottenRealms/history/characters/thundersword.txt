@@ -48,6 +48,10 @@
 	religion = catholic
 	culture = cormyrean
 	
+	trait = lustful
+	trait = ambitious
+	trait = fortune_builder
+	
 	1338.1.1 = {
 		birth = yes
 	}
