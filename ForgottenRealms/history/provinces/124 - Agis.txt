@@ -1,0 +1,13 @@
+# County Title
+title = c_agis
+
+# Settlements
+max_settlements = 3
+
+b_qian = castle
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

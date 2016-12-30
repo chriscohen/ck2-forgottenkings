@@ -1,0 +1,13 @@
+# County Title
+title = c_nykkar_isle
+
+# Settlements
+max_settlements = 1
+
+b_nykkar_isle = castle
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

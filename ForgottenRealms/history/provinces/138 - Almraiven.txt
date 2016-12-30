@@ -1,0 +1,13 @@
+# County Title
+title = c_almraiven
+
+# Settlements
+max_settlements = 2
+
+b_almraiven = castle
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

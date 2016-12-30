@@ -1,0 +1,13 @@
+# County Title
+title = c_west_marching_mountains
+
+# Settlements
+max_settlements = 2
+
+b_st_rucir = temple
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

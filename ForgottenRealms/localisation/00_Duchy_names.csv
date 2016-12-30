@@ -1,8 +1,14 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_agis;Agis;;;;;;;;;;;;;x
+d_agis_adj;Agissan;;;;;;;;;;;;;x
+d_alamir;Alamir;;;;;;;;;;;;;x
+d_alamir_adj;Alamiran;;;;;;;;;;;;;x
 d_archendale;Archendale;;;;;;;;;;;;;x
 d_archendale_adj;Archendalen;;;;;;;;;;;;;x
 d_battledale;Battledale;;;;;;;;;;;;;x
 d_battledale_adj;Battledalen;;;;;;;;;;;;;x
+d_calim_desert;Calim Desert;;;;;;;;;;;;;x
+d_calim_desert_adj;Calim Desertian;;;;;;;;;;;;;x
 d_callidyrr;Callidyrr;;;;;;;;;;;;;x
 d_callidyrr_adj;Callidyrran;;;;;;;;;;;;;x
 d_cormyr;Cormyr;Cormyr;Cormyr;;Cormyr;;;;;;;;;x
@@ -41,6 +47,8 @@ d_norheim;Norheim Isles;;;;;;;;;;;;;x
 d_norheim_adj;Norheimer;;;;;;;;;;;;;x
 d_norland;Norland;;;;;;;;;;;;;x
 d_norland_adj;Norlander;;;;;;;;;;;;;x
+d_old_coramshan;Old Coramshan;;;;;;;;;;;;;x
+d_old_coramshan_adj;Old Coramshanian;;;;;;;;;;;;;x
 d_oman;Oman;;;;;;;;;;;;;x
 d_oman_adj;Omanian;;;;;;;;;;;;;x
 d_ordulin;Ordulin;;;;;;;;;;;;;x

@@ -756,3 +756,19 @@
         }
     }
 }
+201063 = {
+	name = Illance
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 4
+            emblem = 9
+            color = 6
+            color = 1
+            color = 6
+        }
+    }
+}

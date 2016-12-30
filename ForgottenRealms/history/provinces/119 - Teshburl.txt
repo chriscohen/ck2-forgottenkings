@@ -1,0 +1,13 @@
+# County Title
+title = c_teshburl
+
+# Settlements
+max_settlements = 1
+
+b_teshburl = castle
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

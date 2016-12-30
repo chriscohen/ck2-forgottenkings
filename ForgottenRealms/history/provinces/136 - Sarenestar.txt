@@ -1,0 +1,13 @@
+# County Title
+title = c_sarenestar
+
+# Settlements
+max_settlements = 3
+
+b_myth_dyraalis = castle
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

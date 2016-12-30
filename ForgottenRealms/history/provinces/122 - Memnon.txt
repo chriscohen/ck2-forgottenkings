@@ -1,0 +1,13 @@
+# County Title
+title = c_memnon
+
+# Settlements
+max_settlements = 2
+
+b_memnon = castle
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

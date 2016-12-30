@@ -1,0 +1,13 @@
+# County Title
+title = c_eyesvale
+
+# Settlements
+max_settlements = 1
+
+b_st_marriam = temple
+
+# Misc
+culture = calishite
+religion = sunni
+
+#History

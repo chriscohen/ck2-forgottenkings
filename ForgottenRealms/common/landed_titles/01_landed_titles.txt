@@ -1,12 +1,283 @@
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
 
 # KINGDOMS
+k_calimshan = {
+	color = { 86 216 60 }
+	color2 = { 255 255 255 }
+	
+	capital = 126 # c_calimport
+	culture = calishite
+	
+	d_calim_desert = {
+		color = { 86 216 60 }
+		color2 = { 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 119
+					province_id = 120
+					province_id = 121
+					province_id = 122
+					province_id = 123
+					province_id = 125
+					province_id = 126
+				}
+			}
+		}
+		
+		capital = 126 # c_calimport
+		
+		c_teshburl = {
+			color = { 45 124 30 }
+			color2 = { 255 255 255 }
+			
+			b_teshburl = {
+			}
+		}
+		c_west_calim_desert = {
+			color = { 125 242 103 }
+			color2 = { 255 255 255 }
+			
+			b_dashadjen = {
+			}
+		}
+		c_saint_noradnar = {
+			color = { 97 124 92 }
+			color2 = { 255 255 255 }
+			
+			b_saint_noradnar = {
+			}
+		}
+		c_memnon = {
+			color = { 28 102 13 }
+			color2 = { 255 255 255 }
+			
+			b_memnon = {
+			}
+			b_memnonnar = {
+			}
+		}
+		c_teshyll = {
+			color = { 23 72 14 }
+			color2 = { 255 255 255 }
+			
+			b_teshyll = {
+			}
+			b_st_amahl = {
+			}
+		}
+		c_east_calim_desert = {
+			color = { 116 231 91 }
+			color2 = { 255 255 255 }
+			
+			b_faeressar = {
+			}
+		}
+		c_calimport = {
+			color = { 86 216 60 }
+			color2 = { 255 255 255 }
+			
+			b_calimport = {
+			}
+			b_dalabad = {
+			}
+		}
+	}
+	d_agis = {
+		color={ 42 89 33 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 124
+					province_id = 127
+					province_id = 128
+					province_id = 130
+				}
+			}
+		}
+		capital = 130 # c_forest_of_mir
+		
+		c_agis = {
+			color={ 68 204 58 }
+			color2={ 255 255 255 }
+			
+			b_qian = {
+			}
+			b_st_saril = {
+			}
+			b_khanall = {
+			}
+		}
+		c_west_marching_mountains = {
+			color = { 42 89 33 }
+			color2 = { 255 255 255 }
+			
+			b_st_rucir = {
+			}
+			b_st_faelar = {
+			}
+		}
+		c_east_marching_mountains = {
+			color = { 91 153 79 }
+			color2 = { 255 255 255 }
+			
+			b_nykkar_city = {
+			}
+			b_rutawwa = {
+			}
+		}
+		c_forest_of_mir = {
+			color = { 29 170 1 }
+			color2 = { 255 255 255 }
+			
+			b_alisiwhann = {
+			}
+			b_vorpal_tower = {
+			}
+			b_magis_tor = {
+			}
+			# Drow settlements
+			b_iskashyoll = {
+				culture = drow
+			}
+			b_dallnothax = {
+				culture= drow
+			}
+			b_holldaybim = {
+				culture = drow
+			}
+		}
+	}
+	d_old_coramshan = {
+		color={ 115 217 111 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 129
+					province_id = 131
+					province_id = 132
+					province_id = 133
+					province_id = 134
+				}
+			}
+		}
+		capital = 132 # c_manshaka
+		
+		c_calim_river = {
+			color={ 95 137 92 }
+			color2={ 255 255 255 }
+			
+			b_keltar = {
+			}
+		}
+		c_old_coramshan = {
+			color = { 41 244 31 }
+			color2 = { 255 255 255 }
+			
+			b_st_taril = {
+			}
+		}
+		c_manshaka = {
+			color = { 98 183 94 }
+			color2 = { 255 255 255 }
+			
+			b_manshaka = {
+			}
+			b_schameder = {
+			}
+		}
+		c_nykkar_isle = {
+			color = { 44 228 35 }
+			color2 = { 255 255 255 }
+			
+			b_nykkar_isle = {
+			}
+		}
+		c_east_calimshan = {
+			color = { 115 217 111 }
+			color2 = { 255 255 255 }
+			
+			b_volothamp = {
+			}
+		}
+	}
+	d_alamir = {
+		color={ 19 67 10 }
+		color2={ 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 135
+					province_id = 136
+					province_id = 137
+					province_id = 138
+					province_id = 139
+				}
+			}
+		}
+		capital = 138 # c_almraiven
+		
+		c_eyesvale = {
+			color={ 153 227 138 }
+			color2={ 255 255 255 }
+			
+			b_st_marriam = {
+			}
+		}
+		c_sarenestar = {
+			color = { 19 67 10 }
+			color2 = { 255 255 255 }
+			
+			b_myth_dyraalis = {
+			}
+			b_skyship_glade = {
+			}
+			b_st_alban = {
+			}
+		}
+		c_spider_swamp = {
+			color = { 43 98 40 }
+			color2 = { 255 255 255 }
+			
+			b_ajhuutal = {
+			}
+		}
+		c_almraiven = {
+			color = { 46 154 22 }
+			color2 = { 255 255 255 }
+			
+			b_almraiven = {
+			}
+			b_st_ihrvyn = {
+			}
+		}
+		c_alamir_mountains = {
+			color = { 143 166 138 }
+			color2 = { 255 255 255 }
+			
+			b_allyns_anvil = {
+			}
+			b_st_fanal = {
+			}
+		}
+	}
+}
 k_cormyr = {
 	color={ 190 26 231 }
 	color2={ 255 255 255 }
 	
 	capital = 17 # c_cormyr
-	culture = irish
+	culture = cormyrean
 	
 	d_the_stonelands = {
 		color={ 139 94 150 }

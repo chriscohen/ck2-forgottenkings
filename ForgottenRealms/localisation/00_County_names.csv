@@ -1,4 +1,10 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_agis;Agis;;;;;;;;;;;;;x
+c_agis_adj;Agissan;;;;;;;;;;;;;x
+c_alamir_mountains;Alamir Mountains;;;;;;;;;;;;;x
+c_alamir_mountains_adj;Alamir Mountainsian;;;;;;;;;;;;;x
+c_almraiven;Almraiven;;;;;;;;;;;;;x
+c_almraiven_adj;Almraivenian;;;;;;;;;;;;;x
 c_arabel;Arabel;;;;;;;;;;;;;x
 c_arabel_adj;Arabellan;;;;;;;;;;;;;x
 c_archendale;Archendale;;;;;;;;;;;;;x
@@ -11,6 +17,10 @@ c_black_mountains;Black Mountains;;;;;;;;;;;;;x
 c_black_mountains_adj;Black Mountainer;;;;;;;;;;;;;x
 c_caftenor;Caftenor;;;;;;;;;;;;;x
 c_caftenor_adj;Caftenoran;;;;;;;;;;;;;x
+c_calim_river;Calim River;;;;;;;;;;;;;x
+c_calim_river_adj;Calim Riverian;;;;;;;;;;;;;x
+c_calimport;Calimport;;;;;;;;;;;;;x
+c_calimport_adj;Calimportian;;;;;;;;;;;;;x
 c_cambro_mountains;Cambro Mountains;;;;;;;;;;;;;x
 c_cambro_mountains_adj;Cambro Mountainer;;;;;;;;;;;;;x
 c_canthrell;Canthrell;;;;;;;;;;;;;x
@@ -31,18 +41,28 @@ c_deepingdale;Deepingdale;;;;;;;;;;;;;x
 c_deepingdale_adj;Deepingdalen;;;;;;;;;;;;;x
 c_dennik;Dennik;;;;;;;;;;;;;x
 c_dennik_adj;Dennikian;;;;;;;;;;;;;x
+c_east_calim_desert;East Calim Desert;;;;;;;;;;;;;x
+c_east_calim_desert_adj;East Calim Desertian;;;;;;;;;;;;;x
+c_east_calimshan;East Calimshan;;;;;;;;;;;;;x
+c_east_calimshan_adj;East Calishite;;;;;;;;;;;;;x
+c_east_marching_mountains;East Marching Mountains;;;;;;;;;;;;;x
+c_east_marching_mountains_adj;East Marching Mountainsian;;;;;;;;;;;;;x
 c_east_oman;East Oman;;;;;;;;;;;;;x
 c_east_oman_adj;East Omanian;;;;;;;;;;;;;x
 c_eastern_marches;Eastern Marches;;;;;;;;;;;;;x
 c_eastern_marches_adj;Eastern Marchian;;;;;;;;;;;;;x
 c_eastern_stormhorns;Eastern Stormhorns;Eastern Stormhorns;Eastern Stormhorns;;Eastern Stormhorns;;;;;;;;;x
 c_eastern_stormhorns_adj;Eastern Stormhorner;;;;;;;;;;;;;x
+c_eyesvale;Eyesvale;;;;;;;;;;;;;x
+c_eyesvale_adj;Eyesvalen;;;;;;;;;;;;;x
 c_fairheight;Fairheight;;;;;;;;;;;;;x
 c_fairheight_adj;Fairheighter;;;;;;;;;;;;;x
 c_featherdale;Featherdale;;;;;;;;;;;;;x
 c_featherdale_adj;Featherdalen;;;;;;;;;;;;;x
 c_flamsterd;Flamsterd;;;;;;;;;;;;;x
 c_flamsterd_adj;Flamsterdian;;;;;;;;;;;;;x
+c_forest_of_mir;Forest of Mir;;;;;;;;;;;;;x
+c_forest_of_mir_adj;Forest of Mirran;;;;;;;;;;;;;x
 c_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 c_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
 c_graygruun;Graygruun;;;;;;;;;;;;;x
@@ -79,8 +99,12 @@ c_lisburnt_mountains;Lisburnt Mountains;;;;;;;;;;;;;x
 c_lisburnt_mountains_adj;Lisburnt Mountainer;;;;;;;;;;;;;x
 c_llorgh;Llorgh;;;;;;;;;;;;;x
 c_llorgh_adj;Llorghan;;;;;;;;;;;;;x
+c_manshaka;Manshaka;;;;;;;;;;;;;x
+c_manshaka_adj;Manshakan;;;;;;;;;;;;;x
 c_marsember;Marsember;;;;;;;;;;;;;x
 c_marsember_adj;Marsembian;;;;;;;;;;;;;x
+c_memnon;Memnon;;;;;;;;;;;;;x
+c_memnon_adj;Memnonni;;;;;;;;;;;;;x
 c_mintarn;Mintarn;;;;;;;;;;;;;x
 c_mintarn_adj;Mintarnan;;;;;;;;;;;;;x
 c_mistledale;Mistledale;;;;;;;;;;;;;x
@@ -97,6 +121,10 @@ c_north_cape;North Cape;;;;;;;;;;;;;x
 c_north_cape_adj;North Caper;;;;;;;;;;;;;x
 c_northern_sembia;Northern Sembia;;;;;;;;;;;;;x
 c_northern_sembia_adj;Northern Sembian;;;;;;;;;;;;;x
+c_nykkar_isle;Nykkar Isle;;;;;;;;;;;;;x
+c_nykkar_isle_adj;Nykkar Islian;;;;;;;;;;;;;x
+c_old_coramshan;Old Coramshan;;;;;;;;;;;;;x
+c_old_coramshan;Old Coramshani;;;;;;;;;;;;;x
 c_orcskill;Orcskill;;;;;;;;;;;;;x
 c_orcskill_adj;Orcskillian;;;;;;;;;;;;;x
 c_ordulin;Ordulin;;;;;;;;;;;;;x
@@ -109,6 +137,10 @@ c_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 c_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 c_saerloon;Saerloon;;;;;;;;;;;;;x
 c_saerloon_adj;Saerloonian;;;;;;;;;;;;;x
+c_saint_noradnar;Saint Noradnar;;;;;;;;;;;;;x
+c_saint_noradnar_adj;Saint Noradnarran;;;;;;;;;;;;;x
+c_sarenestar;Sarenestar;;;;;;;;;;;;;x
+c_sarenestar_adj;Sarenestarran;;;;;;;;;;;;;x
 c_scardale;Scardale;;;;;;;;;;;;;x
 c_scardale_adj;Scardalen;;;;;;;;;;;;;x
 c_selgaunt;Selgaunt;;;;;;;;;;;;;x
@@ -123,6 +155,8 @@ c_skadaurak;Skadaurak;;;;;;;;;;;;;x
 c_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
 c_snowdown;Snowdown;;;;;;;;;;;;;x
 c_snowdown_adj;Snowdownian;;;;;;;;;;;;;x
+c_spider_swamp;Spider Swamp;;;;;;;;;;;;;x
+c_spider_swamp_adj;Spider Swampian;;;;;;;;;;;;;x
 c_stagford;Stagford;;;;;;;;;;;;;x
 c_stagford_adj;Stagforder;;;;;;;;;;;;;x
 c_stirgewick;Stirgewick;;;;;;;;;;;;;x
@@ -135,6 +169,10 @@ c_tasseldale;Tasseldale;;;;;;;;;;;;;x
 c_tasseldale_adj;Tasseldalen;;;;;;;;;;;;;x
 c_ten_towns;Ten-Towns;Ten-Towns;Ten-Towns;;Ten-Towns;;;;;;;;;x
 c_ten_towns_adj;Ten-Townser;;;;;;;;;;;;;x
+c_teshburl;Teshburl;;;;;;;;;;;;;x
+c_teshburl_adj;Teshburlan;;;;;;;;;;;;;x
+c_teshyll;Teshyll;;;;;;;;;;;;;x
+c_teshyll_adj;Teshyllan;;;;;;;;;;;;;x
 c_the_shrouded_lands;The Shrouded Lands;;;;;;;;;;;;;x
 c_the_shrouded_lands_adj;Shrouded Lander;;;;;;;;;;;;;x
 c_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;;;;;;;x
@@ -157,6 +195,10 @@ c_ventris;Ventris;;;;;;;;;;;;;x
 c_ventris_adj;Ventricular;;;;;;;;;;;;;x
 c_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
 c_wave_rocks_adj;Wave Rocker;;;;;;;;;;;;;x
+c_west_calim_desert;West Calim Desert;;;;;;;;;;;;;x
+c_west_calim_desert_adj;West Calim Desertian;;;;;;;;;;;;;x
+c_west_marching_mountains;West Marching Mountains;;;;;;;;;;;;;x
+c_west_marching_mountains_adj;West Marching Mountainsian;;;;;;;;;;;;;x
 c_west_oman;West Oman;;;;;;;;;;;;;x
 c_west_oman_adj;West Omanian;;;;;;;;;;;;;x
 c_western_sembia;Western Sembia;;;;;;;;;;;;;x
