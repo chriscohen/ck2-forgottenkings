@@ -724,3 +724,35 @@
         }
     }
 }
+201062 = {
+	name = Silversword
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 4
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 15
+            color = 6
+            color = 1
+            color = 6
+        }
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 15
+            color = 6
+            color = 1
+            color = 6
+        }
+        layer = {
+            texture = 1
+            texture_internal = 3
+            emblem = 0
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}

@@ -4,6 +4,8 @@
 8700 = {
 	name = Thomdor
 	dynasty = 201036
+	father = 8702 # Elduss
+	mother = 8401 # Tanaeth Rowanmantle
 	
 	religion = catholic
 	culture = cormyrean
@@ -22,6 +24,8 @@
 8701 = {
 	name = Bhereu
 	dynasty = 201036
+	father = 8702 # Elduss
+	mother = 8401 # Tanaeth Rowanmantle
 	
 	religion = catholic
 	culture = cormyrean
@@ -33,5 +37,22 @@
 		death = { # Poisoned in Abraxus Affair
 			death_reason = death_murder_unknown_poison
 		}
+	}
+}
+8702 = {
+	name = Elduss
+	dynasty = 201036
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1267.1.1 = { # Estimate
+		birth = yes
+	}
+	1296.1.1 = { # Estimate
+		add_spouse = 8401 # Tanaeth Rowanmantle
+	}
+	1319.1.1 = { # Estimate
+		death = yes
 	}
 }

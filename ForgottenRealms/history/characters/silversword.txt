@@ -1,0 +1,59 @@
+# SILVERSWORD
+# Range 11500-11599
+
+11500 = {
+	name = Narlan
+	dynasty = 201062
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1315.1.1 = { # Estimate
+		birth = yes
+	}
+	1336.1.1 = { # Estimate
+		death = yes # Disappears
+	}
+}
+11501 = {
+	name = Ammanadas
+	dynasty = 201062
+	father = 11500 # Assumed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1333.1.1 = { # Estimate
+		birth = yes
+	}
+	1349.1.1 = {
+		employer = 81 # Azoun IV
+	}
+	1371.1.1 = {
+		employer = 83 # Alusair Obarskyr
+	}
+	1374.1.1 = { # Estimate
+		death = yes
+	}
+}
+11502 = {
+	name = Melot
+	dynasty = 201062
+	father = 11500 # Assumed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1334.1.1 = { # Estimate
+		birth = yes
+	}
+	1349.1.1 = {
+		employer = 81 # Azoun IV
+	}
+	1371.1.1 = {
+		employer = 83 # Alusair Obarskyr
+	}
+	1378.1.1 = { # Estimate
+		death = yes
+	}
+}

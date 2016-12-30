@@ -2,9 +2,12 @@
 # Range 8400-8499
 
 8400 = {
+	# We will make Shaerl daughter of Alasalynn so that Ergluth
+	# will be her uncle
 	name = Shaerl
 	female = yes
 	dynasty = 201034
+	mother = 8402 # Alasalynn
 	
 	religion = catholic
 	culture = cormyrean
@@ -16,6 +19,146 @@
 		add_spouse = 8200 # Mourngrym Amcathra
 	}
 	1408.1.1 = { # Estimate
+		death = yes
+	}
+}
+8401 = {
+	name = Tanaeth
+	female = yes
+	dynasty = 201034
+	father = 8405 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1280.1.1 = {
+		birth = yes
+	}
+	1296.1.1 = { # Estimate
+		add_spouse = 8702 # Elduss Ammaeth
+	}
+	1317.1.1 = {
+		death = yes
+	}
+}
+8402 = {
+	name = Alasalynn # Lady of Tilverton
+	female = yes
+	dynasty = 201034
+	father = 8404 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1305.1.1 = { # Estimate
+		birth = yes
+	}
+	1394.1.1 = { # Estimate
+		death = yes
+	}
+}
+8403 = {
+	# We will make Alasalynn and Ergluth brother and sister so that
+	# Ergluth can be uncle of Shaerl
+	name =  Ergluth # Uncle of Shaerl
+	dynasty = 201034
+	father = 8404 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1307.1.1 = { # Estimate
+		birth = yes
+	}
+	1327.1.1 = {
+		trait = purple_dragon
+	}
+	1379.1.1 = { # Estimate
+		death = yes
+	}
+}
+8404 = {
+	# We need a father for Ergluth and Alasalynn
+	name = Unnamed
+	dynasty = 201034
+	father = 8405 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1278.1.1 = { # Estimate
+		birth = yes
+	}
+	1308.1.1 = { # Estimate
+		death = yes
+	}
+}
+8405 = {
+	# We want Tanaeth and Unnamed 8404 to be siblings
+	name = Unnamed
+	dynasty = 201034
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1255.1.1 = { # Estimate
+		birth = yes
+	}
+	1299.1.1 = { # Estimate
+		death = yes
+	}
+}
+8406 = {
+	# We will make Damaris sister to Alasalynn and Ergluth
+	name = Damaris
+	female = yes
+	dynasty = 201034
+	father = 8404 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1309.1.1 = { # Estimate
+		birth = yes
+	}
+	1377.1.1 = { # Estimate
+		death = yes
+	}
+}
+8407 = {
+	name = Kortyl
+	dynasty = 201034
+	mother = 8402 # Alasalynn, assumed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = slow
+	
+	1334.1.1 = { # Estimate
+		birth = yes
+	}
+	1371.1.1 = {
+		employer = 83 # Alusair Obarskyr
+	}
+	1389.1.1 = { # Estimate
+		death = yes
+	}
+}
+8408 = {
+	name = Amanthus
+	dynasty = 201034
+	mother = 8402 # Alasalynn, assumed
+	
+	trait = fair
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1335.1.1 = { # Estimate
+		birth = yes
+	}
+	1392.1.1 = { # Estimate
 		death = yes
 	}
 }

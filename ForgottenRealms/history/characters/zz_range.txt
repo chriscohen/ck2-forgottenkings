@@ -106,5 +106,6 @@
 # 11200  - 11299    Uleeyon
 # 11300  - 11399    Thundersword
 # 11400  - 11499    Skatterhawk
+# 11500  - 11599    Silversword
 #
 # 900000 - 999999 Lowborn

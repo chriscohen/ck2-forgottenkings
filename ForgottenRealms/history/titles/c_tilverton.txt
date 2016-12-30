@@ -209,14 +209,11 @@
 1286.1.1 = {
 	holder = 80 # Rhigaerd II
 }
-1335.1.1 = {
-	holder = 81 # Azoun IV
+1321.1.1 = {
+	holder = 8402 # Alasalynn Rowanmantle
 }
-1371.1.1 = {
-	holder = 83 # Alusair (regency)
-}
-1384.1.1 = {
-	holder = 84 # Azoun V
+1394.1.1 = {
+	holder = 84 # Azoun V, death of Alasalynn
 }
 1449.1.1 = {
 	holder = 87 # Foril I
