@@ -1,0 +1,14 @@
+# County Title
+title = c_mir_protectorate
+
+# Settlements
+max_settlements = 2
+
+b_adarthir = castle
+b_yuldars_keep = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

@@ -1890,9 +1890,16 @@ k_tethyr = {
 			}
 			b_mistletoe_keep = {
 			}
-			b_ardathir = {
-			}
 			b_barakmordin = {
+			}
+		}
+		c_mir_protectorate = {
+			color = { 52 130 221 }
+			color2 = { 255 255 255 }
+			
+			b_adarthir = {
+			}
+			b_yuldars_keep = {
 			}
 		}
 	}
