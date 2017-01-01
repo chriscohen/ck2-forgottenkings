@@ -1,0 +1,22 @@
+# TARSHAJ
+# Range 13500-13599
+
+13500 = {
+	name = Munaa
+	female = yes
+	
+	religion = sunni
+	culture = calishite
+	
+	1.1.1 = {
+		# Born earlier, but game can't do negative years
+		birth = yes
+	}
+	17.1.1 = {
+		# Date was -78 DR but game can't do negative years
+		add_spouse = 13400 # Akkabar Shoon
+	}
+	25.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -1,0 +1,7 @@
+1315.1.1 = {
+	liege = c_manshaka
+	holder = 13300 # Shond Tharovin
+}
+1365.1.1 = {
+	holder = 0
+}

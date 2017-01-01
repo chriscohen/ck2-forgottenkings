@@ -37,3 +37,27 @@
 	name = Lamar
 	culture = calishite
 }
+209009 = {
+	name = Tharovin
+	culture = calishite
+}
+209010 = {
+	name = Shoon
+	culture = calishite
+}
+209011 = {
+	name = Tarshaj
+	culture = calishite
+}
+209012 = {
+	name = Aktorral
+	culture = calishite
+}
+209013 = {
+	name = Jhotos
+	culture = calishite
+}
+209014 = {
+	name = Tavarn
+	culture = calishite
+}

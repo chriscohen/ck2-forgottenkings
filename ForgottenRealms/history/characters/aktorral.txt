@@ -1,0 +1,21 @@
+# AKTORRAL
+# Range 13600-13699
+
+13600 = {
+	name = Hazamir
+	dynasty = 209012
+	
+	religion = sunni
+	culture = calishite
+	
+	68.1.1 = {
+		birth = yes
+	}
+	123.1.1 = {
+		# Turned into lich, but he's not needed as a title holder
+		death = {
+			death_reason = death_execution_beheading
+			killer = 13405 # Shoon III
+		}
+	}
+}

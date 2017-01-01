@@ -1,0 +1,20 @@
+# JHOTOS
+# 13700-13799
+
+13700 = {
+	name = Nadim
+	dynasty = 209013
+	
+	religion = sunni
+	culture = calishite
+	
+	291.1.1 = {
+		birth = yes
+	}
+	305.1.1 = {
+		add_spouse = 13422 # Selara el Shoon
+	}
+	361.1.1 = {
+		death = yes
+	}
+}

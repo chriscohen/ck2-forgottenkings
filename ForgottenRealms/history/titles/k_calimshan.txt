@@ -1,3 +1,6 @@
+107.1.1 = {
+	holder = 13600 # Hazamir Aktorral
+}
 1338.1.1 = {
 	holder = 11700 # Rashid Djenispool
 }

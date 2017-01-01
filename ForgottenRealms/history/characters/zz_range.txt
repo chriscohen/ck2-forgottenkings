@@ -124,5 +124,11 @@
 # 13000  - 13099    Kaeth
 # 13100  - 13199    Silmaeril
 # 13200  - 13299    T'Enorgh
+# 13300  - 13399    Tharovin
+# 13400  - 13499    Shoon
+# 13500  - 13599    Tarshaj
+# 13600  - 13699    Aktorral
+# 13700  - 13799    Jhotos
+# 13800  - 13899    Tavarn
 #
 # 900000 - 999999 Lowborn

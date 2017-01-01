@@ -1,0 +1,20 @@
+# TAVARN
+# Range 13800-13899
+
+13800 = {
+	name = Jahar
+	dynasty = 209014
+	
+	religion = sunni
+	culture = calishite
+	
+	264.1.1 = {
+		birth = yes
+	}
+	280.1.1 = {
+		add_spouse = 13415 # Munaa / Shoon V
+	}
+	340.1.1 = {
+		death = yes
+	}
+}

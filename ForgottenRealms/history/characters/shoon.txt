@@ -1,0 +1,510 @@
+# SHOON
+# Range 13400-13499
+
+13400 = {
+	name = Aleph # Shoon I
+	dynasty = 209010
+	
+	religion = sunni
+	culture = calishite
+	
+	12.1.1 = {
+		birth = yes
+	}
+	75.1.1 = {
+		death = yes
+	}
+}
+13401 = {
+	name = Qamar # First son of Aleph
+	dynasty = 209010
+	father = 13400 # Aleph
+	
+	religion = sunni
+	culture = calishite
+	
+	32.1.1 = {
+		birth = yes
+	}
+	48.1.1 = {
+		# Drowned in water fountain while drunk
+		death = yes
+	}
+}
+13402 = {
+	name = Ksan # Second son of Aleph
+	dynasty = 209010
+	father = 13400 # Aleph
+	
+	religion = sunni
+	culture = calishite
+	
+	trait = twin
+	
+	34.1.1 = {
+		birth = yes
+	}
+	48.6.1 = {
+		trait = ill
+	}
+	48.6.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+13403 = {
+	name = Aleph # Shoon II, third son of Aleph
+	dynasty = 209010
+	father = 13400 # Aleph
+	
+	religion = sunni
+	culture = calishite
+	
+	trait = twin
+	
+	34.1.1 = {
+		birth = yes
+	}
+	107.1.1 = {
+		death = yes
+	}
+}
+13404 = {
+	name = Unnamed # Daughter of Aleph
+	female = yes
+	dynasty = 209010
+	father = 13400 # Aleph
+	
+	religion = sunni
+	culture = calishite
+	
+	35.1.1 = {
+		birth = yes
+	}
+	36.1.1 = {
+		death = yes
+	}
+}
+13405 = {
+	name = Aleph # Shoon III
+	dynasty = 209010
+	mother = 13406 # Niece of Shoon II
+	father = 900067 # Jadhar
+	
+	religion = sunni
+	culture = calishite
+	
+	107.1.1 = {
+		birth = yes
+	}
+	130.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 13407 # Shoon IV
+		}
+	}
+}
+13406 = {
+	# We need a niece of Shoon II, which means this person has to be the
+	# daughter of a sibling of Shoon II, which only leaves 13404, because
+	# his two brothers died young
+	name = Unnamed
+	female = yes
+	dynasty = 209010
+	mother = 13404 # Unnamed daughter of Aleph
+	
+	religion = sunni
+	culture = calishite
+	
+	70.1.1 = {
+		birth = yes
+	}
+	106.1.1 = {
+		add_matrilineal_spouse = 900067 # Jadhar
+	}
+	113.1.1 = {
+		death = yes
+	}
+}
+13407 = {
+	name = Amahl # Amahl Shoon IV
+	dynasty = 209010
+	father = 900067 # Jadhar
+	mother = 13406 # Niece of Shoon II
+	
+	religion = sunni
+	culture = calishite
+	
+	110.1.1 = {
+		birth = yes
+	}
+	141.1.1 = {
+		give_nickname = nick_the_mad
+	}
+	142.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 13408 # Amahl Shoon V
+		}
+	}
+}
+13408 = {
+	name = Amahl # Amahl Shoon V
+	dynasty = 209010
+	father = 900067 # Jadhar
+	mother = 13406 # Niece of Shoon II
+	
+	religion = sunni
+	culture = calishite
+	
+	112.1.1 = {
+		birth = yes
+	}
+	204.1.1 = {
+		death = yes
+	}
+}
+13409 = {
+	name = Unnamed # Daughter of Shoon V
+	female = yes
+	dynasty = 209010
+	father = 13408 # Shoon V
+	
+	religion = sunni
+	culture = calishite
+	
+	158.1.1 = {
+		birth = yes
+	}
+	182.1.1 = {
+		death = yes
+	}
+}
+13410 = {
+	name = Unnamed # First son of daughter of Shoon V
+	dynasty = 209010
+	mother = 13409 # Daughter of Shoon V
+	
+	religion = sunni
+	culture = calishite
+	
+	178.1.1 = {
+		birth = yes
+	}
+	200.1.1 = {
+		death = yes
+	}
+}
+13411 = {
+	name = Unnamed # Second son of daughter of Shoon V
+	dynasty = 209010
+	mother = 13409 # Daughter of Shoon V
+	
+	religion = sunni
+	culture = calishite
+	
+	179.1.1 = {
+		birth = yes
+	}
+	202.1.1 = {
+		death = yes
+	}
+}
+13411 = {
+	name = Amahl # Amahl Shoon VI
+	dynasty = 209010
+	mother = 13409 # Daughter of Shoon V
+	
+	religion = sunni
+	culture = calishite
+	
+	180.1.1 = {
+		birth = yes
+	}
+	205.1.1 = {
+		death = {
+			death_reason = death_murder_poison
+			killer = 13412 # Shoon IV
+		}
+	}
+}
+13412 = {
+	name = Shoon # Shoon IV - no first name so he'll have to be Shoon Shoon
+	dynasty = 209010
+	mother = 13409 # Daughter of Shoon V
+	
+	religion = sunni
+	culture = calishite
+	
+	183.1.1 = {
+		birth = yes
+	}
+	199.1.1 = {
+		trait = wizard
+	}
+	281.1.1 = {
+		death = yes
+	}
+}
+13413 = {
+	name = Unnamed # Unnamed son of Shoon IV
+	dynasty = 209010
+	father = 13412 # Shoon IV
+	
+	religion = sunni
+	culture = calishite
+	
+	213.1.1 = {
+		birth = yes
+	}
+	261.1.1 = {
+		death = yes
+	}
+}
+13414 = {
+	name = Unnamed # Unnamed grandson of Shoon IV
+	dynasty = 209010
+	father = 13413 # Son of Shoon IV
+	
+	religion = sunni
+	culture = calishite
+	
+	249.1.1 = {
+		birth = yes
+	}
+	280.1.1 = {
+		death = yes
+	}
+}
+13415 = {
+	name = Munaa # Shoon V
+	female = yes
+	dynasty = 209010
+	father = 13414 # Unnamed grandson of Shoon IV
+	
+	religion = sunni
+	culture = calishite
+	
+	264.1.1 = {
+		birth = yes
+	}
+	280.1.1 = {
+		add_spouse = 13800 # Jahal Tavarn
+	}
+	300.1.1 = {
+		trait = ill
+	}
+	300.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+13416 = {
+	name = Unnamed # 1st child, 1st son of Munaa
+	dynasty = 209010
+	father = 13800 # Jahal Tavarn
+	mother = 13415 # Munaa
+	
+	religion = sunni
+	culture = calishite
+	
+	285.1.1 = {
+		birth = yes
+	}
+	286.1.1 = {
+		trait = ill
+	}
+	286.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+13417 = {
+	name = Unnamed # 2nd child, 2nd son of Munaa
+	dynasty = 209010
+	father = 13800 # Jahal Tavarn
+	mother = 13415 # Munaa
+	
+	religion = sunni
+	culture = calishite
+	
+	286.1.1 = {
+		birth = yes
+	}
+	287.1.1 = {
+		trait = ill
+	}
+	287.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+13418 = {
+	name = Unnamed # 3rd child, 3rd son of Munaa
+	dynasty = 209010
+	father = 13800 # Jahal Tavarn
+	mother = 13415 # Munaa
+	
+	religion = sunni
+	culture = calishite
+	
+	287.1.1 = {
+		birth = yes
+	}
+	288.1.1 = {
+		trait = ill
+	}
+	288.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+13419 = {
+	name = Kahlar # Shoon VI
+	dynasty = 209010
+	father = 13800 # Jahal Tavarn
+	mother = 13415 # Munaa
+	
+	religion = sunni
+	culture = calishite
+	
+	288.1.1 = {
+		birth = yes
+	}
+	309.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 13700 # Nadim el Jhotos
+		}
+	}
+}
+13420 = {
+	name = Unnamed # 5th child, 1st daughter of Munaa
+	female = yes
+	dynasty = 209010
+	father = 13800 # Jahal Tavarn
+	mother = 13415 # Munaa
+	
+	religion = sunni
+	culture = calishite
+	
+	289.1.1 = {
+		birth = yes
+	}
+	290.1.1 = {
+		trait = ill
+	}
+	290.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+13421 = {
+	name = Nada
+	female = yes
+	dynasty = 209010
+	father = 13800 # Jahal Tavarn
+	mother = 13415 # Munaa
+	
+	religion = sunni
+	culture = calishite
+	
+	290.1.1 = {
+		birth = yes
+	}
+	360.1.1 = {
+		death = yes
+	}
+}
+13422 = {
+	name = Selara
+	female = yes
+	dynasty = 209010
+	father = 13800 # Jahal Tavarn
+	mother = 13415 # Munaa
+	
+	religion = sunni
+	culture = calishite
+	
+	291.1.1 = {
+		birth = yes
+	}
+	305.1.1 = {
+		add_spouse = 13700 # Nadim el Jhotos
+	}
+	360.1.1 = {
+		death = yes
+	}
+}
+13423 = {
+	name = Kodos # Shoon VII
+	dynasty = 209010
+	
+	religion = sunni
+	culture = calishite
+	
+	306.1.1 = {
+		# Source says born 290 DR, so he couldn't have been the grandson
+		# of Munaa / Shoon V - not sure of parentage
+		birth = yes
+	}
+	320.1.1 = {
+		trait = wizard
+	}
+	367.1.1 = {
+		# Became lich, but this is not relevant to title ownership
+		death = yes
+	}
+}
+13424 = {
+	name = Shaani
+	female = yes
+	dynasty = 209010
+	father = 13423 # Shoon VII
+	
+	religion = sunni
+	culture = calishite
+	
+	346.1.1 = {
+		birth = yes
+	}
+	427.1.1 = {
+		death = yes
+	}
+}
+13425 = {
+	name = Shaan
+	dynasty = 209010
+	mother = 13424 # Shaani
+	
+	religion = sunni
+	culture = calishite
+	
+	366.1.1 = {
+		birth = yes
+	}
+	410.1.1 = {
+		death = yes
+	}
+}
+13426 = {
+	name = Amahl # Amahl Shoon VII
+	dynasty = 209010
+	father = 13425 # Shaan
+	
+	religion = sunni
+	culture = calishite
+	
+	398.1.1 = {
+		birth = yes
+	}
+	450.1.1 = {
+		death = yes
+	}
+}

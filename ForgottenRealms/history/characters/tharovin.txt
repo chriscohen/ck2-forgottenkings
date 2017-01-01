@@ -1,0 +1,19 @@
+# THAROVIN
+# Range 13300-13399
+
+13300 = {
+	name = Shond
+	dynasty = 209009
+	
+	religion = sunni
+	culture = calishite
+	
+	1299.1.1 = { # Estimate
+		birth = yes
+	}
+	1365.1.1 = {
+		# He turned immortal and went to live on the Singing Rocks,
+		# but this will do
+		death = yes
+	}
+}
