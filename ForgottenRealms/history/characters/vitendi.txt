@@ -1,0 +1,17 @@
+# VITENDI
+# Range 12400-12499
+
+12400 = {
+	name = Mond
+	dynasty = 209006
+	
+	religion = sunni
+	culture = calishite
+	
+	1319.1.1 = { # Estimate
+		birth = yes
+	}
+	1372.1.1 = { # Estimate
+		death = yes
+	}
+}

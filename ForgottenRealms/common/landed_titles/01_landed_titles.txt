@@ -1947,3 +1947,84 @@ d_skadaurak = {
 		}
 	}
 }
+d_suldolphor = {
+	color = { 135 138 21 }
+	color2 = { 255 255 255 }
+	
+	capital = 142 # Suldolphor
+	culture = calishite
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 142
+			}
+		}
+	}
+	
+	c_suldolphor = {
+		color = { 135 138 21 }
+		color2 = { 255 255 255 }
+		
+		title = TITLE_VIZIER
+		title_female = TITLE_VIZIER
+		
+		b_suldolphor = {
+		}
+	}
+}
+d_tulmon = {
+	color = { 220 222 114 }
+	color2 = { 255 255 255 }
+	
+	capital = 141 # Tulmon
+	culture = calishite
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 141
+			}
+		}
+	}
+	
+	c_tulmon = {
+		color = { 220 222 114 }
+		color2 = { 255 255 255 }
+		
+		title = TITLE_VIZIER
+		title_female = TITLE_VIZIER
+		
+		b_tulmon = {
+		}
+	}
+}
+d_yeslipek = {
+	color = { 180 183 52 }
+	color2 = { 255 255 255 }
+	
+	capital = 140 # Yeslipek
+	culture = calishite
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 140
+			}
+		}
+	}
+	
+	c_yeslipek = {
+		color = { 180 183 52 }
+		color2 = { 255 255 255 }
+		
+		title = TITLE_VIZIER
+		title_female = TITLE_VIZIER
+		
+		b_yeslipek = {
+		}
+	}
+}

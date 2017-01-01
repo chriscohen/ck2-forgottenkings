@@ -9,3 +9,23 @@
 	name = Pesarkhal
 	culture = calishite
 }
+209002 = {
+	name = Arpooristan
+	culture = calishite
+}
+209003 = {
+	name = Eshram
+	culture = calishite
+}
+209004 = {
+	name = Ashnarti
+	culture = calishite
+}
+209005 = {
+	name = Fanzir
+	culture = calishite
+}
+209006 = {
+	name = Vitendi
+	culture = calishite
+}

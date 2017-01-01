@@ -1,9 +1,7 @@
 1338.1.1 = {
-	holder = 11700 # Rashid Djenispool
+	liege = d_calim_desert
+	holder = 12400 # Mond Vitendi
 }
-1359.1.1 = {
-	holder = 11701 # Punjor Djenispool
-}
-1359.2.1 = {
+1372.1.1 = {
 	holder = 11701 # Ralan Pesarkhal
 }

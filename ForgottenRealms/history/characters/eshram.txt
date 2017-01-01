@@ -1,0 +1,20 @@
+# ESHRAM
+# Range 12000-12099
+
+12000 = {
+	name = Eshtarl
+	dynasty = 209003
+	
+	religion = sunni
+	culture = calishite
+	
+	1324.1.1 = { # Estimate
+		birth = yes
+	}
+	1340.1.1 = {
+		employer = 11900 # Majel Arpooristan / c_almraiven
+	}
+	1380.1.1 = { # Estimate
+		death = yes
+	}
+}

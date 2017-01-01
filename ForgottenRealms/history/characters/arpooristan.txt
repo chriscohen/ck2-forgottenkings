@@ -1,0 +1,17 @@
+# ARPOORISTAN
+# Range 11900-11999
+
+11900 = {
+	name = Majel
+	dynasty = 209002
+	
+	religion = sunni
+	culture = calishite
+	
+	1310.1.1 = { # Estimate
+		birth = yes
+	}
+	1390.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,17 @@
+# GNURLBRACH
+# Range 12300-12399
+
+12300 = {
+	name = Anders
+	dynasty = 450000
+	
+	religion = sunni
+	culture = halforc
+	
+	1323.1.1 = { # Estimate
+		birth = yes
+	}
+	1376.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -1,4 +1,5 @@
 1338.1.1 = {
+	liege = d_alamir
 	holder = 11700 # Rashid Djenispool
 }
 1359.1.1 = {

@@ -427,6 +427,8 @@ b_stagsteads;Stagsteads;;;;;;;;;;;;;x
 b_stagsteads_adj;Stagsteadsian;;;;;;;;;;;;;x
 b_storaad;Storaad;;;;;;;;;;;;;x
 b_storaad_adj;Storaadan;;;;;;;;;;;;;x
+b_suldolphor;Suldolphor;;;;;;;;;;;;;x
+b_suldolphor_adj;Suldolphorian;;;;;;;;;;;;;x
 b_sunderstaad;Sunderstaad;;;;;;;;;;;;;x
 b_sunderstaad_adj;Sunderstaader;;;;;;;;;;;;;x
 b_sunset_hill;Sunset Hill;;;;;;;;;;;;;x
@@ -461,6 +463,8 @@ b_tsornyl;Tsornyl;;;;;;;;;;;;;x
 b_tsornyl_adj;Tsornyllan;;;;;;;;;;;;;x
 b_tulbegh;Tulbegh;;;;;;;;;;;;;x
 b_tulbegh_adj;Tulbeghian;;;;;;;;;;;;;x
+b_tulmon;Tulmon;;;;;;;;;;;;;x
+b_tulmon_adj;Tulmonni;;;;;;;;;;;;;x
 b_tyrluk;Tyrluk;;;;;;;;;;;;;x
 b_tyrluk_adj;Tyrlukian;;;;;;;;;;;;;x
 b_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
@@ -495,5 +499,7 @@ b_wormtower;Wormtower;;;;;;;;;;;;;x
 b_wormtower_adj;Wormtowerian;;;;;;;;;;;;;x
 b_wyngate;Wyngate;;;;;;;;;;;;;x
 b_wyngate_adj;Wyngater;;;;;;;;;;;;;x
+b_yeslipek;Yeshpek;;;;;;;;;;;;;x
+b_yeslipek_adj;Yeshpekki;;;;;;;;;;;;;x
 b_yhaunn;Yhaunn;;;;;;;;;;;;;x
 b_yhaunn_adj;Yhaunnian;;;;;;;;;;;;;x

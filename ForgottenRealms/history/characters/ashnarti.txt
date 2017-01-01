@@ -1,0 +1,17 @@
+# ASHNARTI
+# Range 12100-12199
+
+12100 = {
+	name = Duncan
+	dynasty = 209004
+	
+	religion = sunni
+	culture = calishite
+	
+	1322.1.1 = { # Estimate
+		birth = yes
+	}
+	1379.1.1 = { # Estimate
+		death = yes
+	}
+}

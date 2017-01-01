@@ -110,5 +110,11 @@
 # 11600  - 11699    Illance
 # 11700  - 11799    Djenispool
 # 11800  - 11899    Pesarkhal
+# 11900  - 11999    Arpooristan
+# 12000  - 12099    Eshram
+# 12100  - 12199    Ashnarti
+# 12200  - 12299    Fanzir
+# 12300  - 12399    Gnurlbrach
+# 12400  - 12499    Vitendi
 #
 # 900000 - 999999 Lowborn

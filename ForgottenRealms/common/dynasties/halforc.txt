@@ -1,0 +1,7 @@
+# HALFORC
+# Range 450000-450999
+
+450000 = {
+	name = Gnurlbrach
+	culture = halforc
+}

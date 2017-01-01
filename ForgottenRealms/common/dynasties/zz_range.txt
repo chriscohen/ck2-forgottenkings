@@ -18,4 +18,8 @@
 # 
 # 300000 - 399999   Miscellaneous
 #
+# ELF
 # 401000 - 401999   Moon elf
+#
+# ORC
+# 450000 - 450999   Half-orc

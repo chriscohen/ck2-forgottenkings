@@ -1,0 +1,17 @@
+# FANZIR
+# Range 12200-12299
+
+12200 = {
+	name = Artouk
+	dynasty = 209005
+	
+	religion = sunni
+	culture = calishite
+	
+	1324.1.1 = { # Estimate
+		birth = yes
+	}
+	1398.1.1 = { # Estimate
+		death = yes
+	}
+}

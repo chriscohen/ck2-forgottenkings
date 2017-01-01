@@ -13,7 +13,7 @@
 	religion = sunni
 	culture = calishite
 	
-	1322.1.1 = { # Estimate
+	1318.1.1 = { # Estimate
 		birth = yes
 	}
 	1359.1.1 = {
@@ -28,7 +28,7 @@
 	religion = sunni
 	culture = calishite
 	
-	1340.1.1 = { # Estimate
+	1336.1.1 = { # Estimate
 		birth = yes
 	}
 	1359.2.1 = {

@@ -1,9 +1,10 @@
 1338.1.1 = {
+	liege = d_calim_desert
 	holder = 11700 # Rashid Djenispool
 }
-1359.1.1 = {
-	holder = 11701 # Punjor Djenispool
+1339.1.1 = {
+	holder = 12300 # Anders Gnurlbrach
 }
-1359.2.1 = {
+1376.1.1 = {
 	holder = 11701 # Ralan Pesarkhal
 }

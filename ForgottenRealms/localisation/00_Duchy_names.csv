@@ -69,6 +69,8 @@ d_skadaurak;Skadaurak;;;;;;;;;;;;;x
 d_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
 d_snowdown;Snowdown;;;;;;;;;;;;;x
 d_snowdown_adj;Snowdownian;;;;;;;;;;;;;x
+d_suldolphor;Suldolphor;;;;;;;;;;;;;x
+d_suldolphor_adj;Suldolphorian;;;;;;;;;;;;;x
 d_tarkhaldale;Tarkhaldale;;;;;;;;;;;;;x
 d_tarkhaldale_adj;Tarkhaldalen;;;;;;;;;;;;;x
 d_tasseldale;Tasseldale;;;;;;;;;;;;;x
@@ -77,7 +79,11 @@ d_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;
 d_the_stonelands_adj;Stonelander;;;;;;;;;;;;;x
 d_the_stormhorns;The Stormhorns;The Stormhorns;The Stormhorns;;The Stormhorns;;;;;;;;;x
 d_the_stormhorns_adj;Stormhorner;;;;;;;;;;;;;x
+d_tulmon;Tulmon;;;;;;;;;;;;;x
+d_tulmon_adj;Tulmonni;;;;;;;;;;;;;x
 d_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
 d_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
 d_winterglen;Winterglen;;;;;;;;;;;;;x
 d_winterglen_adj;Winterglenian;;;;;;;;;;;;;x
+d_yeslipek;Yeshpek;;;;;;;;;;;;;x
+d_yeslipek_adj;Yeshpekki;;;;;;;;;;;;;x
