@@ -1,5 +1,5 @@
 # County Title
-title = c_omlarandin_mountains
+title = c_surkazar
 
 # Settlements
 max_settlements = 1

@@ -145,8 +145,6 @@ c_nykkar_isle;Nykkar Isle;;;;;;;;;;;;;x
 c_nykkar_isle_adj;Nykkar Islian;;;;;;;;;;;;;x
 c_old_coramshan;Old Coramshan;;;;;;;;;;;;;x
 c_old_coramshan;Old Coramshani;;;;;;;;;;;;;x
-c_omlarandin_mountains;Omlarandin Mountains;;;;;;;;;;;;;x
-c_omlarandin_mountains_adj;Omlarandin Mountainsian;;;;;;;;;;;;;x
 c_orcskill;Orcskill;;;;;;;;;;;;;x
 c_orcskill_adj;Orcskillian;;;;;;;;;;;;;x
 c_ordulin;Ordulin;;;;;;;;;;;;;x
@@ -207,6 +205,8 @@ c_suldolphor;Suldolphor;;;;;;;;;;;;;x
 c_suldolphor_adj;Suldolphorian;;;;;;;;;;;;;x
 c_suretmarch;Suretmarch;;;;;;;;;;;;;x
 c_suretmarch_adj;Suretmarchian;;;;;;;;;;;;;x
+c_surkazar;Surkazar;;;;;;;;;;;;;x
+c_surkazar_adj;Surkazarran;;;;;;;;;;;;;x
 c_survale_ford;Survale Ford;;;;;;;;;;;;;x
 c_survale_ford_adj;Survale Fordian;;;;;;;;;;;;;x
 c_talffolk;Talffolk;;;;;;;;;;;;;x

@@ -1941,7 +1941,7 @@ k_tethyr = {
 			b_sheshyr_house = {
 			}
 		}
-		c_omlarandin_mountains = {
+		c_surkazar = {
 			color = { 64 125 200 }
 			color2 = { 255 255 255 }
 			
