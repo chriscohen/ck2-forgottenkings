@@ -975,7 +975,7 @@ human = {
 			Numar
 			Ondul Oon Orrdun
 			Sammar Sarshel
-			Taor Thenas
+			Tanar Taor Thenas
 			Whettimn
 			Yves
 		}

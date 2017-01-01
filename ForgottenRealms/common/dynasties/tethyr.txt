@@ -69,3 +69,7 @@
 	name = Ierax
 	culture = tethyrian
 }
+207017 = {
+	name = Keelson
+	culture = tethyrian
+}

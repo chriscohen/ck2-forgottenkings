@@ -1,0 +1,13 @@
+1331.1.1 = {
+	liege = d_cape_velen
+	holder = 16402 # Unnamed grandfather of Tanar Keelson
+}
+1338.1.1 = {
+	holder = 16401 # Father of Tanar Keelson
+}
+1370.1.1 = {
+	holder = 16400 # Tanar Keelson
+}
+1432.1.1 = {
+	holder = 0
+}

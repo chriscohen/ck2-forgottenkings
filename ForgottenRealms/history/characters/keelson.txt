@@ -1,0 +1,84 @@
+# KEELSON
+# Range 16400-16499
+
+16400 = {
+	name = Tanar
+	dynasty = 207017
+	father = 16401 # Tanar (non-canon)
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1355.1.1 = {
+		birth = yes
+	}
+	1432.1.1 = {
+		death = yes
+	}
+}
+16401 = {
+	# Non-canon but we need a father for Tanar
+	name = Tanar
+	dynasty = 207017
+	father = 16402 # Unnamed
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1335.1.1 = {
+		birth = yes
+	}
+	1370.1.1 = {
+		death = yes
+	}
+}
+16402 = {
+	name = Unnamed # Grandfather of 16400
+	dynasty = 207017
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}
+16403 = {
+	name = Unnamed # Uncle of 16400
+	dynasty = 207017
+	father = 16401
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1368.8.20 = {
+		# Died at first siege of Myratma
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+16404 = {
+	name = Unnamed # Uncle of 16400
+	dynasty = 207017
+	father = 16401
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1333.1.1 = {
+		birth = yes
+	}
+	1368.8.20 = {
+		# Died at first siege of Myratma
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
