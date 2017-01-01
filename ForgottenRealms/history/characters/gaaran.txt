@@ -1,0 +1,35 @@
+# GAARAN
+# Range 14700-14799
+
+14700 = {
+	name = Tomed
+	dynasty = 209022
+	
+	religion = sunni
+	culture = calishite
+	
+	1308.1.1 = {
+		birth = yes
+	}
+	1328.1.1 = {
+		add_spouse = 900069 # Meriel
+	}
+	1360.1.1 = {
+		# Died in knife fight
+		death = yes
+	}
+}
+14701 = {
+	name = Hala
+	female = yes
+	dynasty = 209022
+	father = 14700 # Tomed
+	mother = 900069 # Meriel
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1392.1.1 = {
+		death = yes
+	}
+}

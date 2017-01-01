@@ -8,10 +8,65 @@
 	religion = sunni
 	culture = calishite
 	
-	1335.1.1 = { # Estimate
+	1309.1.1 = {
+		# TSR9589 p.80 (set 1370 DR) states "born over 60 years ago"
 		birth = yes
 	}
+	1330.1.1 = {
+		add_spouse = 900068 # Symari
+	}
 	1400.1.1 = { # Estimate
+		death = yes
+	}
+}
+11801 = {
+	name = Tahyr # Second son of Ralan
+	dynasty = 209001
+	father = 11800 # Ralan
+	
+	religion = sunni
+	culture = calishite
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1381.1.1 = {
+		death = yes
+	}
+}
+11802 = {
+	name = Unnamed # First son of Ralan
+	dynasty = 209001
+	father = 11800 # Ralan
+	
+	religion = sunni
+	culture = calishite
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1331.1.1 = {
+		death = yes
+	}
+}
+11803 = {
+	name = Raqiil # Daughter of Ralan
+	female = yes
+	dynasty = 209001
+	father = 11800 # Ralan
+	
+	religion = sunni
+	culture = calishite
+	
+	trait = fair
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		add_spouse = 13900 # Abon Khomaya
+	}
+	1394.1.1 = {
 		death = yes
 	}
 }

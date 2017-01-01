@@ -1,0 +1,20 @@
+# MODIMINAH
+# Range 14400-14499
+
+14400 = {
+	name = Barak
+	dynasty = 209020
+	
+	religion = sunni
+	culture = calishite
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1359.2.1 = {
+		employer = 11800 # Ralan Pesarkhal
+	}
+	1379.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,23 @@
+# KHOMAYA
+# 13900-13999
+
+13900 = {
+	name = Abon
+	dynasty = 209015
+	
+	religion = sunni
+	culture = calishite
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		add_spouse = 11803 # Raqiil Pesarkhal
+	}
+	1359.2.1 = {
+		employer = 11800 # Ralan Pesarkhal
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}

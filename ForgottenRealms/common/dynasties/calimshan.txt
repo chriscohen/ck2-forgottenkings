@@ -61,3 +61,35 @@
 	name = Tavarn
 	culture = calishite
 }
+209015 = {
+	name = Khomaya
+	culture = calishite
+}
+209016 = {
+	name = Yedat
+	culture = calishite
+}
+209017 = {
+	name = Saffar
+	culture = calishite
+}
+209018 = {
+	name = Busym
+	culture = calishite
+}
+209019 = {
+	name = Ghasael
+	culture = calishite
+}
+209020 = {
+	name = Modiminah
+	culture = calishite
+}
+209021 = {
+	name = Vhomaal
+	culture = calishite
+}
+209022 = {
+	name = Gaaran
+	culture = calishite
+}

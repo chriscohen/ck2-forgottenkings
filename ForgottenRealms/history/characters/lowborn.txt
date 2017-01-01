@@ -1148,3 +1148,37 @@
 		death = yes
 	}
 }
+900068 = {
+	name = Symari
+	female = yes
+	
+	religion = sunni
+	culture = calishite
+	
+	1314.1.1 = {
+		birth =  yes
+	}
+	1330.1.1 = {
+		add_spouse = 11800 # Ralan Pesarkhal
+	}
+	1350.1.1 = {
+		death = yes
+	}
+}
+900069 = {
+	name = Meriel
+	female = yes
+	
+	religion = sunni
+	culture = calishite
+	
+	1312.1.1 = {
+		birth = yes
+	}
+	1328.1.1 = {
+		add_spouse = 14700 # Tomed Gaaran
+	}
+	1392.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,20 @@
+# ADHALAN
+# Range 14600-14699
+
+14600 = {
+	name = Taor
+	dynasty = 209021
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1318.1.1 = {
+		birth = yes
+	}
+	1359.2.1 = {
+		employer = 11800 # Ralan Pesarkhal
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}

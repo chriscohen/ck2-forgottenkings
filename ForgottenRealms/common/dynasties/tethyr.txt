@@ -13,3 +13,7 @@
 	name = Rhindaun
 	culture = tethyrian
 }
+207003 = {
+	name = Adhalan
+	culture = tethyrian
+}

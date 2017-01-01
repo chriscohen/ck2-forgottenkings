@@ -130,5 +130,14 @@
 # 13600  - 13699    Aktorral
 # 13700  - 13799    Jhotos
 # 13800  - 13899    Tavarn
+# 13900  - 13999    Khomaya
+# 14000  - 14999    Yedat
+# 14100  - 14199    Saffar
+# 14200  - 14299    Busym
+# 14300  - 14399    Ghasael
+# 14400  - 14499    Modiminah
+# 14500  - 14599    Vhomaal
+# 14600  - 14699    Adhalan
+# 14700  - 14799    Gaaran
 #
 # 900000 - 999999 Lowborn

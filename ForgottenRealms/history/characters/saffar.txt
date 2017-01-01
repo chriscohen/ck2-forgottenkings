@@ -1,0 +1,38 @@
+# SAFFAR
+# Range 14100-14199
+
+14100 = {
+	name = Jafar
+	dynasty = 209017
+	
+	religion = sunni
+	culture = calishite
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1358.1.1 = {
+		death = yes
+	}
+}
+14101 = {
+	name = Hassan
+	dynasty = 209017
+	father = 14100
+	
+	religion = sunni
+	culture = calishite
+	
+	1339.1.1 = {
+		birth = yes
+	}
+	1355.1.1 = {
+		trait = tough_soldier
+	}
+	1359.2.1 = {
+		employer = 11800 # Ralan Pesarkhal
+	}
+	1394.1.1 = {
+		death = yes
+	}
+}

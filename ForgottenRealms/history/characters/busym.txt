@@ -1,0 +1,21 @@
+# BUSYM
+# Range 14200-14299
+
+14200 = {
+	name = Taarin
+	female = yes
+	dynasty = 209018
+	
+	religion = sunni
+	culture = calishite
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1354.1.1 = {
+		add_friend = 14000 # Aban Yedat
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

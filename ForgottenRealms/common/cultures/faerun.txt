@@ -460,12 +460,12 @@ human = {
 		color = { 0.5 0.5 0.8 }
 		
 		male_names = {
-			Aban Abbakar Abbas Abon Akkabar Aleph Amahl Amun Artouk Asraf
-			Bollus Butrys
+			Aban Abbakar Abbas Abon Akim Akkabar Aleph Amahl Amun Artouk Asraf
+			Barak Bollus Butrys
 			Daryth Daud
 			Eshtarl
 			Fahd Faruk
-			Hakiim Harun Hassan Hazamir
+			Hakiim Halan Harun Hassan Hazamir
 			Jabal Jadhar Jafar Jahar
 			Kadar Kalil Kharyi Kodos Ksan
 			Majel Malik Maryn Mond Muham
@@ -474,7 +474,7 @@ human = {
 			Qamar
 			Rahimat Ralan Rashid Rhanghaun
 			Saibh Sarsor Shaan
-			Tahyr Tasyn Thond
+			Tahyr Tasyn Thond Tomed
 			Yusuf
 		}
 		female_names = {
@@ -488,9 +488,9 @@ human = {
 			Mariam Melek Meriel Munaa
 			Nada Nureh
 			Oma
-			Rabi
-			Sabira Saida Samar Sarsora Selara Shaani Shunnari
-			Tarub Thuravya
+			Rabi Raqiil
+			Sabira Saida Samar Sarsora Selara Shaani Shunnari Symari
+			Taarin Tarub Thuravya
 			Una
 			Zahrah Zenobia
 		}
@@ -967,6 +967,7 @@ human = {
 			Coram
 			Halanter
 			Sarshel
+			Taor
 		}
 		female_names = {
 			Ariia

@@ -1,0 +1,23 @@
+# YEDAT
+# Range 14000-14999
+
+14000 = {
+	name = Aban
+	dynasty = 209016
+	
+	religion = sunni
+	culture = calishite
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1354.1.1 = {
+		add_friend = 14200 # Taarin Busym
+	}
+	1359.2.1 = {
+		employer = 11800 # Ralan Pesarkhal
+	}
+	1386.1.1 = {
+		death = yes
+	}
+}
