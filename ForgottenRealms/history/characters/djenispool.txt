@@ -1,0 +1,40 @@
+# DJENISPOOL
+# Range 11700-11799
+#
+# Some info from George Krashos:
+# http://secretsofthearchmages.net/Threads/WOTC/2008/Forgotten%20Realms;%20People%20and%20Places/870335.html
+
+11700 = {
+	# As of 1357 DR, has been Pasha of Calimshan for "over 18 years"
+	# TSR9224 p.50
+	name = Rashid
+	dynasty = 209000
+	
+	religion = sunni
+	culture = calishite
+	
+	1322.1.1 = { # Estimate
+		birth = yes
+	}
+	1359.1.1 = {
+		death = yes
+	}
+}
+11701 = {
+	name = Punjor
+	dynasty = 209000
+	father = 11700 # Rashid
+	
+	religion = sunni
+	culture = calishite
+	
+	1340.1.1 = { # Estimate
+		birth = yes
+	}
+	1359.2.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 11800 # Ralan Pesarkhal
+		}
+	}
+}

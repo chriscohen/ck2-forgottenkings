@@ -1,2 +1,11 @@
 # CALIMSHAN
 # Range 209000-209999
+
+209000 = {
+	name = Djenispool
+	culture = calishite
+}
+209001 = {
+	name = Pesarkhal
+	culture = calishite
+}

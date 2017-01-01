@@ -107,5 +107,8 @@
 # 11300  - 11399    Thundersword
 # 11400  - 11499    Skatterhawk
 # 11500  - 11599    Silversword
+# 11600  - 11699    Illance
+# 11700  - 11799    Djenispool
+# 11800  - 11899    Pesarkhal
 #
 # 900000 - 999999 Lowborn

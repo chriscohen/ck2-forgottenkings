@@ -8,6 +8,9 @@ k_calimshan = {
 	capital = 126 # c_calimport
 	culture = calishite
 	
+	title = TITLE_PASHA
+	title_female = TITLE_PASHA
+	
 	d_calim_desert = {
 		color = { 86 216 60 }
 		color2 = { 255 255 255 }

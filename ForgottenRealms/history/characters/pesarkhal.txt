@@ -1,0 +1,17 @@
+# PESARKHAL
+# Range 11800-11899
+
+11800 = {
+	name = Ralan
+	dynasty = 209001
+	
+	religion = sunni
+	culture = calishite
+	
+	1335.1.1 = { # Estimate
+		birth = yes
+	}
+	1400.1.1 = { # Estimate
+		death = yes
+	}
+}
