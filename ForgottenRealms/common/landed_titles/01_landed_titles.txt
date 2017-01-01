@@ -1945,7 +1945,7 @@ k_tethyr = {
 			color = { 64 125 200 }
 			color2 = { 255 255 255 }
 			
-			b_colberlann = {
+			b_colbertann = {
 			}
 		}
 		c_survale_ford = {

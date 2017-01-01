@@ -4,7 +4,7 @@ title = c_surkazar
 # Settlements
 max_settlements = 1
 
-b_colberlann = castle
+b_colbertann = castle
 
 # Misc
 culture = tethyrian
