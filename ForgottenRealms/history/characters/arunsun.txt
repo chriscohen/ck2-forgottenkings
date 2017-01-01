@@ -1,0 +1,57 @@
+# ARUNSUN
+# Range 12800-12899
+
+12800 = {
+	name = Khelben
+	dynasty = 214002
+	father = 12900 # Arun Maerdrym
+	mother = 900063 # Arielimnda
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	414.1.1 = {
+		birth = yes
+	}
+	430.1.1 = {
+		trait = wizard
+		give_nickname = nick_blackstaff
+	}
+	464.1.1 = { # Estimate
+		trait = immortal
+	}
+}
+12801 = {
+	name = Zelphar
+	dynasty = 214002
+	father = 12800 # Khelben
+	
+	religion = catholic
+	culture = neverwinter
+	
+	1260.1.1 = { # Estimate
+		birth = yes
+	}
+	1300.1.1 = {
+		add_spouse = 13101 # Lhestyn
+	}
+	1320.1.1 = { # Estimate
+		death = yes
+	}
+}
+12802 = {
+	name = Khelben # the Younger
+	dynasty = 214002
+	father = 12801 # Zelphar
+	mother = 13101 # Lhestyn
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = { # Estimate
+		death = yes # Went to travel planes, can't represent this in game
+	}
+}

@@ -1,0 +1,20 @@
+# KAETH
+# Range 13000-13099
+
+13000 = {
+	name = Palron
+	dynasty = 214003
+	
+	religion = catholic
+	culture = waterdhavian # Guess
+	
+	400.1.1 = { # Estimate
+		birth = yes
+	}
+	420.1.1 = { # Estimate
+		trait = vampire
+	}
+	500.1.1 = { # Estimate
+		death = yes
+	}
+}

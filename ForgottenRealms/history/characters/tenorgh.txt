@@ -1,0 +1,22 @@
+# T'ENORGH
+# Range 13200-13299
+
+13200 = {
+	name = Raaghar
+	dynasty = 402000
+	
+	religion = catholic
+	culture = drow
+	
+	trait = immortal
+	
+	1301.1.1 = { # Estimate
+		birth = yes
+	}
+	1320.1.1 = { # Estimate
+		add_spouse = 900066 # Tleobar
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

@@ -17,3 +17,7 @@
 	name = Tressymfriend
 	culture = moonelf
 }
+401004 = {
+	name = Maerdrym
+	culture = moonelf
+}

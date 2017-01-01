@@ -75,3 +75,17 @@ spectral_harpist = {
 	cannot_marry = yes
 	cannot_inherit = yes
 }
+vampire = {
+	customizer = no
+	random = no
+	
+	fertility = 0
+	
+	immortal = yes
+	cannot_marry = yes
+	
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	
+	general_opinion = -20
+}

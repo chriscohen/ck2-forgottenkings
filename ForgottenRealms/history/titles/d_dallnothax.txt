@@ -1,9 +1,8 @@
 1317.1.1 = {
-	liege = 0 # Does not see d_agis as liege
+	liege = c_forest_of_mir
 	holder = 13200 # Raaghar T'Enorgh
 }
 1391.1.1 = {
 	# Death of Raaghar T'Enorgh
-	liege = d_agis
-	holder = 11800 # Ralan Pesarkhal
+	holder = 0
 }

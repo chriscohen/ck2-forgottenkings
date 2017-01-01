@@ -1,0 +1,46 @@
+# SILMAERIL
+# Range 13100-13199
+
+13100 = {
+	name = Shilarn
+	female = yes
+	dynasty = 214005
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1256.1.1 = { # Estimate
+		birth = yes
+	}
+	1272.1.1 = {
+		add_matrilineal_spouse = 900065 # Baeron
+	}
+	1308.1.11 = {
+		death = {
+			death_reason = death_suicide
+		}
+	}
+}
+13101 = {
+	# Source does not officially place her in the Silmaeril dynasty
+	name = Lhestyn
+	female = yes
+	father = 900065 # Baeron
+	mother = 13100 # Shilarn Silmaeril
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1276.1.1 = {
+		birth = yes
+	}
+	1292.1.1 = {
+		give_nickname = nick_the_masked_lady
+	}
+	1300.1.1 = {
+		add_spouse = 12801 # Zelphar Arunsun
+	}
+	1314.1.1 = {
+		death = yes
+	}
+}

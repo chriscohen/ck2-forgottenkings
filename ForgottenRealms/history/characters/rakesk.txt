@@ -1,0 +1,30 @@
+# RAKESK
+# Range 12700-12799
+
+12700 = {
+	name = Priamon
+	dynasty = 214001
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1189.1.1 = {
+		birth = yes
+	}
+	1205.1.1 = {
+		trait = wizard
+	}
+	1212.1.1 = {
+		give_nickname = nick_frostrune
+	}
+	1255.1.1 = {
+		trait = lich
+		employer = 900044 # Rhangaun / Twisted Rune
+	}
+	1374.12.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 12800 # Khelben "Blackstaff" Arunsun
+		}
+	}
+}

@@ -1,0 +1,25 @@
+# MAERDRYM
+# Range 12900-12999
+
+12900 = {
+	name = Arun
+	dynasty = 401004
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = immortal
+	
+	330.1.1 = {
+		birth = yes
+	}
+	350.1.1 = {
+		add_spouse = 900063 # Arielimnda
+	}
+	464.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 13000 # Palron Kaeth
+		}
+	}
+}

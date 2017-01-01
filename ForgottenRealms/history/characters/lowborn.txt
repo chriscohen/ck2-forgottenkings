@@ -740,6 +740,9 @@
 	240.1.1 = { # Estimate
 		trait = lich
 	}
+	864.1.1 = {
+		employer = 900061 # Rysellan the Dark
+	}
 }
 900045 = {
 	name = "Vala Thorsdottir" # Killer of Escanor Tanthul
@@ -1041,5 +1044,89 @@
 		death = {
 			death_reason = death_battle
 		}
+	}
+900062 = {
+	name = Shangalar
+	
+	religion = sunni
+	culture = calishite
+	
+	660.1.1 = { # Estimate
+		birth = yes
+	}
+	676.1.1 = {
+		trait = wizard
+		give_nickname = nick_the_black
+	}
+	740.1.1 = { # Estimate
+		trait = lich
+	}
+	864.1.1 = {
+		employer = 900061 # Rysellan the Dark
+	}
+	1188.1.1 = {
+		employer = 900044 # Rhangaun
+	}
+}
+900063 = {
+	name = Arielimnda
+	female = yes
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = immortal
+	
+	330.1.1 = {
+		birth = yes
+	}
+	350.1.1 = {
+		add_spouse = 12900 # Arun Maerdrym
+	}
+	450.1.1 = { # Estimate
+		death = yes
+	}
+}
+900065 = {
+	name = Baeron # Father of Lhestyn
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1250.1.1 = { # Estimate
+		birth = yes
+	}
+	1272.1.1 = {
+		add_matrilineal_spouse = 13100 # Shilarn Silmaeril
+	}
+	1308.1.1 = {
+		trait = has_typhus
+	}
+	1308.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+900066 = {
+	name = Tleobar
+	female = yes
+	
+	religion = catholic
+	culture = drow
+	
+	trait = immortal
+	
+	1298.1.1 = { # Estimate
+		birth = yes
+	}
+	1314.1.1 = {
+		trait = wizard
+	}
+	1320.1.1 = { # Estimate
+		add_spouse = 13200 # Raaghar T'Enorgh
+	}
+	1379.1.1 = { # Estimate
+		death = yes
 	}
 }

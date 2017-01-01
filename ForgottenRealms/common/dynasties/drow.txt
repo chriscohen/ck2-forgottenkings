@@ -1,0 +1,7 @@
+# DROW
+# 402000-402999
+
+402000 = {
+	name = "T'Enorgh"
+	culture = drow
+}

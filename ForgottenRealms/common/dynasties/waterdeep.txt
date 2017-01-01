@@ -5,3 +5,24 @@
 	name = Amcathra
 	culture = waterdhavian
 }
+214001 = {
+	name = Rakesk
+	culture = waterdhavian
+}
+214002 = {
+	name = Arunsun
+	culture = waterdhavian
+}
+214003 = {
+	# A guess at cultural origin
+	name = Kaeth
+	culture = waterdhavian
+}
+214004 = {
+	name = Wands
+	culture = waterdhavian
+}
+214005 = {
+	name = Silmaeril
+	culture = waterdhavian
+}

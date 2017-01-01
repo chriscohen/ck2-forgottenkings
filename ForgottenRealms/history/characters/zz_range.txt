@@ -118,5 +118,11 @@
 # 12400  - 12499    Vitendi
 # 12500  - 12599    Kahmir
 # 12600  - 12699    Lamar
+# 12700  - 12799    Rakesk
+# 12800  - 12899    Arunsun
+# 12900  - 12999    Maerdrym
+# 13000  - 13099    Kaeth
+# 13100  - 13199    Silmaeril
+# 13200  - 13299    T'Enorgh
 #
 # 900000 - 999999 Lowborn
