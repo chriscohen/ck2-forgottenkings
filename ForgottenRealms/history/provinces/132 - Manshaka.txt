@@ -5,6 +5,7 @@ title = c_manshaka
 max_settlements = 2
 
 b_manshaka = castle
+b_schamedar = castle
 
 # Misc
 culture = calishite
