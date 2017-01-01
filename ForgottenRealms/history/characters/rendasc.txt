@@ -1,0 +1,20 @@
+# RENDASC
+# Range 16000-16099
+
+16000 = {
+	name = Sammar
+	dynasty = 207013
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		employer = 15500 # Ondul Jarduth / c_firedrake
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}

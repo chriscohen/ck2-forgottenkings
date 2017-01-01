@@ -1,0 +1,26 @@
+# BLACKTHORN
+# Range 15300-15399
+
+15300 = {
+	name = Llachior
+	dynasty = 207007
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		add_friend = 15500 # Ondul Jarduth
+	}
+	1350.1.1 = {
+		trait = one_handed
+	}
+	1368.10.1 = {
+		add_spouse = 15400 # Lawantha Silendia
+	}
+	1408.1.1 = {
+		death = yes
+	}
+}

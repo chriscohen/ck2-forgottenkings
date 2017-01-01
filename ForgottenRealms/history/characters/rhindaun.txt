@@ -4,9 +4,13 @@
 4900 = {
 	name = Coram
 	dynasty = 207002
+	father = 15001 # Haedrak Tethyr
+	mother = 4905 # Zaranda
 	
-	religion = catholic
+	religion = sunni
 	culture = tethyrian
+	
+	trait = twin
 	
 	1370.7.1 = {
 		birth = yes
@@ -19,9 +23,13 @@
 	name = Sybille
 	female = yes
 	dynasty = 207002
+	father = 15001 # Haedrak Tethyr
+	mother = 4905 # Zaranda
 	
-	religion = catholic
+	religion = sunni
 	culture = tethyrian
+	
+	trait = twin
 	
 	1370.7.1. = {
 		birth = yes
@@ -34,9 +42,13 @@
 	name = Cyriana
 	female = yes
 	dynasty = 207002
+	father = 15001 # Haedrak Tethyr
+	mother = 4905 # Zaranda
 	
-	religion = catholic
+	religion = sunni
 	culture = tethyrian
+	
+	trait = twin
 	
 	1370.7.1 = {
 		birth = yes
@@ -51,7 +63,7 @@
 	dynasty = 207002
 	father = 4900 # Coram
 	
-	religion = catholic
+	religion = sunni
 	culture = tethyrian
 	
 	1408.1.1 = {
@@ -64,5 +76,23 @@
 		death = {
 			death_reason = death_murder_unknown
 		}
+	}
+}
+4905 = {
+	name = Zaranda
+	female = yes
+	dynasty = 207002
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1332.1.1 = {
+		birth = yes
+	}
+	1360.1.1 = {
+		add_matrilineal_spouse = 15001 # Haedrak Tethyr
+	}
+	1397.1.1 = {
+		death = yes
 	}
 }

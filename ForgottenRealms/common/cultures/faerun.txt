@@ -485,6 +485,7 @@ human = {
 			Hala
 			Iamar
 			Kadila
+			Lawantha
 			Mariam Melek Meriel Munaa
 			Nada Nureh
 			Oma
@@ -964,16 +965,27 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
+			Alemander Aulis
 			Coram
-			Halanter
-			Sarshel
-			Taor
+			Darjast Dessek
+			Haedrak Halanter
+			Jaszur
+			Kaj
+			Llachior
+			Numar
+			Ondul Oon Orrdun
+			Sammar Sarshel
+			Taor Thenas
+			Whettimn
+			Yves
 		}
 		female_names = {
 			Ariia
 			Cyriana
+			Iitaar
 			Jemra
 			Sybille
+			Zaranda
 		}
 		
 		dukes_called_kings = no

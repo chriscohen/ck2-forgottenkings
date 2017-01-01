@@ -1,0 +1,7 @@
+1345.1.1 = {
+	liege = c_firedrake
+	holder = 900070 # Whettimn
+}
+1388.1.1 = {
+	holder = 0
+}

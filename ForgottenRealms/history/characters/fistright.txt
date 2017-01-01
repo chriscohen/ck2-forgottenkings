@@ -1,0 +1,24 @@
+# FISTRIGHT
+# Range 15800-15899
+
+15800 = {
+	name = Orrdun
+	dynasty = 207011
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1331.1.1 = {
+		employer = 15500 # Ondul Jarduth / c_firedrake
+	}
+	1335.1.1 = {
+		trait = tough_soldier
+		trait = scholarly_theologian
+	}
+	1381.1.1 = {
+		death = yes
+	}
+}

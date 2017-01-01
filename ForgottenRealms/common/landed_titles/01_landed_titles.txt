@@ -1558,6 +1558,8 @@ k_tethyr = {
 			}
 			b_tordraken = {
 			}
+			b_millvuthan = {
+			}
 		}
 		c_dragons_teeth = {
 			color = { 128 171 215 }

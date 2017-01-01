@@ -1,0 +1,23 @@
+# JARDUTH
+# Range 15500-15599
+
+15500 = {
+	name = Ondul
+	dynasty = 207008
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1306.1.1 = {
+		birth = yes
+	}
+	1326.1.1 = {
+		give_nickname = nick_warhammer
+	}
+	1340.1.1 = {
+		add_friend = 15300 # Llachior Blackthorn
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}

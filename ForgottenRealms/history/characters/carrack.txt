@@ -1,0 +1,23 @@
+# CARRACK
+# Range 15700-15799
+
+15700 = {
+	name = Yves
+	dynasty = 207010
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1319.1.1 = {
+		trait = scholarly_theologian
+	}
+	1322.1.1 = {
+		employer = 15500 # Ondul Jarduth / c_firedrake
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}

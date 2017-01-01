@@ -2,14 +2,17 @@
 #########################
 
 nick_blackstaff = {}
+nick_capn_cyclops = {}
 nick_demonbane = {}
 nick_fiendslayer = {}
 nick_first_king = {}
 nick_first_queen = {}
 nick_frostrune = {}
 nick_longyears = {}
+nick_redbeard = {}
 nick_the_boy_king = {}
 nick_the_cpob = {}
+nick_the_cudgel = {}
 nick_the_dark = {}
 nick_the_doomed_babe = {}
 nick_the_elder = {}
@@ -40,3 +43,4 @@ nick_the_true = {}
 nick_the_twinblade = {}
 nick_the_unfortunate = {}
 nick_the_venerable_one = {}
+nick_warhammer = {}

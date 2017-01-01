@@ -17,3 +17,55 @@
 	name = Adhalan
 	culture = tethyrian
 }
+207004 = {
+	name = Tethyr
+	culture = tethyrian
+}
+207005 = {
+	name = Huddarm
+	culture = tethyrian
+}
+207006 = {
+	name = Santele
+	culture = tethyrian
+}
+207007 = {
+	name = Blackthorn
+	culture = tethyrian
+}
+207008 = {
+	name = Jarduth
+	culture = tethyrian
+}
+207009 = {
+	name = Sumden
+	culture = tethyrian
+}
+207010 = {
+	name = Carrack
+	culture = tethyrian
+}
+207011 = {
+	name = Fistright
+	culture = tethyrian
+}
+207012 = {
+	name = Ujrol
+	culture = tethyrian
+}
+207013 = {
+	name = Rendasc
+	culture = tethyrian
+}
+207014 = {
+	name = Atheon
+	culture = tethyrian
+}
+207015 = {
+	name = "Or'qalak"
+	culture = tethyrian
+}
+207016 = {
+	name = Ierax
+	culture = tethyrian
+}

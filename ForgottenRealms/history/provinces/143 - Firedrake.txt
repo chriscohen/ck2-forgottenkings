@@ -11,6 +11,12 @@ culture = tethyrian
 religion = sunni
 
 #History
+1260.1.1 = {
+	# Seat of c_firedrake
+	# Move capital so that Velen can be ruled separately
+	b_millvuthan = castle
+	capital = b_millvuthan
+}
 1360.1.1 = {
 	# Rebuilt by Duke Llachior Blackthorn
 	b_tordraken = castle

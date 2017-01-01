@@ -1182,3 +1182,73 @@
 		death = yes
 	}
 }
+900070 = {
+	name = Whettimn
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}
+900071 = {
+	name = Aulis
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		trait = tough_soldier
+		trait = wizard
+		give_nickname = nick_redbeard
+		employer = 15500 # Ondul Jarduth / c_firedrake
+	}
+	1407.1.1 = {
+		death = yes
+	}
+}
+900072 = {
+	name = Iitaar
+	female = yes
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1249.1.1 = {
+		birth = yes
+	}
+	1322.1.1 = {
+		employer = 15500 # Ondul Jarduth / c_firedrake
+	}
+	1374.1.1 = {
+		death = yes
+	}
+}
+900073 = {
+	name = Jaszur
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		employer = 15500 # Ondul Jarduth / c_firedrake
+	}
+	1339.1.1 = {
+		trait = one_eyed
+		trait = intricate_webweaver
+		give_nickname = nick_capn_cyclops
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,26 @@
+# UJROL
+# Range 15900-15999
+
+15900 = {
+	name = Kaj
+	dynasty = 207012
+	
+	religion = sunni
+	culture = tethyrian
+	
+	trait = strong
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		employer = 15500 # Ondul Jarduth / c_firedrake
+		trait = skilled_tactician
+	}
+	1351.1.1 = {
+		give_nickname = nick_the_cudgel
+	}
+	1394.1.1 = {
+		death = yes
+	}
+}

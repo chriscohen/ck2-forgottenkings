@@ -1,0 +1,7 @@
+1322.1.1 = {
+	liege = d_cape_velen
+	holder = 15500 # Ondul Jarduth
+}
+1389.1.1 = {
+	holder = 0
+}

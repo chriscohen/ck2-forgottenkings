@@ -1,0 +1,21 @@
+# SUMDEN
+# Range 15600-15699
+
+15600 = {
+	name = Darjast
+	dynasty = 207009
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1322.1.1 = {
+		trait = scholarly_theologian
+		employer = 15500 # Ondul Jarduth
+	}
+	1399.1.1 = {
+		death = yes
+	}
+}

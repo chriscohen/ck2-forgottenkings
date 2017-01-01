@@ -1,0 +1,33 @@
+# HUDDARM
+# Range 15100-15199
+
+15100 = {
+	name = Thenas
+	dynasty = 207005
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	# Arrested Elesias 1368 and sent to Oon Santele's prison
+	1368.8.1 = {
+		effect = {
+			c_surkazar = {
+				holder_scope = {
+					ROOT = {
+						imprison = PREV
+						set_character_flag = captured_in_battle
+					}
+				}
+			}
+		}
+	}
+	1369.2.1 = {
+		death = {
+			death_reason = death_execution_beheading
+			killer = 15200 # Oon Santele
+		}
+	}
+}

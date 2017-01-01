@@ -1,0 +1,9 @@
+1319.1.1 = {
+	holder = 15000 # Alemander IV Tethyr
+}
+1347.9.1 = {
+	holder = 15001 # Haedrak Tethyr
+}
+1367.5.1 = {
+	holder = 4905 # Zaranda Rhindaun
+}

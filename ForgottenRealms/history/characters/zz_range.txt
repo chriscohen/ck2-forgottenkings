@@ -141,5 +141,19 @@
 # 14700  - 14799    Gaaran
 # 14800  - 14899    Daosiin
 # 14900  - 14999    Khadan
+# 15000  - 15099    Tethyr
+# 15100  - 15199    Huddarm
+# 15200  - 15299    Santele
+# 15300  - 15399    Blackthorn
+# 15400  - 15499    Silendia
+# 15500  - 15599    Jarduth
+# 15600  - 15699    Sumden
+# 15700  - 15799    Carrack
+# 15800  - 15899    Fistright
+# 15900  - 15999    Ujrol
+# 16000  - 16099    Rendasc
+# 16100  - 16199    Atheon
+# 16200  - 16299    Or'qalak
+# 16300  - 16399    Ierax
 #
 # 900000 - 999999 Lowborn

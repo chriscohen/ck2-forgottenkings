@@ -1,0 +1,50 @@
+# TETHYR
+# 15000-15099
+
+15000 = {
+	name = Alemander # Alemander IV
+	dynasty = 207004
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1294.1.1 = {
+		birth = yes
+	}
+	1347.9.1 = {
+		death = yes
+	}
+}
+15001 = {
+	name = Haedrak # 3rd son of Alemander IV
+	dynasty = 207004
+	father = 15000 # Alemander IV
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1360.1.1 = {
+		add_matrilineal_spouse = 4905 # Zaranda Rhindaun
+	}
+	1384.1.1 = {
+		death = yes
+	}
+}
+15002 = {
+	name = Alemander # Prince Alemander
+	dynasty = 207004
+	father = 15000 # Alemander IV
+	
+	religion = sunni
+	culture = tethyrian
+	
+	1321.1.1 = {
+		birth = yes
+	}
+	1347.9.1 = {
+		death = yes
+	}
+}

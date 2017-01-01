@@ -1,0 +1,20 @@
+# ATHEON
+# Range 16100-16199
+
+16100 = {
+	name = Dessek
+	dynasty = 207014
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		employer = 15300 # Llachior Blackthorn / d_firedrake
+	}
+	1357.1.1 = {
+		trait = lunatic
+	}
+	1379.1.1 = {
+		death = yes
+	}
+}
