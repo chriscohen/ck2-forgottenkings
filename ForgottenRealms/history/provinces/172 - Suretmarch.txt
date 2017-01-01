@@ -1,0 +1,13 @@
+# County Title
+title = c_suretmarch
+
+# Settlements
+max_settlements = 4
+
+b_abbor = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

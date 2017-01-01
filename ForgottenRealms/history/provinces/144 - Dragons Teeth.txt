@@ -1,0 +1,13 @@
+# County Title
+title = c_dragons_teeth
+
+# Settlements
+max_settlements = 1
+
+b_carlsmere = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

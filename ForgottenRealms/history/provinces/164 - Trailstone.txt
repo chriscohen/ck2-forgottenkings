@@ -1,0 +1,13 @@
+# County Title
+title = c_trailstone
+
+# Settlements
+max_settlements = 2
+
+b_trailstone = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

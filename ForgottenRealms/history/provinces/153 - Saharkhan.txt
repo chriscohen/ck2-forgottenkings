@@ -1,0 +1,13 @@
+# County Title
+title = c_saharkhan
+
+# Settlements
+max_settlements = 2
+
+b_saharkhan = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

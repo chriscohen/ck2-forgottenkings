@@ -1,0 +1,14 @@
+# County Title
+title = c_west_crown_lands
+
+# Settlements
+max_settlements = 2
+
+b_hostim = castle
+b_lerren = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

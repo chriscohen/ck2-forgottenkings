@@ -1,0 +1,13 @@
+# County Title
+title = c_zazesspur
+
+# Settlements
+max_settlements = 3
+
+b_zazesspur = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

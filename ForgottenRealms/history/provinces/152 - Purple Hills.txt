@@ -1,0 +1,13 @@
+# County Title
+title = c_purple_hills
+
+# Settlements
+max_settlements = 3
+
+b_barrowsmorn = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

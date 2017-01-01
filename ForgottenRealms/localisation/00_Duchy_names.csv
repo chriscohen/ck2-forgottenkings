@@ -3,6 +3,8 @@ d_agis;Agis;;;;;;;;;;;;;x
 d_agis_adj;Agissan;;;;;;;;;;;;;x
 d_alamir;Alamir;;;;;;;;;;;;;x
 d_alamir_adj;Alamiran;;;;;;;;;;;;;x
+d_ankaram;Ankaram;;;;;;;;;;;;;x
+d_ankaram_adj;Ankarami;;;;;;;;;;;;;x
 d_archendale;Archendale;;;;;;;;;;;;;x
 d_archendale_adj;Archendalen;;;;;;;;;;;;;x
 d_battledale;Battledale;;;;;;;;;;;;;x
@@ -11,10 +13,14 @@ d_calim_desert;Calim Desert;;;;;;;;;;;;;x
 d_calim_desert_adj;Calim Desertian;;;;;;;;;;;;;x
 d_callidyrr;Callidyrr;;;;;;;;;;;;;x
 d_callidyrr_adj;Callidyrran;;;;;;;;;;;;;x
+d_cape_velen;Cape Velen;;;;;;;;;;;;;x
+d_cape_velen_adj;Cape Velenian;;;;;;;;;;;;;x
 d_cormyr;Cormyr;Cormyr;Cormyr;;Cormyr;;;;;;;;;x
 d_cormyr_adj;Cormyrean;;;;;;;;;;;;;x
 d_corwell;Corwell;;;;;;;;;;;;;x
 d_corwell_adj;Corwellan;;;;;;;;;;;;;x
+d_crown_lands;Crown Lands;;;;;;;;;;;;;x
+d_crown_lands_adj;Crown Landsian;;;;;;;;;;;;;x
 d_daerlun;Daerlun;;;;;;;;;;;;;x
 d_daerlun_adj;Daerlunian;;;;;;;;;;;;;x
 d_daggerdale;Daggerdale;;;;;;;;;;;;;x
@@ -25,6 +31,8 @@ d_eastern_marches;Eastern Marches;;;;;;;;;;;;;x
 d_eastern_marches_adj;Eastern Marchian;;;;;;;;;;;;;x
 d_featherdale;Featherdale;;;;;;;;;;;;;x
 d_featherdale_adj;Featherdalen;;;;;;;;;;;;;x
+d_golden_marches;Golden Marches;;;;;;;;;;;;;x
+d_golden_marches_adj;Golden Marchian;;;;;;;;;;;;;x
 d_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 d_gnarhelm_adj;Gnarhelman;;;;;;;;;;;;;x
 d_harrowdale;Harrowdale;;;;;;;;;;;;;x
@@ -53,6 +61,8 @@ d_oman;Oman;;;;;;;;;;;;;x
 d_oman_adj;Omanian;;;;;;;;;;;;;x
 d_ordulin;Ordulin;;;;;;;;;;;;;x
 d_ordulin_adj;Ordulinian;;;;;;;;;;;;;x
+d_purple_marches;Purple Marches;;;;;;;;;;;;;x
+d_purple_marches_adj;Purple Marchian;;;;;;;;;;;;;x
 d_saerloon;Saerloon;;;;;;;;;;;;;x
 d_saerloon_adj;Saerloonian;;;;;;;;;;;;;x
 d_scardale;Scardale;;;;;;;;;;;;;x
@@ -69,8 +79,12 @@ d_skadaurak;Skadaurak;;;;;;;;;;;;;x
 d_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
 d_snowdown;Snowdown;;;;;;;;;;;;;x
 d_snowdown_adj;Snowdownian;;;;;;;;;;;;;x
+d_starspire;Starspire;;;;;;;;;;;;;x
+d_starspire_adj;Starspiran;;;;;;;;;;;;;x
 d_suldolphor;Suldolphor;;;;;;;;;;;;;x
 d_suldolphor_adj;Suldolphorian;;;;;;;;;;;;;x
+d_suretmarch;Suretmarch;;;;;;;;;;;;;x
+d_suretmarch_adj;Suretmarchian;;;;;;;;;;;;;x
 d_tarkhaldale;Tarkhaldale;;;;;;;;;;;;;x
 d_tarkhaldale_adj;Tarkhaldalen;;;;;;;;;;;;;x
 d_tasseldale;Tasseldale;;;;;;;;;;;;;x
@@ -85,6 +99,8 @@ d_twisted_rune;Twisted Rune;;;;;;;;;;;;;x
 d_twisted_rune_adj;Twisted Runian;;;;;;;;;;;;;x
 d_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
 d_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
+d_wealdath;Wealdath;;;;;;;;;;;;;x
+d_wealdath_adj;Wealdathan;;;;;;;;;;;;;x
 d_winterglen;Winterglen;;;;;;;;;;;;;x
 d_winterglen_adj;Winterglenian;;;;;;;;;;;;;x
 d_yeslipek;Yeshpek;;;;;;;;;;;;;x

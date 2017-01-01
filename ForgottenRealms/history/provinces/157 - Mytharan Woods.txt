@@ -1,0 +1,13 @@
+# County Title
+title = c_mytharan_woods
+
+# Settlements
+max_settlements = 1
+
+b_myth_rhynn = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

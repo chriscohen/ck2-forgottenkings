@@ -1,0 +1,13 @@
+# County Title
+title = c_tejarn_hills
+
+# Settlements
+max_settlements = 1
+
+b_tejarn_hills = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_myratma
+
+# Settlements
+max_settlements = 3
+
+b_myratma = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

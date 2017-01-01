@@ -1,0 +1,13 @@
+# County Title
+title = c_spulzeer_vale
+
+# Settlements
+max_settlements = 2
+
+b_spulzeer_vale = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

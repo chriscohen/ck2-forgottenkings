@@ -1,0 +1,13 @@
+# County Title
+title = c_riatavin
+
+# Settlements
+max_settlements = 3
+
+b_riatavin = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_darromar
+
+# Settlements
+max_settlements = 4
+
+b_darromar = castle
+b_st_ostus = temple
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

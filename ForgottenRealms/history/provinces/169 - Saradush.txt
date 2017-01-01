@@ -1,0 +1,13 @@
+# County Title
+title = c_saradush
+
+# Settlements
+max_settlements = 2
+
+b_saradush = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

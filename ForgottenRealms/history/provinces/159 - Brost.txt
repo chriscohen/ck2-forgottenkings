@@ -1,0 +1,13 @@
+# County Title
+title = c_brost
+
+# Settlements
+max_settlements = 1
+
+b_brost = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

@@ -1,0 +1,13 @@
+# County Title
+title = c_east_starspire_mountains
+
+# Settlements
+max_settlements = 1
+
+b_tresper_hall = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

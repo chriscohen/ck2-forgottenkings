@@ -1,0 +1,13 @@
+# County Title
+title = c_shoonach
+
+# Settlements
+max_settlements = 2
+
+b_shoonach = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

@@ -1,0 +1,14 @@
+# County Title
+title = c_pehrrifaal
+
+# Settlements
+max_settlements = 4
+
+b_elbencort = castle
+b_rhianna = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

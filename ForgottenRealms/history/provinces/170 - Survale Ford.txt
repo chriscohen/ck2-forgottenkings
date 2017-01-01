@@ -1,0 +1,13 @@
+# County Title
+title = c_survale_ford
+
+# Settlements
+max_settlements = 2
+
+b_survale_ford = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

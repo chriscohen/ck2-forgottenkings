@@ -1,0 +1,13 @@
+# County Title
+title = c_dragons_head
+
+# Settlements
+max_settlements = 3
+
+b_velen = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

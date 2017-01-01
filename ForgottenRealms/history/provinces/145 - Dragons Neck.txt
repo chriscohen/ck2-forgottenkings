@@ -1,0 +1,13 @@
+# County Title
+title = c_dragons_neck
+
+# Settlements
+max_settlements = 2
+
+b_monguldarath_tulmene = castle
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History
