@@ -57,8 +57,8 @@ k_calimshan = {
 			color = { 28 102 13 }
 			color2 = { 255 255 255 }
 			
-			title = TITLE_VIZIER
-			title_female = TITLE_VIZIER
+			title = TITLE_VIZER
+			title_female = TITLE_VIZERA
 			
 			b_memnon = {
 			}
@@ -85,8 +85,8 @@ k_calimshan = {
 			color = { 86 216 60 }
 			color2 = { 255 255 255 }
 			
-			title = TITLE_VIZIER
-			title_female = TITLE_VIZIER
+			title = TITLE_VIZER
+			title_female = TITLE_VIZERA
 			
 			b_calimport = {
 			}
@@ -198,8 +198,8 @@ k_calimshan = {
 			color = { 98 183 94 }
 			color2 = { 255 255 255 }
 			
-			title = TITLE_VIZIER
-			title_female = TITLE_VIZIER
+			title = TITLE_VIZER
+			title_female = TITLE_VIZERA
 			
 			b_manshaka = {
 			}
@@ -268,8 +268,8 @@ k_calimshan = {
 			color = { 46 154 22 }
 			color2 = { 255 255 255 }
 			
-			title = TITLE_VIZIER
-			title_female = TITLE_VIZIER
+			title = TITLE_VIZER
+			title_female = TITLE_VIZERA
 			
 			b_almraiven = {
 			}
@@ -1967,8 +1967,8 @@ d_suldolphor = {
 		color = { 135 138 21 }
 		color2 = { 255 255 255 }
 		
-		title = TITLE_VIZIER
-		title_female = TITLE_VIZIER
+		title = TITLE_VIZER
+		title_female = TITLE_VIZERA
 		
 		b_suldolphor = {
 		}
@@ -1994,8 +1994,8 @@ d_tulmon = {
 		color = { 220 222 114 }
 		color2 = { 255 255 255 }
 		
-		title = TITLE_VIZIER
-		title_female = TITLE_VIZIER
+		title = TITLE_VIZER
+		title_female = TITLE_VIZERA
 		
 		b_tulmon = {
 		}
@@ -2021,8 +2021,8 @@ d_yeslipek = {
 		color = { 180 183 52 }
 		color2 = { 255 255 255 }
 		
-		title = TITLE_VIZIER
-		title_female = TITLE_VIZIER
+		title = TITLE_VIZER
+		title_female = TITLE_VIZERA
 		
 		b_yeslipek = {
 		}
@@ -2057,3 +2057,15 @@ d_twisted_rune = {
 	mercenary_type = twisted_rune_composition
 }
 
+# EMPIRES
+
+e_shoon = {
+	color = { 33 208 202 }
+	color2 = { 0 0 0 }
+	
+	capital = 126 # Calimport
+	
+	allow = {
+		always = no # Only historical
+	}
+}
