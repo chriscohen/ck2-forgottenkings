@@ -57,6 +57,9 @@ k_calimshan = {
 			color = { 28 102 13 }
 			color2 = { 255 255 255 }
 			
+			title = TITLE_VIZIER
+			title_female = TITLE_VIZIER
+			
 			b_memnon = {
 			}
 			b_memnonnar = {
@@ -81,6 +84,9 @@ k_calimshan = {
 		c_calimport = {
 			color = { 86 216 60 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_VIZIER
+			title_female = TITLE_VIZIER
 			
 			b_calimport = {
 			}
@@ -192,6 +198,9 @@ k_calimshan = {
 			color = { 98 183 94 }
 			color2 = { 255 255 255 }
 			
+			title = TITLE_VIZIER
+			title_female = TITLE_VIZIER
+			
 			b_manshaka = {
 			}
 			b_schameder = {
@@ -258,6 +267,9 @@ k_calimshan = {
 		c_almraiven = {
 			color = { 46 154 22 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_VIZIER
+			title_female = TITLE_VIZIER
 			
 			b_almraiven = {
 			}
