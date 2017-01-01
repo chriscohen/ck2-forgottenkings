@@ -211,24 +211,6 @@
 		death = yes
 	}
 }
-13411 = {
-	name = Amahl # Amahl Shoon VI
-	dynasty = 209010
-	mother = 13409 # Daughter of Shoon V
-	
-	religion = sunni
-	culture = calishite
-	
-	180.1.1 = {
-		birth = yes
-	}
-	205.1.1 = {
-		death = {
-			death_reason = death_murder_poison
-			killer = 13412 # Shoon IV
-		}
-	}
-}
 13412 = {
 	name = Shoon # Shoon IV - no first name so he'll have to be Shoon Shoon
 	dynasty = 209010
@@ -506,5 +488,23 @@
 	}
 	450.1.1 = {
 		death = yes
+	}
+}
+13427 = {
+	name = Amahl # Amahl Shoon VI
+	dynasty = 209010
+	mother = 13409 # Daughter of Shoon V
+	
+	religion = sunni
+	culture = calishite
+	
+	180.1.1 = {
+		birth = yes
+	}
+	205.1.1 = {
+		death = {
+			death_reason = death_murder_poison
+			killer = 13412 # Shoon IV
+		}
 	}
 }
