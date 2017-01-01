@@ -1,0 +1,17 @@
+# DAOSIIN
+# Range 14800-14899
+
+14800 = {
+	name = Fahd
+	dynasty = 209023
+	
+	religion = sunni
+	culture = calishite
+	
+	420.1.1 = {
+		birth = yes
+	}
+	457.1.1 = {
+		death = yes
+	}
+}

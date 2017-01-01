@@ -1,5 +1,56 @@
+1.1.1 = {
+	active = no
+}
+50.1.1 = {
+	active = yes
+	liege = e_shoon
+	holder = 13400 # Shoon I
+}
+75.1.1 = {
+	holder = 13403 # Shoon II
+}
 107.1.1 = {
 	holder = 13600 # Hazamir Aktorral
+}
+123.1.1 = {
+	holder = 13405 # Shoon III
+}
+130.1.1 = {
+	holder = 13407 # Amahl Shoon IV
+}
+142.1.1 = {
+	holder = 13408 # Amahl Shoon V
+}
+204.1.1 = {
+	holder = 13411 # Amahl Shoon VI
+}
+205.1.1 = {
+	holder = 13412 # Shoon IV
+}
+281.1.1 = {
+	holder = 13415 # Shoon V
+}
+300.1.11 = {
+	holder = 13419 # Shoon VI
+}
+309.1.1 = {
+	holder = 13423 # Shoon VII
+}
+367.1.1 = {
+	holder = 13424 # Shaani
+}
+427.1.1 = {
+	holder = 13426 # Amahl Shoon VII
+}
+450.1.1 = {
+	liege = 0 # Fall of Shoon Empire
+	holder = 14800 # Fahd Daosiin
+}
+457.1.1 = {
+	holder = 0
+}
+911.1.1 = {
+	holder = 14900 # Bollus Khadan
 }
 1338.1.1 = {
 	holder = 11700 # Rashid Djenispool

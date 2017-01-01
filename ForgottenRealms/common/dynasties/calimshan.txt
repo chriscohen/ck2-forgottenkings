@@ -93,3 +93,11 @@
 	name = Gaaran
 	culture = calishite
 }
+209023 = {
+	name = Daosiin
+	culture = calishite
+}
+209024 = {
+	name = Kahdan
+	culture = calishite
+}
