@@ -738,7 +738,7 @@
 		trait = wizard
 	}
 	240.1.1 = { # Estimate
-		death = yes
+		trait = lich
 	}
 }
 900045 = {

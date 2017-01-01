@@ -1,0 +1,8 @@
+twisted_rune_composition = {
+	levy_size = 4
+	heavy_infantry = 100
+	light_infantry = 300
+	knights = 300
+	archers = 100
+	horse_archers = 150
+}

@@ -7,6 +7,13 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 	spriteType = {
+		name = "GFX_trait_lich"
+		texturefile = "gfx/traits/lich.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
 		name = "GFX_trait_shade"
 		texturefile = "gfx/traits/shade.dds"
 		noOfFrames = 1
