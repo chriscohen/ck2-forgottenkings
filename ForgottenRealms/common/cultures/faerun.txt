@@ -474,6 +474,7 @@ human = {
 		baron_titles_hidden = no
 		count_titles_hidden = no
 		
+		# TSR9561 p.54
 		from_dynasty_prefix = "el "
 		male_patronym = "yn "
 		female_patronym = "yr "
