@@ -3,5 +3,5 @@
 	holder = 11900 # Majel Arpooristan
 }
 1390.2.1 = {
-	holder = 11701 # Ralan Pesarkhal
+	holder = 11800 # Ralan Pesarkhal
 }

@@ -3,5 +3,5 @@
 	holder = 12100 # Duncan Ashnarti
 }
 1379.2.1 = {
-	holder = 11701 # Ralan Pesarkhal
+	holder = 11800 # Ralan Pesarkhal
 }

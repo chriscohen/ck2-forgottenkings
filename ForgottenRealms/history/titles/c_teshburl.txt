@@ -3,5 +3,5 @@
 	holder = 12400 # Mond Vitendi
 }
 1372.1.1 = {
-	holder = 11701 # Ralan Pesarkhal
+	holder = 11800 # Ralan Pesarkhal
 }

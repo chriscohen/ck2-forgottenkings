@@ -6,5 +6,5 @@
 	holder = 12300 # Anders Gnurlbrach
 }
 1376.1.1 = {
-	holder = 11701 # Ralan Pesarkhal
+	holder = 11800 # Ralan Pesarkhal
 }

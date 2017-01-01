@@ -5,6 +5,9 @@
 1340.1.1 = {
 	holder = 12200 # Artouk Fanzir
 }
+1359.2.1 = {
+	holder = 12500 # Nur Kahmir
+}
 1398.1.1 = {
-	holder = 11701 # Ralan Pesarkhal
+	holder = 11800 # Ralan Pesarkhal
 }
