@@ -475,6 +475,8 @@ human = {
 		count_titles_hidden = no
 		
 		from_dynasty_prefix = "el "
+		male_patronym = "yn "
+		female_patronym = "yr "
 		
 		prefix = no # The patronym is added as a suffix
 		
