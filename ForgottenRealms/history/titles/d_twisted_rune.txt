@@ -1,3 +1,6 @@
-240.1.1 = {
+864.1.1 = {
+	holder = 900061 # Rysellan the Dark
+}
+1188.1.1 = {
 	holder = 900044 # Rhangaun
 }

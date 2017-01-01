@@ -1021,3 +1021,25 @@
 		death = yes
 	}
 }
+900061 = {
+	name = Rysellan
+	
+	religion = catholic
+	culture = calishite # No idea for sure
+	
+	800.1.1 = { # Estimate
+		birth = yes
+	}
+	816.1.1 = {
+		trait = wizard
+	}
+	860.1.1 = { # Estimate
+		trait = lich
+		give_nickname = nick_the_dark
+	}
+	1188.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

@@ -8,6 +8,7 @@ nick_first_queen = {}
 nick_longyears = {}
 nick_the_boy_king = {}
 nick_the_cpob = {}
+nick_the_dark = {}
 nick_the_doomed_babe = {}
 nick_the_elder = {}
 nick_the_first_mother = {}
