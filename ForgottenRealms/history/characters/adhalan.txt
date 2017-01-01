@@ -5,7 +5,7 @@
 	name = Taor
 	dynasty = 209021
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1318.1.1 = {

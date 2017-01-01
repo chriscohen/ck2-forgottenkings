@@ -5,7 +5,7 @@
 	name = Thenas
 	dynasty = 207005
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1326.1.1 = {

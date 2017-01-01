@@ -5,7 +5,7 @@
 	name = Alemander # Alemander IV
 	dynasty = 207004
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1294.1.1 = {
@@ -20,7 +20,7 @@
 	dynasty = 207004
 	father = 15000 # Alemander IV
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1334.1.1 = {
@@ -38,7 +38,7 @@
 	dynasty = 207004
 	father = 15000 # Alemander IV
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1321.1.1 = {

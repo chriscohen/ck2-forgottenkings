@@ -6,7 +6,7 @@
 	female = yes
 	dynasty = 207016
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1314.1.1 = {

@@ -5,7 +5,7 @@
 	name = Orrdun
 	dynasty = 207011
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1315.1.1 = {

@@ -5,7 +5,7 @@
 	name = Sammar
 	dynasty = 207013
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1329.1.1 = {

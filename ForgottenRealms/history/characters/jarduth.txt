@@ -5,7 +5,7 @@
 	name = Ondul
 	dynasty = 207008
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1306.1.1 = {

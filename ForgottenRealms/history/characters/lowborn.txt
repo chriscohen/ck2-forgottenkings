@@ -1185,7 +1185,7 @@
 900070 = {
 	name = Whettimn
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1320.1.1 = {
@@ -1198,7 +1198,7 @@
 900071 = {
 	name = Aulis
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1331.1.1 = {
@@ -1218,7 +1218,7 @@
 	name = Iitaar
 	female = yes
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1249.1.1 = {
@@ -1234,7 +1234,7 @@
 900073 = {
 	name = Jaszur
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1319.1.1 = {

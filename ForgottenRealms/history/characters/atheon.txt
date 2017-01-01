@@ -5,6 +5,9 @@
 	name = Dessek
 	dynasty = 207014
 	
+	religion = catholic
+	culture = tethyrian
+	
 	1319.1.1 = {
 		birth = yes
 	}

@@ -5,7 +5,7 @@
 	name = Numar
 	dynasty = 207015
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1333.1.1 = {

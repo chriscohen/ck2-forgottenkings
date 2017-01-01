@@ -5,7 +5,7 @@
 	name = Kaj
 	dynasty = 207012
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	trait = strong

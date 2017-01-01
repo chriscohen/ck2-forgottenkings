@@ -7,7 +7,7 @@
 	father = 15001 # Haedrak Tethyr
 	mother = 4905 # Zaranda
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	trait = twin
@@ -26,7 +26,7 @@
 	father = 15001 # Haedrak Tethyr
 	mother = 4905 # Zaranda
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	trait = twin
@@ -45,7 +45,7 @@
 	father = 15001 # Haedrak Tethyr
 	mother = 4905 # Zaranda
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	trait = twin
@@ -63,7 +63,7 @@
 	dynasty = 207002
 	father = 4900 # Coram
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1408.1.1 = {
@@ -83,7 +83,7 @@
 	female = yes
 	dynasty = 207002
 	
-	religion = sunni
+	religion = catholic
 	culture = tethyrian
 	
 	1332.1.1 = {
