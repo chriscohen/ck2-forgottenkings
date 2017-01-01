@@ -31,4 +31,9 @@
 }
 209007 = {
 	name = Kahmir
+	culture = calishite
+}
+209008 = {
+	name = Lamar
+	culture = calishite
 }

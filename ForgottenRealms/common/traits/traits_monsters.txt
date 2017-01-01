@@ -7,6 +7,8 @@ ghazneth = {
 	martial = 10
 	intrigue = 10
 	
+	fertility = 0
+	
 	immortal = yes
 	can_hold_titles = no
 	cannot_marry = yes
@@ -23,9 +25,28 @@ lich = {
 	martial = 15
 	intrigue = 15
 	
+	fertility = 0
+	
 	immortal = yes
+	cannot_marry = yes
 	
 	general_opinion = -100
+}
+mummy = {
+	customizer = no
+	random = no
+	
+	diplomacy = -8
+	martial = 8
+	intrigue = 3
+	learning = 2
+	
+	fertility = 0
+	
+	immortal = yes
+	cannot_marry = yes
+	
+	general_opinion = -50
 }
 shade = {
 	customizer = no
@@ -46,6 +67,8 @@ shade = {
 spectral_harpist = {
 	customizer = no
 	random = no
+	
+	fertility = 0
 	
 	immortal = yes
 	can_hold_titles = no

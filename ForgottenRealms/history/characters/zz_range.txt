@@ -117,5 +117,6 @@
 # 12300  - 12399    Gnurlbrach
 # 12400  - 12499    Vitendi
 # 12500  - 12599    Kahmir
+# 12600  - 12699    Lamar
 #
 # 900000 - 999999 Lowborn

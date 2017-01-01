@@ -1,0 +1,18 @@
+# LAMAR
+# Range 12600-12699
+
+12600 = {
+	name = "Fida'iya"
+	female = yes
+	dynasty = 209008
+	
+	religion = sunni
+	culture = calishite
+	
+	1000.1.1 = { # Estimate
+		birth = yes
+	}
+	1070.1.1 = {
+		trait = mummy
+	}
+}

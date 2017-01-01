@@ -1,10 +1,4 @@
-1338.1.1 = {
+1070.1.1 = {
 	liege = d_calim_desert
-	holder = 11700 # Rashid Djenispool
-}
-1359.1.1 = {
-	holder = 11701 # Punjor Djenispool
-}
-1359.2.1 = {
-	holder = 11800 # Ralan Pesarkhal
+	holder = 12600 # Fida'iya Lamar (mummy)
 }
