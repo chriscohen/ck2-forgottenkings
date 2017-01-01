@@ -109,7 +109,7 @@ k_calimshan = {
 				}
 			}
 		}
-		capital = 130 # c_forest_of_mir
+		capital = 124 # Agis
 		
 		c_agis = {
 			color={ 68 204 58 }
