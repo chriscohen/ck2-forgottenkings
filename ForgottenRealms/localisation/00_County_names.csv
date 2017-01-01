@@ -49,8 +49,6 @@ c_deepingdale;Deepingdale;;;;;;;;;;;;;x
 c_deepingdale_adj;Deepingdalen;;;;;;;;;;;;;x
 c_dennik;Dennik;;;;;;;;;;;;;x
 c_dennik_adj;Dennikian;;;;;;;;;;;;;x
-c_dragons_head;Dragon’s Head;;;;;;;;;;;;;x
-c_dragons_head_adj;Dragon’s Headian;;;;;;;;;;;;;x
 c_dragons_neck;Dragon’s Neck;;;;;;;;;;;;;x
 c_dragons_neck_adj;Dragon’s Neckian;;;;;;;;;;;;;x
 c_dragons_teeth;Dragon’s Teeth;;;;;;;;;;;;;x
@@ -77,6 +75,8 @@ c_fairheight;Fairheight;;;;;;;;;;;;;x
 c_fairheight_adj;Fairheighter;;;;;;;;;;;;;x
 c_featherdale;Featherdale;;;;;;;;;;;;;x
 c_featherdale_adj;Featherdalen;;;;;;;;;;;;;x
+c_firedrake;Firedrake;;;;;;;;;;;;;x
+c_firedrake_adj;Firedrakian;;;;;;;;;;;;;x
 c_flamsterd;Flamsterd;;;;;;;;;;;;;x
 c_flamsterd_adj;Flamsterdian;;;;;;;;;;;;;x
 c_forest_of_mir;Forest of Mir;;;;;;;;;;;;;x

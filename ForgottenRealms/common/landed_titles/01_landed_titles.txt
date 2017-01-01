@@ -1548,7 +1548,7 @@ k_tethyr = {
 		
 		capital = 143 # Dragon's Head
 		
-		c_dragons_head = {
+		c_firedrake = {
 			color = { 56 145 237 }
 			color2 = { 255 255 255 }
 			
