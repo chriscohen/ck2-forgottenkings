@@ -62,8 +62,6 @@ k_calimshan = {
 			
 			b_memnon = {
 			}
-			b_memnonnar = {
-			}
 		}
 		c_teshyll = {
 			color = { 23 72 14 }
@@ -1568,17 +1566,19 @@ k_tethyr = {
 			b_carlsmere = {
 			}
 		}
-		c_dragons_neck = {
+		c_fyraven = {
 			color = { 51 94 139 }
 			color2 = { 255 255 255 }
 			
-			b_monguldarath_tulmene = {
+			b_tulmene = {
 			}
 			b_honorguard_house = {
 			}
+			b_monguldarath = {
+			}
 		}
 	}
-	d_wealdath = {
+	d_greenshores = {
 		color = { 31 59 105 }
 		color2 = { 255 255 255 }
 		
@@ -1588,19 +1588,13 @@ k_tethyr = {
 				any_demesne_province = {
 					province_id = 146
 					province_id = 147
-					province_id = 157
-					province_id = 158
-					province_id = 159
-					province_id = 161
-					province_id = 162
-					province_id = 163
 				}
 			}
 		}
 		
 		capital = 147 # Mosstone
 		
-		c_trade_way = {
+		c_greenshores = {
 			color = { 24 87 188 }
 			color2 = { 255 255 255 }
 			
@@ -1618,6 +1612,31 @@ k_tethyr = {
 			b_kirgard = {
 			}
 		}
+	}
+	d_noromath = {
+		color = { 47 75 138 }
+		color2 = { 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 157
+					province_id = 158
+					province_id = 159
+				}
+			}
+		}
+		
+		capital = 159 # Brost
+		
+		c_brost = {
+			color = { 47 75 138 }
+			color2 = { 255 255 255 }
+			
+			b_brost = {
+			}
+		}
 		c_mytharan_woods = {
 			color = { 183 208 248 }
 			color2 = { 255 255 255 }
@@ -1632,20 +1651,29 @@ k_tethyr = {
 			b_talltrees = {
 			}
 		}
-		c_brost = {
-			color = { 47 75 138 }
-			color2 = { 255 255 255 }
-			
-			b_brost = {
+	}
+	d_durmista = {
+		color = { 78 98 131 }
+		color2 = { 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 161
+					province_id = 162
+					province_id = 163
+				}
 			}
 		}
+		
+		capital = 162 # Suldanessellar
+		
 		c_spulzeer_vale = {
 			color = { 52 116 220 }
 			color2 = { 255 255 255 }
 			
 			b_spulzeer_vale = {
-			}
-			b_shildamere = {
 			}
 		}
 		c_suldanessellar = {
@@ -1663,46 +1691,7 @@ k_tethyr = {
 			}
 		}
 	}
-	d_starspire = {
-		color = { 26 78 132 }
-		color2 = { 255 255 255 }
-		
-		allow = {
-			OR = {
-				lower_tier_than = KING
-				any_demesne_province = {
-					province_id = 148
-					province_id = 149
-					province_id = 150
-				}
-			}
-		}
-		
-		capital = 149 # West Starspire Mountains
-		
-		c_starspire_peninsula = {
-			color = { 26 78 132 }
-			color2 = { 255 255 255 }
-			
-			b_st_ramedar = {
-			}
-		}
-		c_west_starspire_mountains = {
-			color = { 96 152 210 }
-			color2 = { 255 255 255 }
-			
-			b_uluran_keep = {
-			}
-		}
-		c_east_starspire_mountains = {
-			color = { 108 133 160 }
-			color2 = { 255 255 255 }
-			
-			b_tresper_hall = {
-			}
-		}
-	}
-	d_purple_marches = {
+	d_kamlann = {
 		color = { 48 144 244 }
 		color2 = { 255 255 255 }
 		
@@ -1710,9 +1699,9 @@ k_tethyr = {
 			OR = {
 				lower_tier_than = KING
 				any_demesne_province = {
+					province_id = 149
+					province_id = 150
 					province_id = 151
-					province_id = 152
-					province_id = 153
 				}
 			}
 		}
@@ -1730,7 +1719,61 @@ k_tethyr = {
 			b_fortress_faithful = {
 			}
 		}
-		c_purple_hills = {
+		c_uluran = {
+			color = { 96 152 210 }
+			color2 = { 255 255 255 }
+			
+			b_uluran_keep = {
+			}
+		}
+		c_east_starspire_mountains = {
+			color = { 108 133 160 }
+			color2 = { 255 255 255 }
+			
+			b_tresper_hall = {
+			}
+		}
+	}
+	d_starspur = {
+		color = { 26 78 132 }
+		color2 = { 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 148
+				}
+			}
+		}
+		
+		capital = 148 # Starspur
+		
+		c_starspur = {
+			color = { 26 78 132 }
+			color2 = { 255 255 255 }
+			
+			b_st_ramedar = {
+			}
+		}
+	}
+	d_purple_marches = {
+		color = { 48 144 244 }
+		color2 = { 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 152
+					province_id = 153
+				}
+			}
+		}
+		
+		capital = 152 # Purple Hills
+		
+		c_vintor = {
 			color = { 16 103 194 }
 			color2 = { 255 255 255 }
 			
@@ -1739,6 +1782,8 @@ k_tethyr = {
 			b_vineshade = {
 			}
 			b_canaith = {
+			}
+			b_amethyst_hall = {
 			}
 		}
 		c_saharkhan = {
@@ -1761,13 +1806,14 @@ k_tethyr = {
 				any_demesne_province = {
 					province_id = 154
 					province_id = 155
+					province_id = 174
 				}
 			}
 		}
 		
 		capital = 154 # Myratma
 		
-		c_myratma = {
+		c_elemetar = {
 			color = { 114 177 242 }
 			color2 = { 255 255 255 }
 			
@@ -1778,13 +1824,24 @@ k_tethyr = {
 			b_maratimmir = {
 			}
 		}
-		c_shoonach = {
+		c_calimmon = {
 			color = { 12 50 89 }
 			color2 = { 255 255 255 }
 			
+			b_ruba = {
+			}
+		}
+		c_monteshi = {
+			color = { 83 114 165 }
+			color2 = { 255 255 255 }
+			
+			b_fort_teqlar = {
+			}
+			b_pelmarin = {
+			}
 			b_shoonach = {
 			}
-			b_ruba = {
+			b_memnonnar = {
 			}
 		}
 	}
@@ -1807,7 +1864,7 @@ k_tethyr = {
 		
 		capital = 171 # Darromar
 		
-		c_west_crown_lands = {
+		c_bardshyr = {
 			color = { 38 92 180 }
 			color2 = { 255 255 255 }
 			
@@ -1832,21 +1889,21 @@ k_tethyr = {
 			b_sunrise_orchards = {
 			}
 		}
-		c_riatavin = {
+		c_spellshire = {
 			color = { 48 102 158 }
 			color2 = { 255 255 255 }
 			
-			b_riatavin = {
-			}
-			b_tannithall = {
+			b_shildamere = {
 			}
 			b_asharfall = {
 			}
 		}
-		c_darromar = {
-			color = { 143 183 230 }
+		c_ithmonn = {
+			color = { 65 97 134 }
 			color2 = { 255 255 255 }
 			
+			b_faerntarn = {
+			}
 			b_darromar = {
 			}
 			b_foyeri = {
@@ -1854,6 +1911,20 @@ k_tethyr = {
 			b_ustan = {
 			}
 			b_st_ostus = {
+			}
+		}
+		c_varyth = {
+			color = { 143 183 230 }
+			color2 = { 255 255 255 }
+			
+			b_tor_arcana = {
+			}
+		}
+		c_rivershire = {
+			color = { 39 59 158 }
+			color2 = { 255 255 255 }
+			
+			b_lhestyns_hearth = {
 			}
 		}
 	}
@@ -1882,7 +1953,7 @@ k_tethyr = {
 			b_ilthal_pass = {
 			}
 		}
-		c_suretmarch = {
+		c_alonmarch = {
 			color = { 11 74 151 }
 			color2 = { 255 255 255 }
 			
@@ -1912,33 +1983,28 @@ k_tethyr = {
 				lower_tier_than = KING
 				any_demesne_province = {
 					province_id = 166
-					province_id = 167
 					province_id = 168
 					province_id = 170
 				}
 			}
 		}
 		
-		capital = 167 # Pehrrifaal
+		capital = 168 # Surkazar
 		
+		c_valashar = {
+			color = { 135 151 235 }
+			color2 = { 255 255 255 }
+			
+			b_riatavin = {
+			}
+			b_tannithall = {
+			}
+		}
 		c_shilmista = {
 			color = { 25 121 221 }
 			color2 = { 255 255 255 }
 			
 			b_shilmista = {
-			}
-		}
-		c_pehrrifaal = {
-			color = { 41 94 148
-			color2 = { 255 255 255 }
-			
-			b_elbencort = {
-			}
-			b_morninggold_keep = {
-			}
-			b_rhianna = {
-			}
-			b_sheshyr_house = {
 			}
 		}
 		c_surkazar = {
@@ -1948,13 +2014,47 @@ k_tethyr = {
 			b_colbertann = {
 			}
 		}
-		c_survale_ford = {
+		c_hazamarch = {
 			color = { 25 59 101 }
 			color2 = { 255 255 255 }
 			
+			b_iltarghal_keep = {
+			}
 			b_survale_ford = {
 			}
-			b_iltarghal = {
+		}
+		c_morninggold = {
+			color = { 14 52 146 }
+			color2 = { 255 255 255 }
+			
+			b_morninggold_keep = {
+			}
+		}
+	}
+	d_iltkazar_highlands = {
+		color = { 41 94 148 }
+		color2 = { 255 255 255 }
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 167
+				}
+			}
+		}
+		
+		capital = 167 # Iltkazar Highlands
+		
+		c_iltkazar_highlands = {
+			color = { 41 94 148 }
+			color2 = { 255 255 255 }
+			
+			b_elbencort = {
+			}
+			b_rhianna = {
+			}
+			b_sheshyr_house = {
 			}
 		}
 	}

@@ -1,11 +1,10 @@
 # County Title
-title = c_darromar
+title = c_valashar
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
-b_darromar = castle
-b_st_ostus = temple
+b_riatavin = castle
 
 # Misc
 culture = tethyrian

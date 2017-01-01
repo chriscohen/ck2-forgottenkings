@@ -13,6 +13,8 @@ b_almraiven;Almraiven;;;;;;;;;;;;;x
 b_almraiven_adj;Almraivenian;;;;;;;;;;;;;x
 b_aluianti;Aluianti;;;;;;;;;;;;;x
 b_aluianti_adj;Aluiantian;;;;;;;;;;;;;x
+b_amethyst_hall;Amethyst Hall;;;;;;;;;;;;;x
+b_amethyst_hall_adj;Amethyst Hallian;;;;;;;;;;;;;x
 b_arabel;Arabel;;;;;;;;;;;;;x
 b_arabel_adj;Arabellan;;;;;;;;;;;;;x
 b_archenbridge;Archenbridge;;;;;;;;;;;;;x
@@ -167,6 +169,8 @@ b_faeressar;Faeressar;;;;;;;;;;;;;x
 b_faeressar_adj;Faeressari;;;;;;;;;;;;;x
 b_farview;Farview;;;;;;;;;;;;;x
 b_farview_adj;Farviewer;;;;;;;;;;;;;x
+b_faerntarn;Faerntarn;;;;;;;;;;;;;x
+b_faerntarn_adj;Faerntarni;;;;;;;;;;;;;x
 b_feather_falls;Feather Falls;;;;;;;;;;;;;x
 b_feather_falls_adj;Feather Fallsian;;;;;;;;;;;;;x
 b_fenton;Fenton;;;;;;;;;;;;;x
@@ -177,6 +181,8 @@ b_flamsterd;Flamsterd;;;;;;;;;;;;;x
 b_flamsterd;Flamsterdan;;;;;;;;;;;;;x
 b_follebu;Follebu;;;;;;;;;;;;;x
 b_follebu_adj;Follebian;;;;;;;;;;;;;x
+b_fort_teqlar;Fort Teqlar;;;;;;;;;;;;;x
+b_fort_teqlar_adj;Fort Teqlarri;;;;;;;;;;;;;x
 b_fortress_faithful;Fortress Faithful;;;;;;;;;;;;;x
 b_fortress_faithful_adj;Fortress Faithfullian;;;;;;;;;;;;;x
 b_foyeri;Foyeri;;;;;;;;;;;;;x
@@ -265,8 +271,8 @@ b_huddagh;Huddagh;;;;;;;;;;;;;x
 b_huddagh_adj;Huddaghian;;;;;;;;;;;;;x
 b_hultail;Hultail;;;;;;;;;;;;;x
 b_hultail_adj;Hultailan;;;;;;;;;;;;;x
-b_iltarghal;Iltarghal;;;;;;;;;;;;;x
-b_iltarghal_adj;Iltarghalian;;;;;;;;;;;;;x
+b_iltarghal_keep;Iltarghal Keep;;;;;;;;;;;;;x
+b_iltarghal_keep_adj;Iltarghal Keepian;;;;;;;;;;;;;x
 b_ilthal_pass;Ilthal Pass;;;;;;;;;;;;;x
 b_ilthal_pass_adj;Ilthallian;;;;;;;;;;;;;x
 b_immersea;Immersea;;;;;;;;;;;;;x
@@ -309,6 +315,8 @@ b_lehigh;Lehigh;;;;;;;;;;;;;x
 b_lehigh_adj;Lehighan;;;;;;;;;;;;;x
 b_lerren;Lerren;;;;;;;;;;;;;x
 b_lerren_adj;Lerrenian;;;;;;;;;;;;;x
+b_lhestyns_hearth;Lhestyn’s Hearth;;;;;;;;;;;;;x
+b_lhestyns_hearth_adj;Lhestyn’s Hearthian;;;;;;;;;;;;;x
 b_lillemaren;Lillemaren;;;;;;;;;;;;;x
 b_lillemaren_adj;Lillemarian;;;;;;;;;;;;;x
 b_llandrain;Llandrain;;;;;;;;;;;;;x
@@ -343,8 +351,8 @@ b_mintarn;Mintarn;;;;;;;;;;;;;x
 b_mintarn_adj;Mintarnan;;;;;;;;;;;;;x
 b_mistletoe_keep;Mistletoe Keep;;;;;;;;;;;;;x
 b_mistletoe_keep_adj;Mistletoe Keepian;;;;;;;;;;;;;x
-b_monguldarath_tulmene;Monguldarath Tulmene;;;;;;;;;;;;;x
-b_monguldarath_tulmene_adj;Monguldarathian;;;;;;;;;;;;;x
+b_monguldarath;Monguldarath;;;;;;;;;;;;;x
+b_monguldarath_adj;Monguldarathan;;;;;;;;;;;;;x
 b_monksblade;Monksblade;;;;;;;;;;;;;x
 b_monksblade_adj;Monksblader;;;;;;;;;;;;;x
 b_moonever;Moonever;;;;;;;;;;;;;x
@@ -401,6 +409,8 @@ b_pandira;Pandira;;;;;;;;;;;;;x
 b_pandira_adj;Pandiran;;;;;;;;;;;;;x
 b_peldans_helm;Peldan’s Helm;;;;;;;;;;;;;x
 b_peldans_helm_adj;Peldan’s Helmian;;;;;;;;;;;;;x
+b_pelmarin;Pelmarin;;;;;;;;;;;;;x
+b_pelmarin_adj;Pelmarinni;;;;;;;;;;;;;x
 b_pembroke;Pembroke;;;;;;;;;;;;;x
 b_pembroke_adj;Pembroken;;;;;;;;;;;;;x
 b_pengram;Pengram;;;;;;;;;;;;;x
@@ -553,6 +563,8 @@ b_thunderstone;Thunderstone;;;;;;;;;;;;;x
 b_thunderstone_adj;Thunderstonian;;;;;;;;;;;;;x
 b_tilverton;Tilverton;;;;;;;;;;;;;x
 b_tilverton_adj;Tilvertonian;;;;;;;;;;;;;x
+b_tor_arcana;Tor Arcana;;;;;;;;;;;;;x
+b_tor_arcana_adj;Tor Arcanan;;;;;;;;;;;;;x
 b_toralth;Toralth;;;;;;;;;;;;;x
 b_toralth_adj;Toralthian;;;;;;;;;;;;;x
 b_tordraken;Tordraken;;;;;;;;;;;;;x
@@ -569,6 +581,8 @@ b_tsornyl;Tsornyl;;;;;;;;;;;;;x
 b_tsornyl_adj;Tsornyllan;;;;;;;;;;;;;x
 b_tulbegh;Tulbegh;;;;;;;;;;;;;x
 b_tulbegh_adj;Tulbeghian;;;;;;;;;;;;;x
+b_tulmene;Tulmene;;;;;;;;;;;;;x
+b_tulmene_adj;Tulmenian;;;;;;;;;;;;;x
 b_tulmon;Tulmon;;;;;;;;;;;;;x
 b_tulmon_adj;Tulmonni;;;;;;;;;;;;;x
 b_tyrluk;Tyrluk;;;;;;;;;;;;;x

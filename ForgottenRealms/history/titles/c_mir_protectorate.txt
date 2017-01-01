@@ -1,0 +1,11 @@
+1.1.1 = {
+	liege = d_suretmarch
+}
+1347.9.1 = {
+	# Seized as part of 10 Black Days of Eleint
+	liege = 0
+	holder = 15100 # Thenas Huddarm
+}
+1368.8.1 = {
+	holder = 0
+}

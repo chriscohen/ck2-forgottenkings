@@ -1,0 +1,22 @@
+# SANTELE
+# Range 15200-15299
+
+15200 = {
+	name = Oon
+	dynasty = 207006
+	
+	religion = sunni
+	culture = tethyrian
+	
+	trait = weak
+	
+	1307.1.1 = {
+		birth = yes
+	}
+	1327.1.1 = {
+		trait = fortune_builder
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

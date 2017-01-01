@@ -143,18 +143,18 @@ province;red;green;blue;x;x
 142;135;138;21;Suldolphor;x
 143;56;145;237;Dragons Head;x
 144;128;171;215;Dragons Teeth;x
-145;51;94;139;Dragons Neck;x
-146;24;87;188;Trade Way;x
+145;51;94;139;Fyraven;x
+146;24;87;188;Greenshores;x
 147;77;139;240;Mosstone;x
-148;26;78;132;Starspire Peninsula;x
-149;96;152;210;West Starspire Mountains;x
+148;26;78;132;Starspur;x
+149;96;152;210;Uluran;x
 150;108;133;160;East Starspire Mountains;x
 151;48;144;244;Zazesspur;x
-152;16;103;194;Purple Hills;x
+152;16;103;194;Vintor;x
 153;184;211;238;Saharkhan;x
-154;114;177;242;Myratma;x
-155;12;50;89;Shoonach;x
-156;38;92;180;West Crown Lands;x
+154;114;177;242;Elemetar;x
+155;12;50;89;Calimmon;x
+156;38;92;180;Bardshyr;x
 157;183;208;248;Mytharan Woods;x
 158;31;59;105;Talltrees;x
 159;47;75;138;Brost;x
@@ -163,12 +163,17 @@ province;red;green;blue;x;x
 162;78;98;131;Suldanessellar;x
 163;109;166;225;Toralth;x
 164;103;171;241;Trailstone;x
-165;48;102;158;Riatavin;x
+165;48;102;158;Spellshire;x
 166;25;121;221;Shilmista;x
-167;41;94;148;Pehrrifaal;x
+167;41;94;148;Iltkazar Highlands;x
 168;64;125;200;Surkazar;x
 169;125;159;200;Saradush;x
-170;25;59;101;Survale Ford;x
-171;143;183;230;Darromar
-172;11;74;151;Suretmarch;x
+170;25;59;101;Hazamarch;x
+171;143;183;230;Varyth;x
+172;11;74;151;Alonmarch;x
 173;52;130;221;Mir Protectorate;x
+174;83;114;165;Monteshi;x
+175;65;97;134;Ithmonn;x
+176;39;59;158;Rivershire;x
+177;135;151;235;Valashar;x
+178;14;52;146;Morninggold;x

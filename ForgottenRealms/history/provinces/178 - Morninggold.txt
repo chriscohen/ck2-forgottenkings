@@ -1,10 +1,10 @@
 # County Title
-title = c_west_starspire_mountains
+title = c_morninggold
 
 # Settlements
 max_settlements = 1
 
-b_uluran_keep = castle
+b_morninggold_keep = castle
 
 # Misc
 culture = tethyrian

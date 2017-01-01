@@ -1,10 +1,10 @@
 # County Title
-title = c_spulzeer_vale
+title = c_fyraven
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_spulzeer_vale = castle
+b_tulmene = castle
 
 # Misc
 culture = tethyrian

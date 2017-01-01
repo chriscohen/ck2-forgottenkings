@@ -1,8 +1,8 @@
 # County Title
-title = c_pehrrifaal
+title = c_iltkazar_highlands
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
 b_elbencort = castle
 b_rhianna = castle

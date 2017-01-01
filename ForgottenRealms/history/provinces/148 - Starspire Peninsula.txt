@@ -1,5 +1,5 @@
 # County Title
-title = c_starspire_peninsula
+title = c_starspur
 
 # Settlements
 max_settlements = 1

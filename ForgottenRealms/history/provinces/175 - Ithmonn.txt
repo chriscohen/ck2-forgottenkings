@@ -1,0 +1,15 @@
+# County Title
+title = c_ithmonn
+
+# Settlements
+max_settlements = 5
+
+b_faerntarn = castle
+b_darromar = castle
+b_st_ostus = temple
+
+# Misc
+culture = tethyrian
+religion = sunni
+
+#History

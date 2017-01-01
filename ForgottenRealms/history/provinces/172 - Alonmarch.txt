@@ -1,10 +1,10 @@
 # County Title
-title = c_survale_ford
+title = c_alonmarch
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_survale_ford = castle
+b_abbor = castle
 
 # Misc
 culture = tethyrian
