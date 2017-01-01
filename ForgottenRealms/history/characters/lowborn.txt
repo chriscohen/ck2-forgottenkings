@@ -726,7 +726,7 @@
 	}
 }
 900044 = {
-	name = Rhanghaun # Killer of Cauln Aumar
+	name = Rhangaun # Killer of Cauln Aumar
 	
 	religion = catholic
 	culture = calishite
@@ -1001,6 +1001,9 @@
 	
 	1309.1.1 = { # Estimate
 		birth = yes
+	}
+	1329.1.1 = {
+		give_nickname = nick_the_silver_spider
 	}
 	1334.1.1 = {
 		employer = 11700 # Rashid Djenispool

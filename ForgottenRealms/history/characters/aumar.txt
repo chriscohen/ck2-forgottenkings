@@ -107,7 +107,7 @@
 	217.1.1 = {
 		death = {
 			death_reason = death_murder
-			killer = 900044 # Rhanghaun
+			killer = 900044 # Rhangaun
 		}
 	}
 }
