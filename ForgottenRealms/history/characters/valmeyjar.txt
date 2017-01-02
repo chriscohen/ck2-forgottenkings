@@ -20,7 +20,7 @@
 		# Acts as regent during infancy of Cyriana Rhindaun
 		effect = { give_minor_title = title_regent }
 	}
-	1386.1.1 = {
+	1386.7.1 = {
 		effect = { remove_title = title_regent }
 	}
 	1405.1.1 = {
