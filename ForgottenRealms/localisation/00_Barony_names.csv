@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 b_abbor;Abbor;;;;;;;;;;;;;x
 b_abbor_adj;Abborian;;;;;;;;;;;;;x
+b_adarthir;Adarthir;;;;;;;;;;;;;x
+b_adarthir_adj;Adarthirran;;;;;;;;;;;;;x
 b_aithelar;Aithelar;;;;;;;;;;;;;x
 b_aithelar_adj;Aithelarran;;;;;;;;;;;;;x
 b_ajhuutal;Ajhuutal;;;;;;;;;;;;;x
@@ -21,8 +23,6 @@ b_archenbridge;Archenbridge;;;;;;;;;;;;;x
 b_archenbridge_adj;Archenbridgen;;;;;;;;;;;;;x
 b_archtassel;Archtassel;;;;;;;;;;;;;x
 b_archtassel_adj;Archtassellian;;;;;;;;;;;;;x
-b_ardathir;Ardathir;;;;;;;;;;;;;x
-b_ardathir_adj;Ardathiran;;;;;;;;;;;;;x
 b_arfinnsheim;Arfinnsheim;;;;;;;;;;;;;x
 b_arfinnsheim_adj;Arfinnsheimian;;;;;;;;;;;;;x
 b_arndthergom;Arndthergom;;;;;;;;;;;;;x
@@ -477,6 +477,8 @@ b_sheshyr_house;Sheshyr House;;;;;;;;;;;;;x
 b_sheshyr_house_adj;Sheshyrrian;;;;;;;;;;;;;x
 b_shildamere;Shildamere;;;;;;;;;;;;;x
 b_shildamere_adj;Shildameran;;;;;;;;;;;;;x
+b_shilmista;Shilmista;;;;;;;;;;;;;x
+b_shilmista_adj;Shilmistan;;;;;;;;;;;;;x
 b_shoonach;Shoonach;;;;;;;;;;;;;x
 b_shoonach_adj;Shoonachian;;;;;;;;;;;;;x
 b_skadaurak;Skadaurak;;;;;;;;;;;;;x
