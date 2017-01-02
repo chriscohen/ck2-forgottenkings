@@ -1,0 +1,21 @@
+# HHUNE
+# Range 17100-17199
+
+17100 = {
+	name = Inselm
+	dynasty = 207022
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1361.1.1 = {
+		# Married after failed to marry Zaranda Rhindaun
+		add_spouse = 17200 # Lucia Thione
+	}
+	1407.1.1 = {
+		death = yes
+	}
+}

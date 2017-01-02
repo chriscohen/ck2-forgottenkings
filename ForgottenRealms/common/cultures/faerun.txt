@@ -269,6 +269,7 @@ elf = {
 			Methrammar Mirthal
 			Naerond
 			Raerilarr
+			Silvanus
 			Taerntym Tarthilmor
 			Uoundeld
 			Yarjack
@@ -970,7 +971,7 @@ human = {
 			Darjast Dessek
 			Emmakk
 			Haedrak Halanter
-			Ieval
+			Ieval Inselm
 			Jaszur Jordy
 			Kaj Kal
 			Llachior
@@ -983,10 +984,12 @@ human = {
 		}
 		female_names = {
 			Ariia
-			Cyriana
+			Corinna Cyriana
 			Iitaar
 			Jemra
+			Lucia
 			Shaern Sybille
+			Vajra
 			Zaranda
 		}
 		

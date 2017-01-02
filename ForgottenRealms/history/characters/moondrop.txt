@@ -1,0 +1,19 @@
+# MOONDROP
+# Range 17400-17499
+
+17400 = {
+	name = Silvanus
+	dynasty = 401007
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1210.1.1 = {
+		birth = yes
+	}
+	1503.1.1 = {
+		death = yes
+	}
+}

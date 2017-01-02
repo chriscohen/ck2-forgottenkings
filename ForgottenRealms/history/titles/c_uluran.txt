@@ -1,0 +1,7 @@
+1226.1.1 = {
+	liege = d_kamlann
+	holder = 17400 # Silvanus Moondrop
+}
+1503.1.1 = {
+	holder = 0
+}

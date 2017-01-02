@@ -1,0 +1,7 @@
+1340.1.1 = {
+	liege = d_kamlann
+	holder = 17100 # Inselm Hhune
+}
+1407.1.1 = {
+	holder = 0
+}

@@ -29,3 +29,7 @@
 	name = Aendryr
 	culture = moonelf
 }
+401007 = {
+	name = Moondrop
+	culture = moonelf
+}

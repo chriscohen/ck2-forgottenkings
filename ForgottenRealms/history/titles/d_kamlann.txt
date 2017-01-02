@@ -1,0 +1,14 @@
+1340.1.1 = {
+	liege = k_tethyr
+	holder = 17100 # Inselm Hhune
+}
+1347.9.1 = {
+	# Interregnum
+	liege = 0
+}
+1367.5.1 = {
+	liege = k_tethyr
+}
+1407.1.1 = {
+	holder = 0
+}

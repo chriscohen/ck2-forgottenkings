@@ -161,5 +161,10 @@
 # 16700  - 16799    Kevanarial
 # 16800  - 16899    Boralail
 # 16900  - 16999    Aendryr
+# 17000  - 17099    Valmeyjar
+# 17100  - 17199    Hhune
+# 17200  - 17299    Thione
+# 17300  - 17399    Dezlentyr
+# 17400  - 17499    Moondrop
 #
 # 900000 - 999999 Lowborn

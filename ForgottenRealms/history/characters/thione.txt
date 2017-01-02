@@ -1,0 +1,21 @@
+# THIONE
+# Range 17200-17299
+
+17200 = {
+	name = Lucia
+	female = yes
+	dynasty = 207023
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1361.1.1 = {
+		add_spouse = 17100 # Inselm Hhune
+	}
+	1397.1.1 = {
+		death = yes
+	}
+}

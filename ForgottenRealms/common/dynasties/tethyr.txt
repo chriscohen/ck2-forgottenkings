@@ -85,3 +85,19 @@
 	name = Boralail
 	culture = tethyrian
 }
+207021 = {
+	name = Valmeyjar
+	culture = tethyrian
+}
+207022 = {
+	name = Hhune
+	culture = tethyrian
+}
+207023 = {
+	name = Thione
+	culture = tethyrian
+}
+207024 = {
+	name = Dezlentyr
+	culture = tethyrian
+}

@@ -1,0 +1,11 @@
+1367.5.1 = {
+	liege = d_kamlann
+	# Give temporary holder between Interregnum and birth of Cyriana Rhindaun
+	holder = 17000 # Vajra Valmeyjar
+}
+1370.7.1 = {
+	holder = 4902 # Cyriana Rhindaun
+}
+1470.1.1 = {
+	holder = 0
+}

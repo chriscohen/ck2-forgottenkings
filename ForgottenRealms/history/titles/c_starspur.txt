@@ -1,0 +1,7 @@
+1334.1.1 = {
+	liege = d_kamlann
+	holder = 17300 # Corinna Dezlentyr
+}
+1405.1.1 = {
+	holder = 0
+}
