@@ -2,10 +2,9 @@
 title = c_bardshyr
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_hostim = castle
-b_lerren = castle
+b_saharkhan = castle
 
 # Misc
 culture = tethyrian
