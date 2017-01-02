@@ -1714,6 +1714,9 @@ k_tethyr = {
 			color = { 48 144 244 }
 			color2 = { 255 255 255 }
 			
+			title = TITLE_KING
+			title_female = TITLE_QUEEN
+			
 			b_zazesspur = {
 			}
 			b_marakir = {
