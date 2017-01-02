@@ -1,3 +1,13 @@
+trait_lightfoot = {
+	random = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 100
+	
+	martial = -4
+	learning = 2
+	diplomacy = 1
+	stewardship = 1
+}
 moonelf = {
 	random = no
 	immortal = yes

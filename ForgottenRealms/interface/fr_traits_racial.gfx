@@ -1,5 +1,15 @@
 spriteTypes = {
 	spriteType = {
+		name = "GFX_trait_trait_lightfoot"
+		texturefile = "gfx/traits/lightfoot.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
+
+spriteTypes = {
+	spriteType = {
 		name = "GFX_trait_moonelf"
 		texturefile = "gfx/traits/moonelf.dds"
 		noOfFrames = 1
