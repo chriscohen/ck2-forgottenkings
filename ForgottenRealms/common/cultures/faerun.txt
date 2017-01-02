@@ -971,12 +971,12 @@ human = {
 			Alemander Aulis
 			Coram
 			Darjast Dessek
-			Emmakk
+			Ellem Emmakk
 			Haedrak Halanter
 			Ieval Inselm
 			Jaszur Jordy
 			Kaj Kal
-			Llachior
+			Lhorik Llachior
 			Numar
 			Ondul Oon Orrdun
 			Sammar Sarshel
@@ -992,7 +992,7 @@ human = {
 			Lucia
 			Marilyn
 			Shaern Sybille
-			Vajra
+			Vajra Vyma
 			Zaranda
 		}
 		

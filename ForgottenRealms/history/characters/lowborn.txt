@@ -1291,3 +1291,26 @@
 		}
 	}
 }
+900076 = {
+	name = Vyma
+	female = yes
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1310.1.1 = {
+		birth = yes
+	}
+	1326.1.1 = {
+		add_spouse = 17800 # Ellem Sunspear
+	}
+	1369.12.1 = {
+		# Fell in carriage accident
+		trait = mangled
+	}
+	1371.1.1 = {
+		death = {
+			death_trait
+		}
+	}
+}

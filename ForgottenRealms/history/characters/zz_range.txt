@@ -169,5 +169,6 @@
 # 17500  - 17599    Haresdown
 # 17600  - 17699    Amethystall
 # 17700  - 17799    Vineshigh
+# 17800  - 17899    Sunspear
 #
 # 900000 - 999999 Lowborn

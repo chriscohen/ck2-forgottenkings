@@ -1,0 +1,10 @@
+1305.1.1 = {
+	liege = d_purple_marches
+	holder = 17800 # Ellem Sunspear
+}
+1372.1.1 = {
+	holder = 17801 # Lhorik Sunspear
+}
+1409.1.1 = {
+	holder = 0
+}
