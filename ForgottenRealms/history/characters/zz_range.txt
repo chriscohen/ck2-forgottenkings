@@ -166,5 +166,8 @@
 # 17200  - 17299    Thione
 # 17300  - 17399    Dezlentyr
 # 17400  - 17499    Moondrop
+# 17500  - 17599    Haresdown
+# 17600  - 17699    Amethystall
+# 17700  - 17799    Vineshigh
 #
 # 900000 - 999999 Lowborn

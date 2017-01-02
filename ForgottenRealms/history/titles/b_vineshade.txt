@@ -1,0 +1,7 @@
+1317.1.1 = {
+	liege = c_vintor
+	holder = 17700 # Lyrminor Vineshigh
+}
+1411.1.1 = {
+	holder = 0
+}

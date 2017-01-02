@@ -1,0 +1,7 @@
+1311.1.1 = {
+	liege = d_purple_marches
+	holder = 17600 # Krimmon Amethystall
+}
+1405.1.1 = {
+	holder = 0
+}

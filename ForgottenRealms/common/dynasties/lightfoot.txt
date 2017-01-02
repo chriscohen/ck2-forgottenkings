@@ -1,0 +1,11 @@
+# LIGHTFOOT
+# Range 500000-500999
+
+500000 = {
+	name = Amethystall
+	culture = lightfoot
+}
+500001 = {
+	name = Vineshigh
+	culture = lightfoot
+}

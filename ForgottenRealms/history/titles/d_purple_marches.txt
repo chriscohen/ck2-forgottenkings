@@ -1,0 +1,14 @@
+1344.1.1 = {
+	liege = k_tethyr
+	holder = 17500 # Marilyn Haresdown
+}
+1347.9.1 = {
+	# Interregnum
+	liege = 0
+}
+1367.5.1 = {
+	liege = k_tethyr
+}
+1414.1.1 = {
+	holder = 0
+}

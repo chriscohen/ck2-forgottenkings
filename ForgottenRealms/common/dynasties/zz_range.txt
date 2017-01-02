@@ -24,3 +24,6 @@
 #
 # ORC
 # 450000 - 450999   Half-orc
+#
+# HALFLING
+# 500000 - 500999   Lightfoot

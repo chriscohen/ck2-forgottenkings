@@ -4,12 +4,12 @@ title = c_vintor
 # Settlements
 max_settlements = 4
 
+b_amethyst_hall = castle
 b_barrowsmorn = castle
 b_vineshade = castle
-b_amethyst_hall = castle
 
 # Misc
-culture = tethyrian
+culture = lightfoot
 religion = catholic
 
 #History

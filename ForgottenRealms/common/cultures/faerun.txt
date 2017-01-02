@@ -344,6 +344,8 @@ halfling = {
 		color = { 0.9 0.9 0.3 }
 		
 		male_names = {
+			Krimmon
+			Lyrminor
 			Pawldo
 		}
 		female_names = {
@@ -988,6 +990,7 @@ human = {
 			Iitaar
 			Jemra
 			Lucia
+			Marilyn
 			Shaern Sybille
 			Vajra
 			Zaranda

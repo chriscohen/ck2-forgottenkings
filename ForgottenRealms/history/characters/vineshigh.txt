@@ -1,0 +1,21 @@
+# VINESHIGH
+# Range 17700-17799
+
+17700 = {
+	name = Lyrminor
+	dynasty = 500001
+	
+	religion = catholic
+	culture = lightfoot
+	
+	trait = trait_lightfoot
+	trait = humble
+	trait = shy
+	
+	1301.1.1 = {
+		birth = yes
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}

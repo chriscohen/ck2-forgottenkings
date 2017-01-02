@@ -101,3 +101,7 @@
 	name = Dezlentyr
 	culture = tethyrian
 }
+207025 = {
+	name = Haresdown
+	culture = tethyrian
+}

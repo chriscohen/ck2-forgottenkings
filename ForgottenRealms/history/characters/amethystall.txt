@@ -1,0 +1,20 @@
+# AMETHYSTALL
+# Range 17600-17699
+
+17600 = {
+	name = Krimmon
+	dynasty = 500000
+	
+	religion = catholic
+	culture = lightfoot
+	
+	trait = trait_lightfoot
+	trait = wroth
+	
+	1295.1.1 = {
+		birth = yes
+	}
+	1405.1.1 = {
+		death = yes
+	}
+}

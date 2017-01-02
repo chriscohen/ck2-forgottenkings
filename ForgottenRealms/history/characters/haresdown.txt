@@ -1,0 +1,18 @@
+# HARESDOWN
+# Range 17500-17599
+
+17500 = {
+	name = Marilyn
+	female = yes
+	dynasty = 207025
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1328.1.1 = {
+		birth = yes
+	}
+	1414.1.1 = {
+		death = yes
+	}
+}
