@@ -257,7 +257,7 @@ elf = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Alondel Andelver Arun
+			Allain Alondel Andelver Arun
 			Baerndar Boesild
 			Dalbrant
 			Dolthauvin
@@ -266,7 +266,7 @@ elf = {
 			Hardorbryn
 			Inthylyn
 			Lilinthar
-			Methrammar
+			Methrammar Mirthal
 			Naerond
 			Raerilarr
 			Taerntym Tarthilmor
@@ -970,8 +970,9 @@ human = {
 			Darjast Dessek
 			Emmakk
 			Haedrak Halanter
+			Ieval
 			Jaszur Jordy
-			Kaj
+			Kaj Kal
 			Llachior
 			Numar
 			Ondul Oon Orrdun

@@ -1269,3 +1269,24 @@
 		death = yes
 	}
 }
+900075 = {
+	name = Unnamed # Unnamed wife of Mirthal Aendryr
+	female = yes
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1305.1.1 = {
+		birth = yes
+	}
+	1330.1.1 = {
+		add_spouse = 16900 # Mirthal Aendryr
+	}
+	1364.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

@@ -1,0 +1,65 @@
+# AENDRYR
+# Range 16900-16999
+
+16900 = {
+	name = Mirthal
+	dynasty = 401006
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	1184.1.1 = {
+		birth = yes
+	}
+	1250.1.1 = {
+		trait = grey_eminence
+	}
+	1330.1.1 = {
+		add_spouse = 900075 # Unnamed wife
+	}
+	1456.1.1 = {
+		death = yes
+	}
+}
+16901 = {
+	name = Alea # Fictional name
+	female = yes
+	dynasty = 401006
+	father = 16900 # Mirthal
+	mother = 900075 # Unnamed
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	trait = twin
+	
+	1363.1.1 = {
+		birth = yes
+	}
+	1501.1.1 = {
+		death = yes
+	}
+}
+16902 = {
+	name = Arielimnda # Fictional name
+	female = yes
+	dynasty = 401006
+	father = 16900 # Mirthal
+	mother = 900075 # Unnamed
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	trait = twin
+	
+	1363.1.1 = {
+		birth = yes
+	}
+	1489.1.1 = {
+		death = yes
+	}
+}

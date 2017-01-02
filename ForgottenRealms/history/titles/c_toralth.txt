@@ -1,0 +1,10 @@
+1200.1.1 = {
+	liege = d_durmista
+	holder = 16900 # Mirthal Aendryr
+}
+1456.1.1 = {
+	holder = 16901 # Alea Aendryr
+}
+1501.1.1 = {
+	holder = 0
+}

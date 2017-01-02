@@ -1,0 +1,23 @@
+# KEVANARIAL
+# Range 16700-16799
+
+16700 = {
+	name = Allain
+	dynasty = 401005
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = quick
+	trait = moonelf
+	
+	1169.1.1 = {
+		birth = yes
+	}
+	1179.1.1 = {
+		give_nickname = nick_foxfire
+	}
+	1415.1.1 = {
+		death = yes
+	}
+}

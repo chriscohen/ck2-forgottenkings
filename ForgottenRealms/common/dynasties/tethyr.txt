@@ -81,3 +81,7 @@
 	name = Chonn
 	culture = tethyrian
 }
+207020 = {
+	name = Boralail
+	culture = tethyrian
+}

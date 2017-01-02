@@ -21,3 +21,11 @@
 	name = Maerdrym
 	culture = moonelf
 }
+401005 = {
+	name = Kevanarial
+	culture = moonelf
+}
+401006 = {
+	name = Aendryr
+	culture = moonelf
+}

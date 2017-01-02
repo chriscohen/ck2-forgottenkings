@@ -158,5 +158,8 @@
 # 16400  - 16499    Keelson
 # 16500  - 16599    Gallum
 # 16600  - 16699    Chonn
+# 16700  - 16799    Kevanarial
+# 16800  - 16899    Boralail
+# 16900  - 16999    Aendryr
 #
 # 900000 - 999999 Lowborn

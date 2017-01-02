@@ -1,0 +1,7 @@
+1185.1.1 = {
+	liege = d_noromath
+	holder = 16700 # Allain Kevanarial
+}
+1415.1.1 = {
+	holder = 0
+}

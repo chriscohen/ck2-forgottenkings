@@ -7,6 +7,7 @@ nick_demonbane = {}
 nick_fiendslayer = {}
 nick_first_king = {}
 nick_first_queen = {}
+nick_foxfire = {}
 nick_frostrune = {}
 nick_longyears = {}
 nick_redbeard = {}

@@ -1,0 +1,10 @@
+1324.1.1 = {
+	liege = d_noromath
+	holder = 16800 # Ieval Boralail
+}
+1403.1.1 = {
+	holder = 16801 # Kal Boralail
+}
+1415.1.1 = {
+	holder = 0
+}
