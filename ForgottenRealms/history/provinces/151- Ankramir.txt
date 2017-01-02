@@ -1,5 +1,5 @@
 # County Title
-title = c_zazesspur
+title = c_ankramir
 
 # Settlements
 max_settlements = 3

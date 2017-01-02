@@ -1708,9 +1708,9 @@ k_tethyr = {
 			}
 		}
 		
-		capital = 151 # Zazesspur
+		capital = 151 # Ankramir (Zazesspur)
 		
-		c_zazesspur = {
+		c_ankramir = {
 			color = { 48 144 244 }
 			color2 = { 255 255 255 }
 			
