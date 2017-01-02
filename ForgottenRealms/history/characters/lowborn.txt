@@ -1030,7 +1030,7 @@
 	religion = catholic
 	culture = calishite # No idea for sure
 	
-	800.1.1 = { # Estimate
+	800.1.1 = {
 		birth = yes
 	}
 	816.1.1 = {
@@ -1045,6 +1045,7 @@
 			death_reason = death_battle
 		}
 	}
+}
 900062 = {
 	name = Shangalar
 	
