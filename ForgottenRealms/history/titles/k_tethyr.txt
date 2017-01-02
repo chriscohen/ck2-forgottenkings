@@ -2,8 +2,10 @@
 	holder = 15000 # Alemander IV Tethyr
 }
 1347.9.1 = {
-	holder = 15001 # Haedrak Tethyr
+	holder = 0
+	active = no
 }
 1367.5.1 = {
+	active = yes
 	holder = 4905 # Zaranda Rhindaun
 }

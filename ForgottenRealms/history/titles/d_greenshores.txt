@@ -1,4 +1,4 @@
-1368.1.1 = {
+1367.5.1 = {
 	liege = k_tethyr
 	holder = 16500 # Jordy Gallum
 }

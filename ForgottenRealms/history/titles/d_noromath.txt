@@ -2,6 +2,13 @@
 	liege = k_tethyr
 	holder = 16700 # Allain Kevanarial
 }
+1347.9.1 = {
+	# Interregnum
+	liege = 0
+}
+1367.5.1 = {
+	liege = k_tethyr
+}
 1415.1.1 = {
 	holder = 0
 }
