@@ -1314,3 +1314,20 @@
 		}
 	}
 }
+900077 = {
+	name = Ranna
+	female = yes
+	
+	religion = catholic
+	culture = lightfoot
+	
+	1310.1.1 = {
+		birth = yes
+	}
+	1326.1.1 = {
+		add_spouse = 18200 # Oxsal Keeneyes
+	}
+	1399.1.1 = {
+		death = yes
+	}
+}

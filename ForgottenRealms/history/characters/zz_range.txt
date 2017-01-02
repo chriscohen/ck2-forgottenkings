@@ -170,5 +170,9 @@
 # 17600  - 17699    Amethystall
 # 17700  - 17799    Vineshigh
 # 17800  - 17899    Sunspear
+# 17900  - 17999    Raslemtar
+# 18000  - 18099    Hawkwinter
+# 18100  - 18199    Ersemm
+# 18200  - 18299    Keeneyes
 #
 # 900000 - 999999 Lowborn

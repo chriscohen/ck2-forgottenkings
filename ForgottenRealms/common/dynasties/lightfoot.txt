@@ -9,3 +9,7 @@
 	name = Vineshigh
 	culture = lightfoot
 }
+500002 = {
+	name = Keeneyes
+	culture = lightfoot
+}

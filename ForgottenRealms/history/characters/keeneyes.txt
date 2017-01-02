@@ -1,0 +1,22 @@
+# KEENEYES
+# Range 18200-18299
+
+18200 = {
+	name = Oxsal
+	dynasty = 500002
+	
+	religion = catholic
+	culture = lightfoot
+	
+	trait = trait_lightfoot
+	
+	1304.1.1 = {
+		birth = yes
+	}
+	1326.1.1 = {
+		add_spouse = 900077 # Ranna
+	}
+	1401.1.1 = {
+		death = yes
+	}
+}

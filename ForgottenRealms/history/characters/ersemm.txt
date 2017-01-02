@@ -1,0 +1,17 @@
+# ERSEMM
+# Range 18100-18199
+
+18100 = {
+	name = Garron
+	dynasty = 214006
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	1372.1.1 = {
+		add_spouse = 18000 # Kyrin Hawkwinter
+	}
+}

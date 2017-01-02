@@ -1,0 +1,7 @@
+1320.1.1 = {
+	liege = d_ankaram
+	holder = 18200 # Oxsal Keeneyes
+}
+1401.1.1 = {
+	holder = 0
+}

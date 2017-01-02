@@ -1,0 +1,70 @@
+# HAWKWINTER
+# Range 18000-18999
+
+18000 = {
+	name = Kyrin
+	female = yes
+	dynasty = 207028
+	father = 18001 # Unnamed
+	
+	religion = catholic
+	culture = tethyrian
+	
+	trait = twin
+	
+	1339.1.1 = {
+		birth = yes
+	}
+	1372.1.1 = {
+		add_spouse = 18100 # Garron Ersemm
+	}
+	1421.1.1 = {
+		death = yes
+	}
+}
+18001 = {
+	name = Unnamed # Father of Kyrin
+	dynasty = 207028
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1357.1.1 = {
+		death = yes
+	}
+}
+18002 = {
+	name = Jornos
+	dynasty = 207028
+	father = 18001
+	
+	religion = catholic
+	culture = tethyrian
+	
+	trait = twin
+	
+	1339.1.1 = {
+		birth = yes
+	}
+	1384.1.1 = {
+		death = yes
+	}
+}
+18003 = {
+	name = Geiron # Second son of Jornos
+	dynasty = 207028
+	father = 18002 # Jornos
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1356.1.1 = {
+		birth = yes
+	}
+	1431.1.1 = {
+		death = yes
+	}
+}

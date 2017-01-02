@@ -346,10 +346,11 @@ halfling = {
 		male_names = {
 			Krimmon
 			Lyrminor
+			Oxsal
 			Pawldo
 		}
 		female_names = {
-			Unnamed
+			Ranna
 		}
 		
 		dukes_called_kings = no
@@ -972,9 +973,10 @@ human = {
 			Coram
 			Darjast Dessek
 			Ellem Emmakk
+			Geiron
 			Haedrak Halanter
 			Ieval Inselm
-			Jaszur Jordy
+			Jaszur Jordy Jornos
 			Kaj Kal
 			Lhorik Llachior
 			Numar
@@ -989,8 +991,10 @@ human = {
 			Corinna Cyriana
 			Iitaar
 			Jemra
+			Kyrin
 			Lucia
 			Marilyn
+			Perendra
 			Shaern Sybille
 			Vajra Vyma
 			Zaranda
@@ -1133,6 +1137,7 @@ human = {
 		
 		male_names = {
 			Baeron
+			Garron
 			Mourngrym
 			Palron Priamon
 		}

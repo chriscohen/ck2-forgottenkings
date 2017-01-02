@@ -1800,6 +1800,8 @@ k_tethyr = {
 			}
 			b_maratimmir = {
 			}
+			b_st_rhynda = {
+			}
 		}
 	}
 	d_ankaram = {

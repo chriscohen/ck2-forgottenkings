@@ -1,0 +1,36 @@
+# RASLEMTAR
+# Range 17900-17999
+
+17900 = {
+	name = Perendra
+	female = yes
+	dynasty = 207027
+	father = 17901
+	
+	religion = catholic
+	culture = tethyrian
+	
+	trait = cynical
+	trait = stubborn
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}
+17901 = {
+	name = Unnamed # Father of Perendra
+	dynasty = 207027
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1296.1.1 = {
+		birth = yes
+	}
+	1333.1.1 = {
+		death = yes
+	}
+}

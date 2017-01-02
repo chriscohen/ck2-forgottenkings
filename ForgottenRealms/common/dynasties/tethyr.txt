@@ -109,3 +109,11 @@
 	name = Sunspear
 	culture = tethyrian
 }
+207027 = {
+	name = Raslemtar
+	culture = tethyrian
+}
+207028 = {
+	name = Hawkwinter
+	culture = tethyrian
+}

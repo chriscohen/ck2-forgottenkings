@@ -26,3 +26,7 @@
 	name = Silmaeril
 	culture = waterdhavian
 }
+214006 = {
+	name = Ersemm
+	culture = waterdhavian
+}

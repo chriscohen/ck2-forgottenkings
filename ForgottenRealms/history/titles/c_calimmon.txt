@@ -1,0 +1,10 @@
+1333.1.1 = {
+	liege = d_ankaram
+	holder = 18001 # Unnamed father of Kyrin Hawkwinter
+}
+1357.1.1 = {
+	holder = 18000 # Kyrin Hawkwinter
+}
+1421.1.1 = {
+	holder = 18003 # Geiron Hawkwinter
+}

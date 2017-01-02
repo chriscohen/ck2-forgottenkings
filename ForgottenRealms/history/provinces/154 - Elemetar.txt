@@ -2,9 +2,10 @@
 title = c_elemetar
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_myratma = castle
+b_st_rhynda = temple
 
 # Misc
 culture = tethyrian

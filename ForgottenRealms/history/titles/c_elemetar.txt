@@ -1,0 +1,10 @@
+1312.1.1 = {
+	liege = d_purple_marches
+	holder = 17901 # Unnamed father of Perendra Raslemtar
+}
+1333.1.1 = {
+	holder = 17900 # Perendra Raslemtar
+}
+1402.1.1 = {
+	holder = 0
+}
