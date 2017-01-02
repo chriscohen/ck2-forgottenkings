@@ -1,0 +1,7 @@
+1368.1.1 = {
+	liege = c_mosstone
+	holder = 16502 # Emmakk Gallum
+}
+1394.1.1 = {
+	holder = 0
+}

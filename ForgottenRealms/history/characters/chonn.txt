@@ -1,0 +1,20 @@
+# CHONN
+# Range 16600-16699
+
+16600 = {
+	name = Talmon
+	dynasty = 207019
+	
+	religion = catholic
+	culture = tethyrian
+	
+	trait = gluttonous
+	trait = slothful
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1386.1.1 = {
+		death = yes
+	}
+}

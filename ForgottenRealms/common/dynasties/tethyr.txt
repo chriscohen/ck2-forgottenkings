@@ -73,3 +73,11 @@
 	name = Keelson
 	culture = tethyrian
 }
+207018 = {
+	name = Gallum
+	culture = tethyrian
+}
+207019 = {
+	name = Chonn
+	culture = tethyrian
+}

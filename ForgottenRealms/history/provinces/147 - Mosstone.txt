@@ -5,9 +5,15 @@ title = c_mosstone
 max_settlements = 3
 
 b_mosstone = castle
+b_port_kir = castle
 
 # Misc
 culture = tethyrian
 religion = sunni
 
-#History
+# History
+1368.1.1 = {
+	# Kirgard is rebuilt after the Interregnum
+	b_kirgard = castle
+	capital = b_kirgard
+}

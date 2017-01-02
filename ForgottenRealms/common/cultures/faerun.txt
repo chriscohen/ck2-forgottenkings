@@ -968,14 +968,15 @@ human = {
 			Alemander Aulis
 			Coram
 			Darjast Dessek
+			Emmakk
 			Haedrak Halanter
-			Jaszur
+			Jaszur Jordy
 			Kaj
 			Llachior
 			Numar
 			Ondul Oon Orrdun
 			Sammar Sarshel
-			Tanar Taor Thenas
+			Talmon Tanar Taor Thenas
 			Whettimn
 			Yves
 		}
@@ -984,7 +985,7 @@ human = {
 			Cyriana
 			Iitaar
 			Jemra
-			Sybille
+			Shaern Sybille
 			Zaranda
 		}
 		

@@ -1,0 +1,50 @@
+# GALLUM
+# Range 16500-16599
+
+16500 = {
+	name = Jordy
+	dynasty = 207018
+	father = 16501 # Unnamed
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1325.1.1 = {
+		birth = yes
+	}
+	1355.1.1 = {
+		add_spouse = 900074 # Shaern
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}
+16501 = {
+	name = Unnamed # Father of Jordy
+	dynasty = 207018
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = {
+		death = yes
+	}
+}
+16502 = {
+	name = Emmakk
+	dynasty = 207018
+	father = 16501
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1394.1.1 = {
+		death = yes
+	}
+}

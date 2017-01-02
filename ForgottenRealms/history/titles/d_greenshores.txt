@@ -1,0 +1,7 @@
+1368.1.1 = {
+	liege = k_tethyr
+	holder = 16500 # Jordy Gallum
+}
+1402.1.1 = {
+	holder = 0
+}
