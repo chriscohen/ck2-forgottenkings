@@ -9,7 +9,7 @@ b_port_kir = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 # History
 1368.1.1 = {

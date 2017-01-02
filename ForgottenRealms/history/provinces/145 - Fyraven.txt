@@ -9,6 +9,6 @@ b_monguldarath = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History

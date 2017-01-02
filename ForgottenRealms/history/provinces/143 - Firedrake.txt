@@ -8,7 +8,7 @@ b_velen = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History
 1260.1.1 = {

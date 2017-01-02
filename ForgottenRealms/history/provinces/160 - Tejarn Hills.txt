@@ -8,6 +8,6 @@ b_tejarn_hills = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History

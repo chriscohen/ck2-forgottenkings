@@ -9,6 +9,6 @@ b_yuldars_keep = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History

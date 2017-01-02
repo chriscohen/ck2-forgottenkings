@@ -10,6 +10,6 @@ b_st_ostus = temple
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History

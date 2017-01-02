@@ -10,6 +10,6 @@ b_amethyst_hall = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History

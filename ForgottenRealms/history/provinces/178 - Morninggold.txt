@@ -8,6 +8,6 @@ b_morninggold_keep = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History

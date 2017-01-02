@@ -8,6 +8,6 @@ b_myth_rhynn = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History

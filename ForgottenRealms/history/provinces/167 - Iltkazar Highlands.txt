@@ -9,6 +9,6 @@ b_rhianna = castle
 
 # Misc
 culture = tethyrian
-religion = sunni
+religion = catholic
 
 #History
