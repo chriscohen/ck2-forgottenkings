@@ -1,7 +1,9 @@
-1320.1.1 = {
+1354.1.1 = {
+	# Although there's a count of Monteshi, we need the duchy holder to hold
+	# at least one physical province
 	liege = d_ankaram
-	holder = 18200 # Oxsal Keeneyes
+	holder = 17000 # Vajra Valmeyjar
 }
-1401.1.1 = {
+1405.1.1 = {
 	holder = 0
 }

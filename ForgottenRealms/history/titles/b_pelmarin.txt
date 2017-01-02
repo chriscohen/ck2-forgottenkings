@@ -1,9 +1,7 @@
-1354.1.1 = {
-	# Give actual land to Vajra or she is only holder of duchy
-	# and cannot be played
+1320.1.1 = {
 	liege = c_monteshi
-	holder = 17000 # Vajra Valmeyjar
+	holder = 18200 # Oxsal Keeneyes
 }
-1405.1.1 = {
+1401.1.1 = {
 	holder = 0
 }
