@@ -49,7 +49,7 @@
 16403 = {
 	name = Unnamed # Uncle of 16400
 	dynasty = 207017
-	father = 16401
+	father = 16402
 	
 	religion = catholic
 	culture = tethyrian
@@ -67,7 +67,7 @@
 16404 = {
 	name = Unnamed # Uncle of 16400
 	dynasty = 207017
-	father = 16401
+	father = 16402
 	
 	religion = catholic
 	culture = tethyrian
