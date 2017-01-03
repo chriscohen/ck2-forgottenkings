@@ -2038,6 +2038,9 @@ k_tethyr = {
 		
 		capital = 167 # Iltkazar Highlands
 		
+		title = TITLE_PRINCE
+		title_female = TITLE_PRINCESS
+		
 		c_iltkazar_highlands = {
 			color = { 41 94 148 }
 			color2 = { 255 255 255 }

@@ -121,3 +121,15 @@
 	name = Grannox
 	culture = tethyrian
 }
+207030 = {
+	name = Riiklass
+	culture = tethyrian
+}
+207031 = {
+	name = Idogyr
+	culture = tethyrian
+}
+207032 = {
+	name = Stillhawk
+	culture = tethyrian
+}

@@ -971,9 +971,9 @@ human = {
 		male_names = {
 			Alemander Aulis
 			Coram
-			Darjast Dessek
+			Dancon Darjast Dessek
 			Ellem Emmakk
-			Geiron
+			Gamalon Geiron
 			Haedrak Halanter
 			Ieval Inselm
 			Jaszur Jordy Jornos
@@ -984,7 +984,7 @@ human = {
 			Ondul Oon Orrdun
 			Sammar Sarshel
 			Talmon Tanar Taor Ternan Thenas
-			Valsin
+			Valsin Vander
 			Whettimn
 			Yves
 		}
@@ -992,11 +992,11 @@ human = {
 			Ariia
 			Brenna
 			Corinna Cyriana
-			Iitaar
+			Iimvara Iitaar
 			Jemra
 			Kyrin
 			Lucia
-			Marilyn
+			Marilyn Mynda
 			Perendra
 			Shaern Shyrr Sybille
 			Vajra Vyma

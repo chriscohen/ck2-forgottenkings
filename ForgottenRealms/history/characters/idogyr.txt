@@ -1,0 +1,23 @@
+# IDOGYR
+# Range 18600-18699
+
+18600 = {
+	name = Gamalon
+	dynasty = 207031
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1318.1.1 = {
+		trait = wizard
+	}
+	1334.1.1 = {
+		add_spouse = 900081 # Mynda
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}

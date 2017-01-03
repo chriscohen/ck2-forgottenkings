@@ -1,0 +1,7 @@
+1318.1.1 = {
+	liege = d_crown_lands
+	holder = 18600 # Gamalon Idogyr
+}
+1411.1.1 = {
+	holder = 0
+}

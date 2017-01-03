@@ -1,0 +1,24 @@
+# STILLHAWK
+# Range 18700-18799
+
+18700 = {
+	name = Vander
+	dynasty = 207032
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1339.1.1 = {
+		birth = yes
+	}
+	1370.7.1 = {
+		employer = 4900 # Coram Rhindaun / d_iltkazar_highlands
+		effect = { give_minor_title = title_regent }
+	}
+	1386.7.1 = {
+		effect = { remove_title = title_regent }
+	}
+	1412.1.1 = {
+		death = yes
+	}
+}
