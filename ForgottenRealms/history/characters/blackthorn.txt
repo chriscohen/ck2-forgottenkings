@@ -12,7 +12,9 @@
 		birth = yes
 	}
 	1340.1.1 = {
-		add_friend = 15500 # Ondul Jarduth
+		effect = {
+			add_friend = 15500 # Ondul Jarduth
+		}
 	}
 	1350.1.1 = {
 		trait = one_handed

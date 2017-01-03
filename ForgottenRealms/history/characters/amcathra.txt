@@ -29,6 +29,9 @@
 	father = 8200 # Mourngrym
 	mother = 8400 # Shaerl Rowanmantle
 	
+	religion = catholic
+	culture = waterdhavian
+	
 	1358.1.1 = {
 		birth = yes
 	}

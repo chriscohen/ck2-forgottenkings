@@ -35,7 +35,7 @@
 	115.1.1 = {
 		birth = yes
 	}
-	129.1.1 = {
+	131.1.1 = {
 		add_spouse = 1800 # Gwynneth
 	}
 	144.1.1 = {
@@ -51,7 +51,7 @@
 	religion = catholic
 	culture = ffolk
 	
-	130.1.1 = {
+	131.2.1 = {
 		birth = yes
 	}
 	171.1.1 = {

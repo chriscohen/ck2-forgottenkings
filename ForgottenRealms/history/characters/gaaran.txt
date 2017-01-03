@@ -26,6 +26,9 @@
 	father = 14700 # Tomed
 	mother = 900069 # Meriel
 	
+	religion = sunni
+	culture = calishite
+	
 	1330.1.1 = {
 		birth = yes
 	}

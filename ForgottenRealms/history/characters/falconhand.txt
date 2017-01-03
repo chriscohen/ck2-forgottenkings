@@ -27,7 +27,7 @@
 	religion = catholic
 	culture = cormyrean
 	
-	trait = brawny
+	trait = robust
 	
 	1359.1.1 = {
 		birth = yes

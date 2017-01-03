@@ -106,7 +106,7 @@
 	religion = catholic
 	culture = ffolk
 	
-	267.1.1 = { # Estimate
+	259.1.1 = { # Estimate
 		birth = yes
 	}
 	307.1.1 = { # Estimate
@@ -257,7 +257,7 @@
 	470.1.1 = {
 		birth = yes
 	}
-	485.1.1 = {
+	486.1.1 = {
 		add_spouse = 900003 # Abigail
 	}
 	500.1.1 = {
@@ -673,7 +673,7 @@
 	religion = catholic
 	culture = ffolk
 	
-	275.1.1 = { # Estimate
+	281.1.1 = { # Estimate
 		birth = yes
 	}
 	299.1.1 = {

@@ -497,7 +497,7 @@
 	262.1.1 = { # Estimate
 		birth = yes
 	}
-	289.6.1 { # Estimated month
+	289.6.1 = { # Estimated month
 		death = {
 			death_reason = death_murder
 			killer = 31

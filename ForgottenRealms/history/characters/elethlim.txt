@@ -191,13 +191,13 @@
 	religion = catholic
 	culture = impilturian
 	
-	850.1.1 { # Estimate
+	850.1.1 = { # Estimate
 		birth = yes
 	}
-	924.1.1 { # Estimate
+	924.1.1 = { # Estimate
 		trait = has_bubonic_plague
 	}
-	924.1.11 { # Estimate
+	924.1.11 = { # Estimate
 		death = {
 			death_reason = death_trait
 		}

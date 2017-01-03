@@ -7,6 +7,9 @@
 	father = 7601 # Elthryn
 	mother = 900043 # Amrythale
 	
+	religion = catholic
+	culture = athalantarran
+	
 	212.1.1 = {
 		birth = yes
 	}
@@ -16,6 +19,9 @@
 	292.1.1 = {
 		trait = immortal
 	}
+	1600.1.1 = {
+		death = yes
+	}
 	
 }
 7601 = {
@@ -23,6 +29,9 @@
 	dynasty = 213000
 	father = 7602 # Uthgrael
 	mother = 7800 # Syndrel Hornweather
+	
+	religion = catholic
+	culture = athalantarran
 	
 	192.1.1 = {
 		birth = yes
@@ -159,7 +168,7 @@
 	religion = catholic
 	culture = athalantarran
 	
-	trait = frail
+	trait = feeble
 	
 	195.1.1 = {
 		birth = yes

@@ -51,6 +51,9 @@
 	dynasty = 201022
 	father = 6100 # Taking a stab in the dark with this
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1338.1.1 = {
 		birth = yes
 	}

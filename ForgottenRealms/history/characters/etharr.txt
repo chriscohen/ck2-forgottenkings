@@ -208,7 +208,7 @@
 	religion = catholic
 	culture = cormyrean
 	
-	131.1.1 = { # Estimate
+	122.1.1 = { # Estimate
 		birth = yes
 	}
 	147.1.1 = { # Estimate

@@ -20,6 +20,9 @@
 	464.1.1 = { # Estimate
 		trait = immortal
 	}
+	1600.1.1 = {
+		death = yes
+	}
 }
 12801 = {
 	name = Zelphar

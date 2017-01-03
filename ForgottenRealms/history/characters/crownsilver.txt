@@ -25,7 +25,7 @@
 	religion = catholic
 	culture = cormyrean
 	
-	trait = attractive
+	trait = fair
 	
 	1157.1.1 = {
 		birth = yes

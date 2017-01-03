@@ -16,7 +16,9 @@
 	1337.1.1 = {
 		birth = yes
 	}
-	# No death within scope
+	1600.1.1 = {
+		death = yes
+	}
 }
 7101 = {
 	name = Methrammar
@@ -86,7 +88,9 @@
 	1295.1.1 = {
 		birth = yes
 	}
-	# No death in scope
+	1600.1.1 = {
+		death = yes
+	}
 }
 7105 = {
 	name = Inthylyn
@@ -102,7 +106,9 @@
 	1314.1.1 = {
 		birth = yes
 	}
-	# No death in scope
+	1600.1.1 = {
+		death = yes
+	}
 }
 7106 = {
 	name = Naerond
@@ -114,11 +120,14 @@
 	culture = moonelf
 	
 	trait = moonelf
+	trait = twin
 	
 	1337.1.1 = {
 		birth = yes
 	}
-	# No death in scope
+	1600.1.1 = {
+		death = yes
+	}
 }
 7107 = {
 	name = Tarthilmor
@@ -130,11 +139,14 @@
 	culture = moonelf
 	
 	trait = moonelf
+	trait = twin
 	
 	1337.1.1 = {
 		birth = yes
 	}
-	# No death in scope
+	1600.1.1 = {
+		death = yes
+	}
 }
 7108 = {
 	name = Raerilarr
@@ -150,7 +162,9 @@
 	1340.1.1 = {
 		birth = yes
 	}
-	# No death in scope
+	1600.1.1 = {
+		death = yes
+	}
 }
 7109 = {
 	name = Ghaelryss
@@ -169,5 +183,7 @@
 	1361.1.1 = {
 		give_nickname = nick_the_bold
 	}
-	# No death in scope
+	1600.1.1 = {
+		death = yes
+	}
 }

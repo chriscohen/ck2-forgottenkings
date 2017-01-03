@@ -70,7 +70,7 @@
 	}
 	275.1.1 = {
 		death = {
-			death_reason = death_sacrifice
+			death_reason = death_sacrificed
 		}
 	}
 }

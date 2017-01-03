@@ -976,9 +976,9 @@ human = {
 			Gamalon Geiron
 			Haedrak Halanter
 			Ieval Inselm
-			Jaszur Jordy Jornos
+			Jaszur Jhodak Jordy Jornos
 			Kaj Kal
-			Lhorik Llachior
+			Leodom Lhorik Llachior
 			Malcor
 			Numar
 			Ondul Oon Orrdun
@@ -993,12 +993,14 @@ human = {
 			Aalangama Ariia
 			Brenna
 			Corinna Cyriana
+			Dhara
 			Iimvara Iitaar
 			Jemra
 			Kyrin
 			Lucia
 			Marilyn Mynda
 			Perendra
+			Rhinda
 			Shaern Shyrr Sybille
 			Tatrina
 			Vajra Vyma
