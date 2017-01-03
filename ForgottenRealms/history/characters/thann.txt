@@ -134,6 +134,7 @@
 }
 18408 = {
 	name = Ildaera
+	female = yes
 	dynasty = 214007
 	father = 18401 # Rhammas
 	mother = 12803 # Cassandra
@@ -150,6 +151,7 @@
 }
 18409 = {
 	name = Sythea
+	female = yes
 	dynasty = 214007
 	father = 18401 # Rhammas
 	mother = 12803 # Cassandra
@@ -182,6 +184,7 @@
 }
 18411 = {
 	name = Judith
+	female = yes
 	dynasty = 214007
 	father = 18401 # Rhammas
 	mother = 12803 # Cassandra
