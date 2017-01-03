@@ -14,6 +14,9 @@
 	1320.1.1 = {
 		add_spouse = 900083 # Unnamed first wife
 	}
+	1335.1.1 = {
+		add_spouse = 900085 # Rhinda
+	}
 	1347.9.12 = {
 		death = {
 			death_reason = death_accident_fire
@@ -24,11 +27,12 @@
 	name = Haedrak # 3rd son of Alemander IV
 	dynasty = 207004
 	father = 15000 # Alemander IV
+	mother = 900085 # Rhinda
 	
 	religion = catholic
 	culture = tethyrian
 	
-	1334.1.1 = {
+	1335.12.1 = {
 		birth = yes
 	}
 	1360.1.1 = {
@@ -42,11 +46,48 @@
 	name = Alemander # Prince Alemander
 	dynasty = 207004
 	father = 15000 # Alemander IV
+	mother = 900083 # Unnamed first wife of Alemander IV
 	
 	religion = catholic
 	culture = tethyrian
 	
 	1321.1.1 = {
+		birth = yes
+	}
+	1347.9.12 = {
+		death = {
+			death_reason = death_accident_fire
+		}
+	}
+}
+15003 = {
+	name = Jhodak
+	dynasty = 207004
+	father = 15002 # Alemander V
+	mother = 900084 # Dhara
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1343.1.1 = {
+		birth = yes
+	}
+	1347.9.12 = {
+		death = {
+			death_reason = death_accident_fire
+		}
+	}
+}
+15004 = {
+	name = Leodom
+	dynasty = 207004
+	father = 15002 # Alemander V
+	mother = 900084 # Dhara
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1345.1.1 = {
 		birth = yes
 	}
 	1347.9.12 = {
