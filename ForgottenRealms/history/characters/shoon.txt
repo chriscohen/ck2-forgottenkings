@@ -268,10 +268,10 @@
 	religion = sunni
 	culture = calishite
 	
-	264.1.1 = {
+	250.1.1 = {
 		birth = yes
 	}
-	280.1.1 = {
+	268.1.1 = {
 		add_spouse = 13800 # Jahal Tavarn
 	}
 	300.1.1 = {
@@ -292,13 +292,13 @@
 	religion = sunni
 	culture = calishite
 	
-	285.1.1 = {
+	269.1.1 = {
 		birth = yes
 	}
-	286.1.1 = {
+	270.1.1 = {
 		trait = ill
 	}
-	286.1.11 = {
+	270.1.11 = {
 		death = {
 			death_reason = death_trait
 		}
@@ -313,13 +313,13 @@
 	religion = sunni
 	culture = calishite
 	
-	286.1.1 = {
+	270.1.1 = {
 		birth = yes
 	}
-	287.1.1 = {
+	271.1.1 = {
 		trait = ill
 	}
-	287.1.11 = {
+	271.1.11 = {
 		death = {
 			death_reason = death_trait
 		}
@@ -334,13 +334,13 @@
 	religion = sunni
 	culture = calishite
 	
-	287.1.1 = {
+	271.1.1 = {
 		birth = yes
 	}
-	288.1.1 = {
+	272.1.1 = {
 		trait = ill
 	}
-	288.1.11 = {
+	272.1.11 = {
 		death = {
 			death_reason = death_trait
 		}
@@ -355,7 +355,7 @@
 	religion = sunni
 	culture = calishite
 	
-	288.1.1 = {
+	273.1.1 = {
 		birth = yes
 	}
 	309.1.1 = {
@@ -375,13 +375,13 @@
 	religion = sunni
 	culture = calishite
 	
-	289.1.1 = {
+	274.1.1 = {
 		birth = yes
 	}
-	290.1.1 = {
+	275.1.1 = {
 		trait = ill
 	}
-	290.1.11 = {
+	275.1.11 = {
 		death = {
 			death_reason = death_trait
 		}
@@ -397,7 +397,7 @@
 	religion = sunni
 	culture = calishite
 	
-	290.1.1 = {
+	275.1.1 = {
 		birth = yes
 	}
 	360.1.1 = {
@@ -414,7 +414,7 @@
 	religion = sunni
 	culture = calishite
 	
-	291.1.1 = {
+	275.12.1 = {
 		birth = yes
 	}
 	305.1.1 = {
@@ -431,9 +431,7 @@
 	religion = sunni
 	culture = calishite
 	
-	306.1.1 = {
-		# Source says born 290 DR, so he couldn't have been the grandson
-		# of Munaa / Shoon V - not sure of parentage
+	290.1.1 = {
 		birth = yes
 	}
 	320.1.1 = {
