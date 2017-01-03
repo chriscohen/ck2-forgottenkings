@@ -117,3 +117,7 @@
 	name = Hawkwinter
 	culture = tethyrian
 }
+207029 = {
+	name = Grannox
+	culture = tethyrian
+}

@@ -92,7 +92,7 @@
 	1360.1.1 = {
 		add_matrilineal_spouse = 15001 # Haedrak Tethyr
 	}
-	1397.1.1 = {
+	1407.1.1 = {
 		death = yes
 	}
 }

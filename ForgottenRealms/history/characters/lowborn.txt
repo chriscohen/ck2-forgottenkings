@@ -1321,6 +1321,8 @@
 	religion = catholic
 	culture = lightfoot
 	
+	trait = trait_lightfoot
+	
 	1310.1.1 = {
 		birth = yes
 	}
@@ -1328,6 +1330,26 @@
 		add_spouse = 18200 # Oxsal Keeneyes
 	}
 	1399.1.1 = {
+		death = yes
+	}
+}
+900078 = {
+	name = Brenna
+	female = yes
+	
+	religion = catholic
+	culture = tethyrian
+	
+	trait = greedy
+	trait = deceitful
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		add_spouse = 18300 # Ternan Grannox
+	}
+	1392.1.1 = {
 		death = yes
 	}
 }

@@ -1891,12 +1891,16 @@ k_tethyr = {
 			b_faerntarn = {
 			}
 			b_darromar = {
+				title = TITLE_LORD_MAYOR
+				title_female = TITLE_LADY_MAYOR
 			}
 			b_foyeri = {
 			}
 			b_ustan = {
 			}
 			b_st_ostus = {
+			}
+			b_loranse = {
 			}
 		}
 		c_varyth = {

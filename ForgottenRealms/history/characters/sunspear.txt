@@ -38,3 +38,20 @@
 		death = yes
 	}
 }
+17802 = {
+	name = Shyrr
+	female = yes
+	dynasty = 207026
+	father = 17800 # Ellem
+	mother = 900076 # Vyma
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1342.1.1 = {
+		add_spouse = 18302 # Malcor Grannox
+	}
+	1413.1.1 = {
+		death = yes
+	}
+}

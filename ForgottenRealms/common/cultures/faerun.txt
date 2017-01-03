@@ -979,15 +979,18 @@ human = {
 			Jaszur Jordy Jornos
 			Kaj Kal
 			Lhorik Llachior
+			Malcor
 			Numar
 			Ondul Oon Orrdun
 			Sammar Sarshel
-			Talmon Tanar Taor Thenas
+			Talmon Tanar Taor Ternan Thenas
+			Valsin
 			Whettimn
 			Yves
 		}
 		female_names = {
 			Ariia
+			Brenna
 			Corinna Cyriana
 			Iitaar
 			Jemra
@@ -995,7 +998,7 @@ human = {
 			Lucia
 			Marilyn
 			Perendra
-			Shaern Sybille
+			Shaern Shyrr Sybille
 			Vajra Vyma
 			Zaranda
 		}

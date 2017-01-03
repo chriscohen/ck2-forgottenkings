@@ -1,0 +1,70 @@
+# GRANNOX
+# Range 18300-18399
+
+18300 = {
+	name = Ternan
+	dynasty = 207029
+	father = 18301 # Valsin
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		add_spouse = 900078 # Brenna
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}
+18301 = {
+	name = Valsin
+	dynasty = 207029
+	father = 18303 # Unnamed
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1308.1.1 = {
+		birth = yes
+	}
+	1351.1.1 = {
+		death = yes
+	}
+}
+18302 = {
+	# Stated to be Count of Ithmonn but we cannot give him that title
+	# because k_tethyr needs it
+	name = Malcor
+	dynasty = 207029
+	father = 18303 # Unnamed
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1307.1.1 = {
+		birth = yes
+	}
+	1342.1.1 = {
+		add_spouse = 17802 # Shyrr Sunspear
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}
+18303 = {
+	name = Unnamed # Father for Valsin and Malcor
+	dynasty = 207029
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1286.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		death = yes
+	}
+}

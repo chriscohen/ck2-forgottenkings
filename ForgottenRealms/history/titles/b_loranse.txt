@@ -1,0 +1,12 @@
+1323.1.1 = {
+	# Malcor is supposed to be Count of Ithmonn but k_tethyr needs that
+	# title
+	liege = c_ithmonn
+	holder = 18302 # Malcor Grannox
+}
+1391.1.1 = {
+	holder = 17802 # Shyrr Grannox (nee Sunspear)
+}
+1413.1.1 = {
+	holder = 0
+}
