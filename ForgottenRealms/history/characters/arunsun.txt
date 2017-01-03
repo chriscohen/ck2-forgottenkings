@@ -32,10 +32,14 @@
 	1260.1.1 = { # Estimate
 		birth = yes
 	}
+	1285.1.1 = {
+		# First wife of Zelphar, mother to Cassandra
+		add_spouse = 900079 # Unnamed
+	}
 	1300.1.1 = {
 		add_spouse = 13101 # Lhestyn
 	}
-	1320.1.1 = { # Estimate
+	1311.1.1 = {
 		death = yes
 	}
 }
@@ -53,5 +57,25 @@
 	}
 	1350.1.1 = { # Estimate
 		death = yes # Went to travel planes, can't represent this in game
+	}
+}
+12803 = {
+	name = Cassandra
+	female = yes
+	dynasty = 214002
+	father = 12801 # Zelphar
+	mother = 900079 # Unnamed half-elf 1st wife of Zelphar
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		add_spouse = 18401 # Rhammas Thann
+	}
+	1369.1.1 = {
+		death = yes
 	}
 }

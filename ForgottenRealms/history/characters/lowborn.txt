@@ -1353,3 +1353,23 @@
 		death = yes
 	}
 }
+900079 = {
+	name = Unnamed # First wife of Zelphar Arunsun
+	female = yes
+	
+	religion = catholic
+	culture = halfelf
+	
+	1269.1.1 = {
+		birth = yes
+	}
+	1285.1.1 = {
+		# First wife of Zelphar, mother to Cassandra
+		add_spouse = 12801 # Zelphar Arunsun
+	}
+	1299.1.1 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}

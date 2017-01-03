@@ -30,3 +30,7 @@
 	name = Ersemm
 	culture = waterdhavian
 }
+214007 = {
+	name = Thann
+	culture = waterdhavian
+}

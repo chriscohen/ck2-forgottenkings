@@ -1,0 +1,203 @@
+# THANN
+# Range 18400-18499
+
+18400 = {
+	name = Erktos
+	dynasty = 214007
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1281.1.1 = {
+		birth = yes
+	}
+	1330.1.1 = {
+		death = yes
+	}
+}
+18401 = {
+	name = Rhammas
+	dynasty = 214007
+	father = 18400
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1296.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		add_spouse = 12803 # Cassandra Arunsun
+	}
+	1356.1.1 = {
+		death = yes
+	}
+}
+18402 = {
+	# Bastard daughter of Rhammas
+	name = Lilly
+	female = yes
+	dynasty = 214007
+	father = 18401 # Rhammas
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	trait = bastard
+	
+	1314.1.1 = {
+		birth = yes
+	}
+	1368.1.1 = {
+		death = yes
+	}
+}
+18403 = {
+	name = Dertek
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1316.1.1 = {
+		birth = yes
+	}
+	1381.1.1 = {
+		death = yes
+	}
+}
+18404 = {
+	name = Eldaun
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1371.1.1 = {
+		death = yes
+	}
+}
+18405 = {
+	name = Randor
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1318.1.1 = {
+		birth = yes
+	}
+	1392.1.1 = {
+		death = yes
+	}
+}
+18406 = {
+	name = Zelphar
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1403.1.1 = {
+		death = yes
+	}
+}
+18407 = {
+	name = Harmon
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		death = yes
+	}
+}
+18408 = {
+	name = Ildaera
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1321.1.1 = {
+		birth = yes
+	}
+	1364.1.1 = {
+		death = yes
+	}
+}
+18409 = {
+	name = Sythea
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1321.1.1 = {
+		birth = yes
+	}
+	1329.1.1 = {
+		death = yes
+	}
+}
+18410 = {
+	name = Danilo
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1414.1.1 = {
+		death = yes
+	}
+}
+18411 = {
+	name = Judith
+	dynasty = 214007
+	father = 18401 # Rhammas
+	mother = 12803 # Cassandra
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1323.1.1 = {
+		birth = yes
+	}
+	1324.1.1 = {
+		trait = ill
+	}
+	1324.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
