@@ -133,3 +133,27 @@
 	name = Stillhawk
 	culture = tethyrian
 }
+207033 = {
+	name = Hembreon
+	culture = tethyrian
+}
+207034 = {
+	name = Dughol
+	culture = tethyrian
+}
+207035 = {
+	name = Gulderhom
+	culture = tethyrian
+}
+207036 = {
+	name = Llanistaph
+	culture = tethyrian
+}
+207037 = {
+	name = Thrynnar
+	culture = tethyrian
+}
+207038 = {
+	name = Llistiin
+	culture = tethyrian
+}

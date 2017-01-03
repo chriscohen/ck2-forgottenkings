@@ -1,0 +1,10 @@
+1333.1.1 = {
+	liege = d_golden_marches
+	holder = 19000 # Aalangama Gulderhom
+}
+1389.1.1 = {
+	holder = 19001 # Malcor Gulderhom (non-canon)
+}
+1414.1.1 = {
+	holder = 0
+}

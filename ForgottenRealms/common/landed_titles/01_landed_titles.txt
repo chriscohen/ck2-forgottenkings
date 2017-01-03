@@ -1963,6 +1963,13 @@ k_tethyr = {
 			b_yuldars_keep = {
 			}
 		}
+		c_surkazar = {
+			color = { 64 125 200 }
+			color2 = { 255 255 255 }
+			
+			b_colbertann = {
+			}
+		}
 	}
 	d_golden_marches = {
 		color = { 41 94 148 }
@@ -1987,6 +1994,8 @@ k_tethyr = {
 			color = { 135 151 235 }
 			color2 = { 255 255 255 }
 			
+			b_shklshyr_house = {
+			}
 			b_riatavin = {
 			}
 			b_tannithall = {
@@ -1997,13 +2006,6 @@ k_tethyr = {
 			color2 = { 255 255 255 }
 			
 			b_shilmista = {
-			}
-		}
-		c_surkazar = {
-			color = { 64 125 200 }
-			color2 = { 255 255 255 }
-			
-			b_colbertann = {
 			}
 		}
 		c_hazamarch = {

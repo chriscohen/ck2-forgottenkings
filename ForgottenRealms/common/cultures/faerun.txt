@@ -539,7 +539,7 @@ human = {
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Ergluth Estelner
 			Falzo Faril Filani Finder Florin Foril Fortney Frefford
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
-			Hadley Haerldoun Haldos Halston Harandil Harglast Harrandave Helmur Hergrest Hesperdan Hlannan
+			Hadley Haerldoun Haldos Halston Harandil Harglast Harrandave Helmur Hergrest Hesperdan Hlannan Holver
 			Ildamoor Irvel
 			Jarlin Jelde Jhaok Juarkin Junstal
 			Kae Kallimar Keolan Kleef Kortyl Krohn
@@ -969,7 +969,7 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Alemander Aulis
+			Alaric Alemander Aulis
 			Coram
 			Dancon Darjast Dessek
 			Ellem Emmakk
@@ -982,14 +982,15 @@ human = {
 			Malcor
 			Numar
 			Ondul Oon Orrdun
+			Rikos
 			Sammar Sarshel
-			Talmon Tanar Taor Ternan Thenas
-			Valsin Vander
+			Talmon Tanar Taor Tardeth Ternan Thenas
+			Valsin Vander Vartan
 			Whettimn
-			Yves
+			Yuldar Yves
 		}
 		female_names = {
-			Ariia
+			Aalangama Ariia
 			Brenna
 			Corinna Cyriana
 			Iimvara Iitaar
@@ -999,6 +1000,7 @@ human = {
 			Marilyn Mynda
 			Perendra
 			Shaern Shyrr Sybille
+			Tatrina
 			Vajra Vyma
 			Zaranda
 		}
@@ -1225,7 +1227,7 @@ halfbreed = {
 		color = { 0.45 0.64 0.95 }
 		
 		male_names = {
-			Unnamed
+			Vartan
 		}
 		female_names = {
 			Unnamed

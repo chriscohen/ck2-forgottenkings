@@ -1,0 +1,7 @@
+1340.1.1 = {
+	liege = d_cape_velen
+	holder = 15300 # Llachior Blackthorn
+}
+1408.1.1 = {
+	holder = 0
+}

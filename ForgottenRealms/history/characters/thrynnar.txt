@@ -1,0 +1,22 @@
+# THRYNNAR
+# Range 19200-19299
+
+19200 = {
+	name = Vartan
+	dynasty = 207037
+	
+	religion = catholic
+	culture = halfelf
+	
+	trait = gregarious
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = martial_cleric
+	}
+	1403.1.1 = {
+		death = yes
+	}
+}

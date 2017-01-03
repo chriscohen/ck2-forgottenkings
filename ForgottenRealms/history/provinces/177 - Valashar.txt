@@ -2,9 +2,11 @@
 title = c_valashar
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
+b_shklshyr_house = castle
 b_riatavin = castle
+b_tannithall = castle
 
 # Misc
 culture = tethyrian

@@ -179,5 +179,11 @@
 # 18500  - 18599    Riiklass
 # 18600  - 18699    Idogyr
 # 18700  - 18799    Stillhawk
+# 18800  - 18899    Hembreon
+# 18900  - 18999    Dughol
+# 19000  - 19099    Gulderhom
+# 19100  - 19199    Llanistaph
+# 19200  - 19299    Thrynnar
+# 19300  - 19399    Llistiin
 #
 # 900000 - 999999 Lowborn

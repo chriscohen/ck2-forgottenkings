@@ -1,0 +1,7 @@
+1342.1.1 = {
+	liege = d_golden_marches
+	holder = 18900 # Rikos Dughol
+}
+1394.1.1 = {
+	holder = 0
+}

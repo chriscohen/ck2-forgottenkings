@@ -1407,3 +1407,19 @@
 		death = yes
 	}
 }
+900082 = {
+	name = Unnamed # Invented husband of Aalangama Gulderhom
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1333.1.1 = {
+		add_matrilineal_spouse = 19000 # Aalangama Gulderhom
+	}
+	1350.1.1 = {
+		death = yes
+	}
+}

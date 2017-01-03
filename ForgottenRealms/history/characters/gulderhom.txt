@@ -1,0 +1,52 @@
+# GULDERHOM
+# Range 19000-19099
+
+19000 = {
+	name = Aalangama
+	female = yes
+	dynasty = 207035
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1333.1.1 = {
+		add_matrilineal_spouse = 900082 # Unnamed
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
+# We know Aalangama is a widow and has a son and daughter so we will invent
+# some in order to continue the lineage
+19001 = {
+	name = Malcor # Non-canon
+	dynasty = 207035
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1335.1.1 = {
+		birth = yes
+	}
+	1414.1.1 = {
+		death = yes
+	}
+}
+19002 = {
+	name = Lucia
+	female = yes
+	dynasty = 207035
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	1410.1.1 = {
+		death = yes
+	}
+}

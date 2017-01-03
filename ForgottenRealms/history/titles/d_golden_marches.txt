@@ -1,0 +1,10 @@
+1336.1.1 = {
+	liege = k_tethyr
+	holder = 18800 # Alaric Hembreon
+}
+1397.1.1 = {
+	holder = 18801 # Tatrina Hembreon
+}
+1432.1.1 = {
+	holder = 0
+}

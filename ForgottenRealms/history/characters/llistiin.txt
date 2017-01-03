@@ -1,0 +1,17 @@
+# LLISTIIN
+# Range 19300-19399
+
+19300 = {
+	name = Yuldar
+	dynasty = 207038
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1309.1.1 = {
+		birth = yes
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}

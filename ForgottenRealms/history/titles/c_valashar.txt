@@ -1,0 +1,13 @@
+1336.1.1 = {
+	liege = d_golden_marches
+	
+	# Although there is a Count of Valashar, we want some land for the
+	# Duke of the Golden Marches
+	holder = 18800 # Alaric Hembreon
+}
+1397.1.1 = {
+	holder = 18801 # Tatrina Hembreon
+}
+1432.1.1 = {
+	holder = 0
+}

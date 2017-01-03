@@ -1,0 +1,17 @@
+# DUGHOL
+# Range 18900-18999
+
+18900 = {
+	name = Rikos
+	dynasty = 207034
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1394.1.1 = {
+		death = yes
+	}
+}

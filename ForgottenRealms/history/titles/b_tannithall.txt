@@ -1,0 +1,10 @@
+1343.1.1 = {
+	liege = c_valashar
+	
+	# Although Holver is meant to be Count of Valashar, we need the Duke
+	# of d_golden_marches to be landed
+	holder = 10901 # Holver Roaringhorn
+}
+1408.1.1 = {
+	holder = 0
+}

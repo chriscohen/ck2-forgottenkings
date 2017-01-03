@@ -1,0 +1,7 @@
+1336.1.1 = {
+	liege = k_tethyr
+	holder = 19100 # Tardeth Llanistaph
+}
+1409.1.1 = {
+	holder = 0
+}

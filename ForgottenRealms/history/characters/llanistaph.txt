@@ -1,0 +1,17 @@
+# LLANISTAPH
+# Range 19100-19199
+
+19100 = {
+	name = Tardeth
+	dynasty = 207036
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1409.1.1 = {
+		death = yes
+	}
+}
