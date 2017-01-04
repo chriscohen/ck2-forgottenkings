@@ -4,7 +4,7 @@
 18500 = {
 	name = Dancon
 	dynasty = 207030
-	father = 18502 # Unnamed
+	father = 18502 # Sammar
 	
 	religion = catholic
 	culture = tethyrian
@@ -25,7 +25,7 @@
 	name = Dhara
 	female = yes
 	dynasty = 207030
-	father = 18052 # Unnamed
+	father = 18052 # Sammar
 	
 	religion = catholic
 	culture = tethyrian
@@ -44,7 +44,7 @@
 	}
 }
 18502 = {
-	name = Unnamed # Father to Dancon and Dhara
+	name = Sammar # Father to Dancon and Dhara, non-canon name
 	dynasty = 207030
 	
 	religion = catholic

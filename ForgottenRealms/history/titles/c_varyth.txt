@@ -1,6 +1,9 @@
-1350.1.1 = {
+1320.1.1 = {
 	liege = d_crown_lands
-	holder = 18500
+	holder = 18502 # Sammar Riiklass (non-canon)
+}
+1347.9.15 = {
+	holder = 18500 # Dancon Riiklass
 }
 1418.1.1 = {
 	holder = 0
