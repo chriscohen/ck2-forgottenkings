@@ -1,0 +1,66 @@
+# ILLEHHUNE
+# Range 19500-19599
+
+19500 = {
+	name = Nivedann
+	dynasty = 207040
+	father = 19501 # Nivedann (non-canon)
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1318.1.1 = {
+		birth = yes
+	}
+	1351.5.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+19501 = {
+	name = Nivedann # Non-canon name for father of 19500
+	dynasty = 207040
+	father = 19503 # Ondul (non-canon)
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1291.1.1 = {
+		birth = yes
+	}
+	1334.1.1 = {
+		death = yes
+	}
+}
+19502 = {
+	name = Maxos # Uncle to Nivedann (19500)
+	dynasty = 207040
+	father = 19503 # Ondul (non-canon)
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1293.1.1 = {
+		birth = yes
+	}
+	1351.5.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+19503 = {
+	name = Ondul # Non-canon name for father of 19501, 19502
+	dynasty = 207040
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1271.1.1 = {
+		birth = yes
+	}
+	1309.1.1 = {
+		death = yes
+	}
+}

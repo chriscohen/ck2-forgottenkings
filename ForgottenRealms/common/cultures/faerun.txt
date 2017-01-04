@@ -970,7 +970,7 @@ human = {
 		
 		male_names = {
 			Alaric Alemander Aulis
-			Coram
+			Challas Coram
 			Dancon Darjast Dessek
 			Ellem Emmakk
 			Gamalon Geiron
@@ -979,8 +979,8 @@ human = {
 			Jaszur Jhodak Jordy Jornos
 			Kaj Kal
 			Leodom Lhorik Llachior
-			Malcor
-			Numar
+			Malcor Maxos
+			Nivedann Numar
 			Ondul Oon Orrdun
 			Rikos
 			Sammar Sarshel

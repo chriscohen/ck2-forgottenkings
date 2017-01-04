@@ -1,21 +1,22 @@
-1336.1.1 = {
+1287.1.1 = {
+	# Duchy of Dusk, before the Interregnum
 	liege = d_golden_marches
-	
-	# Although there is a Count of Valashar, we want some land for the
-	# Duke of the Golden Marches
-	holder = 18800 # Alaric Hembreon
+	holder = 19503 # Ondul Illehhune (non-canon)
 }
-1347.8.27 = {
-	# 15 days before Ten Black Days of Eleint, Alaric Hembreon is
-	# exiled on trumped-up charges
-	holder = 15000
+1309.1.1 = {
+	holder = 19501 # Nivedann Illehhune (non-canon)
+}
+1334.1.1 = {
+	holder = 19500 # Nivedann Illehhune
 }
 1347.9.12 = {
-	# We need a holder here
-	holder = 0
+	# Interregnum
+	liege = 0
 }
-1349.8.27 = {
-	holder = 18800 # Alaric Hembreon returns from exile
+1351.5.1 = {
+	# Alaric Hembreon has returned from exile, so grant him this title
+	liege = d_golden_marches
+	holder = 18800
 }
 1397.1.1 = {
 	holder = 18801 # Tatrina Hembreon

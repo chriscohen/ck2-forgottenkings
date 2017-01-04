@@ -161,3 +161,15 @@
 	name = Piirlon
 	culture = tethyrian
 }
+207040 = {
+	name = Illehhune
+	culture = tethyrian
+}
+207041 = {
+	name = Kytolamn
+	culture = tethyrian
+}
+207042 = {
+	name = Barstonn
+	culture = tethyrian
+}

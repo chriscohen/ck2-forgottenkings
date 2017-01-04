@@ -1,0 +1,19 @@
+# BARSTONN
+# Range 19700-19799
+
+19700 = {
+	name = Challas
+	dynasty = 207041
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1306.1.1 = {
+		birth = yes
+	}
+	1351.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
