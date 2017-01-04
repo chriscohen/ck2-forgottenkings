@@ -131,7 +131,6 @@
 }
 902.1.11 = {
 	holder = 2139 # Tanner Cymrych
-	holder = 2139 # Tanner Cymrych
 }
 944.1.1 = {
 	holder = 0 # End of rule of Moonshae Isles as a whole

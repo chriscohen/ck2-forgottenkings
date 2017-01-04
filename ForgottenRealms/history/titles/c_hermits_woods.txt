@@ -160,7 +160,7 @@
 	# Held briefly by Kuthor Lagarr - source says he took area near
 	# Wheloon, but we'll grant him Wheloon and, as capital, he gets
 	# the county.
-	9000 # Kuthor Lagarr
+	holder = 9000 # Kuthor Lagarr
 }
 475.1.1 = {
 	holder = 61 # Duar

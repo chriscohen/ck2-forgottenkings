@@ -22,7 +22,7 @@
 	holder = 13408 # Amahl Shoon V
 }
 204.1.1 = {
-	holder = 13411 # Amahl Shoon VI
+	holder = 13427 # Amahl Shoon VI
 }
 205.1.1 = {
 	holder = 13412 # Shoon IV
