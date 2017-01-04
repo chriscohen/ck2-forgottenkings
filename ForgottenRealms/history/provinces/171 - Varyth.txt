@@ -2,7 +2,7 @@
 title = c_varyth
 
 # Settlements
-max_settlements = 2
+max_settlements = 1
 
 b_tor_arcana = castle
 
