@@ -149,6 +149,9 @@
 	father = 6602 # Rauvor
 	mother = 900035 # Pheirauze
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1326.1.1 = {
 		birth = yes
 	}
@@ -158,12 +161,19 @@
 }
 6609 = {
 	name = Dalestra # 5th child of Rauvor
+	female = yes
 	dynasty = 201027
 	father = 6602 # Rauvor
 	mother = 900035 # Pheirauze
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1327.1.1 = {
 		birth = yes
+	}
+	1346.1.1 = {
+		add_spouse = 900037 # Unnamed
 	}
 	1365.1.1 = {
 		death = yes
@@ -174,6 +184,9 @@
 	dynasty = 201027
 	father = 6602 # Rauvor
 	mother = 900035 # Pheirauze
+	
+	religion = catholic
+	culture = cormyrean
 	
 	1328.1.1 = {
 		birth = yes
@@ -189,6 +202,9 @@
 	father = 6602 # Rauvor
 	mother = 900035 # Pheirauze
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1329.1.1 = {
 		birth = yes
 	}
@@ -203,6 +219,9 @@
 	father = 6602 # Rauvor
 	mother = 900035 # Pheirauze
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1330.1.1 = {
 		birth = yes
 	}
@@ -215,6 +234,9 @@
 	dynasty = 201027
 	father = 900037 # Unnamed
 	mother = 6609 # Dalestra
+	
+	religion = catholic
+	culture = cormyrean
 	
 	1347.1.1 = {
 		birth = yes
@@ -230,6 +252,9 @@
 	father = 6700 # Broglan Samryn
 	mother = 6601 # Shayna
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1366.1.1 = {
 		birth = yes
 	}
@@ -244,6 +269,9 @@
 	father = 6700 # Broglan Samryn
 	mother = 6601 # Shayna
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1368.1.1 = {
 		birth = yes
 	}
@@ -256,6 +284,9 @@
 	dynasty = 201027
 	father = 6700 # Broglan Samryn
 	mother = 6601 # Shayna
+	
+	religion = catholic
+	culture = cormyrean
 	
 	1369.1.1 = {
 		birth = yes

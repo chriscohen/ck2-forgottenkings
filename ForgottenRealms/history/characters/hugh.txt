@@ -26,8 +26,9 @@
 	religion = catholic
 	culture = ffolk
 	
-	171.1.1  = {
-		# Bit dubious, father would have been 10 years old
+	177.1.1  = {
+		# Source says 171 but this would have made Callidyrr too young
+		# to father a child
 		birth = yes
 	}
 	230.1.1 = {
@@ -45,7 +46,7 @@
 	religion = catholic
 	culture = ffolk
 	
-	172.1.1 = { # Estimate
+	178.1.1 = { # Estimate
 		birth = yes
 	}
 	230.1.1 = { # Estimate
@@ -61,10 +62,10 @@
 	religion = catholic
 	culture = ffolk
 	
-	179.1.1 = { # Estimate
+	193.1.1 = { # Estimate
 		birth = yes
 	}
-	196.1.1 = { # Estimate, must have been after Argus took power in 195
+	209.1.1 = { # Estimate, must have been after Argus took power in 195
 		add_spouse = 2500 # Argus Cambro
 	}
 	219.1.1 = { # Estimate

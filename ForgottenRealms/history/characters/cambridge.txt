@@ -14,7 +14,7 @@
 	173.1.1 = {
 		birth = yes
 	}
-	196.1.1 = {
+	209.1.1 = {
 		add_spouse = 1903 # Unnamed Hugh
 	}
 	219.1.1 = {
@@ -30,7 +30,7 @@
 	religion = catholic
 	culture = northman
 	
-	199.1.1 = {
+	209.2.1 = {
 		birth = yes
 	}
 	256.1.1 = {
@@ -45,7 +45,7 @@
 	religion = catholic
 	culture = northman
 	
-	218.1.1 = {
+	225.1.1 = {
 		birth = yes
 	}
 	256.11.1 = {
@@ -65,7 +65,7 @@
 	religion = catholic
 	culture = northman
 	
-	237.1.1 = {	
+	241.1.1 = {	
 		birth = yes
 	}
 	275.1.1 = {

@@ -13,7 +13,7 @@
 	1433.1.1 = {
 		birth = yes
 	}
-	1448.1.1 = {
+	1449.1.1 = {
 		add_spouse = 90 # Irvel Obarskyr
 	}
 	1514.1.1 = { # Estimate

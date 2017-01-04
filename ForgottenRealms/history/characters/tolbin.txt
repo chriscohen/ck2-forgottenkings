@@ -6,6 +6,9 @@
 	female = yes
 	dynasty = 201051
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1226.1.1 = { # Estimate
 		birth = yes
 	}

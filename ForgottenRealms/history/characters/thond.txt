@@ -18,7 +18,7 @@
 	}
 	1456.1.1 = {
 		employer = 5900 # Edwin Morahan
-		effect = { give_job_title = job_steward }
+		effect = { give_job_title = job_treasurer }
 	}
 	1507.1.1 = {
 		death = yes

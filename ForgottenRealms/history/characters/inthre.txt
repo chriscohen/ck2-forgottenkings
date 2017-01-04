@@ -36,7 +36,7 @@
 	1378.1.1 = { # Estimate
 		birth = yes
 	}
-	1496.1.1 = {
+	1396.1.1 = {
 		add_spouse = 5403 # Unnamed Thralos
 	}
 	1457.1.1 = { # Estimate

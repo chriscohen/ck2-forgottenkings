@@ -11,7 +11,7 @@
 	1330.1.1 = {
 		birth = yes
 	}
-	1346.1.1 = {
+	1347.1.1 = {
 		add_spouse = 11803 # Raqiil Pesarkhal
 	}
 	1359.2.1 = {

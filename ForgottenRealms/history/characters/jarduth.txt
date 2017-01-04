@@ -15,7 +15,7 @@
 		give_nickname = nick_warhammer
 	}
 	1340.1.1 = {
-		add_friend = 15300 # Llachior Blackthorn
+		effect = { add_friend = 15300 } # Llachior Blackthorn
 	}
 	1389.1.1 = {
 		death = yes

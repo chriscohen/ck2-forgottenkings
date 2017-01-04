@@ -41,6 +41,7 @@
 }
 5402 = {
 	name = Unnamed # Daughter of Alazne Inthré and Unnamed 5403
+	female = yes
 	dynasty = 201015
 	father = 5403 # Unnamed
 	mother = 4601 # Alazne Inthré

@@ -31,7 +31,7 @@
 	
 	trait = twin
 	
-	1370.7.1. = {
+	1370.7.1 = {
 		birth = yes
 	}
 	1470.1.1 = { # Estimate

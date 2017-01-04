@@ -10,7 +10,6 @@
 	
 	dna="0hkja0f00a0"
 	properties="rh0eef00000000"
-	properties="rh0eef00000000"
 	
 	trait = ambitious
 	

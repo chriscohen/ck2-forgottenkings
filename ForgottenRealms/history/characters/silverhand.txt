@@ -18,6 +18,9 @@
 		# Ed says he's still around, so he's immortal I guess
 		trait = immortal
 	}
+	1600.1.1 = {
+		death = yes
+	}
 }
 7001 = {
 	name = Syluné
@@ -62,6 +65,12 @@
 	778.1.1 = {
 		trait = wizard
 		trait = immortal
+	}
+	1220.1.1 = { # Estimate
+		add_spouse = 7200 # Taerntym Tanagathor
+	}
+	1600.1.1 = {
+		death = yes
 	}
 }
 7003 = {

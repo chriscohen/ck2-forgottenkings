@@ -15,6 +15,9 @@
 	1184.1.1 = { # Estimate
 		birth = yes
 	}
+	1220.1.1 = { # Estimate
+		add_spouse = 7002 # Alustriel Silverhand
+	}
 	1404.1.1 = { # Estimate
 		death = yes
 	}
@@ -47,6 +50,7 @@
 	culture = moonelf
 	
 	trait = moonelf
+	trait = twin
 	
 	1242.1.1 = {
 		birth = yes
@@ -67,6 +71,7 @@
 	culture = moonelf
 	
 	trait = moonelf
+	trait = twin
 	
 	1242.1.1 = {
 		birth = yes
@@ -105,6 +110,7 @@
 	culture = moonelf
 	
 	trait = moonelf
+	trait = twin
 	
 	1299.1.1 = {
 		birth = yes

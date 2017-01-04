@@ -89,7 +89,7 @@
 	1278.1.1 = { # Estimate
 		birth = yes
 	}
-	1308.1.1 = { # Estimate
+	1310.1.1 = { # Estimate
 		death = yes
 	}
 }

@@ -8,10 +8,10 @@
 	religion = sunni
 	culture = calishite
 	
-	291.1.1 = {
+	275.1.1 = {
 		birth = yes
 	}
-	305.1.1 = {
+	291.12.1 = {
 		add_spouse = 13422 # Selara el Shoon
 	}
 	361.1.1 = {

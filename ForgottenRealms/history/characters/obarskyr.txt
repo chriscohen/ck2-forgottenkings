@@ -30,7 +30,7 @@
 		birth = yes
 	}
 	43.1.1 = {
-		give_nickname = the_touched
+		give_nickname = nick_the_touched
 	}
 	57.1.1 = {
 		death = yes
@@ -178,7 +178,9 @@
 		birth = yes
 	}
 	134.1.1 = {
-		death = death_suicide
+		death = {
+			death_reason = death_suicide
+		}
 	}
 }
 12 = {
@@ -233,7 +235,7 @@
 14 = {
 	name = Moriann
 	dynasty = 201000
-	father = 12 # Irbruin
+	father = 72 # Irbruin
 	
 	religion = catholic
 	culture = cormyrean
@@ -248,7 +250,7 @@
 15 = {
 	name = Tharyann
 	dynasty = 201000
-	father = 12 # Irbruin
+	father = 72 # Irbruin
 	
 	religion = catholic
 	culture = cormyrean
@@ -374,6 +376,7 @@
 }
 22 = {
 	name = Erthava
+	female = yes
 	dynasty = 201000
 	father = 15 # Tharyann
 	
@@ -426,6 +429,9 @@
 	dynasty = 201000
 	father = 23 # Holordrym
 	
+	religion = catholic
+	culture = cormyrean
+	
 	261.1.1 = { # Estimate
 		birth = yes
 	}
@@ -460,7 +466,7 @@
 	246.1.1 = {
 		birth = yes
 	}
-	261.1.1 = {
+	262.1.1 = {
 		add_spouse = 900029 # Kurrurdan
 	}
 	286.1.1 = {
@@ -564,7 +570,7 @@
 	283.1.1 = { # Estimate
 		birth = yes
 	}
-	298.1.1 = { # Estimate
+	299.1.1 = { # Estimate
 		add_spouse = 900036 # Askran
 	}
 	355.1.1 = { # Estimate
@@ -585,7 +591,7 @@
 	284.1.1 = {
 		birth = yes
 	}
-	299.1.1 = { # Estimate
+	300.1.1 = { # Estimate
 		add_spouse = 38 # Jalanthra
 	}
 	303.1.1 = {
@@ -627,7 +633,7 @@
 	284.1.1 = { # Estimate
 		birth = yes
 	}
-	299.1.1 = { # Estimate
+	300.1.1 = { # Estimate
 		add_spouse = 35 # Gorann
 	}
 	310.1.1 = { # Estimate
@@ -645,7 +651,7 @@
 	288.1.1 = {
 		birth = yes
 	}
-	301.1.1 = { # Estimate
+	304.1.1 = { # Estimate
 		add_spouse = 900040 # Silbran
 	}
 	308.1.1 = {
@@ -1019,11 +1025,11 @@
 		# Dragon 279 p.83
 		add_spouse = 1503 # Threena Cormaeril
 	}
-	476.1.1 = {
-		add_spouse = 900049 # Jhanthyl
-	}
 	465.1.1 = {
 		give_nickname = nick_longyears
+	}
+	476.1.1 = {
+		add_spouse = 900049 # Jhanthyl
 	}
 	480.1.1 = {
 		death = yes
@@ -1267,7 +1273,7 @@
     properties="0j0gdf00000000"
 	
 	trait = brilliant_strategist
-	trait = brawny
+	trait = robust
 	
 	1186.1.1 = {
 		birth = yes
@@ -1450,6 +1456,9 @@
 	1309.1.1 = { # Estimate, 2 years younger than brother Azoun IV
 		birth = yes
 	}
+	1325.1.1 = {
+		add_spouse = 3401 # Unnamed Lhal
+	}
 	1480.1.1 = { # Estimate
 		death = yes
 	}
@@ -1465,6 +1474,9 @@
 	
 	1405.1.1 = {
 		birth = yes
+	}
+	1433.1.1 = {
+		add_spouse = 4800 # Solatha Boldtree
 	}
 	1437.10.1 = { # Dungeon 198 p.10
 		death = {
@@ -1524,6 +1536,9 @@
 	1438.1.1 = {
 		birth = yes
 	}
+	1512.1.1 = {
+		death = yes
+	}
 }
 90 = {
 	name = Irvel
@@ -1537,7 +1552,7 @@
 	1431.1.1 = {
 		birth = yes
 	}
-	1448.1.1 = {
+	1449.1.1 = {
 		add_spouse = 5000 # Ospra Goldfeather
 	}
 	1516.1.1 = { # Estimate
@@ -1556,6 +1571,9 @@
 	1454.1.1 = {
 		birth = yes
 	}
+	1534.1.1 = {
+		death = yes
+	}
 }
 92 = {
 	name = Raedra
@@ -1569,6 +1587,9 @@
 	
 	1460.1.1 = {
 		birth = yes
+	}
+	1514.1.1 = {
+		death = yes
 	}
 }
 93 = {

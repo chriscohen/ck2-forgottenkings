@@ -5,16 +5,19 @@
 7400 = {
 	name = Andelver
 	dynasty = 401003
-	father = 7200 # Taerntym
+	father = 7200 # Taerntym Tanagathor
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
 	culture = moonelf
 	
 	trait = moonelf
+	trait = twin
 	
 	1299.1.1 = {
 		birth = yes
 	}
-	# No death in scope
+	1600.1.1 = {
+		death = yes
+	}
 }

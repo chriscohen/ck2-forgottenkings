@@ -11,7 +11,7 @@
 	1339.1.1 = {
 		birth = yes
 	}
-	1370.7.1 = {
+	1370.7.2 = {
 		employer = 4900 # Coram Rhindaun / d_iltkazar_highlands
 		effect = { give_minor_title = title_regent }
 	}

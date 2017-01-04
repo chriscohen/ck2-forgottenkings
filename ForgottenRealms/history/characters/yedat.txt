@@ -12,7 +12,7 @@
 		birth = yes
 	}
 	1354.1.1 = {
-		add_friend = 14200 # Taarin Busym
+		effect = { add_friend = 14200 } # Taarin Busym
 	}
 	1359.2.1 = {
 		employer = 11800 # Ralan Pesarkhal

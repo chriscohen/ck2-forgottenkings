@@ -17,11 +17,16 @@
 	}
 }
 6901 = {
-	# Baerovus had a bastard child with 
+	# Baerovus had a bastard child 
 	name = "Casplar Hundyl"
 	dynasty = 201030
 	father = 73 # Baerovus Obarskyr, you naughty boy
 	mother = 6900 # Unnamed Immerdusk
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
 	
 	1125.1.1 = {
 		birth = yes

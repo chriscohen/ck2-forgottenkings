@@ -7,6 +7,9 @@
 	father = 3401 # Unnamed, married to Sulesta Obarskyr
 	mother = 85 # Sulesta Obarskyr
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1325.1.1 = {
 		birth = yes
 	}
@@ -25,8 +28,14 @@
 	name = Unnamed
 	dynasty = 201005
 	
+	religion = catholic
+	culture = cormyrean
+	
 	1306.1.1 = { # Estimate
 		birth = yes
+	}
+	1325.1.1 = {
+		add_spouse = 85 # Sulesta Obarskyr
 	}
 	1336.1.1 = { # Estimate
 		death = yes

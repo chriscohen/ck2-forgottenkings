@@ -45,10 +45,6 @@
 	name = Shoon
 	culture = calishite
 }
-209011 = {
-	name = Tarshaj
-	culture = calishite
-}
 209012 = {
 	name = Aktorral
 	culture = calishite

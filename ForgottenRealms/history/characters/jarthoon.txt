@@ -14,4 +14,7 @@
 	1185.1.1 = { # Estimate
 		trait = wounded # By Donder Cormaeril
 	}
+	1203.1.1 = {
+		death = yes
+	}
 }

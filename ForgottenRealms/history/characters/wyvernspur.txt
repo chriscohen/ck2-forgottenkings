@@ -617,6 +617,9 @@
 	1284.1.1 = { # Estimate
 		add_spouse = 900055 # Austa of Suzail
 	}
+	1322.1.1 = { # Estimate
+		death = yes
+	}
 }
 9534 = {
 	name = Grever
@@ -704,7 +707,7 @@
 	1319.1.1 = {
 		birth = yes
 	}
-	1334.1.1 = {
+	1335.1.1 = {
 		add_spouse = 900056 # Bette Shar of Suzail
 	}
 	1343.1.1 = {

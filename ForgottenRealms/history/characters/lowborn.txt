@@ -39,7 +39,7 @@
 	religion = catholic
 	culture = ffolk
 	
-	1310.1.1 = { # Estimate
+	1309.1.1 = { # Estimate
 		birth = yes
 	}
 	1325.1.1 = {
@@ -56,10 +56,10 @@
 	religion = catholic
 	culture = ffolk
 	
-	470.1.1 = { # Estimate
+	469.1.1 = { # Estimate
 		birth = yes
 	}
-	485.1.1 = { # Estimate
+	486.1.1 = { # Estimate
 		add_spouse = 2115 # Carrig III Cymrych
 	}
 	505.1.1 = { # Estimate
@@ -203,6 +203,9 @@
 	1364.1.1 = {
 		employer = 2618 # Reginald Carrathal
 	}
+	1415.1.1 = {
+		death = yes
+	}
 }
 900012 = {
 	name = Robyn
@@ -242,6 +245,9 @@
 	1410.1.1 = {
 		trait = immortal # He's a wizard, Harry
 	}
+	1600.1.1 = {
+		death = yes
+	}
 }
 900014 = {
 	name = Pawldo
@@ -256,7 +262,7 @@
 		employer = 1700 # Tristan Kendrick
 	}
 	1365.1.1 = {
-		employer = 1365 # Alicia Kendrick
+		employer = 1759 # Alicia Kendrick
 	}
 	1365.6.1 = {
 		death = {
@@ -346,6 +352,9 @@
 		employer = 1700 # Tristan Kendrick
 		effect = { give_job_title = job_marshal }
 	}
+	1407.1.1 = {
+		death = yes
+	}
 }
 900019 = {
 	# First husband of Myrmeen Lhal
@@ -386,7 +395,7 @@
 		remove_spouse = 900019 # Dak
 	}
 	1350.1.1 = {
-		employer = 84 # Azoun IV Obarskyr
+		employer = 81 # Azoun IV Obarskyr
 		add_spouse = 3400 # Haverstrom Lhal
 		effect = {
 			dynasty = 201005 # Inherits the Lhal dynasty
@@ -419,7 +428,7 @@
 	name = Unnamed
 	mother = 900021 # Myrmeen's mother
 	
-	religion = catholic
+	religion = sunni
 	culture = calishite
 	
 	1329.1.1 = { # Myrmeen was aged 6
@@ -434,6 +443,9 @@
 	name = Unnamed
 	mother = 900020 # Myrmeen
 	father = 900019 # Dak
+	
+	religion = sunni
+	culture = calishite
 	
 	1343.10.1 = {
 		birth = yes
@@ -489,10 +501,10 @@
 	religion = catholic
 	culture = cormyrean
 	
-	246.1.1 = { # Estimate
+	245.1.1 = { # Estimate
 		birth = yes
 	}
-	261.1.1 = {
+	262.1.1 = {
 		add_spouse = 27 # Besmra Obarskyr
 	}
 	289.6.1 = { # Estimated month
@@ -576,7 +588,7 @@
 		employer = 87 # Foril I Obarskyr
 	}
 	1456.1.1 = {
-		add_friend = 5900 # Edwin Morahan
+		effect = { add_friend = 5900 } # Edwin Morahan
 	}
 	1499.1.1 = { # Estimate
 		death = yes
@@ -625,7 +637,7 @@
 	283.1.1 = { # Estimate
 		birth = yes
 	}
-	298.1.1 = { # Estimate
+	299.1.1 = { # Estimate
 		add_spouse = 34 # Goruana
 	}
 	303.1.1 = {
@@ -643,6 +655,9 @@
 	
 	1327.1.1 = {
 		birth = yes
+	}
+	1346.1.1 = {
+		add_spouse = 6609 # Dalestra Summerstar
 	}
 	1367.1.1 = {
 		death = yes
@@ -675,7 +690,7 @@
 	286.1.1 = {
 		birth = yes
 	}
-	301.1.1 = { # Estimate
+	304.1.1 = { # Estimate
 		add_spouse = 39 # Ulbaeram
 	}
 	324.1.1 = {
@@ -742,6 +757,9 @@
 	}
 	864.1.1 = {
 		employer = 900061 # Rysellan the Dark
+	}
+	1388.1.1 = {
+		death = yes
 	}
 }
 900045 = {
@@ -924,7 +942,7 @@
 	1284.1.1 = { # Estimate
 		add_spouse = 9533 # Barad Wyvernspur
 	}
-	1288.1.1 = { # Estimate
+	1301.1.1 = { # Estimate
 		death = yes
 	}
 }
@@ -938,7 +956,7 @@
 	1317.1.1 = {
 		birth = yes
 	}
-	1334.1.1 = {
+	1335.1.1 = {
 		add_spouse = 9538 # Cole Wyvernspur
 	}
 	1344.1.1 = {
@@ -1067,6 +1085,9 @@
 	}
 	1188.1.1 = {
 		employer = 900044 # Rhangaun
+	}
+	1413.1.1 = {
+		death = yes
 	}
 }
 900063 = {
@@ -1310,7 +1331,7 @@
 	}
 	1371.1.1 = {
 		death = {
-			death_trait
+			death_reason = death_trait
 		}
 	}
 }

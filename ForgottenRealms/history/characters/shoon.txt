@@ -82,7 +82,7 @@
 	35.1.1 = {
 		birth = yes
 	}
-	36.1.1 = {
+	71.1.1 = {
 		death = yes
 	}
 }
@@ -166,7 +166,7 @@
 	}
 }
 13409 = {
-	name = Unnamed # Daughter of Shoon V
+	name = Unnamed # Daughter of Amahl Shoon V
 	female = yes
 	dynasty = 209010
 	father = 13408 # Shoon V
@@ -177,12 +177,12 @@
 	158.1.1 = {
 		birth = yes
 	}
-	182.1.1 = {
+	184.1.1 = {
 		death = yes
 	}
 }
 13410 = {
-	name = Unnamed # First son of daughter of Shoon V
+	name = Unnamed # First son of daughter of Amahl Shoon V
 	dynasty = 209010
 	mother = 13409 # Daughter of Shoon V
 	
@@ -197,7 +197,7 @@
 	}
 }
 13411 = {
-	name = Unnamed # Second son of daughter of Shoon V
+	name = Unnamed # Second son of daughter of Amahl Shoon V
 	dynasty = 209010
 	mother = 13409 # Daughter of Shoon V
 	
@@ -214,7 +214,7 @@
 13412 = {
 	name = Shoon # Shoon IV - no first name so he'll have to be Shoon Shoon
 	dynasty = 209010
-	mother = 13409 # Daughter of Shoon V
+	mother = 13409 # Daughter of Amahl Shoon V
 	
 	religion = sunni
 	culture = calishite
@@ -252,7 +252,7 @@
 	religion = sunni
 	culture = calishite
 	
-	249.1.1 = {
+	234.1.1 = {
 		birth = yes
 	}
 	280.1.1 = {
@@ -417,7 +417,7 @@
 	275.12.1 = {
 		birth = yes
 	}
-	305.1.1 = {
+	291.12.1 = {
 		add_spouse = 13700 # Nadim el Jhotos
 	}
 	360.1.1 = {
@@ -427,11 +427,13 @@
 13423 = {
 	name = Kodos # Shoon VII
 	dynasty = 209010
+	father = 13700 # Nadim el Jhotos
+	mother = 13422 # Selara
 	
 	religion = sunni
 	culture = calishite
 	
-	290.1.1 = {
+	291.12.15 = {
 		birth = yes
 	}
 	320.1.1 = {

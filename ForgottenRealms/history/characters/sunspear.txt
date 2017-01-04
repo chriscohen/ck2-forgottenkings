@@ -31,6 +31,9 @@
 	father = 17800 # Ellem
 	mother = 900076 # Vyma
 	
+	religion = catholic
+	culture = tethyrian
+	
 	1328.1.1 = {
 		birth = yes
 	}
@@ -44,6 +47,9 @@
 	dynasty = 207026
 	father = 17800 # Ellem
 	mother = 900076 # Vyma
+	
+	religion = catholic
+	culture = tethyrian
 	
 	1326.1.1 = {
 		birth = yes
