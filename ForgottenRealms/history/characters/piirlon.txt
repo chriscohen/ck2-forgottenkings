@@ -1,0 +1,23 @@
+# PIIRLON
+# Range 19400-19499
+
+19400 = {
+	name = Rhinda
+	female = yes
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		add_spouse = 15000 # Alemander IV Tethyr
+	}
+	1347.9.12 = {
+		# Died in fire at Castle Tethyr
+		death = {
+			death_reason = death_accident_fire
+		}
+	}
+}

@@ -15,7 +15,7 @@
 		add_spouse = 900083 # Unnamed first wife
 	}
 	1335.1.1 = {
-		add_spouse = 900085 # Rhinda
+		add_spouse = 19400 # Rhinda
 	}
 	1347.9.12 = {
 		death = {
@@ -27,7 +27,7 @@
 	name = Haedrak # 3rd son of Alemander IV
 	dynasty = 207004
 	father = 15000 # Alemander IV
-	mother = 900085 # Rhinda
+	mother = 19400 # Rhinda
 	
 	religion = catholic
 	culture = tethyrian
@@ -69,7 +69,7 @@
 	name = Jhodak
 	dynasty = 207004
 	father = 15002 # Alemander V
-	mother = 900084 # Dhara
+	mother = 18501 # Dhara
 	
 	religion = catholic
 	culture = tethyrian
@@ -87,7 +87,7 @@
 	name = Leodom
 	dynasty = 207004
 	father = 15002 # Alemander V
-	mother = 900084 # Dhara
+	mother = 18501 # Dhara
 	
 	religion = catholic
 	culture = tethyrian

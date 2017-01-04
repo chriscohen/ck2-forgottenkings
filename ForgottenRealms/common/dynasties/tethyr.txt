@@ -157,3 +157,7 @@
 	name = Llistiin
 	culture = tethyrian
 }
+207039 = {
+	name = Piirlon
+	culture = tethyrian
+}
