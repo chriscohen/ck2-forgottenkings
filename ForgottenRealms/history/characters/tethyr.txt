@@ -51,8 +51,13 @@
 	religion = catholic
 	culture = tethyrian
 	
+	trait = greedy
+	
 	1321.1.1 = {
 		birth = yes
+	}
+	1340.1.1 = {
+		add_spouse = 18501 # Dhara Riiklass
 	}
 	1347.9.12 = {
 		death = {

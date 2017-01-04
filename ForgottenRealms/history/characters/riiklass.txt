@@ -4,6 +4,7 @@
 18500 = {
 	name = Dancon
 	dynasty = 207030
+	father = 18502 # Unnamed
 	
 	religion = catholic
 	culture = tethyrian
@@ -18,5 +19,44 @@
 	}
 	1418.1.1 = {
 		death = yes
+	}
+}
+18501 = {
+	name = Dhara
+	female = yes
+	dynasty = 207030
+	father = 18052 # Unnamed
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1323.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		add_spouse = 15002 # Alemander V
+	}
+	1347.9.12 = {
+		# Died in fire at Castle Tethyr
+		death = {
+			death_reason = death_accident_fire
+		}
+	}
+}
+18502 = {
+	name = Unnamed # Father to Dancon and Dhara
+	dynasty = 207030
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1304.1.1 = {
+		birth = yes
+	}
+	1347.9.15 = {
+		# Killed by mobs in Ten Black Days of Eleint
+		death = {
+			death_reason = death_murder_unknown
+		}
 	}
 }

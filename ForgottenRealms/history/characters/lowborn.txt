@@ -1461,26 +1461,6 @@
 		death = yes
 	}
 }
-900084 = {
-	name = Dhara
-	female = yes
-	
-	religion = catholic
-	culture = tethyrian
-	
-	1323.1.1 = {
-		birth = yes
-	}
-	1340.1.1 = {
-		add_spouse = 15002 # Alemander V
-	}
-	1347.9.12 = {
-		# Died in fire at Castle Tethyr
-		death = {
-			death_reason = death_accident_fire
-		}
-	}
-}
 900085 = {
 	name = Rhinda
 	female = yes

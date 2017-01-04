@@ -5,6 +5,11 @@
 	# Duke of the Golden Marches
 	holder = 18800 # Alaric Hembreon
 }
+1347.8.27 = {
+	# 15 days before Ten Black Days of Eleint, Alaric Hembreon is
+	# exiled on trumped-up charges
+	holder = 15000
+}
 1397.1.1 = {
 	holder = 18801 # Tatrina Hembreon
 }
