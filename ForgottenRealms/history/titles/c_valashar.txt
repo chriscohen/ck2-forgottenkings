@@ -10,6 +10,13 @@
 	# exiled on trumped-up charges
 	holder = 15000
 }
+1347.9.12 = {
+	# We need a holder here
+	holder = 0
+}
+1349.8.27 = {
+	holder = 18800 # Alaric Hembreon returns from exile
+}
 1397.1.1 = {
 	holder = 18801 # Tatrina Hembreon
 }
