@@ -8,6 +8,11 @@
 	religion = sunni
 	culture = calishite
 	
+	dna="0icf00gf000"
+	properties="gf0iak00000000"
+	
+	trait = fortune_builder
+	
 	1330.1.1 = {
 		birth = yes
 	}

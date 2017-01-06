@@ -8,6 +8,9 @@
 	religion = sunni
 	culture = calishite
 	
+	dna="bchja0d0000"
+	properties="sb0edk00000000"
+	
 	1309.1.1 = {
 		# TSR9589 p.80 (set 1370 DR) states "born over 60 years ago"
 		birth = yes
@@ -27,6 +30,9 @@
 	religion = sunni
 	culture = calishite
 	
+	dna="bchia0e0000"
+	properties="sb0eek00000000"
+	
 	1329.1.1 = {
 		birth = yes
 	}
@@ -42,11 +48,13 @@
 	religion = sunni
 	culture = calishite
 	
-	1327.1.1 = {
+	1328.1.1 = {
 		birth = yes
 	}
-	1331.1.1 = {
-		death = yes
+	1332.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
 	}
 }
 11803 = {
@@ -58,9 +66,12 @@
 	religion = sunni
 	culture = calishite
 	
+	dna="bcdfh0cb000"
+	properties="pe0b0k00000000"
+	
 	trait = fair
 	
-	1331.1.1 = {
+	1327.1.1 = {
 		birth = yes
 	}
 	1347.1.1 = {
@@ -68,5 +79,56 @@
 	}
 	1394.1.1 = {
 		death = yes
+	}
+}
+11804 = {
+	name = Unnamed # Second son of Ralan
+	dynasty = 209001
+	father = 11800 # Ralan
+	
+	religion = sunni
+	culture = calishite
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+11805 = {
+	name = Unnamed # Third son of Ralan
+	dynasty = 209001
+	father = 11800 # Ralan
+	
+	religion = sunni
+	culture = calishite
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+11806 = {
+	name = Unnamed # Fourth son of Ralan
+	dynasty = 209001
+	father = 11800 # Ralan
+	
+	religion = sunni
+	culture = calishite
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
 	}
 }
