@@ -1,0 +1,7 @@
+1332.1.1 = {
+	liege = c_skaug
+	holder = 21100 # Oxall Covaanar
+}
+1397.1.1 = {
+	holder = 0
+}

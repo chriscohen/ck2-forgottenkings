@@ -1,0 +1,14 @@
+# County Title
+title = c_skaug
+
+# Settlements
+max_settlements = 2
+
+b_maliceprow_manor = castle
+b_skaug = castle
+
+# Misc
+culture = nelanther
+religion = catholic
+
+#History

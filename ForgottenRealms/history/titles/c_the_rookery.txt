@@ -1,0 +1,7 @@
+856.1.1 = {
+	liege = d_nelanther_isles
+	holder = 900086 # Pelath
+}
+1599.1.1 = {
+	holder = 0
+}

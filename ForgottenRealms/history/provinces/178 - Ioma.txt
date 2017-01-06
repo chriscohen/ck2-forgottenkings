@@ -1,0 +1,13 @@
+# County Title
+title = c_ioma
+
+# Settlements
+max_settlements = 1
+
+b_ioma = castle
+
+# Misc
+culture = nelanther
+religion = catholic
+
+#History

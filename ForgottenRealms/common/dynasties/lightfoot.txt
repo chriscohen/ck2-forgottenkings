@@ -21,3 +21,7 @@
 	name = Goldring
 	culture = lightfoot
 }
+500005 = {
+	name = Rockskipper
+	culture = lightfoot
+}

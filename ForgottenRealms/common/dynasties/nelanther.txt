@@ -1,0 +1,11 @@
+# NELANTHER
+# Range 216000-216999
+
+216000 = {
+	name = Maliceprow
+	culture = nelanther
+}
+216001 = {
+	name = Covaanar
+	culture = nelanther
+}

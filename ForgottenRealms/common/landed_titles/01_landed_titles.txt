@@ -2280,6 +2280,93 @@ d_mistledale = {
 		}
 	}
 }
+d_nelanther_isles = {
+	color = { 68 231 160 }
+	color2 = { 255 255 255 }
+	
+	capital = 180 # Skaug
+	culture = nelanther
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 178
+				province_id = 179
+				province_id = 180
+				province_id = 181
+				province_id = 182
+				province_id = 183
+				province_id = 184
+				province_id = 185
+			}
+		}
+	}
+	
+	c_ioma = {
+		color = { 68 231 160 }
+		color2 = { 255 255 255 }
+		
+		b_ioma = {
+		}
+	}
+	c_nemessor = {
+		color = { 89 202 153 }
+		color2 = { 255 255 255 }
+		
+		b_black_skull_cove = {
+		}
+	}
+	c_skaug = {
+		color = { 24 151 96 }
+		color2 = { 255 255 255 }
+		
+		title = TITLE_PORTMASTER
+		title_female = TITLE_PORTMISTRESS
+		
+		b_maliceprow_manor = {
+		}
+		b_skaug = {
+			title = TITLE_CAPTAIN
+			title_female = TITLE_CAPTAIN
+		}
+	}
+	c_the_rookery = {
+		color = { 141 226 189 }
+		color2 = { 255 255 255 }
+		
+		b_pelath = {
+		}
+	}
+	c_irphong = {
+		color = { 11 136 81 }
+		color2 = { 255 255 255 }
+		
+		b_sea_tower = {
+		}
+	}
+	c_hook_isle = {
+		color = { 12 215 126 }
+		color2 = { 255 255 255 }
+		
+		b_hook_isle = {
+		}
+	}
+	c_thordentor = {
+		color = { 89 237 173 }
+		color2 = { 255 255 255 }
+		
+		b_thordentor = {
+		}
+	}
+	c_carcathen = {
+		color = { 114 203 164 }
+		color2 = { 255 255 255 }
+		
+		b_carcathen = {
+		}
+	}
+}
 d_scardale = {
 	color = { 27 117 239 }
 	color2 = { 255 255 255 }

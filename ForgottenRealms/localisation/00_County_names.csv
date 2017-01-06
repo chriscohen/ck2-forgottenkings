@@ -35,6 +35,8 @@ c_cambro_mountains;Cambro Mountains;;;;;;;;;;;;;x
 c_cambro_mountains_adj;Cambro Mountainer;;;;;;;;;;;;;x
 c_canthrell;Canthrell;;;;;;;;;;;;;x
 c_canthrell_adj;Canthrellian;;;;;;;;;;;;;x
+c_carcathen;Carcathen;;;;;;;;;;;;;x
+c_carcathen_adj;Carcathenian;;;;;;;;;;;;;x
 c_codsbay;Codsbay;;;;;;;;;;;;;x
 c_codsbay_adj;Codsbayan;;;;;;;;;;;;;x
 c_cold_fields;Cold Fields;;;;;;;;;;;;;x
@@ -103,12 +105,18 @@ c_high_dale;High Dale;;;;;;;;;;;;;x
 c_high_dale_adj;High Dalen;;;;;;;;;;;;;x
 c_highport;Highport;;;;;;;;;;;;;x
 c_highport_adj;Highportan;;;;;;;;;;;;;x
+c_hook_isle;Hook Isle;;;;;;;;;;;;;x
+c_hook_isle_adj;Hooker;;;;;;;;;;;;;x
 c_hullack_forest;Hullack Forest;Hullack Forest;Hullack Forest;;Hullack Forest;;;;;;;;;x
 c_hullack_forest_adj;Hullack Forester;;;;;;;;;;;;;x
 c_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 c_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
 c_iltkazar_highlands;Iltkazar Highlands;;;;;;;;;;;;;x
 c_iltkazar_highlands_adj;Iltkazar Highlander;;;;;;;;;;;;;x
+c_ioma;Ioma;;;;;;;;;;;;;x
+c_ioma_adj;Ioman;;;;;;;;;;;;;x
+c_irphong;Irphong;;;;;;;;;;;;;x
+c_irphong_adj;Irphonghian;;;;;;;;;;;;;x
 c_ithmonn;Ithmonn;;;;;;;;;;;;;x
 c_ithmonn_adj;Ithmonni;;;;;;;;;;;;;x
 c_jacaman;Jacaman;;;;;;;;;;;;;x
@@ -149,6 +157,8 @@ c_myrloch_vale;Myrloch Vale;;;;;;;;;;;;;x
 c_myrloch_vale_adj;Myrloch Valen;;;;;;;;;;;;;x
 c_mytharan_woods;Mytharan Woods;;;;;;;;;;;;;x
 c_mytharan_woods_adj;Mytharan Woodsian;;;;;;;;;;;;;x
+c_nemessor;Nemessor;;;;;;;;;;;;;x
+c_nemessor_adj;Nemessorran;;;;;;;;;;;;;x
 c_norland;Norland;;;;;;;;;;;;;x
 c_norland_adj;Norlander;;;;;;;;;;;;;x
 c_north_alaron;North Alaron;;;;;;;;;;;;;x
@@ -195,6 +205,8 @@ c_shilmista;Shilmista;;;;;;;;;;;;;x
 c_shilmista_adj;Shilmistan;;;;;;;;;;;;;x
 c_skadaurak;Skadaurak;;;;;;;;;;;;;x
 c_skadaurak_adj;Skadaurakian;;;;;;;;;;;;;x
+c_skaug;Skaug;;;;;;;;;;;;;x
+c_skaug_adj;Skaugan;;;;;;;;;;;;;x
 c_snowdown;Snowdown;;;;;;;;;;;;;x
 c_snowdown_adj;Snowdownian;;;;;;;;;;;;;x
 c_spellshire;Spellshire;;;;;;;;;;;;;x
@@ -231,6 +243,8 @@ c_teshburl;Teshburl;;;;;;;;;;;;;x
 c_teshburl_adj;Teshburlan;;;;;;;;;;;;;x
 c_teshyll;Teshyll;;;;;;;;;;;;;x
 c_teshyll_adj;Teshyllan;;;;;;;;;;;;;x
+c_the_rookery;The Rookery;;;;;;;;;;;;;x
+c_the_rookery_adj;Rookerian;;;;;;;;;;;;;x
 c_the_shrouded_lands;The Shrouded Lands;;;;;;;;;;;;;x
 c_the_shrouded_lands_adj;Shrouded Lander;;;;;;;;;;;;;x
 c_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;;;;;;;x
@@ -239,6 +253,8 @@ c_the_stormhorns;The Stormhorns;The Stormhorns;The Stormhorns;;The Stormhorns;;;
 c_the_stormhorns_adj;Stormhorner;;;;;;;;;;;;;x
 c_the_vast_swamp;The Vast Swamp;The Vast Swamp;The Vast Swamp;;The Vast Swamp;;;;;;;;;x
 c_the_vast_swamp_adj;Vast Swamper;;;;;;;;;;;;;x
+c_thordentor;Thordentor;;;;;;;;;;;;;x
+c_thordentor_adj;Thordentorian;;;;;;;;;;;;;x
 c_thunder_peaks;Thunder Peaks;Thunder Peaks;Thunder Peaks;;Thunder Peaks;;;;;;;;;x
 c_thunder_peaks_adj;Thunder Peakser;;;;;;;;;;;;;x
 c_thunder_way;Thunder Way;;;;;;;;;;;;;x

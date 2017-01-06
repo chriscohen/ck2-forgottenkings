@@ -200,5 +200,9 @@
 # 20700  - 20799    Telerus
 # 20800  - 20899    Turftoes
 # 20900  - 20999    Goldring
+# 21000  - 21099    Maliceprow
+# 21100  - 21199    Covaanar
+# 21200  - 21299    Rockskipper
+# 21300  - 21399    Q'hulhr
 #
 # 900000 - 999999 Lowborn

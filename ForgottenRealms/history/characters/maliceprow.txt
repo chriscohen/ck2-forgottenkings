@@ -1,0 +1,20 @@
+# MALICEPROW
+# Range 21000-21099
+
+21000 = {
+	name = Burlor
+	dynasty = 216000
+	
+	religion = catholic
+	culture = nelanther
+	
+	1307.1.1 = {
+		birth = yes
+	}
+	1337.1.1 = {
+		trait = one_handed
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}

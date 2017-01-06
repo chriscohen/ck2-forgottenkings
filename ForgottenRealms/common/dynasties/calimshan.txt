@@ -101,3 +101,7 @@
 	name = Silendia
 	culture = calishite
 }
+209026 = {
+	name = "Q'hulhr"
+	culture = calishite
+}

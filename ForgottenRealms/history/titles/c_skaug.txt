@@ -1,0 +1,13 @@
+1157.1.1 = {
+	liege = d_nelanther_isles
+	holder = 900087 # Skaug
+}
+1198.1.1 = {
+	holder = 0
+}
+1323.1.1 = {
+	holder = 21000 # Burlor Maliceprow
+}
+1388.1.1 = {
+	holder = 0
+}

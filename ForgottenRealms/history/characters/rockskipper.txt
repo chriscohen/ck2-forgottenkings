@@ -1,0 +1,22 @@
+# ROCKSKIPPER
+# Range 21200-21299
+
+21200 = {
+	name = Parrot
+	dynasty = 500005
+	
+	religion = catholic
+	culture = lightfoot
+	
+	trait = trait_lightfoot
+	
+	1297.1.1 = {
+		birth = yes
+	}
+	1323.1.1 = {
+		employer = 21000 # Burlor Maliceprow
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}

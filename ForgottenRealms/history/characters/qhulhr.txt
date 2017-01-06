@@ -1,0 +1,20 @@
+# Q'HULHR
+# Range 21300-21399
+
+21300 = {
+	name = Asim
+	dynasty = 209026
+	
+	religion = sunni
+	culture = calishite
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		employer = 21000 # Burlor Maliceprow / c_skaug
+	}
+	1386.1.1 = {
+		death = yes
+	}
+}

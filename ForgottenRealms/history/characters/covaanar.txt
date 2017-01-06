@@ -1,0 +1,17 @@
+# COVAANAR
+# Range 21100-21199
+
+21100 = {
+	name = Oxall
+	dynasty = 216001
+	
+	religion = catholic
+	culture = nelanther
+	
+	1316.1.1 = {
+		birth = yes
+	}
+	1397.1.1 = {
+		death = yes
+	}
+}
