@@ -471,6 +471,10 @@
 	religion = catholic
 	culture = tethyrian
 	
+	# Description from Dragon 107 p.34
+	trait = brawny
+	trait = wroth
+	
 	919.1.1 = {
 		birth = yes
 	}

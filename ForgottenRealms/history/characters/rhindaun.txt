@@ -86,8 +86,17 @@
 	religion = catholic
 	culture = tethyrian
 	
+	trait = quick
+	trait = kind
+	trait = just
+	trait = brave
+	
 	1332.1.1 = {
 		birth = yes
+	}
+	1350.1.1 = {
+		trait = brilliant_strategist
+		trait = charismatic_negotiator
 	}
 	1360.1.1 = {
 		add_matrilineal_spouse = 15001 # Haedrak Tethyr
