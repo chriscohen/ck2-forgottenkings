@@ -1,0 +1,178 @@
+title_royal_sammafar = {
+	dignity = 0.10
+	grant_limit = 1
+	opinion_effect = 5
+	
+	monthly_salary = 0.1
+	monthly_prestige = 0.10
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_royal_bailiff = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 3
+	
+	monthly_salary = 0.05
+	monthly_prestige = 0.05
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_royal_farsann = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 3
+	
+	monthly_salary = 0.05
+	monthly_prestige = 0.05
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_royal_corlann = {
+	dignity = 0.05
+	grant_limit = 2
+	opinion_effect = 3
+	
+	monthly_salary = 0.05
+	monthly_prestige = 0.05
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_court_corlann = {
+	dignity = 0.03
+	grant_limit = 1
+	opinion_effect = 2
+	
+	monthly_salary = 0.03
+	monthly_prestige = 0.03
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_royal_hayward = {
+	dignity = 0.1
+	grant_limit = 1
+	opinion_effect = 10
+	
+	monthly_salary = 0.1
+	monthly_prestige = 0.1
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_royal_vintner = {
+	dignity = 0.1
+	grant_limit = 1
+	opinion_effect = 10
+	
+	monthly_salary = 0.1
+	monthly_prestige = 0.1
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_bowlord = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 5
+	
+	monthly_salary = 0.05
+	monthly_prestige = 0.05
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_horselord = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 5
+	
+	monthly_salary = 0.05
+	monthly_prestige = 0.05
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}
+title_marchlord = {
+	dignity = 0.05
+	grant_limit = 1
+	opinion_effect = 5
+	
+	monthly_salary = 0.05
+	monthly_prestige = 0.05
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = k_tethyr
+	}
+}

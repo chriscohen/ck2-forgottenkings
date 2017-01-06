@@ -3,5 +3,8 @@
 	holder = 17700 # Lyrminor Vineshigh
 }
 1411.1.1 = {
+	holder = 17701 # Corwin Vineshigh
+}
+1437.1.1 = {
 	holder = 0
 }

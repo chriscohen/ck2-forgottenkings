@@ -3,5 +3,8 @@
 	holder = 18406 # Zelphar Thann
 }
 1403.1.1 = {
+	holder = 18412 # Erktos II Thann
+}
+1428.1.1 = {
 	holder = 0
 }

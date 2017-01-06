@@ -3,5 +3,8 @@
 	holder = 19200 # Vartan Thrynnar
 }
 1403.1.1 = {
+	holder = 19201 # Tanis Thrynnar
+}
+1412.1.1 = {
 	holder = 0
 }

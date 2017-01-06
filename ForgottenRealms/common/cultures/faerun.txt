@@ -344,10 +344,11 @@ halfling = {
 		color = { 0.9 0.9 0.3 }
 		
 		male_names = {
-			Krimmon
+			Karlofitor Krimmon
 			Lyrminor
 			Oxsal
 			Pawldo
+			Zobrim
 		}
 		female_names = {
 			Ranna
@@ -985,7 +986,7 @@ human = {
 			Priam
 			Rahman Rikos
 			Sammar Samyte Sarshel Strohm
-			Talmon Tanar Taor Tardeth Tebalan Teremir Ternan Thenas Tibor
+			Talmon Tanar Tanis Tannar Taor Tardeth Tebalan Teremir Ternan Thenas Tibor
 			Valsin Vander Vartan
 			Whettimn
 			Xandar

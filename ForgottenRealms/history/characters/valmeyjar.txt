@@ -9,11 +9,14 @@
 	religion = catholic
 	culture = tethyrian
 	
+	martial = 13
+	
 	1338.1.1 = {
 		birth = yes
 	}
 	1367.5.1 = {
 		employer = 4905 # Zaranda Rhindaun
+		effect = { give_job_title = job_marshal }
 	}
 	1370.7.2 = {
 		employer = 4902 # Cyriana Rhindaun

@@ -1,0 +1,23 @@
+# TURFTOES
+# Range 20800-20899
+
+20800 = {
+	name = Karlofitor
+	dynasty = 500003
+	
+	religion = catholic
+	culture = lightfoot
+	
+	trait = trait_lightfoot
+	
+	1313.1.1 = {
+		birth = yes
+	}
+	1367.5.1 = {
+		employer = 4905 # Zaranda Rhindaun
+		effect = { give_minor_title = title_royal_hayward }
+	}
+	1405.1.1 = {
+		death = yes
+	}
+}

@@ -8,6 +8,8 @@
 	religion = catholic
 	culture = tethyrian
 	
+	diplomacy = 15
+	
 	1320.1.1 = { # He was 14 at the Battle of Nightflames (1334 DR)
 		birth = yes
 	}
@@ -28,6 +30,10 @@
 		# Returns from exile
 		effect = { prisoner = no }
 	}
+	1367.5.1 = {
+		employer = 4905 # Zaranda Rhindaun
+		effect = { give_job_title = job_chancellor }
+	}
 	1397.1.1 = {
 		death = yes
 	}
@@ -43,6 +49,10 @@
 	
 	1348.1.1 = {
 		birth = yes
+	}
+	1367.5.1 = {
+		employer = 4905 # Zaranda Rhindaun
+		effect = { give_minor_title = title_royal_corlann }
 	}
 	1432.1.1 = {
 		death = yes

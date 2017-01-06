@@ -13,3 +13,11 @@
 	name = Keeneyes
 	culture = lightfoot
 }
+500003 = {
+	name = Turftoes
+	culture = lightfoot
+}
+500004 = {
+	name = Goldring
+	culture = lightfoot
+}

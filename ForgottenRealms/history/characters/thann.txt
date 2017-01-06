@@ -204,3 +204,22 @@
 		}
 	}
 }
+18412 = {
+	name = Erktos # Erktos II
+	dynasty = 214007
+	father = 18406 # Zelphar
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1341.1.1 = {
+		birth = yes
+	}
+	1367.5.1 = {
+		employer = 4905 # Zaranda Rhindaun
+		effect = { give_minor_title = title_royal_bailiff }
+	}
+	1428.1.1 = {
+		death = yes
+	}
+}

@@ -198,5 +198,7 @@
 # 20500  - 20599    Cormal
 # 20600  - 20699    Pahuk
 # 20700  - 20799    Telerus
+# 20800  - 20899    Turftoes
+# 20900  - 20999    Goldring
 #
 # 900000 - 999999 Lowborn

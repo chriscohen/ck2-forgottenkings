@@ -19,3 +19,23 @@
 		death = yes
 	}
 }
+17701 = {
+	name = Corwin
+	dynasty = 500002
+	
+	religion = catholic
+	culture = lightfoot
+	
+	trait = trait_lightfoot
+	
+	1342.1.1 = {
+		birth = yes
+	}
+	1367.5.1 = {
+		employer = 4905 # Zaranda Rhindaun
+		effect = { give_minor_title = title_royal_farsann }
+	}
+	1437.1.1 = {
+		death = yes
+	}
+}
