@@ -70,6 +70,7 @@
 	properties="pe0b0k00000000"
 	
 	trait = fair
+	trait = quick
 	
 	1327.1.1 = {
 		birth = yes
