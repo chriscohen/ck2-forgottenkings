@@ -1461,3 +1461,44 @@
 		death = yes
 	}
 }
+900084 = {
+	name = Unnamed # Unnamed wife of Leodom I Cormal
+	female = yes
+	
+	religion = catholic
+	culture = tethyrian
+	
+	45.1.1 = {
+		birth = yes
+	}
+	65.1.1 = {
+		add_spouse = 20508 # Leodom I Cormal
+	}
+	90.1.1 = {
+		death = yes
+	}
+}
+900085 = {
+	name = Tasiiva
+	female = yes
+	
+	religion = catholic
+	culture = tethyrian
+	
+	155.1.1 = {
+		birth = yes
+	}
+	171.1.1 = {
+		add_spouse = 20502 # Leodom IV Cormal
+	}
+	187.1.1 = {
+		employer = 20501 # Hazam II Cormal
+		effect = { give_minor_title = title_regent }
+	}
+	193.1.1 = {
+		effect = { remove_title = title_regent }
+	}
+	195.1.1 = {
+		death = yes
+	}
+}

@@ -1857,7 +1857,7 @@ k_tethyr = {
 			}
 		}
 		
-		capital = 171 # Darromar
+		capital = 171 # Ithmonn
 		
 		c_tejarn_hills = {
 			color = { 102 132 200 }

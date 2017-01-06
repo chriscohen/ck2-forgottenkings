@@ -4,6 +4,7 @@
 15000 = {
 	name = Alemander # Alemander IV
 	dynasty = 207004
+	father = 15006 # Jaszur
 	
 	religion = catholic
 	culture = tethyrian
@@ -99,5 +100,384 @@
 		death = {
 			death_reason = death_accident_fire
 		}
+	}
+}
+15005 = {
+	name = Olosar
+	dynasty = 207004
+	father = 15007 # Alemander III
+	
+	religion = catholic
+	culture = tethyrian
+	
+	trait = twin
+	
+	1274.1.1 = {
+		birth = yes
+	}
+	1319.1.1 = {
+		death = yes
+	}
+}
+15006 = {
+	name = Jaszur
+	dynasty = 207004
+	father = 15007 # Alemander III
+	
+	religion = catholic
+	culture = tethyrian
+	
+	trait = twin
+	
+	1274.1.1 = {
+		birth = yes
+	}
+	1295.1.1 = {
+		death = yes
+	}
+}
+15007 = {
+	name = Alemander # Alemander III
+	dynasty = 207004
+	# Source just says "nephew of Errilam"
+	father = 15008
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1258.1.1 = {
+		# Source says 1262 but that would make him a father at 12
+		birth = yes
+	}
+	1288.1.1 = {
+		death = yes
+	}
+}
+15008 = {
+	name = Unnamed # First son of Haedrak II
+	dynasty = 207004
+	father = 15011 # Haedrak II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1232.1.1 = {
+		birth = yes
+	}
+	1269.1.1 = {
+		death = yes
+	}
+}
+15009 = {
+	name = Unnamed # Second son of Haedrak II
+	dynasty = 207004
+	father = 15011 # Haedrak II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1234.1.1 = {
+		birth = yes
+	}
+	1270.1.1 = {
+		death = yes
+	}
+}
+15010 = {
+	name = Errilam
+	dynasty = 207004
+	father = 15011 # Haedrak II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1236.1.1 = {
+		birth = yes
+	}
+	1277.1.1 = {
+		death = yes
+	}
+}
+15011 = {
+	name = Haedrak # Haedrak II
+	dynasty = 207004
+	father = 15013 # Coram IV
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1199.1.1 = {
+		birth = yes
+	}
+	1215.1.1 = {
+		give_nickname = nick_the_corsair_prince
+	}
+	1274.1.1 = {
+		death = yes
+	}
+}
+15012 = {
+	name = Kymer
+	dynasty = 207004
+	father = 15015 # Alemander II
+	
+	religion = catholic
+	culture = halfelf
+	
+	trait = bastard
+	
+	1167.1.1 = {
+		birth = yes
+	}
+	1218.1.1 = {
+		give_nickname = nick_the_shade_king
+	}
+	1227.1.1 = {
+		death = yes
+	}
+}
+15013 = {
+	name = Coram # Coram IV
+	dynasty = 207004
+	father = 15015 # Alemander II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1173.1.1 = {
+		birth = yes
+	}
+	1218.1.1 = {
+		death = yes
+	}
+}
+15014 = {
+	name = Unnamed # First son of Coram IV
+	dynasty = 207004
+	father = 15013 # Coram IV
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1197.1.1 = {
+		birth = yes
+	}
+	1199.1.1 = {
+		death = yes
+	}
+}
+15015 = {
+	name = Alemander # Alemander II
+	dynasty = 207004
+	father = 15017 # Unnamed son of Coram III
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	1202.1.1 = {
+		death = yes
+	}
+}
+15016 = {
+	name = Coram # Coram III
+	dynasty = 207004
+	father = 15021 # Grandson of Alemander I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1112.1.1 = {
+		birth = yes
+	}
+	1181.1.1 = {
+		death = yes
+	}
+}
+15017 = {
+	name = Unnamed # Son of Coram III
+	dynasty = 207004
+	father = 15016 # Coram III
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1130.1.1 = {
+		birth = yes
+	}
+	1179.1.1 = {
+		death = yes
+	}
+}
+15018 = {
+	name = Alemander # Alemander I
+	dynasty = 207004
+	father = 15022 # Son of Coram I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1038.1.1 = {
+		birth = yes
+	}
+	1145.1.1 = {
+		death = yes
+	}
+}
+15019 = {
+	name = Coram # Coram II
+	dynasty = 207004
+	father = 15022 # Son of Coram I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1050.1.1 = {
+		birth = yes
+	}
+	1070.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 19900 # Teremir II Bormul
+		}
+	}
+}
+15020 = {
+	name = Unnamed # Son of Alemander I
+	dynasty = 207004
+	father = 15018
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1060.1.1 = {
+		birth = yes
+	}
+	1094.1.1 = {
+		death = yes
+	}
+}
+15021 = {
+	name = Unnamed # Grandson of Alemander I
+	dynasty = 207004
+	father = 15020
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1088.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		death = yes
+	}
+}
+15022 = {
+	name = Unnamed # Son of Coram I
+	dynasty = 207004
+	father = 15023 # Coram I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1030.1.1 = {
+		birth = yes
+	}
+	1060.1.1 = {
+		death = yes
+	}
+}
+15023 = {
+	name = Coram # Coram I
+	dynasty = 207004
+	father = 15024 # Haedrak I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1010.1.1 = {
+		birth = yes
+	}
+	1065.1.1 = {
+		death = yes
+	}
+}
+15024 = {
+	name = Haedrak # Haedrak I
+	dynasty = 207004
+	father = 15026 # Unnamed brother of Kortal
+	
+	religion = catholic
+	culture = tethyrian
+	
+	988.1.1 = {
+		birth = yes
+	}
+	1059.1.1 = {
+		death = yes
+	}
+}
+15025 = {
+	name = Kortal
+	dynasty = 207004
+	father = 15027 # Nearel
+	
+	religion = catholic
+	culture = tethyrian
+	
+	968.1.1 = {
+		birth = yes
+	}
+	1022.1.1 = {
+		death = yes
+	}
+}
+15026 = {
+	name = Unnamed # Brother of Kortal
+	dynasty = 207004
+	father = 15027 # Nearel
+	
+	religion = catholic
+	culture = tethyrian
+	
+	967.1.1 = {
+		birth = yes
+	}
+	996.1.1 = {
+		death = yes
+	}
+}
+15027 = {
+	name = Nearel
+	dynasty = 207004
+	father = 15028 # Mhoaran
+	
+	religion = catholic
+	culture = tethyrian
+	
+	951.1.1 = {
+		birth = yes
+	}
+	997.1.1 = {
+		death = yes
+	}
+}
+15028 = {
+	name = Mhoaran
+	dynasty = 207004
+	
+	religion = catholic
+	culture = tethyrian
+	
+	919.1.1 = {
+		birth = yes
+	}
+	935.1.1 = {
+		give_nickname = nick_the_tusk_bearded
+	}
+	974.1.1 = {
+		death = yes
 	}
 }

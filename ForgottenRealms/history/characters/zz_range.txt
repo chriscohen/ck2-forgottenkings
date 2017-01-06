@@ -188,5 +188,15 @@
 # 19500  - 19599    Illehhune
 # 19600  - 19699    Kytolamn
 # 19700  - 19799    Barstonn
+# 19800  - 19899    Gallowglass
+# 19900  - 19999    Bormul
+# 20000  - 20099    Mallorhen
+# 20100  - 20199    Tornamn
+# 20200  - 20299    Ithal
+# 20300  - 20399    Tiiraklar
+# 20400  - 20499    Korrunhel
+# 20500  - 20599    Cormal
+# 20600  - 20699    Pahuk
+# 20700  - 20799    Telerus
 #
 # 900000 - 999999 Lowborn

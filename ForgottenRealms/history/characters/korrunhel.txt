@@ -1,0 +1,60 @@
+# KORRUNHEL
+# Range 20400-20499
+
+20400 = {
+	name = Vajra
+	female = yes
+	dynasty = 207049
+	father = 20401 # Xandar
+	
+	religion = catholic
+	culture = tethyrian
+	
+	244.1.1 = {
+		birth = yes
+	}
+	260.1.1 = {
+		add_spouse = 20304 # Karazir Tiiraklar
+	}
+	310.1.1 = {
+		death = yes
+	}
+}
+20401 = {
+	name = Xandar
+	dynasty = 207049
+	father = 20402 # Matamid
+	
+	religion = catholic
+	culture = tethyrian
+	
+	224.1.1 = {
+		birth = yes
+	}
+	260.1.1 = {
+		death = yes
+	}
+}
+20402 = {
+	name = Matamid
+	dynasty = 207049
+	
+	religion = catholic
+	culture = tethyrian
+	
+	180.1.1 = {
+		birth = yes
+	}
+	209.1.1 = {
+		employer = 20500 # Emyr Cormal
+	}
+	217.1.1 = {
+		effect = { give_minor_title = title_regent }
+	}
+	223.1.1 = {
+		effect = { remove_title = title_regent }
+	}
+	251.1.1 = {
+		death = yes
+	}
+}

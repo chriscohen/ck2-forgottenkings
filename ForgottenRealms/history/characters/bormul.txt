@@ -1,0 +1,169 @@
+# BORMUL
+# Range 19900-19999
+
+19900 = {
+	name = Teremir # Teremir II
+	dynasty = 207044
+	father = 19901 # Grandson of Teremir I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1045.1.1 = {
+		birth = yes
+	}
+	1071.1.1 = {
+		death = yes
+	}
+}
+19901 = {
+	name = Unnamed # Grandson of Teremir I
+	dynasty = 207044
+	father = 19902 # Son of Teremir I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1005.1.1 = {
+		birth = yes
+	}
+	1050.1.1 = {
+		death = yes
+	}
+}
+19902 = {
+	name = Unnamed # Son of Teremir I
+	dynasty = 207044
+	father = 19903 # Teremir I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	958.1.1 = {
+		birth = yes
+	}
+	1010.1.1 = {
+		death = yes
+	}
+}
+19903 = {
+	name = Teremir # Teremir I
+	dynasty = 207044
+	mother = 19904 # Teresa the Great
+	
+	religion = catholic
+	culture = tethyrian
+	
+	927.1.1 = {
+		birth = yes
+	}
+	959.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 15028 # Mhoaran Tethyr
+		}
+	}
+}
+19904 = {
+	name = Teresa
+	female = yes
+	dynasty = 207044
+	mother = 19906 # Unnamed sister of Cyriana
+	
+	religion = catholic
+	culture = tethyrian
+	
+	893.1.1 = {
+		birth = yes
+	}
+	932.1.1 = {
+		give_nickname = nick_the_great
+	}
+	957.1.1 = {
+		death = yes
+	}
+}
+19905 = {
+	name = Cyriana
+	female = yes
+	dynasty = 207044
+	father = 19907 # Unnamed son of Sybille
+	
+	religion = catholic
+	culture = tethyrian
+	
+	870.1.1 = {
+		birth = yes
+	}
+	895.1.1 = {
+		give_nickname = nick_the_great
+	}
+	922.1.1 = {
+		death = yes
+	}
+}
+19906 = {
+	name = Unnamed # Sister of Cyriana
+	female = yes
+	dynasty = 207044
+	father = 19907 # Unnamed son of Sybille
+	
+	religion = catholic
+	culture = tethyrian
+	
+	873.1.1 = {
+		birth = yes
+	}
+	921.1.1 = {
+		death = yes
+	}
+}
+19907 = {
+	name = Unnamed # Father of Cyriana and sister
+	dynasty = 207044
+	mother = 19908 # Sybille the Great
+	
+	religion = catholic
+	culture = tethyrian
+	
+	850.1.1 = {
+		birth = yes
+	}
+	874.1.1 = {
+		death = yes
+	}
+}
+19908 = {
+	name = Sybille
+	female = yes
+	dynasty = 207044
+	mother = 19909 # Alisande
+	
+	religion = catholic
+	culture = tethyrian
+	
+	832.1.1 = {
+		birth = yes
+	}
+	857.1.1 = {
+		give_nickname = nick_the_great
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+19909 = {
+	name = Alisande
+	female = yes
+	dynasty = 207044
+	
+	religion = catholic
+	culture = tethyrian
+	
+	816.1.1 = {
+		birth = yes
+	}
+	847.1.1 = {
+		death = yes
+	}
+}

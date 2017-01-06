@@ -1,0 +1,24 @@
+# TELERUS
+# Range 20700-20799
+
+20700 = {
+	name = Moshafi
+	dynasty = 207052
+	
+	religion = catholic
+	culture = tethyrian
+	
+	172.1.1 = {
+		birth = yes
+	}
+	209.1.1 = {
+		employer = 20500 # Emyr Cormal
+	}
+	211.1.1 = {
+		effect = { give_minor_title = title_regent }
+	}
+	217.1.1 = {
+		effect = { remove_title = title_regent }
+		death = yes
+	}
+}

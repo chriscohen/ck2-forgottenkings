@@ -1,0 +1,195 @@
+# ITHAL
+# Range 20200-20299
+
+20200 = {
+	name = Strohm # Strohm V
+	dynasty = 207046
+	father = 20202 # Unnamed brother of Strohm IV
+	
+	religion = catholic
+	culture = tethyrian
+	
+	787.1.1 = {
+		birth = yes
+	}
+	832.1.1 = {
+		death = yes
+	}
+}
+20201 = {
+	name = Strohm # Strohm IV
+	dynasty = 207046
+	father = 20203 # Strohm III
+	
+	religion = catholic
+	culture = tethyrian
+	
+	745.1.1 = {
+		birth = yes
+	}
+	802.1.1 = {
+		death = yes
+	}
+}
+20202 = {
+	name = Unnamed # Brother of Strohm IV
+	dynasty = 207046
+	father = 20203 # Strohm III
+	
+	religion = catholic
+	culture = tethyrian
+	
+	744.1.1 = {
+		birth = yes
+	}
+	788.1.1 = {
+		death = yes
+	}
+}
+20203 = {
+	name = Strohm # Strohm III
+	dynasty = 207046
+	father = 20205 # Unamed great great grandson of Strohm II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	715.1.1 = {
+		birth = yes
+	}
+	769.1.1 = {
+		death = yes
+	}
+}
+20205 = {
+	name = Unnamed # Great great grandson of Strohm II
+	dynasty = 207046
+	father = 20206 # Unnamed great grandson of Strohm II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	680.1.1 = {
+		birth = yes
+	}
+	720.1.1 = {
+		death = yes
+	}
+}
+20206 = {
+	name = Unnamed # Great grandson of Strohm II
+	dynasty = 207046
+	father = 20207 # Unnamed grandson of Strohm II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	645.1.1 = {
+		birth = yes
+	}
+	685.1.1 = {
+		death = yes
+	}
+}
+20207 = {
+	name = Unnamed # Grandson of Strohm II
+	dynasty = 207046
+	father = 20208 # Unnamed son of Strohm II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	610.1.1 = {
+		birth = yes
+	}
+	650.1.1 = {
+		death = yes
+	}
+}
+20208 = {
+	name = Unnamed # Son of Strohm II
+	dynasty = 207046
+	father = 20209 # Strohm II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	575.1.1 = {
+		birth = yes
+	}
+	615.1.1 = {
+		death = yes
+	}
+}
+20209 = {
+	name = Strohm # Strohm II
+	dynasty = 207046
+	father = 20210 # Unnamed son of Strohm I
+	
+	religion = catholic
+	culture = halfelf
+	
+	trait = immortal
+	
+	540.1.1 = {
+		birth = yes
+	}
+	735.1.1 = {
+		death = yes
+	}
+}
+20210 = {
+	name = Unnamed # Son of Strohm I
+	dynasty = 207046
+	father = 20211 # Strohm I
+	mother = 20102 # Unnamed granddaughter of Priam
+	
+	religion = catholic
+	culture = halfelf
+	
+	441.1.1 = {
+		birth = yes
+	}
+	541.1.1 = {
+		death = yes
+	}
+}
+20211 = {
+	name = Strohm # Strohm I
+	dynasty = 207046
+	father = 20212 # Silvyr
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	275.1.1 = {
+		birth = yes
+	}
+	440.1.1 = {
+		add_spouse = 20102 # Unnamed granddaughter of Priam Tornamn
+	}
+	662.1.1 = {
+		death = yes
+	}
+}
+20212 = {
+	name = Silvyr
+	dynasty = 207047
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = moonelf
+	
+	135.1.1 = {
+		birth = yes
+	}
+	449.12.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 13423 # Shoon VII
+		}
+	}
+}

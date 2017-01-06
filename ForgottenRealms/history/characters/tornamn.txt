@@ -1,0 +1,101 @@
+# TORNAMN
+# Range 20100-20199
+
+20100 = {
+	name = Priam
+	dynasty = 207046
+	father = 20104 # Nishan III
+	
+	religion = catholic
+	culture = tethyrian
+	
+	369.1.1 = {
+		birth = yes
+	}
+	450.1.1 = {
+		death = yes
+	}
+}
+20101 = {
+	name = Unnamed # Daughter of Priam
+	female = yes
+	dynasty = 207046
+	father = 20100 # Priam
+	
+	religion = catholic
+	culture = tethyrian
+	
+	399.1.1 = {
+		birth = yes
+	}
+	449.1.1 = {
+		death = yes
+	}
+}
+20102 = {
+	name = Unnamed # Granddaughter of Priam
+	female = yes
+	dynasty = 207046
+	mother = 20101 # Unnamed daughter of Priam
+	
+	religion = catholic
+	culture = tethyrian
+	
+	420.1.1 = {
+		birth = yes
+	}
+	440.1.1 = {
+		add_spouse = 20211 # Strohm I Ithal
+	}
+	480.1.1 = {
+		death = yes
+	}
+}
+20103 = {
+	name = Herakul
+	dynasty = 207046
+	father = 20105 # Kallos
+	
+	religion = catholic
+	culture = tethyrian
+	
+	353.1.1 = {
+		birth = yes
+	}
+	386.1.1 = {
+		death = yes
+	}
+}
+20104 = {
+	name = Nishan # Nishan III
+	dynasty = 207046
+	father = 20105 # Kallos
+	
+	religion = catholic
+	culture = tethyrian
+	
+	345.1.1 = {
+		birth = yes
+	}
+	383.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 20103 # Herakul
+		}
+	}
+}
+20105 = {
+	name = Kallos
+	dynasty = 207046
+	mother = 20302 # Sister of Karaj II Tiiraklar
+	
+	religion = catholic
+	culture = tethyrian
+	
+	324.1.1 = {
+		birth = yes
+	}
+	380.1.1 = {
+		death = yes
+	}
+}

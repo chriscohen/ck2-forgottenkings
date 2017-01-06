@@ -969,25 +969,27 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Alaric Alemander Aulis
+			Alaric Alemander Amir Aulis
 			Challas Coram
 			Dancon Darjast Dessek
-			Ellem Emmakk
+			Ellem Emmakk Emyr Errilam
 			Gamalon Geiron
-			Haedrak Halanter
+			Haedrak Halanter Hazam Herakul
 			Ieval Inselm
 			Jaszur Jhodak Jordy Jornos
-			Kaj Kal
+			Kaj Kal Karaj Karazir Kasim Kortal
 			Leodom Lhorik Llachior
-			Malcor Maxos
-			Nivedann Numar
-			Ondul Oon Orrdun
-			Rikos
-			Sammar Sarshel
-			Talmon Tanar Taor Tardeth Ternan Thenas
+			Malcor Matamid Maxos Mhoaran Moshafi
+			Nearel Nishan Nivedann Numar
+			Olosar Ondul Oon Orrdun
+			Priam
+			Rahman Rikos
+			Sammar Samyte Sarshel Strohm
+			Talmon Tanar Taor Tardeth Tebalan Teremir Ternan Thenas Tibor
 			Valsin Vander Vartan
 			Whettimn
-			Yuldar Yves
+			Xandar
+			Yuldar Yusuf Yves
 		}
 		female_names = {
 			Aalangama Ariia
@@ -1002,7 +1004,7 @@ human = {
 			Perendra
 			Rhinda
 			Shaern Shyrr Sybille
-			Tatrina
+			Tasiiva Tatrina
 			Vajra Vyma
 			Zaranda
 		}
@@ -1229,6 +1231,7 @@ halfbreed = {
 		color = { 0.45 0.64 0.95 }
 		
 		male_names = {
+			Kymer
 			Vartan
 		}
 		female_names = {

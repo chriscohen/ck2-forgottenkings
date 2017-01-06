@@ -1,0 +1,25 @@
+# PAHUK
+# Range 20600-20699
+
+20600 = {
+	name = Tebalan
+	dynasty = 207051
+	
+	religion = catholic
+	culture = tethyrian
+	
+	158.1.1 = {
+		birth = yes
+	}
+	193.1.1 = {
+		employer = 20501 # Hazam II Cormal
+	}
+	209.1.1 = {
+		employer = 20500 # Emyr Cormal
+		effect = { give_minor_title = title_regent }
+	}
+	211.1.1 = {
+		effect = { remove_title = title_regent }
+		death = yes
+	}
+}

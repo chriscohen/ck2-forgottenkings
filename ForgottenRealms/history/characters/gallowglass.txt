@@ -1,0 +1,46 @@
+# GALLOWGLASS
+# Range 19800-19899
+
+19800 = {
+	name = Ernest
+	dynasty = 207043
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1308.1.1 = {
+		birth = yes
+	}
+	1390.1.1 = {
+		death = yes
+	}
+}
+19801 = {
+	name = Julian
+	dynasty = 207043
+	father = 19800 # Ernest
+	
+	religion = catholic
+	culture = tethyrian
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1367.5.1 = {
+		# Captured by Zaranda Star
+		effect = {
+			k_tethyr = {
+				holder_scope = {
+					ROOT = {
+						imprison = PREV
+						set_character_flag = captured_in_battle
+					}
+				}
+			}
+		}
+	}
+	1372.1.1 = {
+		# No source info, assuming died in prison
+		death = yes
+	}
+}

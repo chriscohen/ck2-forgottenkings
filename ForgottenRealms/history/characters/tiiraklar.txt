@@ -1,0 +1,81 @@
+# TIIRAKLAR
+# Range 20300-20399
+
+20300 = {
+	name = Karaj # Karaj II
+	dynasty = 207048
+	father = 20301 # Karaj I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	290.1.1 = {
+		birth = yes
+	}
+	345.1.1 = {
+		death = yes
+	}
+}
+20301 = {
+	name = Karaj # Karaj I
+	dynasty = 207048
+	father = 20304 # Karazir
+	
+	religion = catholic
+	culture = tethyrian
+	
+	267.1.1 = {
+		birth = yes
+	}
+	315.1.1 = {
+		death = yes
+	}
+}
+20302 = {
+	name = Unnamed # Sister of Karaj II
+	female = yes
+	dynasty = 207048
+	father = 20301 # Karaj I
+	
+	religion = catholic
+	culture = tethyrian
+	
+	292.1.1 = {
+		birth = yes
+	}
+	330.1.1 = {
+		death = yes
+	}
+}
+20303 = {
+	name = Unnamed # Son of sister of Karaj II
+	dynasty = 207048
+	mother = 20302 # Sister of Karaj II
+	
+	religion = catholic
+	culture = tethyrian
+	
+	309.1.1 = {
+		birth = yes
+	}
+	340.1.1 = {
+		death = yes
+	}
+}
+20304 = {
+	name = Karazir
+	dynasty = 207048
+	
+	religion = catholic
+	culture = tethyrian
+	
+	240.1.1 = {
+		birth = yes
+	}
+	260.1.1 = {
+		add_spouse = 20400 # Vajra Korrunhel
+	}
+	270.1.1 = {
+		death = yes
+	}
+}

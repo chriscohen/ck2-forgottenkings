@@ -25,7 +25,7 @@
 	name = Dhara
 	female = yes
 	dynasty = 207030
-	father = 18052 # Sammar
+	father = 18502 # Sammar
 	
 	religion = catholic
 	culture = tethyrian

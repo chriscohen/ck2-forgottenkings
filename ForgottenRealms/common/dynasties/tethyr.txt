@@ -173,3 +173,43 @@
 	name = Barstonn
 	culture = tethyrian
 }
+207043 = {
+	name = Gallowglass
+	culture = tethyrian
+}
+207044 = {
+	name = Bormul
+	culture = tethyrian
+}
+207045 = {
+	name = Mallorhen
+	culture = tethyrian
+}
+207046 = {
+	name = Tornamn
+	culture = tethyrian
+}
+207047 = {
+	name = Ithal
+	culture = tethyrian
+}
+207048 = {
+	name = Tiiraklar
+	culture = tethyrian
+}
+207049 = {
+	name = Korrunhel
+	culture = tethyrian
+}
+207050 = {
+	name = Cormal
+	culture = tethyrian
+}
+207051 = {
+	name = Pahuk
+	culture = tethyrian
+}
+207052 = {
+	name = Telerus
+	culture = tethyrian
+}

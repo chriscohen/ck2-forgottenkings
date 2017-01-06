@@ -1,3 +1,148 @@
+27.1.1 = {
+	holder = 20509 # Rahman Cormal
+}
+63.1.1 = {
+	holder = 20508 # Leodom I Cormal
+}
+97.1.1 = {
+	holder = 20507 # Hazam I Cormal
+}
+113.1.1 = {
+	holder = 20506 # Leodom II Cormal
+}
+136.1.1 = {
+	holder = 20505 # Yusuf Cormal
+}
+136.12.1 = {
+	holder = 20503 # Leodom III Cormal
+}
+175.1.1 = {
+	holder = 20502 # Leodom IV Cormal
+}
+187.1.1 = {
+	holder = 20501 # Hazam II Cormal
+}
+209.1.1 = {
+	holder = 20500 # Emyr Cormal
+}
+229.1.1 = {
+	holder = 20402 # Matamid Korrunhel
+}
+251.1.1 = {
+	holder = 20401 # Xandar Korrunhel
+}
+260.1.1 = {
+	holder = 20400 # Vajra Korrunhel
+}
+310.1.1 = {
+	holder = 20301 # Karaj I Tiiraklar
+}
+315.1.1 = {
+	holder = 20300 # Karaj II Tiiraklar
+}
+345.1.1 = {
+	holder = 20105 # Kallos Tornamn
+}
+380.1.1 = {
+	holder = 20104 # Nishan Tornamn
+}
+383.1.1 = {
+	holder = 20103 # Herakul Tornamn
+}
+386.1.1 = {
+	holder = 20100 # Priam Tornamn
+}
+449.1.1 = {
+	holder = 20212 # Silvyr Ithal
+}
+449.12.1 = {
+	# Source says 450 but we need a holder from the death of Silvyr
+	holder = 20211 # Strohm I Ithal
+}
+662.1.1 = {
+	holder = 20209 # Strohm II Ithal
+}
+735.1.1 = {
+	holder = 20203 # Strohm III Ithal
+}
+769.1.1 = {
+	holder = 20201 # Strohm IV Ithal
+}
+802.1.1 = {
+	holder = 20200 # Strohm V Ithal
+}
+832.1.1 = {
+	holder = 20001 # Tibor Mallorhen
+}
+838.1.1 = {
+	holder = 20000 # Samyte Mallorhen
+}
+841.1.1 = {
+	holder = 19909 # Alisande Bormul
+}
+847.1.1 = {
+	holder = 19908 # Sybille Bormul
+}
+885.1.1 = {
+	holder = 19905 # Cyriana Bormul
+}
+922.1.1 = {
+	holder = 19904 # Teresa Bormul
+}
+957.1.1 = {
+	holder = 19903 # Teremir I Bormul
+}
+959.1.1 = {
+	holder = 15028 # Mhoaran Tethyr
+}
+974.1.1 = {
+	holder = 15027 # Nearel Tethyr
+}
+997.1.1 = {
+	holder = 15025 # Kortal Tethyr
+}
+1022.1.1 = {
+	holder = 15024 # Haedrak I Tethyr
+}
+1059.1.1 = {
+	holder = 15023 # Coram I Tethyr
+}
+1065.1.1 = {
+	holder = 15019 # Coram II Tethyr
+}
+1070.1.1 = {
+	holder = 19900 # Teremir II Bormul
+}
+1071.1.1 = {
+	holder = 15018 # Alemander I Tethyr
+}
+1145.1.1 = {
+	holder = 15016 # Coram III Tethyr
+}
+1181.1.1 = {
+	holder = 15015 # Alemander II Tethyr
+}
+1202.1.1 = {
+	holder = 15013 # Coram IV Tethyr
+}
+1218.1.1 = {
+	holder = 15012 # Kymer Tethyr
+}
+1227.1.1 = {
+	holder = 15011 # Haedrak II Tethyr
+}
+1274.1.1 = {
+	holder = 15010 # Errilam Tethyr
+}
+1277.1.1 = {
+	holder = 15007 # Alemander III Tethyr
+}
+1288.1.1 = {
+	holder = 15006 # Jaszur Tethyr
+}
+1295.1.1 = {
+	holder = 15005 # Olosar Tethyr
+}
 1319.1.1 = {
 	holder = 15000 # Alemander IV Tethyr
 }
