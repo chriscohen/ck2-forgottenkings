@@ -205,5 +205,6 @@
 # 21200  - 21299    Rockskipper
 # 21300  - 21399    Q'hulhr
 # 21400  - 21499    Huntcrown
+# 21500  - 21599    Quil'quien
 #
 # 900000 - 999999 Lowborn

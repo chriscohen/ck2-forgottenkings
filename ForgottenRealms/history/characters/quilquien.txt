@@ -1,0 +1,53 @@
+# QUIL'QUIEN
+# Range 21500-21599
+
+21500 = {
+	name = Dellanil
+	dynasty = 403000
+	
+	religion = catholic
+	culture = wildelf
+	
+	trait = trait_wildelf
+	
+	661.1.1 = {
+		birth = yes
+	}
+	945.1.1 = {
+		death = yes
+	}
+}
+21501 = {
+	name = Galladel
+	dynasty = 403000
+	father = 21500 # Dellanil
+	
+	religion = catholic
+	culture = wildelf
+	
+	trait = trait_wildelf
+	
+	823.1.1 = {
+		birth = yes
+	}
+	1056.1.1 = {
+		death = yes
+	}
+}
+21502 = {
+	name = Elbereth
+	dynasty = 403000
+	father = 21501 # Galladel
+	
+	religion = catholic
+	culture = wildelf
+	
+	trait = trait_wildelf
+	
+	1023.1.1 = {
+		birth = yes
+	}
+	1599.1.1 = {
+		death = yes
+	}
+}

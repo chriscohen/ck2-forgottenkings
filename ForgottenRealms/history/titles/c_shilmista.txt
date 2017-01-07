@@ -2,3 +2,12 @@
 	liege = d_golden_marches
 	holder = 0
 }
+676.1.1 = {
+	holder = 21500 # Dellanil Quil'quien
+}
+945.1.1 = {
+	holder = 21501 # Gallanel Quil'quien
+}
+1056.1.1 = {
+	holder = 21502 # Elbereth Quil'quien
+}

@@ -1,0 +1,7 @@
+# WILD ELF
+# Range 403000-403999
+
+403000 = {
+	name = "Quil'quien"
+	culture = wildelf
+}
