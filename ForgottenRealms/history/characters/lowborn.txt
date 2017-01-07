@@ -1651,3 +1651,20 @@
 		death = yes
 	}
 }
+900096 = {
+	name = Alise
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1305.1.1 = {
+		birth = yes
+	}
+	1321.1.1 = {
+		add_spouse = 1507 # Barrit Cormaeril
+	}
+	1351.1.1 = {
+		death = yes
+	}
+}

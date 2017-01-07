@@ -94,3 +94,63 @@
 		death = yes
 	}
 }
+1606 = {
+	name = Kallimar
+	dynasty = 201003
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = robust
+	trait = proud
+	trait = cruel
+	trait = wroth
+	
+	220.1.1 = {
+		birth = yes
+	}
+	238.1.1 = {
+		employer = 17 # Boldovar Obarskyr
+	}
+	242.1.1 = {
+		employer = 18 # Iltharl Obarskyr
+	}
+	245.1.1 = {
+		employer = 19 # Gantharla Obarskyr
+	}
+	261.1.1 = {
+		employer = 20 # Roderin Obarskyr
+	}
+	267.1.1 = {
+		employer = 21 # Thargreve Obarskyr
+	}
+	268.1.1 = {
+		employer = 23 # Holordrym Obarskyr
+	}
+	272.1.1 = {
+		employer = 24 # Belereve Obarskyr
+	}
+	274.1.1 = {
+		employer = 26 # Thargram Obarskyr
+	}
+	276.1.1 = {
+		death = yes
+	}
+}
+1607 = {
+	name = Dintheron
+	dynasty = 201003
+	
+	religion = catholic
+	culture = cormyrean
+	
+	411.1.1 = {
+		birth = yes
+	}
+	427.1.1 = {
+		employer = 61 # Duar Obarskyr
+	}
+	469.1.1 = {
+		death = yes
+	}
+}

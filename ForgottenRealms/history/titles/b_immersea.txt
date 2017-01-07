@@ -8,7 +8,16 @@
 1206.1.1 = {
 	holder = 0
 }
-1369.1.1 = {
+1295.1.1 = {
+	holder = 1518 # Gaspar Cormaeril (non-canon)
+}
+1317.1.1 = {
+	holder = 1507 # Barrit Cormaeril
+}
+1353.1.1 = {
+	holder = 1502 # Ohlmer Cormaeril
+}
+1369.5.1 = {
 	# Cormaeril stripped of lands after Abraxus Affair
 	holder = 9543 # Frefford Wyvernspur
 }

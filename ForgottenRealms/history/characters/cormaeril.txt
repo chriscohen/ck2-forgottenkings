@@ -5,6 +5,8 @@
 1500 = {
 	name = Rowen
 	dynasty = 201002
+	father = 1507 # Barrit (guess)
+	mother = 900096 # Alise (guess)
 	
 	religion = catholic
 	culture = cormyrean
@@ -25,6 +27,7 @@
 1501 = {
 	name = Gaspar
 	dynasty = 201002
+	father = 1502 # Ohlmer (guess)
 	
 	religion = catholic
 	culture = cormyrean
@@ -42,6 +45,7 @@
 1502 = {
 	name = Ohlmer
 	dynasty = 201002
+	father = 1518 # Gaspar (non-canon)
 	
 	religion = catholic
 	culture = cormyrean
@@ -135,6 +139,201 @@
 		birth = yes
 	}
 	1249.1.1 = {
+		death = yes
+	}
+}
+1507 = {
+	name = Barrit
+	dynasty = 201002
+	father = 1518 # Gaspar (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1300.1.1 = {
+		birth = yes
+	}
+	1321.1.1 = {
+		add_spouse = 900096 # Alise
+	}
+	1353.1.1 = {
+		death = yes
+	}
+}
+1508 = {
+	name = Lamiril
+	dynasty = 201002
+	father = 1518 # Gaspar (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	stewardship = 11
+	
+	1303.1.1 = {
+		birth = yes
+	}
+	1381.1.1 = {
+		death = yes
+	}
+}
+1509 = {
+	name = Thaerilon
+	dynasty = 201002
+	father = 1507 # Barrit (guess)
+	mother = 900096 # Alise (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1332.1.1 = {
+		birth = yes
+	}
+	1373.1.1 = {
+		death = yes
+	}
+}
+1510 = {
+	name = Boront
+	dynasty = 201002
+	father = 1507 # Barrit (guess)
+	mother = 900096 # Alise (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1379.1.1 = {
+		death = yes
+	}
+}
+1511 = {
+	name = Cheldrin
+	dynasty = 201002
+	father = 1507 # Barrit (guess)
+	mother = 900096 # Alise (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1382.1.1 = {
+		death = yes
+	}
+}
+1512 = {
+	name = Flaram
+	dynasty = 201002
+	father = 1507 # Barrit (guess)
+	mother = 900096 # Alise (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1383.1.1 = {
+		death = yes
+	}
+}
+1513 = {
+	name = Horontor
+	dynasty = 201002
+	father = 1507 # Barrit (guess)
+	mother = 900096 # Alise (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1393.1.1 = {
+		death = yes
+	}
+}
+1514 = {
+	name = Sabran
+	dynasty = 201002
+	father = 1513 # Horontor (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1350.1.1 = {
+		birth = yes
+	}
+	1417.1.1 = {
+		death = yes
+	}
+}
+1515 = {
+	name = Beliard
+	dynasty = 201002
+	father = 81 # Azoun IV Obarskyr
+	mother = 900096 # Alise
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1325.1.1 = {
+		birth = yes
+	}
+	1408.1.1 = {
+		death = yes
+	}
+}
+1516 = {
+	name = Kargerth
+	dynasty = 201002
+	father = 1508 # Lamiril (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		# Became ghazneth but death is fine too
+		death = yes
+	}
+}
+1517 = {
+	name = Halvundrar
+	dynasty = 201002
+	father = 1512 # Flaram (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1348.1.1 = {
+		birth = yes
+	}
+	1372.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1518 = {
+	name = Gaspar # Non-canon father of Barrit, Lamiril and Ohlmer
+	dynasty = 201002
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1279.1.1 = {
+		birth = yes
+	}
+	1317.1.1 = {
 		death = yes
 	}
 }
