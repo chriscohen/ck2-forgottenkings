@@ -1,0 +1,19 @@
+1276.1.1 = {
+	liege = c_marsember
+	holder = 21911 # Cecil Dauntinghorn
+}
+1309.1.1 = {
+	holder = 21901 # Alexi (father of Alexi Dauntinghorn)
+}
+1320.1.1 = {
+	holder = 21900 # Alexi Dauntinghorn
+}
+1378.1.1 = {
+	holder = 21905 # Morgaego Dauntinghorn
+}
+1402.1.1 = {
+	holder = 21907 # Baeryn Dauntinghorn
+}
+1407.1.1 = {
+	holder = 21908 # Tystarn Dauntinghorn
+}

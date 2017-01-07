@@ -1,0 +1,214 @@
+# DAUNTINGHORN
+# Range 21900-21999
+
+21900 = {
+	name = Alexi
+	dynasty = 201068
+	father = 21901 # Alexi (non-canon)
+	mother = 900094 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1317.1.1 = {
+		add_spouse = 900093 # Tremayne
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}
+21901 = {
+	name = Alexi # Father to Alexi and brother (non-canon name)
+	dynasty = 201068
+	father = 21911 # Cecil (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1272.1.1 = {
+		birth = yes
+	}
+	1294.1.1 = {
+		add_spouse = 900094 # Unnamed
+	}
+	1320.1.1 = {
+		death = yes
+	}
+}
+21902 = {
+	name = Nars # Brother to Alexi (non-canon)
+	dynasty = 201068
+	father = 21901 # Alexi (non-canon)
+	mother = 900094 # Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1301.1.1 = {
+		birth = yes
+	}
+	1349.1.1 = {
+		death = yes
+	}
+}
+21903 = {
+	name = Albaerin
+	dynasty = 201068
+	father = 21901 # Alexi (non-canon)
+	mother = 900094 Unnamed
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1303.1.1 = {
+		birth = yes
+	}
+	1376.1.1 = {
+		death = yes
+	}
+}
+21904 = {
+	name = Hector
+	dynasty = 201068
+	father = 21902 # Nars (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1321.1.1 = {
+		birth = yes
+	}
+	1341.1.1 = {
+		give_nickname = nick_the_sailor
+	}
+	1395.1.1 = {
+		death = yes
+	}
+}
+21905 = {
+	name = Morgaego
+	dynasty = 201068
+	father = 21900 # Alexi (non-canon)
+	mother = 900093 # Tremayne (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}
+21906 = {
+	name = Elanna
+	female = yes
+	dynasty = 201068
+	father = 21900 # Alexi (non-canon)
+	mother = 900093 # Tremayne (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1321.1.1 = {
+		birth = yes
+	}
+	1400.1.1 = {
+		death = yes
+	}
+}
+21907 = {
+	name = Baeryn
+	dynasty = 201068
+	father = 21900 # Alexi (non-canon)
+	mother = 900093 # Tremayne (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = tough_soldier
+	
+	1323.1.1 = {
+		birth = yes
+	}
+	1339.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1371.10.1 = {
+		employer = 84 # Azoun V Obarskyr
+	}
+	1407.1.1 = {
+		death = yes
+	}
+}
+21908 = {
+	name = Tystarn
+	dynasty  = 201068
+	father = 21902 # Nars (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = fair
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}
+21909 = {
+	name = Dauntrin
+	dynasty = 201068
+	father = 81 # Azoun IV Obarskyr
+	mother = 900093 # Tremayne (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1399.1.1 = {
+		death = yes
+	}
+}
+21910 = {
+	name = Delce
+	dynasty = 201068
+	father = 81 # Azoun IV Obarskyr
+	mother = 900093 # Tremayne (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1395.1.1 = {
+		death = yes
+	}
+}
+21911 = {
+	name = Cecil
+	dynasty = 201068
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1251.1.1 = {
+		birth = yes
+	}
+	1309.1.1 = {
+		death = yes
+	}
+}

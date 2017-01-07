@@ -1600,3 +1600,37 @@
 		death = yes
 	}
 }
+900093 = {
+	name = Tremayne
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1301.1.1 = {
+		birth = yes
+	}
+	1317.1.1 = {
+		add_spouse = 21900 # Alexi Dauntinghorn
+	}
+	1375.1.1 = {
+		death = yes
+	}
+}
+900094 = {
+	name = Unnamed # Wife of father of Alexi Dauntinghorn
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1278.1.1 = {
+		birth = yes
+	}
+	1294.1.1 = {
+		add_spouse = 21901 # Father of Alexi Dauntinghorn
+	}
+	1308.1.1 = {
+		death = yes
+	}
+}

@@ -395,10 +395,16 @@ k_cormyr = {
 			b_marsember = {
 			}
 			b_bogbrook = {
+				title = TITLE_LORD
+				title_female = TITLE_LADY
 			}
 			b_kallamarn = {
+				title = TITLE_LORD
+				title_female = TITLE_LADY
 			}
 			b_hilp = {
+				title = TITLE_LORD
+				title_female = TITLE_LADY
 			}
 		}
 		c_tilverton = { # 11

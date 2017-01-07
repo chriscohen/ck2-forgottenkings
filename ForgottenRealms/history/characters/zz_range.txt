@@ -209,5 +209,6 @@
 # 21600  - 21699    Longlance
 # 21700  - 21799    Indimber
 # 21800  - 21899    Emmarask
+# 21900  - 21999    Dauntinghorn
 #
 # 900000 - 999999 Lowborn
