@@ -573,7 +573,7 @@ human = {
 			Adris Aiken Alaphondar Albaerin Albryn Alexi Alin Althallan Amanthus Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Baeryn Barad Barandos Bardanther Beldarm Belmer Bhereu Bledryn Blundebel Boris Brace Brezm Broglan Buckman
 			Casplar Cecil Chalannos Chansobal Chanthar Cole Coobert Corleth
-			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Doust Draguth Drounan Duncan Dunlath Duth
+			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dlothtar Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Ensrin Erdreth Eregar Ergluth Estelner
 			Falzo Faril Filani Finder Florin Foril Fortney Fraeyer Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
@@ -582,7 +582,7 @@ human = {
 			Jarlin Jelde Jhaok Jhartos Juarkin Junstal
 			Kae Kallimar Keolan Kleef Kortyl Krell Krohn
 			Landon Larak Lareth Londal Lothan
-			Malaglan Mallik Manarech Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster
+			Maerlyn Malaglan Mallik Manarech Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Pyramus
