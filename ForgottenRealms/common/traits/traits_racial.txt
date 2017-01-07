@@ -18,7 +18,7 @@ trait_moonelf = {
 	learning = 1
 	diplomacy = 1
 }
-trait_moonelf = {
+trait_wildelf = {
 	random = no
 	immortal = yes
 	inherit_chance = 50
