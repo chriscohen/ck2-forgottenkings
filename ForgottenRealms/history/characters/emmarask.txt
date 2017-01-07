@@ -10,6 +10,9 @@
 	religion = catholic
 	culture = cormyrean
 	
+	diplomacy = 12
+	learning = 12
+	
 	1317.1.1 = { # Estimate
 		birth = yes
 	}
