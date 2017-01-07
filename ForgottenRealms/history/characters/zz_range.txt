@@ -206,5 +206,7 @@
 # 21300  - 21399    Q'hulhr
 # 21400  - 21499    Huntcrown
 # 21500  - 21599    Quil'quien
+# 21600  - 21699    Longlance
+# 21700  - 21799    Indimber
 #
 # 900000 - 999999 Lowborn

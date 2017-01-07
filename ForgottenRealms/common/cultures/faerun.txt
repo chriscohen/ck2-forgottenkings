@@ -307,6 +307,7 @@ elf = {
 		color = { 0.06 0.55 0.22 }
 		
 		male_names = {
+			Dellanil
 			Elbereth
 			Galladel
 		}
@@ -581,7 +582,7 @@ human = {
 			Jarlin Jelde Jhaok Jhartos Juarkin Junstal
 			Kae Kallimar Keolan Kleef Kortyl Krell Krohn
 			Landon Larak Lareth Londal Lothan
-			Mallik Manarech Mark Marthin Martin Melder Melot Mhaernos Mondar Morligul Moss Mulcaster
+			Malaglan Mallik Manarech Mark Marthin Martin Melder Melot Mhaernos Mondar Morligul Moss Mulcaster
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Pyramus
@@ -589,7 +590,7 @@ human = {
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
 			Tabart Talados Tarmel Tenshorn Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
 			Ulnder Umbarl
-			Vorik
+			Vorik Vorndren
 			Warved Wohl
 			Xanthon
 			Yarjack York
@@ -612,7 +613,7 @@ human = {
 			Pella Pheirauze
 			Rhyndaera
 			Saha Sarah Shaerl Shara Shayla Sima Sojourner Solatha Steele Storm
-			Taeronissa Talantra Tanaeth Tanalasta Taney Tara Threena Tisha
+			Taeronissa Talantra Tanaeth Tanalasta Taney Tara Tavantra Threena Tisha
 			Varauna Veras Vindala
 			Yolara
 			Zarova

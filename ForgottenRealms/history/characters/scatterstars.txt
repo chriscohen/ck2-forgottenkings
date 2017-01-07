@@ -23,3 +23,20 @@
 		death = yes
 	}
 }
+11001 = {
+	name = Wyndghallow
+	dynasty = 201057
+	father = 81 # Azoun IV Obarskyr
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1412.1.1 = {
+		death = yes
+	}
+}

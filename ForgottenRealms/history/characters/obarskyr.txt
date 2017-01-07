@@ -1360,6 +1360,11 @@
 	religion = catholic
 	culture = cormyrean
 	
+	trait = lustful
+	trait = seducer
+	trait = proud
+	trait = diligent
+	
 	1307.1.1 = {
 		birth = yes
 	}

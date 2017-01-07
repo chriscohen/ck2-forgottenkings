@@ -17,3 +17,25 @@
 		death = yes
 	}
 }
+6401 = {
+	# Azoun's Offspring: http://archive.wizards.com/default.asp?x=dnd/rl/20061101a
+	name = Malaglan
+	dynasty = 201025
+	father = 81 # Azoun IV Obarskyr
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	trait = proud
+	trait = wroth
+	trait = fair
+	trait = seducer
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1412.1.1 = {
+		death = yes
+	}
+}
