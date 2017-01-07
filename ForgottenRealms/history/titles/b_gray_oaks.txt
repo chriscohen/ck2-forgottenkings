@@ -1,0 +1,13 @@
+1324.1.1 = {
+	liege = c_suzail
+	holder = 21400 # Krell Huntcrown
+}
+1367.1.1 = {
+	holder = 21401 # Tabart Huntcrown
+}
+1381.1.1 = {
+	holder = 21402 # Ulnder Huntcrown
+}
+1392.1.1 = {
+	holder = 0
+}

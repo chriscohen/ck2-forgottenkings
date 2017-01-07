@@ -534,7 +534,7 @@ human = {
 		
 		male_names = {
 			Adris Aiken Alaphondar Alin Althallan Amanthus Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
-			Baerauble Baergast Baern Baert Barad Barandos Bardanther Beldarm Bhereu Bledryn Blundebel Boris Brace Brezm Broglan Buckman
+			Baerauble Baergast Baern Baert Barad Barandos Bardanther Beldarm Belmer Bhereu Bledryn Blundebel Boris Brace Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Chanthar Cole Coobert Corleth
 			Danthalus Dagh Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Ergluth Estelner
@@ -543,7 +543,7 @@ human = {
 			Hadley Haerldoun Haldos Halston Harandil Harglast Harrandave Helmur Hergrest Hesperdan Hlannan Holver
 			Ildamoor Ilmreth Irvel
 			Jarlin Jelde Jhaok Jhartos Juarkin Junstal
-			Kae Kallimar Keolan Kleef Kortyl Krohn
+			Kae Kallimar Keolan Kleef Kortyl Krell Krohn
 			Landon Larak Lareth Londal Lothan
 			Mallik Manarech Mark Marthin Martin Melder Melot Mhaernos Mondar Morligul Moss Mulcaster
 			Naeryk Narbreth Nars Nelnar
@@ -551,8 +551,8 @@ human = {
 			Paramyr Paton Piper Pyramus
 			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Riley Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
-			Talados Tarmel Tenshorn Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
-			Umbarl
+			Tabart Talados Tarmel Tenshorn Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
+			Ulnder Umbarl
 			Vorik
 			Warved Wohl
 			Xanthon
@@ -572,7 +572,7 @@ human = {
 			Lamala Laspeera Leah Leona Linnese Lorelei
 			Maea Maranth Marantine Margot Maritha Mazey Mela
 			Nalanna Narnytha
-			Omalra Ormarra Ospra Ossani
+			Ohrmatha Omalra Ormarra Ospra Ossani
 			Pella Pheirauze
 			Rhyndaera
 			Saha Sarah Shaerl Shara Shayla Sima Sojourner Solatha Steele Storm

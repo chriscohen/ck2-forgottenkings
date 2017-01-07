@@ -13,4 +13,8 @@ b_immersea = castle
 culture = cormyrean
 religion = catholic
 
-#History
+# History
+1324.1.1 = {
+	# Add b_gray_oaks so Huntcrown can possess
+	b_gray_oaks = castle
+}

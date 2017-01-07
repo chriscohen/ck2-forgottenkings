@@ -1,0 +1,71 @@
+# HUNTCROWN
+# Range 21400-21499
+
+21400 = {
+	name = Krell
+	dynasty = 201064
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1308.1.1 = {
+		birth = yes
+	}
+	1328.1.1 = {
+		add_spouse = 900091 # Ohrmatha
+	}
+	1367.1.1 = {
+		death = yes
+	}
+}
+21401 = {
+	name = Tabart
+	dynasty = 201064
+	father = 21400 # Krell
+	mother = 900091 # Ohrmatha
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1381.1.1 = {
+		death = yes
+	}
+}
+21402 = {
+	name = Ulnder
+	dynasty = 201064
+	father = 21400 # Krell
+	mother = 900091 # Ohrmatha
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1392.1.1 = {
+		death = yes
+	}
+}
+21403 = {
+	name = Belmer
+	dynasty = 201064
+	father = 21400 # Krell
+	mother = 900091 # Ohrmatha
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = gluttonous
+	trait = deceitful
+	
+	1333.1.1 = {
+		birth = yes
+	}
+	1377.1.1 = {
+		death = yes
+	}
+}
