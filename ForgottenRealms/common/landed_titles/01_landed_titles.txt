@@ -367,6 +367,8 @@ k_cormyr = {
 			b_gray_oaks = {
 			}
 			b_emmarask_mansion = {
+				title = TITLE_LORD
+				title_female = TITLE_LADY
 			}
 		}
 		c_kings_forest = { # 16
