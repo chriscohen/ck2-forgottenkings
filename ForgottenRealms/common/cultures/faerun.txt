@@ -570,11 +570,11 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Aiken Alaphondar Alin Althallan Amanthus Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
+			Adris Aiken Alaphondar Albryn Alin Althallan Amanthus Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Barad Barandos Bardanther Beldarm Belmer Bhereu Bledryn Blundebel Boris Brace Brezm Broglan Buckman
 			Casplar Chalannos Chansobal Chanthar Cole Coobert Corleth
-			Danthalus Dagh Darander Deinyn Del Doust Draguth Drounan Duncan Dunlath Duth
-			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Erdreth Eregar Ergluth Estelner
+			Danthalus Dagh Darander Deinyn Del Dier Doust Draguth Drounan Duncan Dunlath Duth
+			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Ensrin Erdreth Eregar Ergluth Estelner
 			Falzo Faril Filani Finder Florin Foril Fortney Fraeyer Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Harandil Harglast Harrandave Helmur Hergrest Hesperdan Hlannan Holver
@@ -586,12 +586,12 @@ human = {
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Pyramus
-			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Riley Roond Rorlyn Rorstil Rowen
+			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
 			Tabart Talados Tarmel Tenshorn Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
 			Ulnder Umbarl
 			Vorik Vorndren
-			Warved Wohl
+			Warved Waylan Wohl
 			Xanthon
 			Yarjack York
 		}
@@ -616,7 +616,7 @@ human = {
 			Taeronissa Talantra Tanaeth Tanalasta Taney Tara Tavantra Threena Tisha
 			Varauna Veras Vindala
 			Yolara
-			Zarova
+			Zara Zarova
 		}
 		
 		dukes_called_kings = no

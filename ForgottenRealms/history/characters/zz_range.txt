@@ -208,6 +208,6 @@
 # 21500  - 21599    Quil'quien
 # 21600  - 21699    Longlance
 # 21700  - 21799    Indimber
-# 21800  - 21899    Emmerask
+# 21800  - 21899    Emmarask
 #
 # 900000 - 999999 Lowborn

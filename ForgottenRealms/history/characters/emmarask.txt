@@ -1,0 +1,182 @@
+# EMMARASK
+# Range 21800-21899
+
+21800 = {
+	name = Alaphondar
+	dynasty = 201067
+	father = 21802 # Waylan (non-canon)
+	mother = 900001 # Zara
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1317.1.1 = { # Estimate
+		birth = yes
+	}
+	1335.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+		effect = {
+			add_friend = 81 # Azoun IV Obarskyr
+			give_minor_title = title_sage_royal
+		}
+	}
+	1371.10.1 = {
+		employer = 83 # Alusair Obarskyr
+		effect = {
+			add_friend = 83 # Alusair Obarskyr
+			give_minor_title = title_sage_royal
+		}
+	}
+	1375.1.1 = {
+		# Dungeon 198 p.3
+		add_lover = 4700 # Filfaeril Selzair
+	}
+	1405.1.1 = { # Estimate
+		death = yes
+	}
+}
+21801 = {
+	name = Dier
+	dynasty = 201067
+	father = 21802 # Waylan (non-canon)
+	mother = 900001 # Zara
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1399.1.1 = {
+		death = yes
+	}
+}
+21802 = {
+	name = Waylan
+	dynasty = 201067
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1295.1.1 = {
+		birth = yes
+	}
+	1314.1.1 = {
+		add_spouse = 900001 # Zara
+	}
+	1373.1.1 = {
+		death = yes
+	}
+}
+21803 = {
+	name = Roland
+	dynasty = 201067
+	father = 21802 # Waylan (non-canon)
+	mother = 900001 # Zara
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		add_spouse = 900092 # Unnamed
+	}
+	1403.1.1 = {
+		death = yes
+	}
+}
+21804 = {
+	name = Albryn
+	dynasty = 201067
+	father = 21803 # Roland (non-canon)
+	mother = 900092 # Unnamed (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	martial = 9
+	
+	trait = tough_soldier
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1371.10.1 = {
+		employer = 84 # Azoun V Obarskyr
+	}
+	1416.1.1 = {
+		death = yes
+	}
+}
+21805 = {
+	name = Rhiindaerth
+	dynasty = 201067
+	father = 21801 # Dier (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1341.1.1 = {
+		birth = yes
+	}
+	1427.1.1 = {
+		death = yes
+	}
+}
+21806 = {
+	name = Ensrin
+	dynasty = 201067
+	father = 21801 # Dier (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1343.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+21807 = {
+	name = Immaril # Cousin of Ensrin
+	dynasty = 201067
+	father = 81 # Azoun IV Obarskyr
+	mother = 900092 # Unnamed wife of Roland (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1336.1.1 = {
+		birth = yes
+	}
+	1369.7.1 = {
+		# Killed after admitting to be son of Azoun IV Obarskyr
+		death = {
+			death_reason = death_execution
+		}
+	}
+}
+21808 = {
+	name = Elmariel
+	dynasty = 201067
+	
+	religion = catholic
+	culture = cormyrean
+	
+	602.1.1 = {
+		birth = yes
+	}
+	671.1.1 = {
+		death = yes
+	}
+}

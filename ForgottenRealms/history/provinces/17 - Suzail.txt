@@ -4,7 +4,7 @@
 title = c_suzail
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
 b_suzail = castle
 b_immersea = castle
@@ -14,6 +14,10 @@ culture = cormyrean
 religion = catholic
 
 # History
+1311.1.1 = {
+	# Add b_emmarask_mansion so Emmarask can possess
+	b_emmarask_mansion = castle
+}
 1324.1.1 = {
 	# Add b_gray_oaks so Huntcrown can possess
 	b_gray_oaks = castle

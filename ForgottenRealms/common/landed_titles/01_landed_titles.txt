@@ -366,6 +366,8 @@ k_cormyr = {
 			}
 			b_gray_oaks = {
 			}
+			b_emmarask_mansion = {
+			}
 		}
 		c_kings_forest = { # 16
 			color={ 220 44 44 }

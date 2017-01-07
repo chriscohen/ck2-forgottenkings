@@ -821,7 +821,7 @@
     }
 }
 201067 = {
-	name = Emmerask
+	name = Emmarask
 	culture = cormyrean
 	
 	coat_of_arms = {
