@@ -1371,7 +1371,7 @@
 			add_friend = 900001 # Alaphondar
 		}
 	}
-	1371.1.1 = {
+	1371.10.1 = {
 		death = yes
 	}
 }
@@ -1416,9 +1416,16 @@
 			add_friend = 900001 # Alaphondar
 		}
 	}
-	1384.1.1 = {
+	1371.10.2 = {
 		employer = 84 # Azoun V
+		effect = { give_minor_title = title_regent }
+	}
+	1384.1.1 = {
 		effect = { give_job_title = job_marshal }
+	}
+	1387.1.1 = {
+		# Regency ends in 1384, but game shouldn't have monarch at 13
+		effect = { remove_title = title_regent }
 	}
 	1390.3.1 = { # Disappeared, but whatever.
 		death = yes

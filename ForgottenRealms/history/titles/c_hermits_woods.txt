@@ -222,10 +222,7 @@
 1335.1.1 = {
 	holder = 81 # Azoun IV
 }
-1371.1.1 = {
-	holder = 83 # Alusair (regency)
-}
-1384.1.1 = {
+1371.10.1 = {
 	holder = 84 # Azoun V
 }
 1449.1.1 = {
