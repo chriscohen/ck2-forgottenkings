@@ -1,0 +1,13 @@
+1321.1.1 = {
+	liege = c_marsember
+	holder = 11601 # Sorgal Illance
+}
+1362.1.1 = {
+	holder = 11602 # Unnamed brother of Freyault Illance
+}
+1365.1.1 = {
+	holder = 11605 # Dagh Illance
+}
+1368.1.1 = {
+	holder = 11604 # Martin Freyault Illance
+}

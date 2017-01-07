@@ -1563,3 +1563,20 @@
 		death = yes
 	}
 }
+900090 = {
+	name = Delamartina
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1307.1.1 = {
+		birth = yes
+	}
+	1323.1.1 = {
+		add_spouse = 11601 # Sorgar Illance
+	}
+	1397.1.1 = {
+		death = yes
+	}
+}

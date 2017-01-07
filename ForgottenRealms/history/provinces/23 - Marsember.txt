@@ -13,6 +13,10 @@ culture = cormyrean
 religion = catholic
 
 # History
+1321.1.1 = {
+	# Bring b_bogbrook into the game so the Illance dynasty can have it
+	b_bogbrook = castle
+}
 1328.1.1 = {
 	# Bring b_hilp in the game so the Thundersword dynasty can have it
 	b_hilp = castle
