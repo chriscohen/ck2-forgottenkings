@@ -50,24 +50,6 @@
 	}
 }
 11603 = {
-	name = Ilmreth
-	dynasty = 201063
-	father = 11601 # Sorgar
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1327.1.1 = {
-		birth = yes
-	}
-	1352.3.1 = {
-		# Died in fighting at Arabel
-		death = {
-			death_reason = death_battle
-		}
-	}
-}
-11603 = {
 	name = Fraeyer
 	dynasty = 201063
 	father = 11602 # Unnamed brother of Freyault
@@ -155,5 +137,23 @@
 	}
 	1418.1.1 = {
 		death = yes
+	}
+}
+11608 = {
+	name = Ilmreth
+	dynasty = 201063
+	father = 11601 # Sorgar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1352.3.1 = {
+		# Died in fighting at Arabel
+		death = {
+			death_reason = death_battle
+		}
 	}
 }
