@@ -1,37 +1,6 @@
 # LOWBORN
 # Range = 900000-999999
 
-900001 = {
-	name = Alaphondar
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1315.1.1 = { # Estimate
-		birth = yes
-	}
-	1335.1.1 = {
-		employer = 81 # Azoun IV Obarskyr
-		effect = {
-			add_friend = 81 # Azoun IV Obarskyr
-			give_minor_title = title_sage_royal
-		}
-	}
-	1371.10.1 = {
-		employer = 83 # Alusair Obarskyr
-		effect = {
-			add_friend = 83 # Alusair Obarskyr
-			give_minor_title = title_sage_royal
-		}
-	}
-	1375.1.1 = {
-		# Dungeon 198 p.3
-		add_lover = 4700 # Filfaeril Selzair
-	}
-	1405.1.1 = { # Estimate
-		death = yes
-	}
-}
 900002 = {
 	name = Unknown
 	female = yes
