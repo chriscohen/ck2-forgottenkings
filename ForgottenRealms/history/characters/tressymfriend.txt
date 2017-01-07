@@ -11,7 +11,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	trait = twin
 	
 	1299.1.1 = {

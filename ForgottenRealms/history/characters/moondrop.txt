@@ -8,7 +8,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1210.1.1 = {
 		birth = yes

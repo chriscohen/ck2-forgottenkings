@@ -8,7 +8,7 @@ trait_lightfoot = {
 	diplomacy = 1
 	stewardship = 1
 }
-moonelf = {
+trait_moonelf = {
 	random = no
 	immortal = yes
 	inherit_chance = 50

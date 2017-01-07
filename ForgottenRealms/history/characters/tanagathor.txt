@@ -10,7 +10,7 @@
 	# Type of elf not specified, assumption made
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1184.1.1 = { # Estimate
 		birth = yes
@@ -31,7 +31,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1240.1.1 = {
 		birth = yes
@@ -49,7 +49,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	trait = twin
 	
 	1242.1.1 = {
@@ -70,7 +70,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	trait = twin
 	
 	1242.1.1 = {
@@ -91,7 +91,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1266.1.1 = {
 		birth = yes
@@ -109,7 +109,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	trait = twin
 	
 	1299.1.1 = {

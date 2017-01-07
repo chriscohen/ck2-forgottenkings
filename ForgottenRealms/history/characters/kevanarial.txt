@@ -9,7 +9,7 @@
 	culture = moonelf
 	
 	trait = quick
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1169.1.1 = {
 		birth = yes

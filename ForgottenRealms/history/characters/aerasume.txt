@@ -11,7 +11,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	trait = twin
 	
 	1337.1.1 = {
@@ -30,7 +30,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1304.1.1 = {
 		birth = yes
@@ -48,7 +48,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1244.1.1 = {
 		birth = yes
@@ -66,7 +66,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1269.1.1 = {
 		birth = yes
@@ -84,7 +84,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1295.1.1 = {
 		birth = yes
@@ -102,7 +102,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1314.1.1 = {
 		birth = yes
@@ -120,7 +120,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	trait = twin
 	
 	1337.1.1 = {
@@ -139,7 +139,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	trait = twin
 	
 	1337.1.1 = {
@@ -158,7 +158,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1340.1.1 = {
 		birth = yes
@@ -176,7 +176,7 @@
 	religion = catholic
 	culture = moonelf
 	
-	trait = moonelf
+	trait = trait_moonelf
 	
 	1345.1.1 = {
 		birth = yes
