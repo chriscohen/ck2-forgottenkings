@@ -221,5 +221,9 @@
 # 22800  - 22899    Tavernant
 # 22900  - 22999    Greatgaunt
 # 23000  - 23099    Korvan
+# 23100  - 23199    Darstan
+# 23200  - 23299    Wolfwinter
+# 23300  - 23399    Indesm
+# 23400  - 23499    Imbranneth
 #
 # 900000 - 999999 Lowborn

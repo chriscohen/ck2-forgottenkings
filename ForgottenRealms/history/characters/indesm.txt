@@ -1,0 +1,24 @@
+# INDESM
+# Range 23300-23399
+
+23300 = {
+	name = Amantha
+	female = yes
+	dynasty = 201082
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		trait = rogue
+	}
+	1342.1.1 = {
+		trait = harper
+	}
+	1392.1.1 = {
+		death = yes
+	}
+}

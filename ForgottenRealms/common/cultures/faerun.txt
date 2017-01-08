@@ -588,7 +588,7 @@ human = {
 			Paramyr Paton Piper Prosler Pyramus
 			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Reth Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
-			Tabart Talados Taldeth Tarmel Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
+			Tabart Talados Taldeth Tarmel Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Threldryn Trenton Tystarn
 			Ulnder Umbarl
 			Vorik Vorndren
 			Warved Waylan Wohl

@@ -1,0 +1,29 @@
+# WOLFWINTER
+# Range 23200-23299
+
+23200 = {
+	name = Hundarr
+	dynasty = 201081
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1318.1.1 = {
+		trait = wizard
+		employer = 80 # Rhigaerd II Obarskyr
+	}
+	1325.1.1 = {
+		trait = war_wizard
+	}
+	1335.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1358.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}

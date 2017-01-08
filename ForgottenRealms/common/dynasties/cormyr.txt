@@ -1088,3 +1088,55 @@
 	name = Korvan
 	culture = cormyrean
 }
+201080 = {
+	name = Darstan
+	culture = cormyrean
+}
+201081 = {
+	name = wolfwinter
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 3
+            emblem = 5
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}
+201082 = {
+	name = Indesm
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 4
+            emblem = 12
+            color = 4
+            color = 6
+            color = 6
+        }
+    }
+}
+201083 = {
+	name = Imbranneth
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 2
+            emblem = 18
+            color = 5
+            color = 6
+            color = 6
+        }
+    }
+}

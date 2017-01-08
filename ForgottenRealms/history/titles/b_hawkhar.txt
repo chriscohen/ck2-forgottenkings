@@ -1,0 +1,7 @@
+1338.1.1 = {
+	liege = c_tilverton
+	holder = 23300 # Amantha Indesm
+}
+1392.1.1 = {
+	holder = 0
+}

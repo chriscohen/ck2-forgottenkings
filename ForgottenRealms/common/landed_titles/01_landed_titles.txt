@@ -427,6 +427,8 @@ k_cormyr = {
 			}
 			b_griffon_hill = {
 			}
+			b_hawkhar = {
+			}
 		}
 	}
 	d_eastern_marches = {

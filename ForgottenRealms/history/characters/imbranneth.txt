@@ -1,0 +1,23 @@
+# IMBRANNETH
+# Range 23400-23499
+
+23400 = {
+	name = Threldryn
+	dynasty = 201083
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1371.10.1 = {
+		employer = 84 # Azoun V Obarskyr
+	}
+	1413.1.1 = {
+		death = yes
+	}
+}

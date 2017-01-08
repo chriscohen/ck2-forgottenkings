@@ -1,0 +1,23 @@
+# DARSTAN
+# Range 23100-23199
+
+23100 = {
+	name = Jelde # Non-canon name
+	dynasty = 201079
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1325.1.1 = {
+		birth = yes
+	}
+	1341.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1360.1.1 = {
+		# Died fighting Tuigan Horde
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
