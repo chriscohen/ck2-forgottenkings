@@ -1282,14 +1282,20 @@
 	1186.1.1 = {
 		birth = yes
 	}
+	1206.1.1 = {
+		add_spouse = 900097 # Jhalass
+	}
 	1227.1.1 = {
-		death = yes
+		death = {
+			death_reason = death_murder_unknown
+		}
 	}
 }
 77 = {
 	name = Palaghard # Palaghard II
 	dynasty = 201000
 	father = 76 # Dhalmass
+	mother = 900097 # Jhalass
 	
 	religion = catholic
 	culture = cormyrean

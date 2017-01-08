@@ -1668,3 +1668,22 @@
 		death = yes
 	}
 }
+900097 = {
+	name = Jhalass
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1190.1.1 = {
+		birth = yes
+	}
+	1206.1.1 = {
+		add_spouse = 76 # Dhalmass Obarskyr
+	}
+	1227.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
