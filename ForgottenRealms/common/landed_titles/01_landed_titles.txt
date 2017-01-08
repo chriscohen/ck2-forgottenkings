@@ -2683,6 +2683,32 @@ d_twisted_rune = {
 	
 	mercenary_type = twisted_rune_composition
 }
+d_purple_dragons = {
+	color = { 137 22 234 }
+	color2 = { 255 255 255 }
+	
+	capital = 17 # Suzail
+	
+	allow = {
+		culture = cormyrean
+	}
+	
+	religion = sunni
+	culture = calishite
+	
+	mercenary = yes
+	
+	title = TITLE_LORD_HIGH_MARSHALL
+	title_female = TITLE_LADY_HIGH_MARSHALL
+	
+	landless = yes
+	primary = yes
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	
+	mercenary_type = purple_dragons_composition
+}
 
 # EMPIRES
 

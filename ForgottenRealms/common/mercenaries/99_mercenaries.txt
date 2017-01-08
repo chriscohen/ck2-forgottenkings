@@ -6,3 +6,10 @@ twisted_rune_composition = {
 	archers = 100
 	horse_archers = 150
 }
+purple_dragons_composition = {
+	levy_size = 4
+	heavy_infantry = 200
+	light_infantry = 400
+	knights = 250
+	archers = 100
+}
