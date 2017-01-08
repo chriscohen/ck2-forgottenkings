@@ -1,0 +1,22 @@
+# CHALANTHER
+# Range 22200-22299
+
+22200 = {
+	name = Vindala
+	female = yes
+	dynasty = 201071
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = illusionist
+		employer = 6300 # Unnamed Ildool / c_marsember
+	}
+	1410.1.1 = {
+		death = yes
+	}
+}

@@ -1687,3 +1687,25 @@
 		}
 	}
 }
+900098 = {
+	name = Delthrin
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = cruel
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		trait = necromancer
+		give_nickname = nick_the_deadmaster
+	}
+	1328.1.1 = {
+		employer = 6300 # Unnamed Ildool / c_marsember
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}

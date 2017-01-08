@@ -16,6 +16,7 @@ nick_the_corsair_prince = {}
 nick_the_cpob = {}
 nick_the_cudgel = {}
 nick_the_dark = {}
+nick_the_deadmaster = {}
 nick_the_doomed_babe = {}
 nick_the_elder = {}
 nick_the_first_mother = {}

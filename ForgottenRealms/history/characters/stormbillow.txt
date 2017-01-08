@@ -1,0 +1,22 @@
+# STORMBILLOW
+# Range 22100-22199
+
+22100 = {
+	name = Filfaeril
+	female = yes
+	dynasty = 201070
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	1353.1.1 = {
+		trait = sorcerer
+		employer = 6300 # Unnamed Ildool / c_marsember
+	}
+	1419.1.1 = {
+		death = yes
+	}
+}

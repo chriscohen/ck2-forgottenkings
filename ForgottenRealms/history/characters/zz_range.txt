@@ -211,5 +211,8 @@
 # 21800  - 21899    Emmarask
 # 21900  - 21999    Dauntinghorn
 # 22000  - 22099    Merendil
+# 22100  - 22199    Stormbillow
+# 22200  - 22299    Chalanther
+# 22300  - 22399    Dreen
 #
 # 900000 - 999999 Lowborn

@@ -892,3 +892,51 @@
         }
     }
 }
+201070 = {
+	name = Stormbillow
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 4
+            emblem = 10
+            color = 7
+            color = 6
+            color = 1
+        }
+    }
+}
+201071 = {
+	name = Chalanther
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 22
+            color = 6
+            color = 6
+            color = 6
+        }
+    }
+}
+201072 = {
+	name = Dreen
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 0
+            emblem = 17
+            color = 1
+            color = 6
+            color = 1
+        }
+    }
+}
