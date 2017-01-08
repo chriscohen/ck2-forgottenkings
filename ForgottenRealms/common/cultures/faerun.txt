@@ -571,7 +571,7 @@ human = {
 		
 		male_names = {
 			Adris Aiken Alaphondar Albaerin Albryn Alexi Alin Althallan Amanthus Amble Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubleth Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
-			Baerauble Baergast Baern Baert Baeryn Barad Barandos Bardanther Barrit Beldarm Beliard Belmer Bhereu Bledryn Blundebel Boris Boront Brace Brezm Broglan Buckman
+			Baerauble Baergast Baern Baert Baeryn Barad Barandos Bardanther Barrit Beldarm Beliard Belmer Bhereu Bledryn Blundebel Boris Boront Brace Braegor Brezm Broglan Buckman
 			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Cole Coobert Cordryn Corleth
 			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Ensrin Erdreth Eregar Ergluth Estelner
@@ -588,7 +588,7 @@ human = {
 			Paramyr Paton Piper Prosler Pyramus
 			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Reth Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
-			Tabart Talados Tarmel Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
+			Tabart Talados Taldeth Tarmel Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
 			Ulnder Umbarl
 			Vorik Vorndren
 			Warved Waylan Wohl
@@ -598,7 +598,7 @@ human = {
 		female_names = {
 			Aceeta Adenia Aglara Alasalynn Alazne Albhaera Alendue Alise Alusair Alvandira Amalee Amarsa Amber Ammaratha Ashala Austa
 			Calty Carissa Catha Cinda Connel Constancia
-			Dalestra Damaris Delamartina Dove
+			Dalestra Damaris Damia Delamartina Dove
 			Earilde Elanna Eleanor Eleriel Elestra Ellira Emrylara
 			Florin Freeyel
 			Gaylyn Ghaunyl Glathra Gorloun

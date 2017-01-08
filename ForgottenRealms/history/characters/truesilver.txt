@@ -5,17 +5,19 @@
 	name = Tanalusta
 	female = yes
 	dynasty = 201004
+	father = 3503 # Jarlin Truesilver (non-canon name)
+	mother = 900100 # Damia
 	
 	religion = catholic
 	culture = cormyrean
 	
-	1279.1.1 = { # Estimate
+	1286.1.1 = {
 		birth = yes
 	}
-	1295.1.1 = {
+	1302.1.1 = {
 		add_spouse = 80 # Rhigaerd II
 	}
-	1334.1.1 = { # Estimate
+	1332.1.1 = {
 		death = yes
 	}
 }
@@ -48,6 +50,110 @@
 		birth = yes
 	}
 	1235.1.1 = {
+		death = yes
+	}
+}
+3503 = {
+	name = Jarlin # Non-canon name
+	dynasty = 201004
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1260.1.1 = {
+		birth = yes
+	}
+	1281.1.1 = {
+		add_spouse = 900100 # Damia
+	}
+	1311.1.1 = {
+		death = yes
+	}
+}
+3504 = {
+	name = Ayesunder
+	dynasty = 201004
+	father = 3505 # Raegl (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1312.1.1 = {
+		birth = yes
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}
+3505 = {
+	# Add a character who is son of Jarlin and father to Ayesunder so that
+	# we can keep the dynasty alive
+	name = Raegl # Non-canon name
+	dynasty = 201004
+	father = 3503 # Jarlin (non-canon name)
+	mother = 900100 # Damia
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1290.1.1 = {
+		birth = yes
+	}
+	1319.1.1 = {
+		death = yes
+	}
+}
+3506 = {
+	name = Taldeth
+	dynasty = 201004
+	father = 3505 # Raegl (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1314.1.1 = {
+		birth = yes
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}
+3507 = {
+	name = Braegor
+	dynasty = 201004
+	father = 3505 # Raegl (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1401.1.1 = {
+		death = yes
+	}
+}
+3508 = {
+	name = Ilbreth
+	dynasty = 201004
+	father = 3505 # Raegl (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1333.1.1 = {
+		employer = 80 # Rhigaerd II
+	}
+	1335.1.1 = {
+		employer = 81 # Azoun IV
+	}
+	1371.10.1 = {
+		employer = 84 # Azoun V
+	}
+	1400.1.1 = {
 		death = yes
 	}
 }

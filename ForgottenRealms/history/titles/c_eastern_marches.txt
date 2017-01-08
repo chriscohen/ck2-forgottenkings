@@ -191,28 +191,32 @@
 1164.1.1 = {
 	holder = 74 # Palaghard I
 }
-1187.1.1 = {
-	holder = 75 # Pryntaler
+1185.1.1 = {
+	holder = 3502 # Beldarm Truesilver
 }
-1210.1.1 = {
-	holder = 76 # Dhalmass
-}
-1227.1.1 = {
+1235.1.1 = {
+	# Death of Beldarm
 	holder = 77 # Palaghard II
 }
 1261.1.1 = {
 	holder = 78 # Azoun III
 }
-1275.1.1 = {
-	holder = 79 # Salember
+1276.1.1 = {
+	holder = 3503 # Jarlin Truesilver (non-canon name)
 }
-1286.1.1 = {
-	holder = 80 # Rhigaerd II
+1311.1.1 = {
+	holder = 3505 # Raegl Truesilver (non-canon)
 }
-1335.1.1 = {
-	holder = 81 # Azoun IV
+1319.1.1 = {
+	holder = 3504 # Ayesunder Truesilver
 }
-1371.10.1 = {
+1388.1.1 = {
+	holder = 3506 # Taldeth Truesilver
+}
+1398.1.1 = {
+	holder = 3507 # Braegor Truesilver
+}
+1401.1.1 = {
 	holder = 84 # Azoun V
 }
 1449.1.1 = {
