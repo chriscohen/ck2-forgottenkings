@@ -1,5 +1,24 @@
-1286.1.1 = {
+1124.1.1 = {
 	liege = d_the_stormhorns
+	holder = 900115 # Rivior
+}
+1155.1.1 = {
+	# Death of Rivior
+	holder = 1200 # Enchara of Esparin
+}
+1164.1.1 = {
+	holder = 74 # Palaghard I Obarskyr
+}
+1187.1.1 = {
+	holder = 75 # Pryntaler
+}
+1210.1.1 = {
+	holder = 76 # Dhalmass
+}
+1226.1.1 = {
+	holder = 6400 # Aglara Spurbright
+}
+1286.1.1 = {
 	# Granted dukedom by Rhigaerd II
 	holder = 22400 # Adris Hornshield
 }

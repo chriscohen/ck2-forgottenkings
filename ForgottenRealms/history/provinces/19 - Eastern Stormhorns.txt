@@ -6,11 +6,15 @@ title = c_eastern_stormhorns
 # Settlements
 max_settlements = 5
 
-b_eveningstar = castle
-b_castle_crag = castle
+b_castle_crag = tribal
 
 # Misc
 culture = cormyrean
 religion = catholic
 
 # History
+1155.1.1 = {
+	b_eveningstar = castle
+	capital = b_eveningstar
+	b_castle_crag = castle
+}

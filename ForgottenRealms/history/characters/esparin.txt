@@ -12,6 +12,7 @@
 	culture = cormyrean
 	
 	trait = wroth
+	trait = tough_soldier
 	
 	1126.1.1 = { # Estimate
 		birth = yes

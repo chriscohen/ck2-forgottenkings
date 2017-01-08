@@ -4,11 +4,18 @@ title = c_southern_stormhorns
 # Settlements
 max_settlements = 5
 
-b_greatgaunt = castle
-b_minroe = castle
+b_skull_crag = tribal
 
 # Misc
 culture = cormyrean
 religion = catholic
 
 # History
+1155.1.1 = {
+	b_minroe = castle
+	capital = b_minroe
+	b_skull_crag = castle
+}
+1332.1.1 = {
+	b_greatgaunt = castle
+}

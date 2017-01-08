@@ -2012,3 +2012,20 @@
 		death = yes
 	}
 }
+900115 = {
+	# TSR9486 Volo's Guide to Cormyr p.146
+	name = Rivior
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1108.1.1 = {
+		birth = yes
+	}
+	1155.1.1 = {
+		death = {
+			death_battle
+			killer = 1200 # Enchara of Esparin
+		}
+	}
+}
