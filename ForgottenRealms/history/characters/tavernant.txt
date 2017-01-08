@@ -1,0 +1,24 @@
+# TAVERNANT
+# Range 22800-22899
+
+22800 = {
+	name = Carissa # Non-canon name
+	female = yes
+	dynasty = 201077
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1301.1.1 = {
+		birth = yes
+	}
+	1317.1.1 = {
+		employer = 80 # Rhigaerd II Obarskyr / c_suzail
+	}
+	1335.1.1 = {
+		holder = 900030 # Sthavar / c_suzail
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}
