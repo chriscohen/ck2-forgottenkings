@@ -1,3 +1,10 @@
+bard = {
+	random = no
+	
+	diplomacy = 3
+	learning = 3
+	martial = -6
+}
 illusionist = {
 	random = no
 	

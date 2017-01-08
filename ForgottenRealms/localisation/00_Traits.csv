@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+bard;Bard;;;;;;;;;;;;;x
+bard_desc;A versatile arcane spellcaster and master of music, poetry, or storytelling;;;;;;;;;;;;;x
 ghazneth;Ghazneth;;;;;;;;;;;;;x
 ghazneth_desc;This character has become a Ghazneth, a fell demon who betrayed Cormyr;;;;;;;;;;;;;x
 harper;Harper;;;;;;;;;;;;;x
@@ -27,6 +29,8 @@ trait_wildelf;Wild Elf;;;;;;;;;;;;;x
 trait_wildelf_desc;Sy-tel-quessir are feral and stealthy elves, reclusive and remaining close to nature;;;;;;;;;;;;;x
 vampire;Vampire;;;;;;;;;;;;;x
 vampire_desc;A powerful undead humanoid feeding on the blood of the living;;;;;;;;;;;;;x
+war_wizard;War Wizard;;;;;;;;;;;;;x
+war_wizard;A member of the Cormyrean elite battle mages;;;;;;;;;;;;;x
 wizard;Wizard;;;;;;;;;;;;;x
 wizard_desc;A user of divine magic;;;;;;;;;;;;;x
 zhentarim;Zhentarim;;;;;;;;;;;;;x

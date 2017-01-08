@@ -16,6 +16,16 @@ purple_dragon = {
 	
 	general_opinion = 5
 }
+war_wizard = {
+	# Cormyr
+	random = no
+	
+	martial = 2
+	intrigue = 1
+	learning = 2
+	
+	general_opinion = 5
+}
 zhentarim = {
 	random = no
 	
