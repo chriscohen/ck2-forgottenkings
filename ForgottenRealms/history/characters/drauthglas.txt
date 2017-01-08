@@ -15,7 +15,7 @@
 	1128.1.1 = {
 		birth = yes
 	}
-	1185.1.1 = {
+	1188.7.1 = {
 		effect = {
 			add_friend = 75 # Pryntaler Obarskyr
 		}
@@ -40,7 +40,7 @@
 	1146.1.1 = {
 		birth = yes
 	}
-	1184.1.1 = { # Estimate, all sons died in same battle
+	1188.1.1 = { # Estimate, all sons died in same battle
 		death = {
 			death_reason = death_battle
 		}
@@ -57,7 +57,7 @@
 	1147.1.1 = {
 		birth = yes
 	}
-	1184.1.1 = { # Estimate, all sons died in same battle
+	1188.1.1 = { # Estimate, all sons died in same battle
 		death = {
 			death_reason = death_battle
 		}
@@ -74,7 +74,7 @@
 	1148.1.1 = {
 		birth = yes
 	}
-	1184.1.1 = { # Estimate, all sons died in same battle
+	1188.1.1 = { # Estimate, all sons died in same battle
 		death = {
 			death_reason = death_battle
 		}
@@ -91,7 +91,7 @@
 	1149.1.1 = {
 		birth = yes
 	}
-	1184.1.1 = { # Estimate, all sons died in same battle
+	1188.1.1 = { # Estimate, all sons died in same battle
 		death = {
 			death_reason = death_battle
 		}

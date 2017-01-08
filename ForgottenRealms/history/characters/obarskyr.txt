@@ -1250,7 +1250,7 @@
 	1183.1.1 = {
 		add_spouse = 9202 # Alvandira Crownsilver
 	}
-	1185.1.1 = {
+	1188.7.1 = {
 		effect = {
 			add_friend = 9300 # Eltrym Drauthglas
 		}

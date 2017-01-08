@@ -348,6 +348,9 @@ k_cormyr = {
 			color={ 225 15 15 }
 			color2={ 255 255 255 }
 			
+			title = TITLE_LORD
+			title_female = TITLE_LADY
+			
 			b_hillmarch = {
 			}
 			b_firefall_keep = {

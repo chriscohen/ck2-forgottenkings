@@ -11,8 +11,14 @@
 	1155.1.1 = { # Estimate
 		birth = yes
 	}
+	1171.1.1 = {
+		employer = 74 # Palaghard I Obarskyr
+	}
 	1185.1.1 = { # Estimate
 		trait = wounded # By Donder Cormaeril
+	}
+	1187.1.1 = {
+		employer = 75 # Pryntaler Obarskyr
 	}
 	1203.1.1 = {
 		death = yes
