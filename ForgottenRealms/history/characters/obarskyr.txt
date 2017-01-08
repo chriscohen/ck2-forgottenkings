@@ -1403,7 +1403,9 @@
 		}
 	}
 	1371.10.1 = {
-		death = yes
+		death = {
+			death_reason = death_murder_poison_fr
+		}
 	}
 }
 82 = {

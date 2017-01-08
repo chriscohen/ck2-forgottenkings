@@ -1,3 +1,5 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 DEATH_ACCIDENT_FIRE;died in a fire on the order of $KILLER$;;;;;;;;;;;;;x
 DEATH_ACCIDENT_FIRE_NO_KILLER;died in a fire;;;;;;;;;;;;;x
+DEATH_POISON;poisoned by $KILLER$;;;;;;;;;;;;;x
+DEATH_POISON_NO_KILLER;died from poisoning;;;;;;;;;;;;;x

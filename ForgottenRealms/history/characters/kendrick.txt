@@ -94,7 +94,7 @@
 		birth = yes
 	}
 	302.1.1 = {
-		trait = ill
+		trait = food_poisoning
 	}
 	302.1.11 = {
 		death = {

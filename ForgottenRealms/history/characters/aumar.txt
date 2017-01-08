@@ -155,7 +155,7 @@
 	}
 	239.1.1 = {
 		death = {
-			death_reason = death_murder_unknown_poison
+			death_reason = death_murder_poison_fr
 		}
 	}
 }
