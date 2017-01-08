@@ -1285,7 +1285,7 @@
 	1206.1.1 = {
 		add_spouse = 900097 # Jhalass
 	}
-	1227.1.1 = {
+	1227.7.1 = {
 		death = {
 			death_reason = death_murder_unknown
 		}

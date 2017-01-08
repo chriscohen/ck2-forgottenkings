@@ -210,5 +210,6 @@
 # 21700  - 21799    Indimber
 # 21800  - 21899    Emmarask
 # 21900  - 21999    Dauntinghorn
+# 22000  - 22099    Merendil
 #
 # 900000 - 999999 Lowborn
