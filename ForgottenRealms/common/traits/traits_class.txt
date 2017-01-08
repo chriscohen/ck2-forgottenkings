@@ -6,6 +6,7 @@ illusionist = {
 	
 	opposites = {
 		necromancer
+		sorcerer
 		wizard
 	}
 }
@@ -17,6 +18,19 @@ necromancer = {
 	
 	opposites = {
 		illusionist
+		sorcerer
+		wizard
+	}
+}
+sorcerer = {
+	random = no
+	
+	learing = 2
+	martial = -2
+	
+	opposites = {
+		illusionist
+		necromancer
 		wizard
 	}
 }
@@ -29,5 +43,6 @@ wizard = {
 	opposites = {
 		illusionist
 		necromancer
+		sorcerer
 	}
 }

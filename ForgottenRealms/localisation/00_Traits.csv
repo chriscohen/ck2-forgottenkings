@@ -4,17 +4,19 @@ ghazneth_desc;This character has become a Ghazneth, a fell demon who betrayed Co
 harper;Harper;;;;;;;;;;;;;x
 harper_desc;Dedicated to promoting good, preserving history, and maintaining a balance between nature and civilization;;;;;;;;;;;;;x
 illusionist;Illusionist;;;;;;;;;;;;;x
-illusionist_desc;A practitioner of the magical school of false imagery;;;;;;;;;;;;;
+illusionist_desc;A practitioner of the magical school of false imagery;;;;;;;;;;;;;x
 lich;Lich;;;;;;;;;;;;;x
 lich_desc;A powerful undead spellcaster often assuming undead form in order to live forever;;;;;;;;;;;;;x
 mummy;Mummy;;;;;;;;;;;;;x
 mummy_desc;An undead creature created from a preserved corpse;;;;;;;;;;;;;x
 necromancer;Necromancer;;;;;;;;;;;;;x
-necromancer_desc;A practitioner of the magical school of death, unlife and life force;;;;;;;;;;;;;
+necromancer_desc;A practitioner of the magical school of death, unlife and life force;;;;;;;;;;;;;x
 purple_dragon;Purple Dragon;;;;;;;;;;;;;x
 purple_dragon_desc;A member of the prestigious military order of Purple Dragons in Cormyr;;;;;;;;;;;;;x
 shade;Shade;;;;;;;;;;;;;x
 shade_desc;A being who has merged with the essence of shadowstuff;;;;;;;;;;;;;x
+sorcerer;Sorcerer;;;;;;;;;;;;;x
+sorcerer_desc;A wielder of arcane magic bound only by willpower;;;;;;;;;;;;;x
 spectral_harpist;Spectral Harpist;;;;;;;;;;;;;x
 spectral_harpist_desc;An undead ghostlike form adopted by some former Harpers upon death;;;;;;;;;;;;;x
 trait_lightfoot;Lightfoot;;;;;;;;;;;;;x

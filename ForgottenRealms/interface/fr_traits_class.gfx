@@ -16,7 +16,15 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 }
-
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_sorcerer"
+		texturefile = "gfx/traits/sorcerer.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
 spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_wizard"
