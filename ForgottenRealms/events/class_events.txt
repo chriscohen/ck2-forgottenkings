@@ -1,0 +1,14 @@
+namespace = forgottenrealms
+
+character_event = {
+	id = forgottenrealms.1
+	desc = EVTDESCforgottenrealms.1
+	picture = GFX_evt_choose_class
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA1
+		add_trait = wizard
+	}
+}

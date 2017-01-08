@@ -1,0 +1,5 @@
+on_adulthood = {
+	events = {
+		forgottenrealms.1 # Choose class
+	}
+}
