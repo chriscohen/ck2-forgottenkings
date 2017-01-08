@@ -1,13 +1,11 @@
-# c_eastern_stormhorns
-
 # County Title
-title = c_eastern_stormhorns
+title = c_southern_stormhorns
 
 # Settlements
 max_settlements = 5
 
-b_eveningstar = castle
-b_castle_crag = castle
+b_greatgaunt = castle
+b_minroe = castle
 
 # Misc
 culture = cormyrean

@@ -1,0 +1,18 @@
+# GREATGAUNT
+# Range 22900-22999
+
+22900 = {
+	# We will make up a character just so we can populate b_greatgaunt
+	name = Baert
+	dynasty = 201078
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1316.1.1 = {
+		birth = yes
+	}
+	1399.1.1 = {
+		death = yes
+	}
+}

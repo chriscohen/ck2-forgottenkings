@@ -210,7 +210,7 @@
 	holder = 22400 # Adris Hornshield
 }
 1301.1.1 = {
-	holder = 80 # Rhigaerd II
+	holder = 22401 # Florin Hornshield (non-canon)
 }
 1315.1.1 = {
 	holder = 8701 # Bhereu Ammaeth

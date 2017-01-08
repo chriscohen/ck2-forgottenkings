@@ -1727,7 +1727,6 @@
 900100 = {
 	name = Damia
 	female = yes
-	dynasty = 201004
 	
 	religion = catholic
 	culture = cormyrean
@@ -1739,6 +1738,31 @@
 		add_spouse = 3503 # Jarlin Truesilver (non-canon name)
 	}
 	1309.1.1 = {
+		death = yes
+	}
+}
+900101 = {
+	name = "Aumrathar Uernhands"
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1259.1.1 = {
+		birth = yes
+	}
+	1275.1.1 = {
+		trait = wizard
+	}
+	1286.1.1 = {
+		employer = 22400 # Adris Hornshield
+	}
+	1301.1.1 = {
+		employer = 22401 # Florin Hornshield
+	}
+	1315.1.1 = {
+		employer = 8701 # Bhereu Ammaeth
+	}
+	1334.1.1 = {
 		death = yes
 	}
 }

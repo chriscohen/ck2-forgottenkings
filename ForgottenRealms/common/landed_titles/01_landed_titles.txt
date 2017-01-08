@@ -390,6 +390,8 @@ k_cormyr = {
 			}
 			b_mouth_o_gargoyles = {
 			}
+			b_aunkspear = {
+			}
 		}
 		c_marsember = { # 23
 			color={ 220 44 44 }
@@ -521,7 +523,10 @@ k_cormyr = {
 		allow = {
 			OR = {
 				lower_tier_than = KING
-				any_demesne_province = { OR = { province_id = 13 province_id = 19 } }
+				any_demesne_province = { OR = {
+					province_id = 13
+					province_id = 19
+				} }
 			}
 		}
 		capital = 13 # c_the_stormhorns
@@ -534,13 +539,11 @@ k_cormyr = {
 			}
 			b_espar = {
 			}
-			b_minroe = {
-			}
 			b_eagle_peak = {
 			}
-			b_valkurs_roar = {
-			}
 			b_hornshield_keep = {
+			}
+			b_wyvernhunt = {
 			}
 		}
 		c_eastern_stormhorns = { # 19
@@ -556,6 +559,21 @@ k_cormyr = {
 			b_redspring = {
 			}
 			b_slingdyke = {
+			}
+		}
+		c_southern_stormhorns = {
+			color = { 152 46 46 }
+			color2 = { 255 255 255 }
+			
+			b_greatgaunt = {
+			}
+			b_minroe = {
+			}
+			b_valkurs_roar = {
+			}
+			b_old_axe = {
+			}
+			b_skull_crag = {
 			}
 		}
 	}

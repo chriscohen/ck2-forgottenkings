@@ -1,0 +1,7 @@
+1332.1.1 = {
+	liege = c_southern_stormhorns
+	holder = 22900 # Baern Greatgaunt (non-canon)
+}
+1399.1.1 = {
+	holder = 0
+}

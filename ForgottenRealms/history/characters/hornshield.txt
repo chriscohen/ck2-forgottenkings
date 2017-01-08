@@ -15,3 +15,18 @@
 		death = yes
 	}
 }
+22401 = {
+	name = Florin # Made-up son so we can continue the title of d_the_stormhorns
+	dynasty = 201073
+	father = 22400 # Adris (non-canon name)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1253.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		death = yes
+	}
+}

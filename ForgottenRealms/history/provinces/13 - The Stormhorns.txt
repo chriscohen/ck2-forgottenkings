@@ -4,16 +4,19 @@
 title = c_the_stormhorns
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 
 b_high_horn = castle
-b_espar = castle
 
 # Misc
 culture = cormyrean
 religion = catholic
 
 #History
+1226.1.1 = {
+	# Allow Spurbrights to hold b_espar
+	b_espar = castle
+}
 1286.1.1 = {
 	# Hornshields granted dukedom and seat of power is Hornshield Keep
 	b_hornshield_keep = castle
@@ -22,5 +25,4 @@ religion = catholic
 1301.1.1 = {
 	# Move capital back
 	capital = b_high_horn
-	remove_settlement = b_hornshield_keep
 }
