@@ -220,5 +220,6 @@
 # 22700  - 22799    Delzud
 # 22800  - 22899    Tavernant
 # 22900  - 22999    Greatgaunt
+# 23000  - 23099    Korvan
 #
 # 900000 - 999999 Lowborn

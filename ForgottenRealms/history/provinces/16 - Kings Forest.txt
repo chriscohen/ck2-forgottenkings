@@ -14,6 +14,10 @@ culture = cormyrean
 religion = catholic
 
 #History
+1168.1.1 = {
+	# Create b_aunkspear to give to Jathos
+	b_aunkspear = castle
+}
 1176.1.1 = {
 	# Bring b_stagsteads into existence and give it to Goldfeather
 	b_stagsteads = castle

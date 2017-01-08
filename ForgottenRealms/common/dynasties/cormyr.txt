@@ -1060,3 +1060,7 @@
         }
     }
 }
+201079 = {
+	name = Korvan
+	culture = cormyrean
+}

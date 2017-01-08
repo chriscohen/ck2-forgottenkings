@@ -1248,6 +1248,9 @@
 	religion = catholic
 	culture = cormyrean
 	
+	trait = seducer
+	trait = lustful
+	
 	1164.1.1 = {
 		birth = yes
 	}
@@ -1259,7 +1262,7 @@
 			add_friend = 9300 # Eltrym Drauthglas
 		}
 	}
-	1190.1.1 = {
+	1190.7.1 = {
 		trait = ill
 	}
 	1210.1.1 = {

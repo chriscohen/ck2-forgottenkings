@@ -1766,3 +1766,166 @@
 		death = yes
 	}
 }
+900102 = {
+	# TSR9486 Volo's Guide to Cormyr p.127
+	name = Jathos
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1152.1.1 = {
+		birth = yes
+	}
+	1241.1.1 = {
+		death = yes
+	}
+}
+900103 = {
+	# TSR9486 Volo's Guide to Cormyr p.127
+	name = Alaethe
+	father = 900102 # Jathos
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = fair
+	
+	1169.1.1 = {
+		birth = yes
+	}
+	1256.1.1 = {
+		death = yes
+	}
+}
+900104 = {
+	name = Unnamed
+	father = 75 # Pryntaler Obarskyr
+	mother = 900103 # Alaethe
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1185.1.1 = {
+		birth = yes
+	}
+	1222.1.1 = {
+		death = {
+			death_reason = death_missing
+		}
+	}
+}
+900105 = {
+	name = Unnamed
+	father = 75 # Pryntaler Obarskyr
+	mother = 900103 # Alaethe
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1186.1.1 = {
+		birth = yes
+	}
+	1222.1.1 = {
+		death = {
+			death_reason = death_missing
+		}
+	}
+}
+900106 = {
+	name = Unnamed
+	father = 75 # Pryntaler Obarskyr
+	mother = 900103 # Alaethe
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1187.1.1 = {
+		birth = yes
+	}
+	1222.1.1 = {
+		death = {
+			death_reason = death_missing
+		}
+	}
+}
+900107 = {
+	name = Unnamed
+	father = 75 # Pryntaler Obarskyr
+	mother = 900103 # Alaethe
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1188.1.1 = {
+		birth = yes
+	}
+	1222.1.1 = {
+		death = {
+			death_reason = death_missing
+		}
+	}
+}
+900108 = {
+	name = Unnamed
+	father = 75 # Pryntaler Obarskyr
+	mother = 900103 # Alaethe
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1189.1.1 = {
+		birth = yes
+	}
+	1222.1.1 = {
+		death = {
+			death_reason = death_missing
+		}
+	}
+}
+900109 = {
+	name = Unnamed
+	father = 75 # Pryntaler Obarskyr
+	mother = 900103 # Alaethe
+	
+	religion = catholic
+	culture = cormyrean
+	
+	trait = bastard
+	
+	1190.1.1 = {
+		birth = yes
+	}
+	1222.1.1 = {
+		death = {
+			death_reason = death_missing
+		}
+	}
+}
+900110 = {
+	name = Crownhilde
+	father = 75 # Pryntaler Obarskyr
+	mother = 900103 # Alaethe
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1191.1.1 = {
+		birth = yes
+	}
+	1207.1.1 = {
+		add_spouse = 23000 # Talados Korvan
+	}
+	1238.1.1 = {
+		death = yes
+	}
+}

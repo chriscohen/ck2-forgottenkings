@@ -1,0 +1,20 @@
+# KORVAN
+# Range 23000-23099
+
+23000 = {
+	name = Talados # Non-canon guy who married Crownhilde (Aunkspear)
+	dynasty = 201079
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1189.1.1 = {
+		birth = yes
+	}
+	1207.1.1 = {
+		add_spouse = 900110 # Crownhilde
+	}
+	1228.1.1 = {
+		death = yes
+	}
+}

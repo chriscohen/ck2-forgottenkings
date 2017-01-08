@@ -579,7 +579,7 @@ human = {
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
 			Hadley Haerldoun Halartan Haldos Halston Halvundrar Harandil Harglast Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
 			Ilberd Ildamoor Ilmreth Ilryn Irvel
-			Jarlin Jelde Jhaok Jhartos Juarkin Junstal
+			Jarlin Jathos Jelde Jhaok Jhartos Juarkin Junstal
 			Kae Kallimar Kargerth Keolan Kleef Kortyl Krell Krohn
 			Lamiril Landon Larak Lareth Lhannas Londal Lothan
 			Maerlyn Maestoon Malaglan Mallik Manarech Maniol Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
@@ -596,8 +596,8 @@ human = {
 			Yarjack York
 		}
 		female_names = {
-			Aceeta Adenia Aglara Alasalynn Alazne Albhaera Alendue Alise Alusair Alvandira Amalee Amarsa Amber Ammaratha Ashala Austa
-			Calty Carissa Catha Cinda Connel Constancia
+			Aceeta Adenia Aglara Alaethe Alasalynn Alazne Albhaera Alendue Alise Alusair Alvandira Amalee Amarsa Amber Ammaratha Ashala Austa
+			Calty Carissa Catha Cinda Connel Constancia Crownhilde
 			Dalestra Damaris Damia Delamartina Dove
 			Earilde Elanna Eleanor Eleriel Elestra Ellira Emrylara
 			Florin Freeyel

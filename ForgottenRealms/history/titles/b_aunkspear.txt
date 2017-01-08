@@ -1,0 +1,10 @@
+1168.1.1 = {
+	liege = c_kings_forest
+	holder = 900102 # Jathos
+}
+1241.1.1 = {
+	holder = 900103 # Alaethe
+}
+1256.1.1 = {
+	holder = 0
+}
