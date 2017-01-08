@@ -23,6 +23,9 @@
 	holder = 6300 # Unnamed Ildool
 }
 1394.1.1 = {
+	holder = 23701 # Durmeth Eldroon
+}
+1421.1.1 = {
 	holder = 84 # Azoun V
 }
 1449.1.1 = {

@@ -570,33 +570,34 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Aiken Alaphondar Albaerin Albryn Alexi Alin Althallan Amanthus Amble Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubleth Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
+			Adris Aiken Alaphondar Albaerin Albryn Aldeth Alexi Alin Althallan Amanthus Amble Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubleth Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Baeryn Barad Barandos Bardanther Barrit Beldarm Beliard Belmer Bhereu Bledryn Blundebel Boris Boront Brace Braegor Brezm Broglan Buckman
-			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Cole Coobert Cordryn Corleth
-			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Doust Draguth Drounan Duncan Dunlath Duth
+			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Chelesmer Cole Coobert Cordryn Corleth
+			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Doust Draguth Drounan Duncan Dunlath Durmeth Duth
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Ensrin Erdreth Eregar Ergluth Estelner
 			Falzo Faril Feredagh Filani Finder Flaram Florin Foril Fortney Fraeyer Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
-			Hadley Haerldoun Halartan Haldos Halston Halvundrar Harandil Harglast Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
+			Hadley Haerldoun Halartan Haldos Halston Halvundrar Harandil Harglast Harlo Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
 			Ilberd Ildamoor Ilmreth Ilryn Irvel
 			Jarlin Jathos Jelde Jhaok Jhartos Juarkin Junstal
-			Kae Kallimar Kargerth Keolan Kleef Kortyl Krell Krohn
+			Kae Kallimar Kargerth Keolan Kleef Kortyl Korvarr Krell Krohn
 			Lamiril Landon Larak Lareth Lhannas Londal Lothan
 			Maerlyn Maestoon Malaglan Mallik Manarech Maniol Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
 			Naeryk Narbreth Nars Nelnar
-			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
+			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Onkyl Oric Ordmann Orm Ormion Orngrym Ortwin Orvendel
 			Paramyr Paton Piper Prosler Pyramus
-			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Reth Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
+			Raedlar Raegl Rankin Rastafan Rauligus Rauril Rauvor Rauvoril Ravos Reldyk Renstameir Reth Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
-			Tabart Talados Taldeth Tarmel Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Threldryn Trenton Tystarn
-			Ulnder Umbarl
+			Tabart Talados Taldeth Tarmel Telarn Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Threldryn Trenton Tystarn
+			Ulnder Umbarl Urthrin
 			Vorik Vorndren
 			Warved Waylan Wohl
 			Xanthon
 			Yarjack York
 		}
 		female_names = {
-			Aceeta Adenia Aglara Alaethe Alasalynn Alazne Albhaera Alendue Alise Alusair Alvandira Amalee Amarsa Amber Ammaratha Ashala Austa
+			Aceeta Adenia Aglara Alaethe Alasalynn Alazne Albhaera Alclaera Alendue Alise Alusair Alvandira Amalee Amarsa Amber Ammaratha Ashala Austa
+			Blaerla
 			Calty Carissa Catha Cinda Connel Constancia Crownhilde
 			Dalestra Damaris Damia Delamartina Dove
 			Earilde Elanna Eleanor Eleriel Elestra Ellira Emrylara
@@ -604,7 +605,7 @@ human = {
 			Gaylyn Ghaunyl Glathra Gorloun
 			Helindra Holly
 			Icuara Ileeyra Ileira Illistyl Imroserel Islif Iyrytharna
-			Jalalla Jalassra Janet Jasanna Jenmic Jhalass Julia
+			Jalalla Jalassra Jaless Janet Jasanna Jenmic Jhalass Julia
 			Katriana Kimba Klaire
 			Lamala Laspeera Leah Leona Linnese Lorelei
 			Maea Maranth Marantine Margot Maritha Mazey Mela

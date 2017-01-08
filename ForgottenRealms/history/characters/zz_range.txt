@@ -225,5 +225,10 @@
 # 23200  - 23299    Wolfwinter
 # 23300  - 23399    Indesm
 # 23400  - 23499    Imbranneth
+# 23500  - 23599    Rayburton
+# 23600  - 23699    Dracohorn
+# 23700  - 23799    Eldroon
+# 23800  - 23899    Wintersun
+# 23900  - 23999    Belorgan
 #
 # 900000 - 999999 Lowborn

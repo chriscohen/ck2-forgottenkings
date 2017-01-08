@@ -2105,3 +2105,37 @@
 		death = yes
 	}
 }
+900120 = {
+	name = Jaless
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	17.1.1 = {
+		birth = yes
+	}
+	33.1.1 = {
+		add_spouse = 23504 # Telarn Rayburton
+	}
+	55.1.1 = {
+		death = yes
+	}
+}
+900121 = {
+	name = Alclaera
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1316.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		add_spouse = 23901 # Harlo Belorgan
+	}
+	1384.1.1 = {
+		death = yes
+	}
+}

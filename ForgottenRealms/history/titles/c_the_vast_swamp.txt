@@ -209,10 +209,17 @@
 1286.1.1 = {
 	holder = 80 # Rhigaerd II
 }
-1335.1.1 = {
-	holder = 81 # Azoun IV
+1313.1.1 = {
+	# We will give some land to the Dracohorn dynasty
+	holder = 23603 # Keolan Dracohorn
 }
-1371.10.1 = {
+1336.1.1 = {
+	holder = 23601 # Ondrin Dracohorn
+}
+1369.9.1 = {
+	holder = 23602 # Aldeth Dracohorn
+}
+1372.1.1 = {
 	holder = 84 # Azoun V
 }
 1449.1.1 = {

@@ -37,6 +37,7 @@
 	# Dragon 279 p.80
 	name = Emrylara
 	female = yes
+	dynasty = 201037
 	father = 8900 # Theldrin
 	
 	dna="bdhka0ghcb0"
@@ -53,5 +54,82 @@
 	}
 	162.1.1 = {
 		death = yes
+	}
+}
+8902 = {
+	name = Dhalmass
+	dynasty = 201037
+	
+	religion = catholic
+	culture = cormyrean
+	
+	838.1.1 = {
+		birth = yes
+	}
+	864.1.1 = {
+		add_matrilineal_spouse = 23501 # Unnamed Rayburton
+	}
+	882.1.1 = {
+		death = yes
+	}
+}
+8903 = {
+	name = Korvarr
+	dynasty = 201037
+	father = 8904 # Urthrin
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1345.1.1 = {
+		birth = yes
+	}
+	1361.1.1 = {
+		trait = fighter
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1371.10.1 = {
+		employer = 84 # Azoun V Obarskyr
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}
+8904 = {
+	name = Urthrin
+	dynasty = 201037
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1325.1.1 = {
+		birth = yes
+	}
+	1359.1.9 = {
+		employer = 900020 # Myrmeen Lhal / c_arabel
+	}
+	1381.1.1 = {
+		employer = 3700 # Dauneth Marliir
+	}
+	1382.1.1 = {
+		death = yes
+	}
+}
+8905 = {
+	name = Orvendel
+	dynasty = 201037
+	father = 8904 # Urthrin
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1353.1.1 = {
+		birth = yes
+	}
+	1370.1.1 = {
+		death = {
+			death_execution_hanging
+			killer = 82 # Tanalasta Obarskyr
+		}
 	}
 }

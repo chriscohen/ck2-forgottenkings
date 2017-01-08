@@ -1,0 +1,4 @@
+1330.1.1 = {
+	liege = c_thunder_way
+	holder = 23901 # Harlo Belorgan
+}

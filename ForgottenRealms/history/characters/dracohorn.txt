@@ -1,0 +1,74 @@
+# DRACOHORN
+# Range 23600-23699
+
+23600 = {
+	name = Omalra
+	dynasty = 201085
+	
+	religion = catholic
+	culture = cormyrean
+	
+	402.1.1 = {
+		birth = yes
+	}
+	418.1.1 = {
+		employer = 60 # Azoun I Obarskyr
+	}
+	425.1.1 = {
+		employer = 61 # Duar Obarskyr
+	}
+	460.1.1 = {
+		death = yes
+	}
+}
+23601 = {
+	name = Ondrin
+	dynasty = 201085
+	father = 23603 # Keolan (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1369.9.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 1501 # Gaspar Cormaeril
+		}
+	}
+}
+23602 = {
+	name = Aldeth
+	dynasty = 201085
+	father = 23603 # Keolan (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1372.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+23603 = {
+	# Dates for Keolan are not recorded but we will make him father
+	# to Ondrin and Aldeth
+	name = Keolan
+	dynasty = 201085
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1297.1.1 = {
+		birth = yes
+	}
+	1336.1.1 = {
+		death = yes
+	}
+}

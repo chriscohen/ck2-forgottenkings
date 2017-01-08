@@ -1140,3 +1140,91 @@
         }
     }
 }
+201084 = {
+	name = Rayburton
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 10
+            emblem = 5
+            color = 3
+            color = 6
+            color = 6
+        }
+    }
+}
+201085 = {
+	name = Dracohorn
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 13
+            emblem = 20
+            color = 3
+            color = 6
+            color = 6
+        }
+    }
+}
+201086 = {
+	name = Eldroon
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 2
+            emblem = 20
+            color = 5
+            color = 6
+            color = 6
+        }
+    }
+}
+201087 = {
+	name = Wintersun
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 3
+            emblem = 14
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}
+201088 = {
+	name = Belorgan
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 1
+        layer = {
+            texture = 1
+            texture_internal = 13
+            emblem = 20
+            color = 1
+            color = 6
+            color = 6
+        }
+        layer = {
+            texture = 1
+            texture_internal = 10
+            emblem = 19
+            color = 1
+            color = 6
+            color = 6
+        }
+    }
+}

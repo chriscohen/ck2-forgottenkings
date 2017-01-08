@@ -1,0 +1,38 @@
+# BELORGAN
+# Range 23900-23999
+
+23900 = {
+	name = Raedlar
+	dynasty = 201088
+	father = 23901 # Harlo
+	mother = 900121 # Alclaera
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		death = {
+			death_reason = death_murder_unknown
+		}
+	}
+}
+23901 = {
+	name = Harlo
+	dynasty = 201088
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1314.1.1 = {
+		birth = yes
+	}
+	1332.1.1 = {
+		add_spouse = 900121 # Alclaera
+	}
+	1392.1.1 = {
+		death = yes
+	}
+}

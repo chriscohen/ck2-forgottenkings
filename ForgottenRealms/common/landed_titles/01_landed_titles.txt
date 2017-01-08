@@ -518,6 +518,10 @@ k_cormyr = {
 			}
 			b_ghars = {
 			}
+			b_wyvernshores = {
+			}
+			b_forgemarket = {
+			}
 		}
 	}
 	d_the_stormhorns = {

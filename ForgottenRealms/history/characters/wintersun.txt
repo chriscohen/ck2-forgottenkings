@@ -1,0 +1,23 @@
+# WINTERSUN
+# Range 23800-23899
+
+23800 = {
+	name = Sardyn
+	dynasty = 201087
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	1353.1.1 = {
+		employer = 81 # Azoun IV Obarskyr
+	}
+	1371.10.1 = {
+		employer = 84 # Azoun V Obarskyr
+	}
+	1415.1.1 = {
+		death = yes
+	}
+}
