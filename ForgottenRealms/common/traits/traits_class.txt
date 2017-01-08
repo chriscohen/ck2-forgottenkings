@@ -1,4 +1,33 @@
-wizard = {
+illusionist = {
+	random = no
+	
 	learning = 2
 	martial = -2
+	
+	opposites = {
+		necromancer
+		wizard
+	}
+}
+necromancer = {
+	random = no
+	
+	learning = 2
+	martial = -2
+	
+	opposites = {
+		illusionist
+		wizard
+	}
+}
+wizard = {
+	random = no
+
+	learning = 2
+	martial = -2
+	
+	opposites = {
+		illusionist
+		necromancer
+	}
 }

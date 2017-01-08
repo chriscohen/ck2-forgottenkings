@@ -1,5 +1,24 @@
 spriteTypes = {
 	spriteType = {
+		name = "GFX_trait_illusionist"
+		texturefile = "gfx/traits/illusionist.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_necromancer"
+		texturefile = "gfx/traits/necromancer.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
+
+spriteTypes = {
+	spriteType = {
 		name = "GFX_trait_wizard"
 		texturefile = "gfx/traits/wizard.dds"
 		noOfFrames = 1
