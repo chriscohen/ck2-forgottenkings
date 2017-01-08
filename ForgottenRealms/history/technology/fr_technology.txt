@@ -1,0 +1,81 @@
+
+
+technology = {
+	titles = {
+		d_agis
+		d_alamir
+		d_ankaram
+		d_archendale
+		d_battledale
+		d_calim_desert
+		d_callidyrr
+		d_cape_velen
+		d_cormyr
+		d_corwell
+		d_crown_lands
+		d_daerlun
+		d_daggerdale
+		d_deepingdale
+		d_durmista
+		d_eastern_marches
+		d_featherdale
+		d_gnarhelm
+		d_golden_marches
+		d_greenshores
+		d_harrowdale
+		d_high_dale
+		d_icewind_dale
+		d_iltkazar_highlands
+		d_kamlann
+		d_korinn
+		d_mintarn
+		d_mistledale
+		d_moray
+		d_myrloch
+		d_nelanther_isles
+		d_norheim
+		d_norland
+		d_noromath
+		d_old_coramshan
+		d_oman
+		d_ordulin
+		d_purple_dragons
+		d_purple_marches
+		d_saerloon
+		d_scardale
+		d_secomber
+		d_selgaunt
+		d_semberholme
+		d_shadowdale
+		d_skadaurak
+		d_snowdown
+		d_suldolphor
+		d_suretmarch
+		d_tarkhaldale
+		d_tasseldale
+		d_the_stonelands
+		d_the_stormhorns
+		d_tulmon
+		d_twisted_rune
+		d_urmlaspyr
+		d_winterglen
+		d_yeslipek
+	}
+
+	400 = {
+		military = 0
+		economy = 0
+		culture = 0
+	}
+		
+	1599 = {
+		military = 0
+		economy = 0
+		culture = 0
+	}
+}
+
+
+
+
+
