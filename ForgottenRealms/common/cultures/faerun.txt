@@ -570,7 +570,7 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Adris Aiken Alaphondar Albaerin Albryn Alexi Alin Althallan Amanthus Amble Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
+			Adris Aiken Alaphondar Albaerin Albryn Alexi Alin Althallan Amanthus Amble Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubleth Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Baeryn Barad Barandos Bardanther Barrit Beldarm Beliard Belmer Bhereu Bledryn Blundebel Boris Boront Brace Brezm Broglan Buckman
 			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Cole Coobert Corleth
 			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Doust Draguth Drounan Duncan Dunlath Duth
@@ -578,15 +578,15 @@ human = {
 			Falzo Faril Feredagh Filani Finder Flaram Florin Foril Fortney Fraeyer Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Halvundrar Harandil Harglast Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
-			Ildamoor Ilmreth Ilryn Irvel
+			Ilberd Ildamoor Ilmreth Ilryn Irvel
 			Jarlin Jelde Jhaok Jhartos Juarkin Junstal
 			Kae Kallimar Kargerth Keolan Kleef Kortyl Krell Krohn
 			Lamiril Landon Larak Lareth Lhannas Londal Lothan
-			Maerlyn Malaglan Mallik Manarech Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
+			Maerlyn Malaglan Mallik Manarech Maniol Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Prosler Pyramus
-			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
+			Raedlar Raegl Rankin Rastafan Rauligus Rauvor Rauvoril Ravos Reldyk Renstameir Reth Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
 			Tabart Talados Tarmel Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Trenton Tystarn
 			Ulnder Umbarl
@@ -605,14 +605,14 @@ human = {
 			Helindra Holly
 			Icuara Ileeyra Ileira Illistyl Imroserel Islif Iyrytharna
 			Jalalla Jalassra Janet Jasanna Jenmic Jhalass Julia
-			Katriana Klaire
+			Katriana Kimba Klaire
 			Lamala Laspeera Leah Leona Linnese Lorelei
 			Maea Maranth Marantine Margot Maritha Mazey Mela
 			Nalanna Narnytha
 			Ohrmatha Omalra Ormarra Ospra Ossani
 			Pelarra Pella Pheirauze
 			Rhyndaera
-			Saha Sarah Shaerl Shara Shayla Sima Sojourner Solatha Steele Storm Sulaspra Sulesta
+			Saha Sarah Sardyl Shaerl Shara Shayla Sima Sojourner Solatha Steele Storm Sulaspra Sulesta
 			Taeronissa Talantra Tanaeth Tanalasta Taney Tara Tavantra Threena Tisha Tremayne
 			Varauna Veras Vindala
 			Yolara

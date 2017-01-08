@@ -15,12 +15,15 @@
 		employer = 61 # Duar Obarskyr
 	}
 	475.1.1 = { # Disappared
-		death = yes
+		death = {
+			death_reason = death_missing
+		}
 	}
 }
 9201 = {
 	name = Althallan
 	dynasty = 201039
+	father = 9210 # Unnamed (non-canon)
 	
 	religion = catholic
 	culture = cormyrean
@@ -38,6 +41,7 @@
 	name = Alvandira
 	female = yes
 	dynasty = 201039
+	father = 9210 # Unnamed (non-canon)
 	
 	religion = catholic
 	culture = cormyrean
@@ -49,6 +53,160 @@
 		add_spouse = 75 # Pryntaler Obarskyr
 	}
 	1204.1.1 = {
+		death = yes
+	}
+}
+9203 = {
+	name = Kimba
+	female = yes
+	dynasty = 201039
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1318.1.1 = {
+		birth = yes
+	}
+	1395.1.1 = {
+		death = yes
+	}
+}
+9204 = {
+	name = Sardyl
+	female = yes
+	dynasty = 201039
+	mother = 9203 # Kimba (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1354.1.1 = {
+		trait = wizard
+	}
+	1409.1.1 = {
+		death = yes
+	}
+}
+9205 = {
+	name = Embryn
+	dynasty = 201039
+	mother = 9203 # Kimba (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1340.1.1 = {
+		birth = yes
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}
+9206 = {
+	name = Reth
+	dynasty = 201039
+	mother = 9203 # Kimba (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1341.1.1 = {
+		birth = yes
+	}
+	1420.1.1 = {
+		death = yes
+	}
+}
+9207 = {
+	name = Ilberd
+	dynasty = 201039
+	mother = 9203 # Kimba (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1343.1.1 = {
+		birth = yes
+	}
+	1397.1.1 = {
+		death = yes
+	}
+}
+9208 = {
+	name = Maniol
+	dynasty = 201039
+	mother = 9203 # Kimba (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1344.1.1 = {
+		birth = yes
+	}
+	1369.1.1 = {
+		death = {
+			death_reason = death_murder_poison
+		}
+	}
+}
+9209 = {
+	name = Aubleth
+	dynasty = 201039
+	
+	religion = catholic
+	culture = cormyrean
+	
+	989.1.1 = {
+		birth = yes
+	}
+	1066.1.1 = {
+		death = yes
+	}
+}
+9210 = {
+	name = Unnamed # To act as father for the 1100s-era Crownsilvers
+	dynasty = 201039
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1138.1.1 = {
+		birth = yes
+	}
+	1173.1.1 = {
+		death = yes
+	}
+}
+9211 = {
+	name = Juarkin
+	dynasty = 201039
+	father = 9210 # Unnamed (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1160.1.1 = {
+		birth = yes
+	}
+	1205.1.1 = {
+		death = yes
+	}
+}
+9212 = {
+	name = Thessilion
+	dynasty = 201039
+	father = 9210 # Unnamed (non-canon)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1162.1.1 = {
+		birth = yes
+	}
+	1218.1.1 = {
 		death = yes
 	}
 }
