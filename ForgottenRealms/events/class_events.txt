@@ -9,6 +9,154 @@ character_event = {
 	
 	option = {
 		name = EVTOPTA1
+		
+		trigger = {
+			OR = {
+				diplomacy = 7
+				stewardship = 7
+				trait = ambitious
+			}
+		}
+		
+		add_trait = aristocrat
+	}
+	option = {
+		name = EVTOPTB1
+		
+		trigger = {
+			OR = {
+				diplomacy = 5
+				learning = 5
+				trait = gregarious
+			}
+		}
+		
+		add_trait = bard
+	}
+	option = {
+		name = EVTOPTC1
+		
+		trigger = {
+			OR = {
+				trait = zealous
+				trait = erudite
+			}
+		}
+		
+		add_trait = cleric
+	}
+	option = {
+		name = EVTOPTD1
+		
+		trigger = {
+			OR = {
+				learning = 5
+				trait = hunter
+				trait = gardener
+				trait = humble
+			}
+		}
+		
+		add_trait = druid
+	}
+	option = {
+		name = EVTOPTE1
+		
+		trigger = {
+			OR = {
+				martial = 7
+				trait = brave
+				trait = robust
+			}
+		}
+		
+		add_trait = fighter
+	}
+	option = {
+		name = EVTOPTF1
+		
+		trigger = {
+			OR = {
+				trait = zealous
+				trait = erudite
+				learning = 5
+			}
+		}
+		
+		add_trait = monk
+	}
+	option = {
+		name = EVTOPTG1
+		
+		trigger = {
+			OR = {
+				trait = zealous
+				trait = erudite
+				trait = brave
+				AND = {
+					martial = 5
+					learning = 5
+				}
+			}
+		}
+		
+		add_trait = paladin
+	}
+	option = {
+		name = EVTOPTH1
+		
+		trigger = {
+			OR = {
+				trait = gardener
+				trait = hunter
+				AND = {
+					martial = 5
+					intrigue = 5
+				}
+			}
+		}
+		
+		add_trait = ranger
+	}
+	option = {
+		name = EVTOPTI1
+		
+		trigger = {
+			OR = {
+				trait = deceitful
+				trait = cynical
+				trait = paranoid
+				intrigue = 7
+			}
+		}
+		
+		add_trait = rogue
+	}
+	option = {
+		name = EVTOPTJ1
+		
+		trigger = {
+			learning = 5
+			OR = {
+				trait = gregarious
+				trait = diligent
+				trait = patient
+			}
+		}
+		
+		add_trait = sorcerer
+	}
+	option = {
+		name = EVTOPTK1
+		
+		trigger = {
+			OR = {
+				learning = 5
+				trait = patient
+				trait = diligent
+			}
+		}
+		
 		add_trait = wizard
 	}
 }

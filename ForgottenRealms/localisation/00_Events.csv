@@ -1,3 +1,13 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCforgottenrealms.1;Sample event.;;;;;;;;;;;;;x
-EVTOPTA1;Sample.;;;;;;;;;;;;;x
+EVTDESCforgottenrealms.1;Now you have reached adulthood, it is time to choose your class. From fighter to wizard, there is a class for everyone, and it will steer your course into your older years.;;;;;;;;;;;;;x
+EVTOPTA1;I want to be an aristocrat;;;;;;;;;;;;;x
+EVTOPTB1;I want to be a bard;;;;;;;;;;;;;x
+EVTOPTC1;I want to be a cleric;;;;;;;;;;;;;x
+EVTOPTD1;I want to be a druid;;;;;;;;;;;;;x
+EVTOPTE1;I want to be a fighter;;;;;;;;;;;;;x
+EVTOPTF1;I want to be a monk;;;;;;;;;;;;;x
+EVTOPTG1;I want to be a paladin;;;;;;;;;;;;;x
+EVTOPTH1;I want to be a ranger;;;;;;;;;;;;;x
+EVTOPTI1;I want to be a rogue;;;;;;;;;;;;;x
+EVTOPTJ1;I want to be a sorcerer;;;;;;;;;;;;;x
+EVTOPTK1;I want to be a wizard;;;;;;;;;;;;;x

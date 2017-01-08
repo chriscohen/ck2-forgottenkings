@@ -10,7 +10,7 @@ bard = {
 	
 	diplomacy = 3
 	learning = 3
-	martial = -6
+	martial = -5
 }
 cleric = {
 	random = no
