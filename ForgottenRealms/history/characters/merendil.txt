@@ -1,0 +1,19 @@
+# MERENDIL
+# Range 22000-22099
+
+22000 = {
+	name = Ilryn
+	dynasty = 201069
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1372.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

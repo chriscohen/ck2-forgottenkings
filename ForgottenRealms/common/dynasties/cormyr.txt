@@ -868,3 +868,27 @@
         }
     }
 }
+201069 = {
+	name = Merendil
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 2
+        layer = {
+            texture = 1
+            texture_internal = 1
+            emblem = 0
+            color = 1
+            color = 6
+            color = 0
+        }
+        layer = {
+            texture = 1
+            texture_internal = 6
+            emblem = 0
+            color = 1
+            color = 6
+            color = 0
+        }
+    }
+}

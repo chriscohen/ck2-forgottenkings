@@ -578,7 +578,7 @@ human = {
 			Falzo Faril Filani Finder Flaram Florin Foril Fortney Fraeyer Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
 			Hadley Haerldoun Haldos Halston Halvundrar Harandil Harglast Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
-			Ildamoor Ilmreth Irvel
+			Ildamoor Ilmreth Ilryn Irvel
 			Jarlin Jelde Jhaok Jhartos Juarkin Junstal
 			Kae Kallimar Kargerth Keolan Kleef Kortyl Krell Krohn
 			Lamiril Landon Larak Lareth Londal Lothan
@@ -604,7 +604,7 @@ human = {
 			Gaylyn Ghaunyl Glathra Gorloun
 			Helindra Holly
 			Icuara Ileeyra Ileira Illistyl Imroserel Islif Iyrytharna
-			Jalalla Jalassra Janet Jasanna Jenmic Julia
+			Jalalla Jalassra Janet Jasanna Jenmic Jhalass Julia
 			Katriana Klaire
 			Lamala Laspeera Leah Leona Linnese Lorelei
 			Maea Maranth Marantine Margot Maritha Mazey Mela
