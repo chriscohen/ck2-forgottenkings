@@ -613,7 +613,7 @@ human = {
 			Pelarra Pella Pheirauze
 			Rhyndaera Roatha
 			Saha Sarah Sardyl Shaerl Shara Shayla Sima Sojourner Solatha Steele Storm Sulaspra Sulesta
-			Taeronissa Talantra Tanaeth Tanalasta Taney Tara Tavantra Threena Tisha Tremayne
+			Taeronissa Talantra Tanaeth Tanalasta Taney Tara Tavantra Tessaril Threena Tisha Tremayne
 			Varauna Veras Vindala
 			Yolara
 			Zara Zarova

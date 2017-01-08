@@ -4,6 +4,7 @@
 9100 = {
 	name = Unnamed
 	dynasty = 201038
+	father = 9102 # Unnamed
 	
 	religion = catholic
 	culture = cormyrean
@@ -25,6 +26,7 @@
 	name = Pella
 	female = yes
 	dynasty = 201038
+	father = 9102 # Unnamed
 	
 	religion = catholic
 	culture = cormyrean
@@ -37,5 +39,19 @@
 			death_reason = death_murder
 			killer = 1301 # Amedahast
 		}
+	}
+}
+9102 = {
+	name = Unnamed # Acts as father to Pella and Unnamed 9100
+	dynasty = 201038
+	
+	religion = catholic
+	culture = cormyrean
+	
+	380.1.1 = {
+		birth = yes
+	}
+	416.1.1 = {
+		death = yes
 	}
 }

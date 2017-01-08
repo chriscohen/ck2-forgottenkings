@@ -55,3 +55,32 @@
 		death = yes
 	}
 }
+9703 = {
+	name = Tessaril
+	female = yes
+	dynasty = 201044
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
+9704 = {
+	name = Unnamed # Father to Lamala and Tessaril
+	dynasty = 201044
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1294.1.1 = {
+		birth = yes
+	}
+	1331.1.1 = {
+		death = yes
+	}
+}

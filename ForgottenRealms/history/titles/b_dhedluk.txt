@@ -1,5 +1,17 @@
+396.1.1 = {
+	liege = c_kings_forest
+	holder = 9102 # Unnamed Dheolur
+}
+416.1.1 = {
+	holder = 9100 # Unnamed Dheolur
+}
+432.1.1 = {
+	holder = 0
+}
+1341.1.1 = {
+	holder = 900111 # Thiombur
+}
 1438.1.1 = {
 	# Dungeon 198 p.9
-	liege = "c_kings_forest"
 	holder = 4800 # Solatha Boldtree
 }

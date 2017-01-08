@@ -1929,3 +1929,86 @@
 		death = yes
 	}
 }
+900111 = {
+	name = Thiombur
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1325.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		effect = {
+			add_lover = 900112 # Aradaera Tinshar
+		}
+	}
+	1438.1.1 = {
+		death = yes
+	}
+}
+900112 = {
+	# TSR9486 Volo's Guide to Cormyr p.138
+	name = "Aradaera Tinshar"
+	female = yes
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1318.1.1 = {
+		birth = yes
+	}
+	1334.1.1 = {
+		trait = wizard
+		employer = 9203 # Kimba Crownsilver / c_kings_forest
+	}
+	1338.1.1 = {
+		give_nickname = nick_ravensong
+	}
+	1345.1.1 = {
+		effect = {
+			add_lover = 900111 # Thiombur
+		}
+	}
+	1352.1.1 = {
+		death = yes
+	}
+}
+900113 = {
+	name = Hezom
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1311.1.1 = {
+		birth = yes
+	}
+	1403.1.1 = {
+		death = yes
+	}
+}
+900114 = {
+	name = Quiral
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		employer = 8701 # Bhereu Ammaeth / c_the_stormhorns
+	}
+	1319.1.1 = {
+		give_nickname = nick_o_the_blades
+	}
+	1369.1.1 = {
+		employer = 81 # Azoun IV Obarskyr / c_the_stormhorns
+	}
+	1371.10.1 = {
+		employer = 84 # Azoun V Obarskyr / c_the_stormhorns
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}

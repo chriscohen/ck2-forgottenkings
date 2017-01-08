@@ -526,6 +526,7 @@ k_cormyr = {
 				any_demesne_province = { OR = {
 					province_id = 13
 					province_id = 19
+					province_id = 186
 				} }
 			}
 		}
@@ -551,6 +552,8 @@ k_cormyr = {
 			color2={ 255 255 255 }
 			
 			b_eveningstar = {
+				title = TITLE_LORD
+				title_female = TITLE_LADY
 			}
 			b_tyrluk = {
 			}

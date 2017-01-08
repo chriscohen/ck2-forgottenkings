@@ -1,0 +1,34 @@
+1.1.1 = {
+	liege = d_the_stonelands
+}
+1142.1.1 = {
+	holder = 1200 # Enchara of Esparin
+}
+# Becomes part of Cormyr at this point
+1164.1.1 = {
+	holder = 74 # Palaghard I
+}
+1187.1.1 = {
+	holder = 75 # Pryntaler
+}
+1210.1.1 = {
+	holder = 76 # Dhalmass
+}
+1227.7.1 = {
+	holder = 77 # Palaghard II
+}
+1261.1.1 = {
+	holder = 78 # Azoun III
+}
+1275.1.1 = {
+	holder = 80 # Rhigaerd II
+}
+1335.1.1 = {
+	holder = 81 # Azoun IV
+}
+1371.10.1 = {
+	holder = 84 # Azoun V
+}
+1449.1.1 = {
+	holder = 87 # Foril I
+}

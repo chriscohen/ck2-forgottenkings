@@ -12,4 +12,8 @@ b_gwarch = tribal
 culture = cormyrean
 religion = catholic
 
-#History
+# History
+1164.1.1 = {
+	# Turn b_gwarch into a castle when Cormyr begins its rule
+	b_gwarch = castle
+}
