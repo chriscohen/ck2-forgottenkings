@@ -2024,7 +2024,7 @@
 	}
 	1155.1.1 = {
 		death = {
-			death_battle
+			death_reason = death_battle
 			killer = 1200 # Enchara of Esparin
 		}
 	}
