@@ -114,8 +114,13 @@
 	religion = catholic
 	culture = cormyrean
 	
+	trait = fair
+	
 	1321.1.1 = {
 		birth = yes
+	}
+	1337.1.1 = {
+		add_spouse = 10801 # Maestoon Huntsilver
 	}
 	1400.1.1 = {
 		death = yes

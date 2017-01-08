@@ -201,7 +201,10 @@
 1164.1.1 = {
 	holder = 74 # Palaghard I
 }
-1187.1.1 = {
+1178.1.1 = {
+	holder = 10800 # Chanthar Huntsilver
+}
+1203.1.1 = {
 	holder = 75 # Pryntaler
 }
 1210.1.1 = {
@@ -220,9 +223,15 @@
 	holder = 80 # Rhigaerd II
 }
 1335.1.1 = {
-	holder = 81 # Azoun IV
+	holder = 10801 # Maestoon Huntsilver
 }
-1371.10.1 = {
+1389.1.1 = {
+	holder = 10804 # Hundilavatar Huntsilver
+}
+1409.1.1 = {
+	holder = 10805 # Jostlyn Huntsilver
+}
+1422.1.1 = {
 	holder = 84 # Azoun V
 }
 1449.1.1 = {

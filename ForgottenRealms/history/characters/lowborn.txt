@@ -1669,22 +1669,20 @@
 	}
 }
 900097 = {
-	name = Jhalass
+	name = "Roatha Ildraen"
 	female = yes
 	
 	religion = catholic
 	culture = cormyrean
 	
-	1190.1.1 = {
+	999.1.1 = {
 		birth = yes
 	}
-	1206.1.1 = {
-		add_spouse = 76 # Dhalmass Obarskyr
+	1015.1.1 = {
+		add_spouse = 10807 # Lareth Huntsilver
 	}
-	1227.7.1 = {
-		death = {
-			death_reason = death_murder_unknown
-		}
+	1049.1.1 = {
+		death = yes
 	}
 }
 900098 = {

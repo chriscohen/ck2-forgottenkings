@@ -572,17 +572,17 @@ human = {
 		male_names = {
 			Adris Aiken Alaphondar Albaerin Albryn Alexi Alin Althallan Amanthus Amble Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubleth Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Baeryn Barad Barandos Bardanther Barrit Beldarm Beliard Belmer Bhereu Bledryn Blundebel Boris Boront Brace Brezm Broglan Buckman
-			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Cole Coobert Corleth
+			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Cole Coobert Cordryn Corleth
 			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Doust Draguth Drounan Duncan Dunlath Duth
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Ensrin Erdreth Eregar Ergluth Estelner
 			Falzo Faril Feredagh Filani Finder Flaram Florin Foril Fortney Fraeyer Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
-			Hadley Haerldoun Haldos Halston Halvundrar Harandil Harglast Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
+			Hadley Haerldoun Halartan Haldos Halston Halvundrar Harandil Harglast Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
 			Ilberd Ildamoor Ilmreth Ilryn Irvel
 			Jarlin Jelde Jhaok Jhartos Juarkin Junstal
 			Kae Kallimar Kargerth Keolan Kleef Kortyl Krell Krohn
 			Lamiril Landon Larak Lareth Lhannas Londal Lothan
-			Maerlyn Malaglan Mallik Manarech Maniol Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
+			Maerlyn Maestoon Malaglan Mallik Manarech Maniol Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Oric Ordmann Orm Ormion Orngrym Ortwin
 			Paramyr Paton Piper Prosler Pyramus
@@ -611,7 +611,7 @@ human = {
 			Nalanna Narnytha
 			Ohrmatha Omalra Ormarra Ospra Ossani
 			Pelarra Pella Pheirauze
-			Rhyndaera
+			Rhyndaera Roatha
 			Saha Sarah Sardyl Shaerl Shara Shayla Sima Sojourner Solatha Steele Storm Sulaspra Sulesta
 			Taeronissa Talantra Tanaeth Tanalasta Taney Tara Tavantra Threena Tisha Tremayne
 			Varauna Veras Vindala
