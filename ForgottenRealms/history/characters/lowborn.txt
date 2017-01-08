@@ -2046,3 +2046,62 @@
 		death = yes
 	}
 }
+900117 = {
+	# TSR9486 Volo's Guide to Cormyr p.163
+	name = "Draguth Endroun"
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1304.1.1 = {
+		birth = yes
+	}
+	1320.1.1 = {
+		employer = 80 # Rhigaerd II / c_kings_forest
+	}
+	1334.1.1 = {
+		employer = 9203 # Kimba Crownsilver / c_kings_forest
+	}
+	1394.1.1 = {
+		death = yes
+	}
+}
+900118 = {
+	# TSR9486 Volo's Guide to Cormyr p.163
+	name = Chanthalas
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = bard
+		employer = 9203 # Kimba Crownsilver / c_kings_forest
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
+900119 = {
+	name = Cauldigurn
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1278.1.1 = {
+		birth = yes
+	}
+	1294.1.1 = {
+		trait = war_wizard
+		give_nickname = nick_the_black
+		employer = 80 # Rhigaerd II Obarskyr / c_kings_forest
+	}
+	1334.1.1 = {
+		employer = 9203 # Kimba Crownsilver / c_kings_forest
+	}
+	1348.1.1 = {
+		death = yes
+	}
+}
