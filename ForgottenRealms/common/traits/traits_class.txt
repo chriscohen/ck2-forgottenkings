@@ -25,7 +25,7 @@ necromancer = {
 sorcerer = {
 	random = no
 	
-	learing = 2
+	learning = 2
 	martial = -2
 	
 	opposites = {
