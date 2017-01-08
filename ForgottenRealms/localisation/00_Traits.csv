@@ -1,6 +1,14 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+aristocrat;Aristocrat;;;;;;;;;;;;;x
+aristocrat_desc;A member of the bureaucracy who is skilled at governance and stewardship;;;;;;;;;;;;;x
 bard;Bard;;;;;;;;;;;;;x
 bard_desc;A versatile arcane spellcaster and master of music, poetry, or storytelling;;;;;;;;;;;;;x
+cleric;Cleric;;;;;;;;;;;;;x
+cleric_desc;A devout priest who is skilled in combat as well as divine magic;;;;;;;;;;;;;x
+druid;Druid;;;;;;;;;;;;;x
+druid_desc;At one with nature and the divine magic of the wilderness;;;;;;;;;;;;;x
+fighter;Fighter;;;;;;;;;;;;;x
+fighter_desc;Highly trained in combat, weaponry, armor, and military tactics;;;;;;;;;;;;;x
 ghazneth;Ghazneth;;;;;;;;;;;;;x
 ghazneth_desc;This character has become a Ghazneth, a fell demon who betrayed Cormyr;;;;;;;;;;;;;x
 harper;Harper;;;;;;;;;;;;;x
@@ -9,12 +17,20 @@ illusionist;Illusionist;;;;;;;;;;;;;x
 illusionist_desc;A practitioner of the magical school of false imagery;;;;;;;;;;;;;x
 lich;Lich;;;;;;;;;;;;;x
 lich_desc;A powerful undead spellcaster often assuming undead form in order to live forever;;;;;;;;;;;;;x
+monk;Monk;;;;;;;;;;;;;x
+monk_desc;A devout religious and spiritual practitioner;;;;;;;;;;;;;x
 mummy;Mummy;;;;;;;;;;;;;x
 mummy_desc;An undead creature created from a preserved corpse;;;;;;;;;;;;;x
 necromancer;Necromancer;;;;;;;;;;;;;x
 necromancer_desc;A practitioner of the magical school of death, unlife and life force;;;;;;;;;;;;;x
+paladin;Paladin;;;;;;;;;;;;;x
+paladin_desc;A skilled warrior devoted to religion and the divine magic therein;;;;;;;;;;;;;x
 purple_dragon;Purple Dragon;;;;;;;;;;;;;x
 purple_dragon_desc;A member of the prestigious military order of Purple Dragons in Cormyr;;;;;;;;;;;;;x
+ranger;Ranger;;;;;;;;;;;;;x
+ranger_desc;Skilled in the wilderness and deeply learned of its occupants, both flora and fauna;;;;;;;;;;;;;x
+rogue;Rogue;;;;;;;;;;;;;x
+rogue_desc;Skilled in underhand tactics, espionage and intrigue;;;;;;;;;;;;;x
 shade;Shade;;;;;;;;;;;;;x
 shade_desc;A being who has merged with the essence of shadowstuff;;;;;;;;;;;;;x
 sorcerer;Sorcerer;;;;;;;;;;;;;x
