@@ -1638,7 +1638,7 @@
 	name = Amarsa
 	female = yes
 	
-	religon = catholic
+	religion = catholic
 	culture = cormyrean
 	
 	1321.1.1 = {

@@ -58,7 +58,7 @@
 	name = Albaerin
 	dynasty = 201068
 	father = 21901 # Alexi (non-canon)
-	mother = 900094 Unnamed
+	mother = 900094 # Unnamed
 	
 	religion = catholic
 	culture = cormyrean
