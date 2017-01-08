@@ -207,9 +207,17 @@
 	holder = 79 # Salember
 }
 1286.1.1 = {
+	# Granted dukedom by Rhigaerd II
+	holder = 22400 # Adris Hornshield
+}
+1301.1.1 = {
 	holder = 80 # Rhigaerd II
 }
-1335.1.1 = {
+1315.1.1 = {
+	holder = 8701 # Bhereu Ammaeth
+}
+1369.1.1 = {
+	# Death of Bhereu
 	holder = 81 # Azoun IV
 }
 1371.10.1 = {
