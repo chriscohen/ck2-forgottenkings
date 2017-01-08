@@ -1554,7 +1554,7 @@
 		birth = yes
 	}
 	1334.1.1 = {
-		trait = ill
+		trait = infirm
 	}
 	1334.11.11 = {
 		death = {
