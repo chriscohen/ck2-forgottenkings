@@ -940,3 +940,19 @@
         }
     }
 }
+201073 = {
+	name = Hornshield
+	culture = cormyrean
+	
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 4
+            emblem = 5
+            color = 7
+            color = 6
+            color = 1
+        }
+    }
+}

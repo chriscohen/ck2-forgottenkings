@@ -14,3 +14,10 @@ culture = cormyrean
 religion = catholic
 
 #History
+1176.1.1 = {
+	# Bring b_stagsteads into existence and give it to Goldfeather
+	b_stagsteads = castle
+}
+1191.1.1 = {
+	b_stagsteads = 0
+}

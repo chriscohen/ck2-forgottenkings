@@ -1,0 +1,17 @@
+# HORNSHIELD
+# Range 22400-22499
+
+22400 = {
+	name = Adris # (non-canon name)
+	dynasty = 201073
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1228.1.1 = {
+		birth = yes
+	}
+	1301.1.1 = {
+		death = yes
+	}
+}

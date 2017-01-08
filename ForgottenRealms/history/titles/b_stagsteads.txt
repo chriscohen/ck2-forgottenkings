@@ -1,0 +1,7 @@
+1176.1.1 = {
+	liege = c_kings_forest
+	holder = 5006 # Unnamed head of Goldfeather, later executed
+}
+1191.1.1 = {
+	holder = 0
+}

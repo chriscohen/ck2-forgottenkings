@@ -537,6 +537,8 @@ k_cormyr = {
 			}
 			b_valkurs_roar = {
 			}
+			b_hornshield_keep = {
+			}
 		}
 		c_eastern_stormhorns = { # 19
 			color={ 248 97 97 }

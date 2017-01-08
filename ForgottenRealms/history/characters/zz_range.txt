@@ -214,5 +214,6 @@
 # 22100  - 22199    Stormbillow
 # 22200  - 22299    Chalanther
 # 22300  - 22399    Dreen
+# 22400  - 22499    Hornshield
 #
 # 900000 - 999999 Lowborn

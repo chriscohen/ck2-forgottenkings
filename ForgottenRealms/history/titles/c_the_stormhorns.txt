@@ -207,6 +207,10 @@
 	holder = 79 # Salember
 }
 1286.1.1 = {
+	# Granted dukedom by Rhigaerd II
+	holder = 22400 # Adris Hornshield
+}
+1301.1.1 = {
 	holder = 80 # Rhigaerd II
 }
 1335.1.1 = {
