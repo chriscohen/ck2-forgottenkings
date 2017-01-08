@@ -22,5 +22,5 @@ religion = catholic
 1301.1.1 = {
 	# Move capital back
 	capital = b_high_horn
-	b_hornshield_keep = 0
+	remove_settlement = b_hornshield_keep
 }
