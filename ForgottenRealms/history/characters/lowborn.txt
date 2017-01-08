@@ -2029,3 +2029,20 @@
 		}
 	}
 }
+900116 = {
+	# TSR9486 Volo's Guide to Cormyr p.163
+	name = Baerelus
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1291.1.1 = {
+		birth = yes
+	}
+	1311.1.1 = {
+		give_nickname = nick_the_bold
+	}
+	1383.1.1 = {
+		death = yes
+	}
+}

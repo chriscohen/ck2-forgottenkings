@@ -25,3 +25,7 @@ religion = catholic
 1191.1.1 = {
 	remove_settlement = b_stagsteads
 }
+1307.1.1 = {
+	# Add b_knightswood and give to Baerelus the Bold
+	b_knightswood = temple
+}

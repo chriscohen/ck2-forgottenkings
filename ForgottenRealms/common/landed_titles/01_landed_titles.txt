@@ -373,6 +373,8 @@ k_cormyr = {
 				title = TITLE_LORD
 				title_female = TITLE_LADY
 			}
+			b_jesters_green = {
+			}
 		}
 		c_kings_forest = { # 16
 			color={ 220 44 44 }

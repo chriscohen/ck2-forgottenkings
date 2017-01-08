@@ -1,0 +1,7 @@
+1307.1.1 = {
+	liege = c_kings_forest
+	holder = 900116 # Baerelus the Bold
+}
+1383.1.1 = {
+	holder = 0
+}
