@@ -32,7 +32,9 @@
 	}
 	1375.1.1 = {
 		# Dungeon 198 p.3
-		add_lover = 4700 # Filfaeril Selzair
+		effect = {
+			add_lover = 4700 # Filfaeril Selzair
+		}
 	}
 	1405.1.1 = { # Estimate
 		death = yes

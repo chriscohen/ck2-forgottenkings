@@ -16,7 +16,9 @@
 	}
 	1375.1.1 = {
 		# Dungeon 198 p.3
-		add_lover = 21800 # Alaphondar, Sage Royal
+		effect = {
+			add_lover = 21800 # Alaphondar, Sage Royal
+		}
 	}
 	1390.1.1 = {
 		death = yes
