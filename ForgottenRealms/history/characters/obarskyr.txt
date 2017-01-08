@@ -986,6 +986,9 @@
 	341.1.1 = {
 		birth = yes
 	}
+	357.1.1 = {
+		add_spouse = 900099 # Eleriel
+	}
 	391.1.1 = {
 		death = yes
 	}
@@ -994,6 +997,7 @@
 	name = Azoun # Azoun I
 	dynasty = 201000
 	father = 59 # Anglond
+	mother = 900099 # Eleriel
 	
 	religion = catholic
 	culture = cormyrean
@@ -1303,6 +1307,9 @@
 	1214.1.1 = {
 		birth = yes
 	}
+	1230.1.1 = {
+		add_spouse = 22500 # Alendue Wyrvar
+	}
 	1261.1.1 = {
 		death = yes
 	}
@@ -1311,12 +1318,16 @@
 	name = Azoun # Azoun III
 	dynasty = 201000
 	father = 77 # Palaghard II
+	mother = 22500 # Alendue Wyrvar
 	
 	religion = catholic
 	culture = cormyrean
 	
 	1241.1.1 = {
 		birth = yes
+	}
+	1257.1.1 = {
+		add_spouse = 22600 # Sulesta Halabarr
 	}
 	1275.1.1 = {
 		death = yes
@@ -1326,6 +1337,7 @@
 	name = Salember
 	dynasty = 201000
 	father = 77 # Palaghard II
+	mother = 900097 # Jhalass
 	
 	religion = catholic
 	culture = cormyrean
@@ -1333,7 +1345,10 @@
 	1246.1.1 = {
 		birth = yes
 	}
-	1275.1.1 = {
+	1275.1.2 = {
+		# Becomes regent for Rhigaerd II
+		employer = 80 # Rhigaerd II
+		effect = { give_minor_title = title_regent }
 		give_nickname = nick_the_rebel_prince
 	}
 	1286.1.1 = {
@@ -1347,6 +1362,7 @@
 	name = Rhigaerd # Rhigaerd II
 	dynasty = 201000
 	father = 78 # Azoun III
+	mother = 22600 # Sulesta Halabarr
 	
 	religion = catholic
 	culture = cormyrean
@@ -1475,13 +1491,13 @@
 	religion = catholic
 	culture = cormyrean
 	
-	1309.1.1 = { # Estimate, 2 years younger than brother Azoun IV
+	1302.1.1 = { # Estimate, 2 years younger than brother Azoun IV
 		birth = yes
 	}
 	1325.1.1 = {
 		add_spouse = 3401 # Unnamed Lhal
 	}
-	1480.1.1 = { # Estimate
+	1331.1.1 = { # Estimate
 		death = yes
 	}
 }
@@ -1534,13 +1550,13 @@
 	religion = catholic
 	culture = cormyrean
 	
-	1332.1.1 = {
+	1332.5.1 = {
 		birth = yes
 	}
 	1334.1.1 = {
 		trait = ill
 	}
-	1334.1.11 = {
+	1334.11.11 = {
 		death = {
 			death_reason = death_trait
 		}
@@ -1668,5 +1684,120 @@
 		death = {
 			death_reason = death_battle
 		}
+	}
+}
+96 = {
+	name = Feredagh # Brother of Andilber
+	dynasty = 201000
+	mother = 54 # Arathra
+	
+	religion = catholic
+	culture = cormyrean
+	
+	342.1.1 = {
+		birth = yes
+	}
+	388.1.1 = {
+		death = yes
+	}
+}
+97 = {
+	name = Unnamed # Unnamed brother of Palaghard, so Pryntaler can have cousin
+	dynasty = 201000
+	father = 73 # Baerovus
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1128.1.1 = {
+		birth = yes
+	}
+	1186.1.1 = {
+		death = yes
+	}
+}
+98 = {
+	name = Amble
+	dynasty = 201000
+	father = 74 # Palaghard I
+	mother = 1200 # Enchara of Esparin
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1166.1.1 = {
+		birth = yes
+	}
+	1205.1.1 = {
+		death = yes
+	}
+}
+99 = {
+	name = Prosler # Elder brother of Palaghard II
+	dynasty = 201000
+	father = 76 # Dhalmass
+	mother = 900097 # Jhalass
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1213.1.1 = {
+		birth = yes
+	}
+	1222.1.1 = {
+		death = yes
+	}
+}
+100 = {
+	name = Ellira # Sister of Palaghard II
+	female = yes
+	dynasty = 201000
+	father = 76 # Dhalmass
+	mother = 900097 # Jhalass
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1218.1.1 = {
+		birth = yes
+	}
+	1245.1.1 = {
+		death = yes
+	}
+}
+101 = {
+	name = Pelarra # Sister of Palaghard II
+	female = yes
+	dynasty = 201000
+	father = 76 # Dhalmass
+	mother = 900097 # Jhalass
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1220.1.1 = {
+		birth = yes
+	}
+	1236.1.1 = {
+		add_spouse = 8703 # Myrton Ammaeth
+	}
+	1280.1.1 = {
+		death = yes
+	}
+}
+102 = {
+	name = Lhannas
+	dynasty = 201000
+	father = 77 # Palaghard II
+	mother = 22500 # Alendue Wyrvar
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1236.1.1 = {
+		birth = yes
+	}
+	1258.1.1 = {
+		death = yes
 	}
 }

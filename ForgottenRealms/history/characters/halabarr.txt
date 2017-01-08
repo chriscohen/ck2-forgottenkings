@@ -1,0 +1,21 @@
+# HALABARR
+# Range 22600-22699
+
+22600 = {
+	name = Sulesta
+	female = yes
+	dynasty = 201075
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1241.1.1 = {
+		birth = yes
+	}
+	1257.1.1 = {
+		add_spouse = 78 # Azoun III
+	}
+	1274.1.1 = {
+		death = yes
+	}
+}

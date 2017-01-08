@@ -203,9 +203,6 @@
 	holder = 78 # Azoun III
 }
 1275.1.1 = {
-	holder = 79 # Salember
-}
-1286.1.1 = {
 	holder = 80 # Rhigaerd II
 }
 1335.1.1 = {

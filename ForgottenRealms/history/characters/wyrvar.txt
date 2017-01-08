@@ -1,0 +1,21 @@
+# WYRVAR
+# Range 22500-22599
+
+22500 = {
+	name = Alendue
+	female = yes
+	dynasty = 201074
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1214.1.1 = {
+		birth = yes
+	}
+	1230.1.1 = {
+		add_spouse = 77 # Palaghard II Obarskyr
+	}
+	1260.1.1 = {
+		death = yes
+	}
+}

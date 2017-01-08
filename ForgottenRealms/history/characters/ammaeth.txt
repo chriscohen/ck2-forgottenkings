@@ -42,6 +42,8 @@
 8702 = {
 	name = Elduss
 	dynasty = 201036
+	father = 8704 # Gaspar Ammaeth
+	mother = 22700 # Sulaspra Delzud
 	
 	religion = catholic
 	culture = cormyrean
@@ -53,6 +55,42 @@
 		add_spouse = 8401 # Tanaeth Rowanmantle
 	}
 	1319.1.1 = { # Estimate
+		death = yes
+	}
+}
+8703 = {
+	name = Myrton
+	dynasty = 201036
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1218.1.1 = {
+		birth = yes
+	}
+	1236.1.1 = {
+		add_spouse = 101 # Pelarra Obarskyr
+	}
+	1270.1.1 = {
+		death = yes
+	}
+}
+8704 = {
+	name = Gaspar
+	dynasty = 201000
+	father = 8703 # Myrton Ammaeth
+	mother = 101 # Pelarra
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1239.1.1 = {
+		birth = yes
+	}
+	1264.1.1 = {
+		add_spouse = 22700 # Sulaspra Delzud
+	}
+	1277.1.1 = {
 		death = yes
 	}
 }

@@ -1,0 +1,21 @@
+# DELZUD
+# Range 22700-22799
+
+22700 = {
+	name = Sulaspra
+	female = yes
+	dynasty = 201076
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1248.1.1 = {
+		birth = yes
+	}
+	1264.1.1 = {
+		add_spouse = 8704 # Gaspar Ammaeth
+	}
+	1298.1.1 = {
+		death = yes
+	}
+}
