@@ -298,7 +298,11 @@
 		give_nickname = nick_the_mad
 	}
 	242.1.1 = { # Source states 246 but can't be if Iltharl reigned 242-245
-		death = yes
+		death = {
+			# TSR9486 Volo's Guide to Cormyr p.20
+			# Died while stabbing a consort, who pulled him off a parapet
+			death_reason = death_accident_fall
+		}
 	}
 }
 18 = {
