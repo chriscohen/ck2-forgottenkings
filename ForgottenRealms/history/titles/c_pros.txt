@@ -1,0 +1,7 @@
+1325.1.1 = {
+	liege = d_elversult
+	holder = 900122 # Yanseldara
+}
+1298.1.1 = {
+	holder = 0
+}

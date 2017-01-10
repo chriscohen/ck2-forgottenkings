@@ -2206,6 +2206,39 @@ d_deepingdale = {
 		}
 	}
 }
+d_elversult = {
+	color = { 18 88 103 }
+	color2 = { 255 255 255 }
+	
+	capital = 190 # Elversult
+	culture = chondathan
+	
+	allow = {
+		is_republic = yes
+	}
+	
+	c_elversult = {
+		color = { 18 88 103 }
+		color2 = { 255 255 255 }
+		
+		b_elversult = {
+		}
+	}
+	c_pros = {
+		color = { 112 215 237 }
+		color2 = { 255 255 255 }
+		
+		b_pros = {
+		}
+	}
+	c_ilipur = {
+		color = { 46 167 193 }
+		color2 = { 255 255 255 }
+		
+		b_ilipur = {
+		}
+	}
+}
 d_featherdale = {
 	color = { 29 68 121 }
 	color2 = { 255 255 255 }
@@ -2408,6 +2441,55 @@ d_nelanther_isles = {
 		color2 = { 255 255 255 }
 		
 		b_carcathen = {
+		}
+	}
+}
+d_priapurl = {
+	color = { 7 194 234 }
+	color2 = { 255 255 255 }
+	
+	capital = 191 # Priapurl
+	culture = chondathan
+	
+	title = TITLE_TAR
+	title_female = TITLE_TAR
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 191
+			}
+		}
+	}
+	
+	c_priapurl = {
+		color = { 7 194 234 }
+		color2 = { 255 255 255 }
+		
+		title = TITLE_TAR
+		title_female = TITLE_TAR
+		
+		b_priapurl = {
+		}
+	}
+}
+d_proskur = {
+	color = { 12 107 127 }
+	color2 = { 255 255 255 }
+	
+	capital = 187 # Proskur
+	culture = chondathan
+	
+	allow = {
+		is_republic = yes
+	}
+	
+	c_proskur = {
+		color = { 12 107 127 }
+		color2 = { 255 255 255 }
+		
+		b_proskur = {
 		}
 	}
 }
@@ -2691,6 +2773,82 @@ d_yeslipek = {
 }
 
 # MERCENARY COMPANIES
+
+d_maces_of_elversult = {
+	color = { 79 119 128 }
+	color2 = { 255 255 255 }
+	
+	capital = 190 # Elversult
+	
+	allow = {
+		culture = chondathan
+	}
+	
+	religion = catholic
+	culture = chondathan
+	
+	mercenary = yes
+	
+	landless = yes
+	primary = yes
+	independent = yes
+	
+	strength_growth_per_century = 0.08
+	
+	mercenary_type = maces_of_elversult_composition
+}
+d_mindulgulph = {
+	color = { 175 19 122 }
+	color2 = { 255 255 255 }
+	
+	capital = 191 # Priapurl
+	
+	allow = {
+		culture = chondathan
+	}
+	
+	religion = catholic
+	culture = chondathan
+	
+	mercenary = yes
+	
+	title = TITLE_LORD
+	title_female = TITLE_LADY
+	
+	landless = yes
+	primary = yes
+	independent = yes
+	
+	strength_growth_per_century = 0.1
+	
+	mercenary_type = mindulgulph_composition
+}
+d_purple_dragons = {
+	color = { 137 22 234 }
+	color2 = { 255 255 255 }
+	
+	capital = 17 # Suzail
+	
+	allow = {
+		culture = cormyrean
+	}
+	
+	religion = catholic
+	culture = cormyrean
+	
+	mercenary = yes
+	
+	title = TITLE_LORD_HIGH_MARSHALL
+	title_female = TITLE_LADY_HIGH_MARSHALL
+	
+	landless = yes
+	primary = yes
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	
+	mercenary_type = purple_dragons_composition
+}
 d_twisted_rune = {
 	color = { 145 15 15 }
 	color2 = { 255 255 255 }
@@ -2716,32 +2874,6 @@ d_twisted_rune = {
 	strength_growth_per_century = 1.0
 	
 	mercenary_type = twisted_rune_composition
-}
-d_purple_dragons = {
-	color = { 137 22 234 }
-	color2 = { 255 255 255 }
-	
-	capital = 17 # Suzail
-	
-	allow = {
-		culture = cormyrean
-	}
-	
-	religion = sunni
-	culture = calishite
-	
-	mercenary = yes
-	
-	title = TITLE_LORD_HIGH_MARSHALL
-	title_female = TITLE_LADY_HIGH_MARSHALL
-	
-	landless = yes
-	primary = yes
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = purple_dragons_composition
 }
 
 # EMPIRES

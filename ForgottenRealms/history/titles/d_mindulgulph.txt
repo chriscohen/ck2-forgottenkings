@@ -1,0 +1,6 @@
+1338.1.1 = {
+	holder = 24600 # Gayrlana Bloodsword
+}
+1405.1.1 = {
+	holder = 0
+}

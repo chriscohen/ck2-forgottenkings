@@ -1,0 +1,31 @@
+# CHONDATH
+# Range 217000-217999
+
+217000 = {
+	name = Hurara
+	culture = chondathan
+}
+217001 = {
+	name = Hawklyn
+	culture = chondathan
+}
+217002 = {
+	name = Orndeir
+	culture = chondathan
+}
+217003 = {
+	name = Ghondar
+	culture = chondathan
+}
+217004 = {
+	name = Morliir
+	culture = chondathan
+}
+217005 = {
+	name = Hallowhand
+	culture = chondathan
+}
+217006 = {
+	name = Bloodsword
+	culture = chondathan
+}

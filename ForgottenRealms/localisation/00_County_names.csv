@@ -73,6 +73,8 @@ c_eastern_stormhorns;Eastern Stormhorns;Eastern Stormhorns;Eastern Stormhorns;;E
 c_eastern_stormhorns_adj;Eastern Stormhorner;;;;;;;;;;;;;x
 c_elemetar;Elemetar;;;;;;;;;;;;;x
 c_elemetar_adj;Elemetarran;;;;;;;;;;;;;x
+c_elversult;Elversult;;;;;;;;;;;;;x
+c_elversult_adj;Elversultan;;;;;;;;;;;;;x
 c_eyesvale;Eyesvale;;;;;;;;;;;;;x
 c_eyesvale_adj;Eyesvalen;;;;;;;;;;;;;x
 c_fairheight;Fairheight;;;;;;;;;;;;;x
@@ -108,9 +110,11 @@ c_highport_adj;Highportan;;;;;;;;;;;;;x
 c_hook_isle;Hook Isle;;;;;;;;;;;;;x
 c_hook_isle_adj;Hooker;;;;;;;;;;;;;x
 c_hullack_forest;Hullack Forest;Hullack Forest;Hullack Forest;;Hullack Forest;;;;;;;;;x
-c_hullack_forest_adj;Hullack Forester;;;;;;;;;;;;;x
+c_hullack_forest_adj;Hullack Forest;;;;;;;;;;;;;x
 c_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 c_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
+c_ilipur;Ilipur;;;;;;;;;;;;;x
+c_ilipur_adj;Ilipurran;;;;;;;;;;;;;x
 c_iltkazar_highlands;Iltkazar Highlands;;;;;;;;;;;;;x
 c_iltkazar_highlands_adj;Iltkazar Highlander;;;;;;;;;;;;;x
 c_ioma;Ioma;;;;;;;;;;;;;x
@@ -181,6 +185,12 @@ c_pandira;Pandira;;;;;;;;;;;;;x
 c_pandira_adj;Pandiran;;;;;;;;;;;;;x
 c_pehrrifaal;Pehrrifaal;;;;;;;;;;;;;x
 c_pehrrifaal_adj;Pehrrifaallan;;;;;;;;;;;;;x
+c_priapurl;Priapurl;;;;;;;;;;;;;x
+c_priapurl_adj;Priapurlan;;;;;;;;;;;;;x
+c_pros;Pros;;;;;;;;;;;;;x
+c_pros_adj;Prossian;;;;;;;;;;;;;x
+c_proskur;Proskur;;;;;;;;;;;;;x
+c_proskur_adj;Proskurran;;;;;;;;;;;;;x
 c_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 c_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 c_saerloon;Saerloon;;;;;;;;;;;;;x

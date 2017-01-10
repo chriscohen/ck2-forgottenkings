@@ -1,0 +1,22 @@
+# ORNDEIR
+# Range 24200-24299
+
+24200 = {
+	name = Hathala
+	female = yes
+	dynasty = 217002
+	
+	religion = catholic
+	culture = chondathan
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = cleric
+		employer = 900122 # Yanseldara
+	}
+	1392.1.1 = {
+		death = yes
+	}
+}

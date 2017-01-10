@@ -1,0 +1,6 @@
+1347.1.1 = {
+	holder = 24500 # Pierstar Hallowhand
+}
+1410.1.1 = {
+	holder = 0
+}

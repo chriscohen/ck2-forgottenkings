@@ -2139,3 +2139,40 @@
 		death = yes
 	}
 }
+900122 = {
+	name = Yanseldara
+	female = yes
+	
+	religion = catholic
+	culture = chondathan
+	
+	1309.1.1 = {
+		birth = yes
+	}
+	1325.1.1 = {
+		trait = fighter
+	}
+	1328.1.1 = {
+		trait = sorcerer
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}
+900123 = {
+	name = Ghazzar
+	
+	religion = catholic
+	culture = chondathan
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1333.1.1 = {
+		trait = paladin
+		employer = 24000 # Tar Hurara / d_priapurl
+	}
+	1409.1.1 = {
+		death = yes
+	}
+}

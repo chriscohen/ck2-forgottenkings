@@ -230,5 +230,12 @@
 # 23700  - 23799    Eldroon
 # 23800  - 23899    Wintersun
 # 23900  - 23999    Belorgan
+# 24000  - 24099    Hurara
+# 24100  - 24199    Hawklyn
+# 24200  - 24299    Orndeir
+# 24300  - 24399    Ghondar
+# 24400  - 24499    Morliir
+# 24500  - 24599    Hallowhand
+# 24600  - 24699    Bloodsword
 #
 # 900000 - 999999 Lowborn

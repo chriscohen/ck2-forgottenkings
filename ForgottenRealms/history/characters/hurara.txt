@@ -1,0 +1,21 @@
+# HURARA
+# Range 24000-24099
+
+24000 = {
+	name = Shera # (non-canon)
+	female = yes
+	dynasty = 217000
+	
+	religion = catholic
+	culture = chondathan
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1331.1.1 = {
+		trait = fighter
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}

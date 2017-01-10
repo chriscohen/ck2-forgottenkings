@@ -31,6 +31,8 @@ d_durmista;Durmista;;;;;;;;;;;;;x
 d_durmista_adj;Durmistan;;;;;;;;;;;;;x
 d_eastern_marches;Eastern Marches;;;;;;;;;;;;;x
 d_eastern_marches_adj;Eastern Marchian;;;;;;;;;;;;;x
+d_elversult;Elversult;;;;;;;;;;;;;x
+d_elversult_adj;Elversultan;;;;;;;;;;;;;x
 d_featherdale;Featherdale;;;;;;;;;;;;;x
 d_featherdale_adj;Featherdalen;;;;;;;;;;;;;x
 d_golden_marches;Golden Marches;;;;;;;;;;;;;x
@@ -45,12 +47,18 @@ d_high_dale;High Dale;;;;;;;;;;;;;x
 d_high_dale_adj;High Dalen;;;;;;;;;;;;;x
 d_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 d_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
+d_ilipur;Ilipur;;;;;;;;;;;;;x
+d_ilipur_adj;Ilipurran;;;;;;;;;;;;;x
 d_iltkazar_highlands;Iltkazar Highlands;;;;;;;;;;;;;x
 d_iltkazar_highlands_adj;Iltkazar Highlander;;;;;;;;;;;;;x
 d_kamlann;Kamlann;;;;;;;;;;;;;x
 d_kamlann_adj;Kamlanni;;;;;;;;;;;;;x
 d_korinn;Korinn Archipelago;;;;;;;;;;;;;x
 d_korinn_adj;Korinnian;;;;;;;;;;;;;x
+d_maces_of_elversult;Maces of Elversult;;;;;;;;;;;;;x
+d_maces_of_elversult_adj;Maces of Elversultan;;;;;;;;;;;;;x
+d_mindulgulph;Mindulgulph Mercenary Company;;;;;;;;;;;;;x
+d_mindulgulph_adj;Mindulgulphan;;;;;;;;;;;;;x
 d_mintarn;Mintarn;;;;;;;;;;;;;x
 d_mintarn_adj;Mintarnan;;;;;;;;;;;;;x
 d_mistledale;Mistledale;;;;;;;;;;;;;x
@@ -73,6 +81,12 @@ d_oman;Oman;;;;;;;;;;;;;x
 d_oman_adj;Omanian;;;;;;;;;;;;;x
 d_ordulin;Ordulin;;;;;;;;;;;;;x
 d_ordulin_adj;Ordulinian;;;;;;;;;;;;;x
+d_priapurl;Priapurl;;;;;;;;;;;;;x
+d_priapurl_adj;Priapurlan;;;;;;;;;;;;;x
+d_pros;Pros;;;;;;;;;;;;;x
+d_pros_adj;Prossian;;;;;;;;;;;;;x
+d_proskur;Proskur;;;;;;;;;;;;;x
+d_proskur_adj;Proskurran;;;;;;;;;;;;;x
 d_purple_dragons;Purple Dragons;;;;;;;;;;;;;x
 d_purple_dragons_adj;Purple Dragonian;;;;;;;;;;;;;x
 d_purple_marches;Purple Marches;;;;;;;;;;;;;x

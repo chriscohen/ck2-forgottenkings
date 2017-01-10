@@ -163,6 +163,8 @@ b_eagle_peak;Eagle Peak;;;;;;;;;;;;;x
 b_eagle_peak_adj;Eagle Peakian;;;;;;;;;;;;;x
 b_elbencort;Elbencort;;;;;;;;;;;;;x
 b_elbencort_adj;Elbencortan;;;;;;;;;;;;;x
+b_elversult;Elversult;;;;;;;;;;;;;x
+b_elversult_adj;Elversultan;;;;;;;;;;;;;x
 b_elyssyrr;Elyssyrr;;;;;;;;;;;;;x
 b_elyssyrr_adj;Elyssyrran;;;;;;;;;;;;;x
 b_emmarask_mansion;Emmarask Mansion;;;;;;;;;;;;;x
@@ -289,6 +291,8 @@ b_huddagh;Huddagh;;;;;;;;;;;;;x
 b_huddagh_adj;Huddaghian;;;;;;;;;;;;;x
 b_hultail;Hultail;;;;;;;;;;;;;x
 b_hultail_adj;Hultailan;;;;;;;;;;;;;x
+b_ilipur;Ilipur;;;;;;;;;;;;;x
+b_ilipur_adj;Ilipurran;;;;;;;;;;;;;x
 b_iltarghal_keep;Iltarghal Keep;;;;;;;;;;;;;x
 b_iltarghal_keep_adj;Iltarghal Keepian;;;;;;;;;;;;;x
 b_ilthal_pass;Ilthal Pass;;;;;;;;;;;;;x
@@ -451,6 +455,12 @@ b_pontswain;Pontswain;;;;;;;;;;;;;x
 b_pontswain_adj;Pontswainian;;;;;;;;;;;;;x
 b_port_kir;Port Kir;;;;;;;;;;;;;x
 b_port_kir_adj;Port Kirian;;;;;;;;;;;;;x
+b_priapurl;Priapurl;;;;;;;;;;;;;x
+b_priapurl_adj;Priapurlan;;;;;;;;;;;;;x
+b_pros;Pros;;;;;;;;;;;;;x
+b_pros_adj;Prossian;;;;;;;;;;;;;x
+b_proskur;Proskur;;;;;;;;;;;;;x
+b_proskur_adj;Proskurran;;;;;;;;;;;;;x
 b_qian;Qian;;;;;;;;;;;;;x
 b_qian_adj;Qianni;;;;;;;;;;;;;x
 b_queens_cove;Queen’s Cove;;;;;;;;;;;;;x

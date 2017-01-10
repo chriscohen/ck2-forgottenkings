@@ -1,10 +1,15 @@
-twisted_rune_composition = {
-	levy_size = 4
+maces_of_elversult_composition = {
+	levy_size = 3
 	heavy_infantry = 100
-	light_infantry = 300
-	knights = 300
+	light_infantry = 150
 	archers = 100
-	horse_archers = 150
+}
+mindulgulph_composition = {
+	levy_size = 3
+	heavy_infantry = 125
+	light_infantry = 200
+	archers = 150
+	knights = 50
 }
 purple_dragons_composition = {
 	levy_size = 4
@@ -12,4 +17,12 @@ purple_dragons_composition = {
 	light_infantry = 400
 	knights = 250
 	archers = 100
+}
+twisted_rune_composition = {
+	levy_size = 4
+	heavy_infantry = 100
+	light_infantry = 300
+	knights = 300
+	archers = 100
+	horse_archers = 150
 }

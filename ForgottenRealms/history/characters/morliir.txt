@@ -1,0 +1,23 @@
+# MORLIIR
+# Range 24400-24499
+
+24400 = {
+	name = Daragath
+	dynasty = 217004
+	
+	religion = catholic
+	culture = halfelf
+	
+	1305.1.1 = {
+		birth = yes
+	}
+	1321.1.1 = {
+		trait = paladin
+	}
+	1325.1.1 = {
+		employer = 900122 # Yanseldara
+	}
+	1417.1.1 = {
+		death = yes
+	}
+}

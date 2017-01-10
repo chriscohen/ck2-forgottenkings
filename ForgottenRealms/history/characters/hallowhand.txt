@@ -1,0 +1,22 @@
+# HALLOWHAND
+# Range 24500-24599
+
+24500 = {
+	name = Pierstar
+	dynasty = 217005
+	
+	religion = catholic
+	culture = chondathan
+	
+	martial = 9
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		trait = fighter
+	}
+	1410.1.1 = {
+		death = yes
+	}
+}

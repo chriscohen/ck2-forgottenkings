@@ -1,0 +1,22 @@
+# HAWKLYN
+# Range 24100-24199
+
+24100 = {
+	name = Vaerana
+	female = yes
+	dynasty = 217001
+	
+	religion = catholic
+	culture = chondathan
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		trait = rogue
+		employer = 900122 # Yanseldara
+	}
+	1404.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,21 @@
+# BLOODSWORD
+# Range 24600-24699
+
+24600 = {
+	name = Gayrlana
+	female = yes
+	dynasty = 217006
+	
+	religion = catholic
+	culture = chondathan
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		trait = fighter
+	}
+	1405.1.1 = {
+		death = yes
+	}
+}
