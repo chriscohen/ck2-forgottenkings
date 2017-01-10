@@ -1,3 +1,14 @@
+bm_custom_start_fr = {
+	name = BM_CUSTOM_START_FR
+	desc = BM_CUSTOM_START_FR_DESC
+	date = 1368.1.1
+	
+	custom_start = yes
+	
+	selectable_character = {
+		id = 4905 # Zaranda Rhindaun / k_tethyr
+	}
+}
 bm_first_edition = {
 	name = "BM_FIRST_EDITION"
 	desc = "BM_FIRST_EDITION_DESC"
@@ -29,8 +40,24 @@ bm_second_edition = {
 	date = 1368.1.1
 	
 	era = yes
-	picture = GFX_pick_era_image_1
+	picture = GFX_pick_era_image_2
 	
+	selectable_character = {
+		id = 81 # Azoun IV
+		age = 61
+		name = ERA_CHAR_NAME_81
+		title = k_cormyr
+		title_name = k_cormyr
+		
+		character = {
+			dna = bcedirmbfcy
+			properties = aj00bc00000
+			religion = catholic
+			culture = cormyrean
+			government = feudal_government
+			dynasty = 201000
+		}
+	}
 	selectable_character = {
 		id = 1700 # Tristan Kendrick
 		age = 40
@@ -45,6 +72,81 @@ bm_second_edition = {
 			culture = ffolk
 			government = feudal_government
 			dynasty = 205000
+		}
+	}
+}
+bm_third_edition = {
+	name = BM_THIRD_EDITION
+	desc = BM_THIRD_EDITION_DESC
+	date = 1374.1.1
+	
+	era = yes
+	picture = GFX_pick_era_image_3
+	
+	selectable_character = {
+		id = 84 # Azoun V Obarskyr
+		age = 3
+		name = ERA_CHAR_NAME_84
+		title = k_cormyr
+		title_name = k_cormyr
+		
+		character = {
+			dna="bcdfh0cb000"
+			properties="pe0b0k00000000"
+			religion = catholic
+			culture = cormyrean
+			government = feudal_government
+			dynasty = 201000
+		}
+	}
+}
+bm_fourth_edition = {
+	name = BM_FOURTH_EDITION
+	desc = BM_FOURTH_EDITION_DESC
+	date = 1479.1.1
+	
+	era = yes
+	picture = GFX_pick_era_image_4
+	
+	selectable_character = {
+		id = 87 # Foril I Obarskyr
+		age = 70
+		name = ERA_CHAR_NAME_87
+		title = k_cormyr
+		title_name = k_cormyr
+		
+		character = {
+			dna="bcdfh0cb000"
+			properties="pe0b0k00000000"
+			religion = catholic
+			culture = cormyrean
+			government = feudal_government
+			dynasty = 201000
+		}
+	}
+}
+bm_fifth_edition = {
+	name = BM_FIFTH_EDITION
+	desc = BM_FIFTH_EDITION_DESC
+	date = 1489.1.1
+	
+	era = yes
+	picture = GFX_pick_era_image_5
+	
+	selectable_character = {
+		id = 87 # Foril I Obarskyr
+		age = 80
+		name = ERA_CHAR_NAME_87
+		title = k_cormyr
+		title_name = k_cormyr
+		
+		character = {
+			dna="bcdfh0cb000"
+			properties="pe0b0k00000000"
+			religion = catholic
+			culture = cormyrean
+			government = feudal_government
+			dynasty = 201000
 		}
 	}
 }
