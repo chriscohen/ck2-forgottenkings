@@ -259,6 +259,10 @@ k_calimshan = {
 			
 			b_ajhuutal = {
 			}
+			# No precise location is given for St. Dobla's Abbey but
+			# Spider Swamp is low on baronies so let's put it there
+			b_st_doblas_abbey = {
+			}
 		}
 		c_almraiven = {
 			color = { 46 154 22 }
