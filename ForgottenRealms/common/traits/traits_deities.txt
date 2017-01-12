@@ -1,0 +1,434 @@
+azuth = {
+	lifestyle = yes
+	
+	learning = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		savras
+	}
+}
+bane = {
+	lifestyle = yes
+	
+	martial = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		cyric
+		helm
+		ilmater
+		mystra
+		oghma
+		torm
+		tyr
+	}
+}
+bhaal = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		ilmater
+	}
+}
+chauntea = {
+	lifestyle = yes
+	
+	stewardship = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		talos
+		umberlee
+	}
+}
+cyric = {
+	lifestyle = yes
+	
+	intrigue = 1
+	martial = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		bane
+		helm
+		kelemvor
+		lathander
+		mask
+		mystra
+		oghma
+		tyr
+	}
+}
+gond = {
+	lifestyle = yes
+	
+	learning = 1
+	stewardship = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+}
+helm = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		bane
+		cyric
+		lathander
+		malar
+		mask
+		shar
+		talos
+	}
+}
+ilmater = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	martial = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		bane
+		bhaal
+		loviatar
+		malar
+		myrkul
+		shar
+		talos
+	}
+}
+kelemvor = {
+	lifestyle = yes
+	
+	intrigue = 1
+	stewardship = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		cyric
+		velsharoon
+	}
+}
+kossuth = {
+	lifestyle = yes
+	
+	intrigue = 1
+	learning = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+}
+lathander = {
+	lifestyle = yes
+	
+	diplomacy = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		cyric
+		helm
+		shar
+		talos
+	}
+}
+lolth = {
+	lifestyle = yes
+	
+	intrigue = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+}
+loviatar = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		ilmater
+	}
+}
+malar = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		helm
+		ilmater
+		mielikki
+		silvanus
+		sune
+	}
+}
+mask = {
+	lifestyle = yes
+	
+	intrigue = 2
+	
+	same_opinion = 10
+	opposite_opinion = 10
+	
+	opposites = {
+		cyric
+		helm
+		oghma
+		selune
+		tyr
+		waukeen
+	}
+}
+mielikki = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		malar
+		talos
+	}
+}
+myrkul = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		ilmater
+	}
+}
+mystra = {
+	lifestyle = yes
+	
+	learning = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		bane
+		cyric
+		shar
+	}
+}
+oghma = {
+	lifestyle = yes
+	
+	learning = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		bane
+		cyric
+		mask
+	}
+}
+savras = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		azuth
+	}
+}
+selune = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	learning = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		mask
+		umberlee
+	}
+}
+shar = {
+	lifestyle = yes
+	
+	intrigue = 1
+	martial = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		helm
+		ilmater
+		lathander
+		mystra
+		shaundakul
+	}
+}
+shaundakul = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		shar
+	}
+}
+silvanus = {
+	lifestyle = yes
+	
+	diplomacy = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		malar
+		talos
+	}
+}
+sune = {
+	lifestyle = yes
+	
+	diplomacy = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		malar
+		talos
+		tempus
+		umberlee
+	}
+}
+talos = {
+	lifestyle = yes
+	
+	intrigue = 1
+	martial = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		chauntea
+		helm
+		ilmater
+		lathander
+		mielikki
+		silvanus
+		sune
+		tyr
+	}
+}
+tempus = {
+	lifestyle = yes
+	
+	martial = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		sune
+	}
+}
+torm = {
+	lifestyle = yes
+	
+	martial = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		bane
+	}
+}
+tymora = {
+	lifestyle = yes
+	
+	stewardship = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+}
+tyr = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	learning = 1
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		bane
+		cyric
+		mask
+		talos
+	}
+}
+velsharoon = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		kelemvor
+	}
+}
+umberlee = {
+	lifestyle = yes
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		chauntea
+		selune
+		sune
+	}
+}
+waukeen = {
+	lifestyle = yes
+	
+	stewardship = 2
+	
+	same_opinion = 10
+	opposite_opinion = -10
+	
+	opposites = {
+		mask
+	}
+}

@@ -1,30 +1,60 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 aristocrat;Aristocrat;;;;;;;;;;;;;x
 aristocrat_desc;A member of the bureaucracy who is skilled at governance and stewardship;;;;;;;;;;;;;x
+azuth;Follower of Azuth;;;;;;;;;;;;;x
+azuth_desc;A follower of the Lord of Spells, preserver of the magical arts;;;;;;;;;;;;;x
+bane;Follower of Bane;;;;;;;;;;;;;x
+bane_desc;A follower of the deity of fear, hatred and tyranny;;;;;;;;;;;;;x
 bard;Bard;;;;;;;;;;;;;x
 bard_desc;A versatile arcane spellcaster and master of music, poetry, or storytelling;;;;;;;;;;;;;x
+chauntea;Follower of Chauntea;;;;;;;;;;;;;x
+chauntea_desc;A follower of the Great Mother, deity of life and wild nature;;;;;;;;;;;;;x
 cleric;Cleric;;;;;;;;;;;;;x
 cleric_desc;A devout priest who is skilled in combat as well as divine magic;;;;;;;;;;;;;x
+cyric;Follower of Cyric;;;;;;;;;;;;;x
+cyric_desc;A follower of the Prince of Lies, the deity of murder and deception;;;;;;;;;;;;;x
 druid;Druid;;;;;;;;;;;;;x
 druid_desc;At one with nature and the divine magic of the wilderness;;;;;;;;;;;;;x
 fighter;Fighter;;;;;;;;;;;;;x
 fighter_desc;Highly trained in combat, weaponry, armor, and military tactics;;;;;;;;;;;;;x
 ghazneth;Ghazneth;;;;;;;;;;;;;x
 ghazneth_desc;This character has become a Ghazneth, a fell demon who betrayed Cormyr;;;;;;;;;;;;;x
+gond;Follower of Gond;;;;;;;;;;;;;x
+gond_desc;A follower of the Lord of All Smiths, deity of craft and smithwork;;;;;;;;;;;;;x
 harper;Harper;;;;;;;;;;;;;x
 harper_desc;Dedicated to promoting good, preserving history, and maintaining a balance between nature and civilization;;;;;;;;;;;;;x
+helm;Follower of Helm;;;;;;;;;;;;;x
+helm;A follower of the Vigilant One, deity of guardians, protection and protectors;;;;;;;;;;;;;x
 illusionist;Illusionist;;;;;;;;;;;;;x
 illusionist_desc;A practitioner of the magical school of false imagery;;;;;;;;;;;;;x
+kelemvor;Follower of Kelemvor;;;;;;;;;;;;;x
+kelemvor_desc;A follower of the Lord of the Dead, deity of death;;;;;;;;;;;;;x
+kossuth;Follower of Kossuth;;;;;;;;;;;;;x
+kossuth_desc;A follower of the Lord of Flames, deity of elemental fire;;;;;;;;;;;;;x
+lathander;Follower of Lathander;;;;;;;;;;;;;x
+lathander_desc;A follower of the Morninglord, deity of dawn, vitality and youth;;;;;;;;;;;;;x
 lich;Lich;;;;;;;;;;;;;x
 lich_desc;A powerful undead spellcaster often assuming undead form in order to live forever;;;;;;;;;;;;;x
+lolth;Follower of Lolth;;;;;;;;;;;;;x
+lolth_desc;A follower of the Queen of Spiders, deity of chaos;;;;;;;;;;;;;x
 lycanthrope;Lycanthrope;;;;;;;;;;;;;x
 lycanthrope_desc;A humanoid who transforms, sometimes without control, into beast form and back again;;;;;;;;;;;;;x
+malar;Follower of Malar;;;;;;;;;;;;;x
+malar_desc;A follower of the Beastlord, deity of the hunt, bloodlust, and lycanthropy;;;;;;;;;;;;;x
+mask;Follower of Mask;;;;;;;;;;;;;x
+mask_desc;A follower of the Lord of Shadows, the loner deity of thieves and ill repute;;;;;;;;;;;;;x
+mielikki;Follower of Mielikki;;;;;;;;;;;;;x
+mielikki_desc;A follower of the Forest Queen, deity of autumn, forests and rangers;;;;;;;;;;;;;x
 monk;Monk;;;;;;;;;;;;;x
 monk_desc;A devout religious and spiritual practitioner;;;;;;;;;;;;;x
 mummy;Mummy;;;;;;;;;;;;;x
 mummy_desc;An undead creature created from a preserved corpse;;;;;;;;;;;;;x
+mystra;Follower of Mystra;;;;;;;;;;;;;x
+mystra_desc;A follower of the Mother of All Magic, deity of the Weave;;;;;;;;;;;;;x
 necromancer;Necromancer;;;;;;;;;;;;;x
 necromancer_desc;A practitioner of the magical school of death, unlife and life force;;;;;;;;;;;;;x
+oghma;Follower of Oghma;;;;;;;;;;;;;x
+oghma_desc;A follower of the Lord of Knowledge, deity of invention, inspiration and knowledge;;;;;;;;;;;;;x
 paladin;Paladin;;;;;;;;;;;;;x
 paladin_desc;A skilled warrior devoted to religion and the divine magic therein;;;;;;;;;;;;;x
 purple_dragon;Purple Dragon;;;;;;;;;;;;;x
@@ -33,20 +63,44 @@ ranger;Ranger;;;;;;;;;;;;;x
 ranger_desc;Skilled in the wilderness and deeply learned of its occupants, both flora and fauna;;;;;;;;;;;;;x
 rogue;Rogue;;;;;;;;;;;;;x
 rogue_desc;Skilled in underhand tactics, espionage and intrigue;;;;;;;;;;;;;x
+selune;Follower of Selûne;;;;;;;;;;;;;x
+selune_desc;A follower of the Moonmaiden, deity of light, stars and wanderers;;;;;;;;;;;;;x
 shade;Shade;;;;;;;;;;;;;x
 shade_desc;A being who has merged with the essence of shadowstuff;;;;;;;;;;;;;x
+shar;Follower of Shar;;;;;;;;;;;;;x
+shar_desc;A follower of the Mistress of Night, deity of darkness;;;;;;;;;;;;;x
+shaundakul;Follower of Shaundakul;;;;;;;;;;;;;x
+shaundakul_desc;A follower of the Rider of the Winds, deity of travelling, exploration and wind;;;;;;;;;;;;;x
+silvanus;Follower of Silvanus;;;;;;;;;;;;;x
+silvanus_desc;A follower of the Forest Father, deity of wild nature and druids;;;;;;;;;;;;;x
 sorcerer;Sorcerer;;;;;;;;;;;;;x
 sorcerer_desc;A wielder of arcane magic bound only by willpower;;;;;;;;;;;;;x
 spectral_harpist;Spectral Harpist;;;;;;;;;;;;;x
 spectral_harpist_desc;An undead ghostlike form adopted by some former Harpers upon death;;;;;;;;;;;;;x
+sune;Follower of Sune;;;;;;;;;;;;;x
+sune_desc;A follower of Lady Firehair, deity of beauty and love;;;;;;;;;;;;;x
+talos;Follower of Talos;;;;;;;;;;;;;x
+talos_desc;A follower of the Storm Lord, deity of storms and destruction;;;;;;;;;;;;;x
+tempus;Follower of Tempus;;;;;;;;;;;;;x
+tempus_desc;A follower of the Lord of Battles, deity of war;;;;;;;;;;;;;x
+torm;Follower of Torm;;;;;;;;;;;;;x
+torm_desc;A follower of the Loyal Fury, deity of duty, loyalty and righteousness;;;;;;;;;;;;;x
 trait_lightfoot;Lightfoot;;;;;;;;;;;;;x
 trait_lightfoot_desc;The most common type of halfling in Faerûn, comfortable alongside other cultures and willing to adapt;;;;;;;;;;;;;x
 trait_moonelf;Moon Elf;;;;;;;;;;;;;x
 trait_moonelf_desc;Teu-tel-quessir are more tolerant of humans than other eladrin and the most common type in Faerûn;;;;;;;;;;;;;x
 trait_wildelf;Wild Elf;;;;;;;;;;;;;x
 trait_wildelf_desc;Sy-tel-quessir are feral and stealthy elves, reclusive and remaining close to nature;;;;;;;;;;;;;x
+tymora;Follower of Tymora;;;;;;;;;;;;;x
+tymora_desc;A follower of Lady Luck, deity of good fortune;;;;;;;;;;;;;x
+tyr;Follower of Tyr;;;;;;;;;;;;;x
+tyr_desc;A follower of the Maimed God, deity of law and justice;;;;;;;;;;;;;x
+umberlee;Follower of Umberlee;;;;;;;;;;;;;x
+umberlee_desc;A follower of the Bitch Queen, deity of the sea;;;;;;;;;;;;;x
 vampire;Vampire;;;;;;;;;;;;;x
 vampire_desc;A powerful undead humanoid feeding on the blood of the living;;;;;;;;;;;;;x
+waukeen;Follower of Waukeen;;;;;;;;;;;;;x
+waukeen_desc;A follower of the deity of commerce and free trade;;;;;;;;;;;;;x
 war_wizard;War Wizard;;;;;;;;;;;;;x
 war_wizard;A member of the Cormyrean elite battle mages;;;;;;;;;;;;;x
 wizard;Wizard;;;;;;;;;;;;;x
