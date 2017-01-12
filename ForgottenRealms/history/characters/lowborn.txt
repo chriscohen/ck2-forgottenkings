@@ -2176,3 +2176,22 @@
 		death = yes
 	}
 }
+900124 = {
+	# St. Aban, after whom b_st_aban is named
+	# TSR9561 Empires of the Shining Sea p.96
+	name = Aban
+	
+	religion = sunni
+	culture = calishite
+	
+	1112.1.1 = {
+		birth = yes
+	}
+	1128.1.1 = {
+		trait = monk
+		# employer = c_manshaka
+	}
+	1155.1.1 = {
+		death = yes
+	}
+}

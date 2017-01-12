@@ -10,4 +10,8 @@ b_myth_dyraalis = castle
 culture = calishite
 religion = sunni
 
-#History
+# History
+1165.1.1 = {
+	# Death and sainthood of Aban
+	b_st_aban = temple
+}
