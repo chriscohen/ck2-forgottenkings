@@ -250,7 +250,7 @@ k_calimshan = {
 			}
 			b_skyship_glade = {
 			}
-			b_st_alban = {
+			b_st_aban = {
 			}
 		}
 		c_spider_swamp = {
