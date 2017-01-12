@@ -1,0 +1,6 @@
+1340.1.1 = {
+	holder = 24700 # Leonara Obarstal
+}
+1411.1.1 = {
+	holder = 0
+}

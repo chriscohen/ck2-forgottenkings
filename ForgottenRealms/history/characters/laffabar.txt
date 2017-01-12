@@ -1,0 +1,22 @@
+# LAFFABAR
+# Range 25000-25099
+
+25000 = {
+	name = Gandios
+	dynasty = 500006
+	
+	religion = catholic
+	culture = lightfoot
+	
+	trait = trait_lightfoot
+	
+	1298.1.1 = {
+		birth = yes
+	}
+	1314.1.1 = {
+		trait = rogue
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}

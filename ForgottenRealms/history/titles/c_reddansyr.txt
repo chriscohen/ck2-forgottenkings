@@ -1,0 +1,7 @@
+1314.1.1 = {
+	liege = d_westgate
+	holder = 25000 # Gandios Laffabar
+}
+1387.1.1 = {
+	holder = 0
+}

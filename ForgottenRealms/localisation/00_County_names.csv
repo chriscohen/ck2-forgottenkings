@@ -109,6 +109,8 @@ c_highport;Highport;;;;;;;;;;;;;x
 c_highport_adj;Highportan;;;;;;;;;;;;;x
 c_hook_isle;Hook Isle;;;;;;;;;;;;;x
 c_hook_isle_adj;Hooker;;;;;;;;;;;;;x
+c_horse_prairie;Horse Prairie;;;;;;;;;;;;;x
+c_horse_prairie_adj;Horse Prairian;;;;;;;;;;;;;x
 c_hullack_forest;Hullack Forest;Hullack Forest;Hullack Forest;;Hullack Forest;;;;;;;;;x
 c_hullack_forest_adj;Hullack Forest;;;;;;;;;;;;;x
 c_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
@@ -193,6 +195,8 @@ c_proskur;Proskur;;;;;;;;;;;;;x
 c_proskur_adj;Proskurran;;;;;;;;;;;;;x
 c_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 c_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
+c_reddansyr;Reddansyr;;;;;;;;;;;;;x
+c_reddansyr_adj;Reddansyran;;;;;;;;;;;;;x
 c_saerloon;Saerloon;;;;;;;;;;;;;x
 c_saerloon_adj;Saerloonian;;;;;;;;;;;;;x
 c_saint_noradnar;Saint Noradnar;;;;;;;;;;;;;x
@@ -255,6 +259,8 @@ c_teshburl;Teshburl;;;;;;;;;;;;;x
 c_teshburl_adj;Teshburlan;;;;;;;;;;;;;x
 c_teshyll;Teshyll;;;;;;;;;;;;;x
 c_teshyll_adj;Teshyllan;;;;;;;;;;;;;x
+c_teziir;Teziir;;;;;;;;;;;;;x
+c_teziir_adj;Teziiran;;;;;;;;;;;;;x
 c_the_rookery;The Rookery;;;;;;;;;;;;;x
 c_the_rookery_adj;Rookerian;;;;;;;;;;;;;x
 c_the_shrouded_lands;The Shrouded Lands;;;;;;;;;;;;;x
@@ -301,6 +307,8 @@ c_west_oman;West Oman;;;;;;;;;;;;;x
 c_west_oman_adj;West Omanian;;;;;;;;;;;;;x
 c_western_sembia;Western Sembia;;;;;;;;;;;;;x
 c_western_sembia_adj;Western Sembian;;;;;;;;;;;;;x
+c_westgate;Westgate;;;;;;;;;;;;;x
+c_westgate_adj;Westgaten;;;;;;;;;;;;;x
 c_winterglen;Winterglen;;;;;;;;;;;;;x
 c_winterglen_adj;Winterglenian;;;;;;;;;;;;;x
 c_yeslipek;Yeshpek;;;;;;;;;;;;;x

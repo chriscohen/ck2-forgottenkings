@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 b_abbor;Abbor;;;;;;;;;;;;;x
 b_abbor_adj;Abborian;;;;;;;;;;;;;x
+b_accardi;Accardi;;;;;;;;;;;;;x
+b_accardi_adj;Accardian;;;;;;;;;;;;;x
 b_adarthir;Adarthir;;;;;;;;;;;;;x
 b_adarthir_adj;Adarthirran;;;;;;;;;;;;;x
 b_aithelar;Aithelar;;;;;;;;;;;;;x
@@ -281,6 +283,8 @@ b_hornshield_keep;Hornshield Keep;;;;;;;;;;;;;x
 b_hornshield_keep_adj;Hornshield Keepian;;;;;;;;;;;;;x
 b_horsa;Horsa;;;;;;;;;;;;;x
 b_horsa_adj;Horsan;;;;;;;;;;;;;x
+b_horse_prairie;Horse Prairie;;;;;;;;;;;;;x
+b_horse_prairie_adj;Horse Prairian;;;;;;;;;;;;;x
 b_horst;Horst;;;;;;;;;;;;;x
 b_horst_adj;Horstian;;;;;;;;;;;;;x
 b_horstall;Horstall;;;;;;;;;;;;;x
@@ -469,8 +473,12 @@ b_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 b_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
 b_ramshorn;Ramshorn;;;;;;;;;;;;;x
 b_ramshorn_adj;Ramshorner;;;;;;;;;;;;;x
+b_reddansyr;Reddansyr;;;;;;;;;;;;;x
+b_reddansyr_adj;Reddansyran;;;;;;;;;;;;;x
 b_redspring;Redspring;;;;;;;;;;;;;x
 b_redspring_adj;Redspringan;;;;;;;;;;;;;x
+b_redwater;Redwater;;;;;;;;;;;;;x
+b_redwater_adj;Redwaterian;;;;;;;;;;;;;x
 b_regents_field;Regent’s Field;;;;;;;;;;;;;x
 b_regents_field_adj;Regent’s Fieldian;;;;;;;;;;;;;x
 b_rhianna;Rhianna;;;;;;;;;;;;;x
@@ -607,6 +615,8 @@ b_teshburl;Teshburl;;;;;;;;;;;;;x
 b_teshburl_adj;Teshburlan;;;;;;;;;;;;;x
 b_teshyll;Teshyll;;;;;;;;;;;;;x
 b_teshyll_adj;Teshyllan;;;;;;;;;;;;;x
+b_teziir;Teziir;;;;;;;;;;;;;x
+b_teziir_adj;Teziiran;;;;;;;;;;;;;x
 b_thordentor;Thordentor;;;;;;;;;;;;;x
 b_thordentor_adj;Thordentorian;;;;;;;;;;;;;x
 b_thorndyke;Thorndyke;;;;;;;;;;;;;x
@@ -671,6 +681,8 @@ b_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
 b_wave_rocks_adj;Wave Rocker;;;;;;;;;;;;;x
 b_waymoot;Waymoot;;;;;;;;;;;;;x
 b_waymoot_adj;Waymootan;;;;;;;;;;;;;x
+b_westgate;Westgate;;;;;;;;;;;;;x
+b_westgate_adj;Westhavian;;;;;;;;;;;;;x
 b_westhaven;Westhaven;;;;;;;;;;;;;x
 b_westhaven_adj;Westhavian;;;;;;;;;;;;;x
 b_wheloon;Wheloon;;;;;;;;;;;;;x

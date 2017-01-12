@@ -1,0 +1,21 @@
+# OBARSTAL
+# Range 24700-24799
+
+24700 = {
+	name = Leonara
+	female = yes
+	dynasty = 217007
+	
+	religion = catholic
+	culture = chondathan
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		trait = rogue
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}

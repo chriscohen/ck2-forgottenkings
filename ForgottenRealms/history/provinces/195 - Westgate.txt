@@ -1,0 +1,13 @@
+# County Title
+title = c_westgate
+
+# Settlements
+max_settlements = 3
+
+b_westgate = castle
+
+# Misc
+culture = chondathan
+religion = catholic
+
+# History

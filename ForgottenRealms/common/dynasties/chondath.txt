@@ -29,3 +29,19 @@
 	name = Bloodsword
 	culture = chondathan
 }
+217007 = {
+	name = Obarstal
+	culture = chondathan
+}
+217008 = {
+	name = Nathan
+	culture = chondathan
+}
+217009 = {
+	name = Hallyspyr
+	culture = chondathan
+}
+217010 = {
+	name = Jorman
+	culture = chondathan
+}

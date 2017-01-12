@@ -1,0 +1,21 @@
+# JORMAN
+# Range 25100-25199
+
+25100 = {
+	name = Thyrius
+	dynasty = 217010
+	
+	religion = catholic
+	culture = chondathan
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1336.1.1 = {
+		trait = paladin
+		employer = 25000 # Gandios Laffabar / c_reddansyr
+	}
+	1397.1.1 = {
+		death = yes
+	}
+}

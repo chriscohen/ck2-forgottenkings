@@ -1,0 +1,17 @@
+# County Title
+title = c_teziir
+
+# Settlements
+max_settlements = 1
+
+b_teziir = tribal
+
+# Misc
+culture = chondathan
+religion = catholic
+
+# History
+1312.1.1 = {
+	# Founded in 1312
+	b_teziir = city
+}

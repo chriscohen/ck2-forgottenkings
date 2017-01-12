@@ -1,0 +1,21 @@
+# HALLYSPYR
+# Range 24900-24999
+
+24900 = {
+	name = Milo
+	dynasty = 217009
+	
+	religion = catholic
+	culture = chondathan
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		trait = paladin
+		employer = 24700 # Leonara Obarstal / d_proskur
+	}
+	1394.1.1 = {
+		death = yes
+	}
+}

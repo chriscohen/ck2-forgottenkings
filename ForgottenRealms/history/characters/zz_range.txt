@@ -237,5 +237,10 @@
 # 24400  - 24499    Morliir
 # 24500  - 24599    Hallowhand
 # 24600  - 24699    Bloodsword
+# 24700  - 24799    Obarstal
+# 24800  - 24899    Nathan
+# 24900  - 24999    Hallyspyr
+# 25000  - 25099    Laffabar
+# 25100  - 25199    Jorman
 #
 # 900000 - 999999 Lowborn

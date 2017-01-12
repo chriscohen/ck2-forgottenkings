@@ -113,11 +113,9 @@ k_calimshan = {
 			color={ 68 204 58 }
 			color2={ 255 255 255 }
 			
-			b_qian = {
+			b_khanall = {
 			}
 			b_st_saril = {
-			}
-			b_khanall = {
 			}
 		}
 		c_west_marching_mountains = {
@@ -1870,6 +1868,8 @@ k_tethyr = {
 			
 			b_ruba = {
 			}
+			b_qian = {
+			}
 		}
 		c_monteshi = {
 			color = { 83 114 165 }
@@ -2630,6 +2630,32 @@ d_tasseldale = {
 		}
 	}
 }
+d_teziir = {
+	color = { 101 168 174 }
+	color2 = { 255 255 255 }
+	
+	capital = 193 # Teziir
+	culture = chondathan
+	
+	allow = {
+		is_republic = yes
+	}
+	
+	c_teziir = {
+		color = { 101 168 174 }
+		color2 = { 255 255 255 }
+		
+		b_teziir = {
+		}
+	}
+	c_horse_prairie = {
+		color = { 13 114 123 }
+		color2 = { 255 255 255 }
+		
+		b_horse_prairie = {
+		}
+	}
+}
 d_semberholme = {
 	color = { 23 74 158 }
 	color2 = { 255 255 255 }
@@ -2741,6 +2767,42 @@ d_tulmon = {
 		title_female = TITLE_VIZERA
 		
 		b_tulmon = {
+		}
+	}
+}
+d_westgate = {
+	color = { 62 96 99 }
+	color2 = { 255 255 255 }
+	
+	capital = 195 # Westgate
+	culture = chondathan
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 194
+				province_id = 195
+			}
+		}
+	}
+	
+	c_westgate = {
+		color = { 62 96 99 }
+		color2 = { 255 255 255 }
+		
+		b_westgate = {
+		}
+		b_redwater = {
+		}
+		b_accardi = {
+		}
+	}
+	c_reddansyr = {
+		color = { 145 221 227 }
+		color2 = { 255 255 255 }
+		
+		b_reddansyr = {
 		}
 	}
 }
