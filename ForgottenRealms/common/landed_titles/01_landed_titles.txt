@@ -50,6 +50,8 @@ k_calimshan = {
 			color = { 97 124 92 }
 			color2 = { 255 255 255 }
 			
+			b_trade_way_desert = {
+			}
 			b_saint_noradnar = {
 			}
 		}
@@ -122,6 +124,8 @@ k_calimshan = {
 			color = { 42 89 33 }
 			color2 = { 255 255 255 }
 			
+			b_west_marching_mountains = {
+			}
 			b_st_rucir = {
 			}
 			b_st_faelar = {
@@ -283,6 +287,8 @@ k_calimshan = {
 			b_allyns_anvil = {
 			}
 			b_st_fanal = {
+			}
+			b_st_wityn = {
 			}
 		}
 	}

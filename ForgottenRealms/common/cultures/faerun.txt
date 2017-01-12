@@ -512,12 +512,12 @@ human = {
 			Jabal Jadhar Jafar Jahar
 			Kadar Kalil Kharyi Kodos Ksan
 			Majel Malik Maryn Mond Muham
-			Nadim Nur
+			Nadim Noradnar Nur
 			Punjor
 			Qamar
 			Rahimat Ralan Rashid Rhanghaun
 			Saibh Sarsor Shaan
-			Tahyr Tasyn Thond Tomed
+			Tahlis Tahyr Tasyn Thond Tomed
 			Yusuf
 		}
 		female_names = {

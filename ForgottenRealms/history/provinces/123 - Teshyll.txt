@@ -10,4 +10,9 @@ b_teshyll = castle
 culture = calishite
 religion = sunni
 
-#History
+# History
+
+# Guess at date of founding
+1287.1.1 = {
+	b_st_amahl = temple
+}

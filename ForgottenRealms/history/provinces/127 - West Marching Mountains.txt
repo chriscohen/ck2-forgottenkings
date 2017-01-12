@@ -2,12 +2,22 @@
 title = c_west_marching_mountains
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_st_rucir = temple
+b_west_marching_mountains = tribal
 
 # Misc
 culture = calishite
 religion = sunni
 
-#History
+# History
+
+870.1.1 = {
+	b_st_rucir = temple
+	capital = b_st_rucir
+	remove_settlement = b_west_marching_mountains
+}
+# Guess at a date for b_st_faelar
+1208.1.1 = {
+	b_st_faelar = temple
+}

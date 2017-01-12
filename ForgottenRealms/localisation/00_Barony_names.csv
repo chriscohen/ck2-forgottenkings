@@ -581,6 +581,8 @@ b_st_saril;St. Saril;;;;;;;;;;;;;x
 b_st_saril_adj;St. Sarillian;;;;;;;;;;;;;x
 b_st_taril;St. Taril;;;;;;;;;;;;;x
 b_st_taril_adj;St. Tarillan;;;;;;;;;;;;;x
+b_st_wityn;St. Wityn’s Hospice;;;;;;;;;;;;;x
+b_st_wityn_adj;St. Wityni;;;;;;;;;;;;;x
 b_stagsteads;Stagsteads;;;;;;;;;;;;;x
 b_stagsteads_adj;Stagsteadsian;;;;;;;;;;;;;x
 b_storaad;Storaad;;;;;;;;;;;;;x
@@ -639,6 +641,8 @@ b_tordraken;Tordraken;;;;;;;;;;;;;x
 b_tordraken_adj;Tordraconian;;;;;;;;;;;;;x
 b_trade_way;Trade Way;;;;;;;;;;;;;x
 b_trade_way_adj;Trade Wayan;;;;;;;;;;;;;x
+b_trade_way_desert;Trade Way Desert;;;;;;;;;;;;;x
+b_trade_way_desert_adj;Trade Way Desertian;;;;;;;;;;;;;x
 b_trailstone;Trailstone;;;;;;;;;;;;;x
 b_trailstone_adj;Trailstonian;;;;;;;;;;;;;x
 b_tresper_hall;Tresper Hall;;;;;;;;;;;;;x
@@ -683,6 +687,8 @@ b_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
 b_wave_rocks_adj;Wave Rocker;;;;;;;;;;;;;x
 b_waymoot;Waymoot;;;;;;;;;;;;;x
 b_waymoot_adj;Waymootan;;;;;;;;;;;;;x
+b_west_marching_mountains;West Marching Mountains;;;;;;;;;;;;;x
+b_west_marching_mountains_adj;West Marching Mountainsian;;;;;;;;;;;;;x
 b_westgate;Westgate;;;;;;;;;;;;;x
 b_westgate_adj;Westhavian;;;;;;;;;;;;;x
 b_westhaven;Westhaven;;;;;;;;;;;;;x

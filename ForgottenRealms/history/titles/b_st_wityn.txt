@@ -1,0 +1,4 @@
+1340.1.1 = {
+	liege = c_alamir_mountains
+	holder = 900125 # Tahlis el Jhagnar
+}

@@ -10,4 +10,10 @@ b_allyns_anvil = castle
 culture = calishite
 religion = sunni
 
-#History
+# History
+1180.1.1 = {
+	b_st_fanal = temple
+}
+1340.1.1 = {
+	b_st_wityn = temple
+}

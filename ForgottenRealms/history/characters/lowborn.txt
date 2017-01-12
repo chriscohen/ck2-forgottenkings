@@ -2195,3 +2195,40 @@
 		death = yes
 	}
 }
+900125 = {
+	# TSR9561 Empires of the Shining Sea p.97
+	name = Tahlis # el Jhagnar
+	
+	religion = sunni
+	culture = calishite
+	
+	1301.1.1 = {
+		birth = yes
+	}
+	1317.1.1 = {
+		trait = cleric
+	}
+	1340.1.1 = {
+		trait = lycanthrope
+	}
+	1382.1.1 = {
+		death = yes
+	}
+}
+900126 = {
+	# TSR9561 Empires of the Shining Sea p.97
+	name = Noradnar
+	
+	religion = sunni
+	culture = calishite
+	
+	1309.1.1 = {
+		birth = yes
+	}
+	1325.1.1 = {
+		trait = fighter
+	}
+	1396.1.1 = {
+		death = yes
+	}
+}
