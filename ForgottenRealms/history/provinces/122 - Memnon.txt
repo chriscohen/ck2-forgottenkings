@@ -2,7 +2,7 @@
 title = c_memnon
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 
 b_memnon = castle
 
@@ -10,4 +10,9 @@ b_memnon = castle
 culture = calishite
 religion = sunni
 
-#History
+# History
+
+# Guess at founding date
+1334.1.1 = {
+	b_st_liwan = temple
+}

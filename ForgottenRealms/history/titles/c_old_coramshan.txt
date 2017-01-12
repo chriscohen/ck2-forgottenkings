@@ -1,5 +1,11 @@
-1338.1.1 = {
+1243.1.1 = {
 	liege = d_old_coramshan
+	holder = 900129 # Taril el Kealn
+}
+1285.1.1 = {
+	holder = 0
+}
+1338.1.1 = {
 	holder = 11700 # Rashid Djenispool
 }
 1359.1.1 = {

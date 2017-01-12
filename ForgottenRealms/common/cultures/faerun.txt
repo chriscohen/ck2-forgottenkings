@@ -508,7 +508,7 @@ human = {
 			Daryth Daud
 			Eshtarl
 			Fahd Faruk
-			Hakiim Halan Harun Hassan Hazamir
+			Hakiim Halan Hamash Harun Hassan Hazamir
 			Jabal Jadhar Jafar Jahar
 			Kadar Kalil Kharyi Kodos Ksan
 			Majel Malik Maryn Mond Muham

@@ -1,0 +1,7 @@
+1334.1.1 = {
+	liege = c_memnon
+	holder = 900127 # Akkabar el Souvlak
+}
+1383.1.1 = {
+	holder = 0
+}

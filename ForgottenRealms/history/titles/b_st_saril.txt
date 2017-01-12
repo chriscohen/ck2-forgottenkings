@@ -1,0 +1,7 @@
+1330.1.1 = {
+	liege = c_agis
+	holder = 900128 # Hamash el Saril
+}
+1394.1.1 = {
+	holder = 0
+}

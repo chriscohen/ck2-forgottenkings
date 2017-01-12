@@ -64,6 +64,8 @@ k_calimshan = {
 			
 			b_memnon = {
 			}
+			b_st_liwan = {
+			}
 		}
 		c_teshyll = {
 			color = { 23 72 14 }
@@ -191,6 +193,8 @@ k_calimshan = {
 			color = { 41 244 31 }
 			color2 = { 255 255 255 }
 			
+			b_old_coramshan = {
+			}
 			b_st_taril = {
 			}
 		}

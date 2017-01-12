@@ -10,4 +10,9 @@ b_khanall = castle
 culture = calishite
 religion = sunni
 
-#History
+# History
+
+# Guess at founding date
+1330.1.1 = {
+	b_st_saril = temple
+}
