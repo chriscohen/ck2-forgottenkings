@@ -1,0 +1,60 @@
+title_archendale_black_sword = {
+	dignity = 0.25
+	grant_limit = 1
+	
+	# "Hidden" identity, so no opinion effect
+	opinion_effect = 0
+	
+	monthly_salary = 0.2
+	monthly_prestige = 0.25
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = d_archendale
+	}
+}
+title_archendale_blue_sword = {
+	dignity = 0.25
+	grant_limit = 1
+	
+	# "Hidden" identity, so no opinion effect
+	opinion_effect = 0
+	
+	monthly_salary = 0.2
+	monthly_prestige = 0.25
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = d_archendale
+	}
+}
+title_archendale_red_sword = {
+	dignity = 0.25
+	grant_limit = 1
+	
+	# "Hidden" identity, so no opinion effect
+	opinion_effect = 0
+	
+	monthly_salary = 0.2
+	monthly_prestige = 0.25
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = yes
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = d_archendale
+	}
+}
