@@ -14,6 +14,11 @@
 	1014.1.1 = {
 		trait = fighter
 	}
+	1037.1.1 = {
+		# FRCS2e stated "either a wasting disease or magical curse"
+		# as a reason for him wearing the mantle
+		trait = disfigured
+	}
 	1038.1.1 = {
 		give_nickname = nick_the_mantled_king
 	}
