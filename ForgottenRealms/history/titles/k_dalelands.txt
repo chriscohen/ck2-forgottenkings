@@ -1,0 +1,12 @@
+1.1.1 = {
+	active = no
+}
+1038.1.1 = {
+	active = yes
+	holder = 25300 # Aencar Burlisk
+}
+1044.1.1 = {
+	# Death of Aencar
+	active = no
+	holder = 0
+}

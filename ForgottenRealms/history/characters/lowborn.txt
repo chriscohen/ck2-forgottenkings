@@ -2289,3 +2289,20 @@
 		death = yes
 	}
 }
+900130 = {
+	name = Alacanther
+	
+	religion = catholic
+	culture = vilhonian
+	
+	995.1.1 = {
+		birth = yes
+	}
+	1011.1.1 = {
+		# TODO give him residence in Arrabar
+		trait = wizard
+	}
+	1060.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,7 @@
+1030.1.1 = {
+	liege = d_battledale
+	holder = 25300 # Aencar Burlisk
+}
+1044.1.1 = {
+	holder = 0 # Death of Aencar
+}

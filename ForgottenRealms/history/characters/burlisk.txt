@@ -1,0 +1,26 @@
+# BURLISK
+# Range 25300-25399
+
+25300 = {
+	name = Aencar
+	dynasty = 211004
+	
+	religion = catholic
+	culture = dalelander
+	
+	998.1.1 = { # Estimate
+		birth = yes
+	}
+	1014.1.1 = {
+		trait = fighter
+	}
+	1038.1.1 = {
+		give_nickname = nick_the_mantled_king
+	}
+	1044.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 900130 # Alacanther of Arrabar
+		}
+	}
+}

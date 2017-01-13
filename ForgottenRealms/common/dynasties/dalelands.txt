@@ -32,3 +32,7 @@
 	name = Chandrar
 	culture = dalelander
 }
+211004 = {
+	name = Burlisk
+	culture = dalelander
+}

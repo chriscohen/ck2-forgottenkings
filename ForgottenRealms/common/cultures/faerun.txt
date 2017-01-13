@@ -693,7 +693,7 @@ human = {
 		color = { 0.25 0.29 0.91 }
 		
 		male_names = {
-			Ashaba
+			Aencar Ashaba
 			Dornal
 			Joadath
 			Marler
@@ -1231,6 +1231,7 @@ human = {
 		color = { 0.96 0.66 0.09 }
 		
 		male_names = {
+			Alacanther
 			Kuthor
 		}
 		female_names = {

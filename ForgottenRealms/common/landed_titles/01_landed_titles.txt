@@ -601,6 +601,351 @@ k_cormyr = {
 		}
 	}
 }
+k_dalelands = {
+	color = { 114 133 164 }
+	color2 = { 255 255 255 }
+	
+	capital = 111 # Battledale
+	culture = dalelander
+	
+	d_archendale = {
+		color = { 21 77 170 }
+		color2 = { 255 255 255 }
+		
+		capital = 110 # Archendale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 110
+				}
+			}
+		}
+		
+		c_archendale = {
+			color = { 21 77 170 }
+			color2 = { 255 255 255 }
+			
+			b_archenbridge = {
+			}
+			b_white_ford = {
+			}
+			b_whiteturrets = {
+			}
+		}
+	}
+	d_battledale = {
+		color = { 114 133 164 }
+		color2 = { 255 255 255 }
+		
+		capital = 111 # Battledale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 111
+				}
+			}
+		}
+		
+		c_battledale = {
+			color = { 114 133 164 }
+			color2 = { 255 255 255 }
+			
+			b_essembra = {
+			}
+			b_hap = {
+			}
+		}
+	}
+	d_daggerdale = {
+		color = { 79 99 133 }
+		color2 = { 255 255 255 }
+		
+		capital = 104 # Daggerdale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 104
+				}
+			}
+		}
+		
+		c_daggerdale = {
+			color = { 79 99 133 }
+			color2 = { 255 255 255 }
+			
+			b_dagger_falls = {
+			}
+			b_dordrien = {
+			}
+		}
+	}
+	d_deepingdale = {
+		color = { 12 86 211 }
+		color2 = { 255 255 255 }
+		
+		capital = 109 # Deepingdale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 109
+				}
+			}
+		}
+		
+		c_deepingdale = {
+			color = { 12 86 211 }
+			color2 = { 255 255 255 }
+			
+			b_highmoon = {
+			}
+			b_hallow_creek = {
+			}
+		}
+	}
+	d_featherdale = {
+		color = { 29 68 121 }
+		color2 = { 255 255 255 }
+		
+		capital = 115 # Featherdale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 115
+				}
+			}
+		}
+		
+		c_featherdale = {
+			color = { 29 68 121 }
+			color2 = { 255 255 255 }
+			
+			b_blackfeather_bridge = {
+			}
+			b_feather_falls = {
+			}
+		}
+	}
+	d_harrowdale = {
+		color = { 105 140 189 }
+		color2 = { 255 255 255 }
+		
+		capital = 113 # Harrowdale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 113
+					province_id = 114
+				}
+			}
+		}
+		
+		c_harrowdale = {
+			color = { 105 140 189 }
+			color2 = { 255 255 255 }
+			
+			b_harrowdale = {
+			}
+			b_velarsburg = {
+			}
+			b_velartree = {
+			}
+			b_lanfroe = {
+			}
+			b_dead_oak = {
+			}
+		}
+		c_cold_fields = {
+			color = { 157 188 230 }
+			color2 = { 255 255 255 }
+			
+			b_chandlers_cross = {
+			}
+		}
+	}
+	d_high_dale = {
+		color = { 155 188 244 }
+		color2 = { 255 255 255 }
+		
+		capital = 117 # High Dale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 117
+				}
+			}
+		}
+		
+		c_high_dale = {
+			color = { 155 188 244 }
+			color2 = { 255 255 255 }
+			
+			b_high_dale = {
+			}
+		}
+	}
+	d_mistledale = {
+		color = { 48 123 248 }
+		color2 = { 255 255 255 }
+		
+		capital = 107 # Mistledale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 107
+				}
+			}
+		}
+		
+		c_mistledale = {
+			color = { 48 123 248 }
+			color2 = { 255 255 255 }
+			
+			b_ashabenford = {
+			}
+			b_peldans_helm = {
+			}
+			b_glen = {
+			}
+		}
+	}
+	d_scardale = {
+		color = { 27 117 239 }
+		color2 = { 255 255 255 }
+		
+		capital = 112 # Scardale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 112
+				}
+			}
+		}
+		
+		c_scardale = {
+			color = { 27 117 239 }
+			color2 = { 255 255 255 }
+			
+			b_scardale_town = {
+			}
+		}
+	}
+	d_shadowdale = {
+		color = { 129 164 220 }
+		color2 = { 255 255 255 }
+		
+		capital = 105 # Shadowdale
+		culture = dalelander
+		
+		title = TITLE_LORD
+		title_female = TITLE_LADY
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 105
+				}
+			}
+		}
+		
+		c_shadowdale = {
+			color = { 129 164 220 }
+			color2 = { 255 255 255 }
+			
+			b_shadowdale = {
+			}
+			b_freedale = {
+			}
+		}
+	}
+	d_tarkhaldale = {
+		color = { 38 76 155 }
+		color2 = { 255 255 255 }
+		
+		capital = 106 # Tarkhaldale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 106
+				}
+			}
+		}
+		
+		c_tarkhaldale = {
+			color = { 38 76 155 }
+			color2 = { 255 255 255 }
+			
+			b_tarkhaldale = {
+			}
+		}
+	}
+	d_tasseldale = {
+		color = { 64 120 214 }
+		color2 = { 255 255 255 }
+		
+		capital = 116 # Tasseldale
+		culture = dalelander
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 116
+				}
+			}
+		}
+		
+		c_tasseldale = {
+			color = { 64 120 214 }
+			color2 = { 255 255 255 }
+			
+			b_archtassel = {
+			}
+			b_arrowmark = {
+			}
+			b_glaun = {
+			}
+			b_halfcrag = {
+			}
+			b_moontassel = {
+			}
+			b_tasselheart = {
+			}
+			b_tegals_mark = {
+			}
+		}
+	}
+}
 k_icewind_dale = {
 	color={ 30 225 15 }
 	color2={ 255 255 255 }
@@ -2116,112 +2461,6 @@ k_tethyr = {
 }
 
 # DUCHIES
-d_archendale = {
-	color = { 21 77 170 }
-	color2 = { 255 255 255 }
-	
-	capital = 110 # Archendale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 110
-			}
-		}
-	}
-	
-	c_archendale = {
-		color = { 21 77 170 }
-		color2 = { 255 255 255 }
-		
-		b_archenbridge = {
-		}
-		b_white_ford = {
-		}
-		b_whiteturrets = {
-		}
-	}
-}
-d_battledale = {
-	color = { 114 133 164 }
-	color2 = { 255 255 255 }
-	
-	capital = 111 # Battledale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 111
-			}
-		}
-	}
-	
-	c_battledale = {
-		color = { 114 133 164 }
-		color2 = { 255 255 255 }
-		
-		b_essembra = {
-		}
-		b_hap = {
-		}
-	}
-}
-d_daggerdale = {
-	color = { 79 99 133 }
-	color2 = { 255 255 255 }
-	
-	capital = 104 # Daggerdale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 104
-			}
-		}
-	}
-	
-	c_daggerdale = {
-		color = { 79 99 133 }
-		color2 = { 255 255 255 }
-		
-		b_dagger_falls = {
-		}
-		b_dordrien = {
-		}
-	}
-}
-d_deepingdale = {
-	color = { 12 86 211 }
-	color2 = { 255 255 255 }
-	
-	capital = 109 # Deepingdale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 109
-			}
-		}
-	}
-	
-	c_deepingdale = {
-		color = { 12 86 211 }
-		color2 = { 255 255 255 }
-		
-		b_highmoon = {
-		}
-		b_hallow_creek = {
-		}
-	}
-}
 d_elversult = {
 	color = { 18 88 103 }
 	color2 = { 255 255 255 }
@@ -2252,124 +2491,6 @@ d_elversult = {
 		color2 = { 255 255 255 }
 		
 		b_ilipur = {
-		}
-	}
-}
-d_featherdale = {
-	color = { 29 68 121 }
-	color2 = { 255 255 255 }
-	
-	capital = 115 # Featherdale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 115
-			}
-		}
-	}
-	
-	c_featherdale = {
-		color = { 29 68 121 }
-		color2 = { 255 255 255 }
-		
-		b_blackfeather_bridge = {
-		}
-		b_feather_falls = {
-		}
-	}
-}
-d_harrowdale = {
-	color = { 105 140 189 }
-	color2 = { 255 255 255 }
-	
-	capital = 113 # Harrowdale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 113
-				province_id = 114
-			}
-		}
-	}
-	
-	c_harrowdale = {
-		color = { 105 140 189 }
-		color2 = { 255 255 255 }
-		
-		b_harrowdale = {
-		}
-		b_velarsburg = {
-		}
-		b_velartree = {
-		}
-		b_lanfroe = {
-		}
-		b_dead_oak = {
-		}
-	}
-	c_cold_fields = {
-		color = { 157 188 230 }
-		color2 = { 255 255 255 }
-		
-		b_chandlers_cross = {
-		}
-	}
-}
-d_high_dale = {
-	color = { 155 188 244 }
-	color2 = { 255 255 255 }
-	
-	capital = 117 # High Dale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 117
-			}
-		}
-	}
-	
-	c_high_dale = {
-		color = { 155 188 244 }
-		color2 = { 255 255 255 }
-		
-		b_high_dale = {
-		}
-	}
-}
-d_mistledale = {
-	color = { 48 123 248 }
-	color2 = { 255 255 255 }
-	
-	capital = 107 # Mistledale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 107
-			}
-		}
-	}
-	
-	c_mistledale = {
-		color = { 48 123 248 }
-		color2 = { 255 255 255 }
-		
-		b_ashabenford = {
-		}
-		b_peldans_helm = {
-		}
-		b_glen = {
 		}
 	}
 }
@@ -2509,30 +2630,6 @@ d_proskur = {
 		}
 	}
 }
-d_scardale = {
-	color = { 27 117 239 }
-	color2 = { 255 255 255 }
-	
-	capital = 112 # Scardale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 112
-			}
-		}
-	}
-	
-	c_scardale = {
-		color = { 27 117 239 }
-		color2 = { 255 255 255 }
-		
-		b_scardale_town = {
-		}
-	}
-}
 d_secomber = {
 	color = { 54 227 54 }
 	color2 = { 255 255 255 }
@@ -2554,95 +2651,6 @@ d_secomber = {
 		color2 = { 255 255 255 }
 		
 		b_secomber = {
-		}
-	}
-}
-d_shadowdale = {
-	color = { 129 164 220 }
-	color2 = { 255 255 255 }
-	
-	capital = 105 # Shadowdale
-	culture = dalelander
-	
-	title = TITLE_LORD
-	title_female = TITLE_LADY
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 105
-			}
-		}
-	}
-	
-	c_shadowdale = {
-		color = { 129 164 220 }
-		color2 = { 255 255 255 }
-		
-		b_shadowdale = {
-		}
-		b_freedale = {
-		}
-	}
-}
-d_tarkhaldale = {
-	color = { 38 76 155 }
-	color2 = { 255 255 255 }
-	
-	capital = 106 # Tarkhaldale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 106
-			}
-		}
-	}
-	
-	c_tarkhaldale = {
-		color = { 38 76 155 }
-		color2 = { 255 255 255 }
-		
-		b_tarkhaldale = {
-		}
-	}
-}
-d_tasseldale = {
-	color = { 64 120 214 }
-	color2 = { 255 255 255 }
-	
-	capital = 116 # Tasseldale
-	culture = dalelander
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 116
-			}
-		}
-	}
-	
-	c_tasseldale = {
-		color = { 64 120 214 }
-		color2 = { 255 255 255 }
-		
-		b_archtassel = {
-		}
-		b_arrowmark = {
-		}
-		b_glaun = {
-		}
-		b_halfcrag = {
-		}
-		b_moontassel = {
-		}
-		b_tasselheart = {
-		}
-		b_tegals_mark = {
 		}
 	}
 }

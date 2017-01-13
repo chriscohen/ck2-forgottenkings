@@ -1,0 +1,10 @@
+1030.1.1 = {
+	holder = 25300 # Aencar Burlisk
+}
+1038.1.1 = {
+	liege = k_dalelands
+}
+1044.1.1 = {
+	liege = 0
+	holder = 0 # Death of Aencar
+}

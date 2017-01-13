@@ -243,5 +243,6 @@
 # 25000  - 25099    Laffabar
 # 25100  - 25199    Jorman
 # 25200  - 25299    Chandrar
+# 25300  - 25399    Burlisk
 #
 # 900000 - 999999 Lowborn
