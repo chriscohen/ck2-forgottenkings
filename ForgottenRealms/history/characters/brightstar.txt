@@ -1,0 +1,22 @@
+# BRIGHTSTAR
+# Range 25500-25599
+
+25500 = {
+	name = Stellaga
+	female = yes
+	dynasty = 211006
+	
+	religion = catholic
+	culture = halfelf
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = cleric
+		trait = lathander
+	}
+	1418.1.1 = {
+		death = yes
+	}
+}

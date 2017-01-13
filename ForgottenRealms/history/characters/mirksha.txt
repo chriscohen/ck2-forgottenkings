@@ -1,0 +1,74 @@
+# MIRKSHA
+# Range 25400-25499
+
+25400 = {
+	name = Dornal
+	dynasty = 211005
+	father = 25403 # Dornal Mirksha
+	
+	religion = catholic
+	culture = dalelander
+	
+	1332.1.1 = {
+		birth = yes
+	}
+	1348.1.1 = {
+		trait = aristocrat
+		employer = 25500 # Stellaga Brightstar / d_archendale
+	}
+	1385.1.1 = {
+		death = yes
+	}
+}
+25401 = {
+	name = Joadath
+	dynasty = 211005
+	father = 25403 # Dornal Mirksha
+	
+	religion = catholic
+	culture = dalelander
+	
+	1333.1.1 = {
+		birth = yes
+	}
+	1349.1.1 = {
+		trait = aristocrat
+		employer = 25500 # Stellaga Brightstar / d_archendale
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}
+25402 = {
+	name = Marler
+	dynasty = 211005
+	father = 25403 # Dornal Mirksha
+	
+	religion = catholic
+	culture = dalelander
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = {
+		trait = aristocrat
+		employer = 25500 # Stellaga Brightstar / d_archendale
+	}
+	1405.1.1 = {
+		death = yes
+	}
+}
+25403 = {
+	name = Dornal
+	dynasty = 211005
+	
+	religion = catholic
+	culture = dalelander
+	
+	1312.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		death = yes
+	}
+}

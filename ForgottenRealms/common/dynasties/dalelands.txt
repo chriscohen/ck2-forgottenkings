@@ -36,3 +36,11 @@
 	name = Burlisk
 	culture = dalelander
 }
+211005 = {
+	name = Mirksha
+	culture = dalelander
+}
+211006 = {
+	name = Brightstar
+	culture = dalelander
+}

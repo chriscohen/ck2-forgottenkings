@@ -244,5 +244,7 @@
 # 25100  - 25199    Jorman
 # 25200  - 25299    Chandrar
 # 25300  - 25399    Burlisk
+# 25400  - 25499    Mirksha
+# 25500  - 25599    Brightstar
 #
 # 900000 - 999999 Lowborn

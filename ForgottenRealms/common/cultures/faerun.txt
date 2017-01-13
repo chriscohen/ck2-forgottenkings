@@ -1358,7 +1358,7 @@ halfbreed = {
 			Vartan
 		}
 		female_names = {
-			Unnamed
+			Stellaga
 		}
 		
 		dukes_called_kings = no
