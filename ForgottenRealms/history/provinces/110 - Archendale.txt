@@ -2,7 +2,7 @@
 title = c_archendale
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
 b_archenbridge = castle
 
@@ -10,4 +10,7 @@ b_archenbridge = castle
 culture = dalelander
 religion = catholic
 
-#History
+# History
+1340.1.1 = {
+	b_whiteturrets = castle
+}

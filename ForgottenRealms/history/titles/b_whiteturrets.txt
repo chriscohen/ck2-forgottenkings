@@ -1,0 +1,7 @@
+1340.1.1 = {
+	liege = c_archendale
+	holder = 25200 # Marler Chandrar
+}
+1401.1.1 = {
+	holder = 0 # Death of Marler
+}

@@ -242,5 +242,6 @@
 # 24900  - 24999    Hallyspyr
 # 25000  - 25099    Laffabar
 # 25100  - 25199    Jorman
+# 25200  - 25299    Chandrar
 #
 # 900000 - 999999 Lowborn

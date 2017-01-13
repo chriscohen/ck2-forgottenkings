@@ -696,6 +696,7 @@ human = {
 			Ashaba
 			Dornal
 			Joadath
+			Marler
 		}
 		female_names = {
 			Adee

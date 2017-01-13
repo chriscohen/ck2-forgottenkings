@@ -28,3 +28,7 @@
         }
     }
 }
+211003 = {
+	name = Chandrar
+	culture = dalelander
+}

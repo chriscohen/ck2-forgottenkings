@@ -2140,6 +2140,8 @@ d_archendale = {
 		}
 		b_white_ford = {
 		}
+		b_whiteturrets = {
+		}
 	}
 }
 d_battledale = {
