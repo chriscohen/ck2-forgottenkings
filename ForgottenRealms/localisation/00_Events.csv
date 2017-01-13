@@ -1,13 +1,16 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESCforgottenrealms.1;Now you have reached adulthood, it is time to choose your class. From fighter to wizard, there is a class for everyone, and it will steer your course into your older years.;;;;;;;;;;;;;x
-EVTOPTA1;I want to be an aristocrat;;;;;;;;;;;;;x
-EVTOPTB1;I want to be a bard;;;;;;;;;;;;;x
-EVTOPTC1;I want to be a cleric;;;;;;;;;;;;;x
-EVTOPTD1;I want to be a druid;;;;;;;;;;;;;x
-EVTOPTE1;I want to be a fighter;;;;;;;;;;;;;x
-EVTOPTF1;I want to be a monk;;;;;;;;;;;;;x
-EVTOPTG1;I want to be a paladin;;;;;;;;;;;;;x
-EVTOPTH1;I want to be a ranger;;;;;;;;;;;;;x
-EVTOPTI1;I want to be a rogue;;;;;;;;;;;;;x
-EVTOPTJ1;I want to be a sorcerer;;;;;;;;;;;;;x
-EVTOPTK1;I want to be a wizard;;;;;;;;;;;;;x
+EVTDESC.fr_class.1;Now you have reached adulthood, it is time to choose your class. From fighter to wizard, there is a class for everyone, and it will steer your course into your older years.;;;;;;;;;;;;;x
+EVTOPTA.fr_class.1;I want to be an aristocrat;;;;;;;;;;;;;x
+EVTOPTB.fr_class.1;I want to be a bard;;;;;;;;;;;;;x
+EVTOPTC.fr_class.1;I want to be a cleric;;;;;;;;;;;;;x
+EVTOPTD.fr_class.1;I want to be a druid;;;;;;;;;;;;;x
+EVTOPTE.fr_class.1;I want to be a fighter;;;;;;;;;;;;;x
+EVTOPTF.fr_class.1;I want to be a monk;;;;;;;;;;;;;x
+EVTOPTG.fr_class.1;I want to be a paladin;;;;;;;;;;;;;x
+EVTOPTH.fr_class.1;I want to be a ranger;;;;;;;;;;;;;x
+EVTOPTI.fr_class.1;I want to be a rogue;;;;;;;;;;;;;x
+EVTOPTJ.fr_class.1;I want to be a sorcerer;;;;;;;;;;;;;x
+EVTOPTK.fr_class.1;I want to be a wizard;;;;;;;;;;;;;x
+EVTDESC.fr_deity.1;In your time of suffering, your thoughts turn to the Crying God, the One Who Endures, Ilmater. A vision of a burly man, dressed only in a breechcloth, bearing marks of horrible mutilation and martyrdom, yet he smiles compassionately.;;;;;;;;;;;;;x
+EVTOPTA.fr_deity.1;I embrace Ilmater in my time of need;;;;;;;;;;;;;x
+EVTOPTB.fr_deity.1;I do not require Ilmater;;;;;;;;;;;;;x

@@ -1,14 +1,14 @@
-namespace = forgottenrealms
+namespace = fr_class
 
 character_event = {
-	id = forgottenrealms.1
-	desc = EVTDESCforgottenrealms.1
+	id = fr_class.1
+	desc = EVTDESC.fr_class.1
 	picture = GFX_evt_choose_class
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTA1
+		name = EVTOPTA.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -21,7 +21,7 @@ character_event = {
 		add_trait = aristocrat
 	}
 	option = {
-		name = EVTOPTB1
+		name = EVTOPTB.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -34,7 +34,7 @@ character_event = {
 		add_trait = bard
 	}
 	option = {
-		name = EVTOPTC1
+		name = EVTOPTC.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -46,7 +46,7 @@ character_event = {
 		add_trait = cleric
 	}
 	option = {
-		name = EVTOPTD1
+		name = EVTOPTD.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -60,7 +60,7 @@ character_event = {
 		add_trait = druid
 	}
 	option = {
-		name = EVTOPTE1
+		name = EVTOPTE.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -73,7 +73,7 @@ character_event = {
 		add_trait = fighter
 	}
 	option = {
-		name = EVTOPTF1
+		name = EVTOPTF.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -86,7 +86,7 @@ character_event = {
 		add_trait = monk
 	}
 	option = {
-		name = EVTOPTG1
+		name = EVTOPTG.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -103,7 +103,7 @@ character_event = {
 		add_trait = paladin
 	}
 	option = {
-		name = EVTOPTH1
+		name = EVTOPTH.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -119,7 +119,7 @@ character_event = {
 		add_trait = ranger
 	}
 	option = {
-		name = EVTOPTI1
+		name = EVTOPTI.fr_class.1
 		
 		trigger = {
 			OR = {
@@ -133,7 +133,7 @@ character_event = {
 		add_trait = rogue
 	}
 	option = {
-		name = EVTOPTJ1
+		name = EVTOPTJ.fr_class.1
 		
 		trigger = {
 			learning = 5
@@ -147,7 +147,7 @@ character_event = {
 		add_trait = sorcerer
 	}
 	option = {
-		name = EVTOPTK1
+		name = EVTOPTK.fr_class.1
 		
 		trigger = {
 			OR = {

@@ -1,0 +1,68 @@
+namespace = fr_deity
+
+# Become a follower of Ilmater
+character_event = {
+	id = fr_deity.1
+	desc = EVTDESC.fr_deity.1
+	picture = GFX_evt_deity_ilmater
+	
+	min_age = 16
+	
+	trigger = {
+		# Do not allow if character has opposite trait, or
+		# already follows Ilmater
+		NOT = {
+			trait = bane
+			trait = bhaal
+			trait = ilmater
+			trait = malar
+			trait = myrkul
+			trait = shar
+			trait = talos
+		}
+		OR = {
+			trait = wounded
+			trait = maimed
+			trait = infirm
+			trait = incapable
+			trait = pneumonic
+			trait = syphilitic
+			trait = leper
+			trait = has_tuberculosis
+			trait = has_typhoid_fever
+			trait = has_typhus
+			trait = has_bubonic_plague
+			trait = has_measles
+			trait = has_small_pox
+			trait = has_aztec_disease
+			trait = flu
+			trait = dysentery
+			trait = gout
+			trait = food_poisoning
+			trait = rabies
+			trait = cancer
+			trait = dancing_plague
+			trait = scurvy
+			trait = one_eyed
+			trait = one_handed
+			trait = one_legged
+			trait = disfigured
+			trait = mangled
+			trait = severely_injured
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = {
+		name = EVTOPTA.fr_deity.1
+		ai_chance = { factor = 50 }
+		add_trait = ilmater
+	}
+	option = {
+		name = EVTOPTB.fr_deity.1
+		ai_chance = { factor = 50 }
+	}
+}
