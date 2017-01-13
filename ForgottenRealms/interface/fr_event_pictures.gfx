@@ -4,4 +4,9 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/choose_class.tga"
 		allwaystransparent = yes
 	}
+	spriteType = {
+		name = "GFX_evt_deity_ilmater"
+		texturefile = "gfx/event_pictures/deity_ilmater.tga"
+		allwaystransparent = yes
+	}
 }
