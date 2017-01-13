@@ -128,7 +128,7 @@
 	}
 	1370.1.1 = {
 		death = {
-			death_execution_hanging
+			death_reason = death_execution_hanging
 			killer = 82 # Tanalasta Obarskyr
 		}
 	}
