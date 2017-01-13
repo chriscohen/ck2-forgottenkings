@@ -108,7 +108,6 @@ ilmater = {
 	opposites = {
 		bane
 		bhaal
-		loviatar
 		malar
 		myrkul
 		shar
@@ -160,16 +159,6 @@ lolth = {
 	
 	same_opinion = 10
 	opposite_opinion = -10
-}
-loviatar = {
-	lifestyle = yes
-	
-	same_opinion = 10
-	opposite_opinion = -10
-	
-	opposites = {
-		ilmater
-	}
 }
 malar = {
 	lifestyle = yes
