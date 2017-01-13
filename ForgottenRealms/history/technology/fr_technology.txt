@@ -18,6 +18,7 @@ technology = {
 		d_deepingdale
 		d_durmista
 		d_eastern_marches
+		d_elversult
 		d_featherdale
 		d_gnarhelm
 		d_golden_marches
@@ -39,6 +40,8 @@ technology = {
 		d_old_coramshan
 		d_oman
 		d_ordulin
+		d_priapurl
+		d_proskur
 		d_purple_dragons
 		d_purple_marches
 		d_saerloon
@@ -53,11 +56,13 @@ technology = {
 		d_suretmarch
 		d_tarkhaldale
 		d_tasseldale
+		d_teziir
 		d_the_stonelands
 		d_the_stormhorns
 		d_tulmon
 		d_twisted_rune
 		d_urmlaspyr
+		d_westgate
 		d_winterglen
 		d_yeslipek
 	}
