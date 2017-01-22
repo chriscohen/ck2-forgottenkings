@@ -246,5 +246,8 @@
 # 25300  - 25399    Burlisk
 # 25400  - 25499    Mirksha
 # 25500  - 25599    Brightstar
+# 25600  - 25699    Ogresbane
+# 25700  - 25799    Mossgreen
+# 25800  - 25899    Snowbrand
 #
 # 900000 - 999999 Lowborn

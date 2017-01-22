@@ -44,3 +44,15 @@
 	name = Brightstar
 	culture = dalelander
 }
+211007 = {
+	name = Ogresbane
+	culture = dalelander
+}
+211008 = {
+	name = Mossgreen
+	culture = dalelander
+}
+211009 = {
+	name = Snowbrand
+	culture = dalelander
+}

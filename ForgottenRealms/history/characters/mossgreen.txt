@@ -1,0 +1,25 @@
+# MOSSGREEN
+# Range 25700-25799
+
+25700 = {
+	name = Jalia
+	female = yes
+	dynasty = 211008
+	
+	religion = catholic
+	culture = dalelander
+	
+	1314.1.1 = {
+		birth = yes
+	}
+	1330.1.1 = {
+		trait = fighter
+	}
+	1345.1.1 = {
+		employer = 25500 # Stellaga Brightstar / c_archendale
+		effect = { give_minor_title = title_archendale_black_sword }
+	}
+	1396.1.1 = {
+		death = yes
+	}
+}

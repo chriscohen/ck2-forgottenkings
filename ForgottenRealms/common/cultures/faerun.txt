@@ -693,14 +693,15 @@ human = {
 		color = { 0.25 0.29 0.91 }
 		
 		male_names = {
-			Aencar Ashaba
-			Dornal
+			Aencar Alduvar Ashaba
+			Dheren Dornal
 			Joadath
 			Marler
 		}
 		female_names = {
 			Adee
 			Elué
+			Jalia
 		}
 		
 		dukes_called_kings = no
