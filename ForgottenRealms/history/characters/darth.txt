@@ -1,0 +1,23 @@
+# DARTH
+# Range 27800-27899
+
+27800 = {
+	name = Elzar
+	dynasty = 211025
+	
+	religion = catholic
+	culture = dalelander
+	
+	1118.1.1 = {
+		birth = yes
+	}
+	1134.1.1 = {
+		trait = fighter
+	}
+	1170.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 27700 # Harlstakh "Har-Stag" Kethtor
+		}
+	}
+}

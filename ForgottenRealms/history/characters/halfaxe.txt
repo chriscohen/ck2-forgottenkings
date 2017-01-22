@@ -1,0 +1,24 @@
+# HALFAXE
+# Range 28100-28199
+
+28100 = {
+	name = Durl
+	dynasty = 600001
+	
+	religion = catholic
+	culture = shield_dwarf
+	
+	trait = trait_shielddwarf
+	
+	1033.1.1 = {
+		birth = yes
+	}
+	1185.1.1 = {
+		employer = 900151 # Halvan the Dark / c_harrowdale
+	}
+	1189.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

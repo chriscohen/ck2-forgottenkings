@@ -1,0 +1,24 @@
+# ALTON
+# Range 28800-28899
+
+28800 = {
+	name = Teredic
+	dynasty = 211032
+	
+	religion = catholic
+	culture = dalelander
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = cleric
+		trait = oghma
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}

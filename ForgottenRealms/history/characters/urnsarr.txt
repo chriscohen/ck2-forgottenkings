@@ -1,0 +1,23 @@
+# URNSARR
+# Range 28000-28099
+
+28000 = {
+	name = Feltaern
+	dynasty = 211027
+	
+	religion = catholic
+	culture = dalelander
+	
+	1102.1.1 = {
+		birth = yes
+	}
+	1118.1.1 = {
+		trait = fighter
+	}
+	1150.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 27900 # Imbar Thaelwood
+		}
+	}
+}

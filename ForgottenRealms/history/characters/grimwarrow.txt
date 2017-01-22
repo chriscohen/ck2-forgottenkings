@@ -1,0 +1,20 @@
+# GRIMWARROW
+# Range 28300-28399
+
+28300 = {
+	name = Alosius
+	dynasty = 211028
+	
+	religion = catholic
+	culture = dalelander
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = aristocrat
+	}
+	1413.1.1 = {
+		death = yes
+	}
+}

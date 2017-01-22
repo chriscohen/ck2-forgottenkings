@@ -1,0 +1,23 @@
+# THAELWOOD
+# Range 27900-27999
+
+27900 = {
+	name = Imbar
+	dynasty = 211026
+	
+	religion = catholic
+	culture = dalelander
+	
+	1104.1.1 = {
+		birth = yes
+	}
+	1120.1.1 = {
+		trait = fighter
+	}
+	1160.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 27800 # Elzar Darth
+		}
+	}
+}

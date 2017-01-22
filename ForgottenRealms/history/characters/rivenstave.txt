@@ -1,0 +1,23 @@
+# RIVENSTAVE
+# Range 28600-28699
+
+28600 = {
+	name = Erethun
+	dynasty = 211030
+	
+	religion = catholic
+	culture = dalelander
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1354.1.1 = {
+		trait = wizard
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1414.1.1 = {
+		death = yes
+	}
+}

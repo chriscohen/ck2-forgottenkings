@@ -1,0 +1,27 @@
+# GOLDENLEAF
+# Range 28400-28499
+
+28400 = {
+	name = Sheera
+	female = yes
+	dynasty = 401010
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	
+	1176.1.1 = {
+		birth = yes
+	}
+	1192.1.1 = {
+		trait = rogue
+		trait = wizard
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1401.1.1 = {
+		death = yes
+	}
+}

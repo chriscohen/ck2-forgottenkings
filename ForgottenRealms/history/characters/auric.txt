@@ -1,0 +1,25 @@
+# AURIC
+# Range 28900-28999
+
+28900 = {
+	name = Seresha
+	female = yes
+	dynasty = 211033
+	
+	religion = catholic
+	culture = halfelf
+	
+	1333.1.1 = {
+		birth = yes
+	}
+	1349.1.1 = {
+		trait = cleric
+		trait = tymora
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1409.1.1 = {
+		death = yes
+	}
+}

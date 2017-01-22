@@ -1,0 +1,25 @@
+# OAKENSTAVE
+# Range 29100-29199
+
+29100 = {
+	name = Yvonna
+	female = yes
+	dynasty = 211035
+	
+	religion = catholic
+	culture = dalelander
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		trait = cleric
+		trait = chauntea
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1401.1.1 = {
+		death = yes
+	}
+}

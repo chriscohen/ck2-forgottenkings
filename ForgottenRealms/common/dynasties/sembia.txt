@@ -29,3 +29,7 @@
 	name = Tharimpar
 	culture = sembian
 }
+210007 = {
+	name = Oraun
+	culture = sembian
+}

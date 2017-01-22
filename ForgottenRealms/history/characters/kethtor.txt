@@ -1,0 +1,23 @@
+# KETHTOR
+# Range 27700-27799
+
+27700 = {
+	name = Harlstakh
+	dynasty = 211024
+	
+	religion = catholic
+	culture = dalelander
+	
+	1120.1.1 = {
+		birth = yes
+	}
+	1136.1.1 = {
+		trait = fighter
+	}
+	1180.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 27600 # Elmaer Oraun
+		}
+	}
+}

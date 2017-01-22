@@ -1,0 +1,24 @@
+# TRESKEDEN
+# Range 28500-28599
+
+28500 = {
+	name = Helena
+	female = yes
+	dynasty = 211029
+	
+	religion = catholic
+	culture = dalelander
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		trait = aristocrat
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1418.1.1 = {
+		death = yes
+	}
+}

@@ -9,6 +9,7 @@ nick_first_king = {}
 nick_first_queen = {}
 nick_foxfire = {}
 nick_frostrune = {}
+nick_har_stag = {}
 nick_longyears = {}
 nick_o_the_blades = {}
 nick_ravenhair = {}

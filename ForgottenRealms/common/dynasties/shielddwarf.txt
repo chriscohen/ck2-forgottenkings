@@ -5,3 +5,7 @@
 	name = Battleaxe
 	culture = shield_dwarf
 }
+600001 = {
+	name = Halfaxe
+	culture = shield_dwarf
+}

@@ -1,0 +1,25 @@
+# SHALEEL
+# Range 28700-28799
+
+28700 = {
+	name = Durana
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = feeble
+	
+	1304.1.1 = {
+		birth = yes
+	}
+	1320.1.1 = {
+		trait = fighter
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1384.1.1 = {
+		death = yes
+	}
+}

@@ -113,6 +113,7 @@ dwarf = {
 		
 		male_names = {
 			Borruk
+			Durl
 		}
 		female_names = {
 			Unnamed
@@ -262,7 +263,7 @@ elf = {
 			Baerndar Boesild
 			Dalbrant
 			Dolthauvin
-			Elinthalar Elnriyr
+			Elinthalar Ellarian Elnriyr
 			Gaelin Ghaelryss
 			Hardorbryn
 			Inthylyn
@@ -278,6 +279,7 @@ elf = {
 		female_names = {
 			Alea Arielimnda
 			Meriel
+			Sheera
 		}
 		
 		dukes_called_kings = no
@@ -627,7 +629,7 @@ human = {
 			Ilberd Ildamoor Ilmreth Ilryn Irvel
 			Jarlin Jathos Jelde Jhaok Jhartos Juarkin Junstal
 			Kae Kallimar Kargerth Keolan Kleef Kortyl Korvarr Krell Krohn
-			Lamiril Landon Larak Lareth Lhannas Londal Lothan
+			Lamiril Landon Larak Lareth Lashan Lhannas Londal Lothan
 			Maerlyn Maestoon Malaglan Mallik Manarech Maniol Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Onkyl Oric Ordmann Orm Ormion Orngrym Ortwin Orvendel
@@ -695,28 +697,34 @@ human = {
 		color = { 0.25 0.29 0.91 }
 		
 		male_names = {
-			Aencar Alduvar Ambrose Ashaba
-			Barathal
+			Aencar Alduvar Alosius Ambrose Ashaba
+			Barathal Belrovur
 			Darwinn Dheren Dornal Dulwar Durn
-			Flars Fulgath
-			Gordon Gorstag Gulmarin
-			Hasicor
-			Ilmeth
+			Elzar Erethun
+			Feltaern Flars Fulgath
+			Gordon Gorstag Gulmarin Gunderman
+			Harlstakh Hasicor Hesketh
+			Ilmeth Imbar
 			Jallian Jherald Joadath
 			Marler
+			Orimmon
 			Randal Rhannon Rhauntides
-			Thaliach Tharwin Tren Tunfer
+			Teredic Thaliach Tharwin Thaundass Tren Tunfer
 			Vzoun
 		}
 		female_names = {
 			Adee
+			Durana
 			Elu� Eragyn
+			Helena
 			Jalia
 			Kessia
+			Llewan
 			Maerindra
 			Neranya
 			Olavia
-			Shaunil Silver
+			Seresha Shaunil Silver
+			Yvonna
 		}
 		
 		dukes_called_kings = no
@@ -964,44 +972,10 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
-			Albrikt_Albert Alf_Alf Algot Anders_Andrew Anund_Anund Arnbjörn Arne_Arne Arnfast Asbjörn_Asbjörn Astrad Azur
-			Bagge Balder_Balder Bengt_Benedict Bertil Birger Björn_Beorn Bo Borkvard Botulf Brage_Brage Bror Brynjolf
-			Dag Dan Dyre
-			Egil_Egil Einar_Einar Emund Erik_Erik Eskild
-			Faste Fredrik_Frederick Filip_Philip Folke_Folke Frej_Frej
-			Georg_George Greger_Gregory Grim_Grim Gudröd_Gudröd Gunnar_Gunnar Gustav
-			Halsten Hans_Hans Harald_Harold Helgi_Helge Henrik_Henry Hjalmar_Hjalmar Holmger Håkan_Hakon
-			Inge_Ingolf Ingemar Ingvar_Ingvar
-			Jedvard_Edward Johan_John
-			Karl_Charles Kettil Kettilmund Klas Knut_Knut Kol Kolbjörn
-			Lars_Laurence
-			Magnus_Magnus Markus_Marcus Mats_Matthew
-			Nils_Nicholas Niklas_Nicholas
-			Odd_Odd Olaf_Olaf Orvar_Orvar
-			Peder_Peter
-			Ragnar_Ragnar Rolf_Rolf Rörek_Rurik Ragnvald_Ragnvald
-			Sämund_Sämund Sörkver Sigbjörn Sigtrygg Sigurd_Sigurd Starkad_Starkad Sten_Sten Styrbjörn Sune_Sune Sven_Sven Sverker Sölvi_Sölve
-			Thomas_Thomas Tjudmund_Tjudmund Toke_Toke Tolir Torbjörn_Torbjörn Tord_Tord Torbrand_Torbrand Torfinn_Torfinn Torkel_Torkel Torolf_Thorolf Torsten_Torsten Toste Totil Tyke
-			Ulf_Ulf
-			Valdemar_Vladimir Åke Östen_Eysteinn 
+			Halfgar
 		}
 		female_names = {
-			Aleta Alfhild Alfridh_Alfridh Anna_Anna Asta_Asta Astrid_Astrid
-			Beata Birgitta_Brigid Bothild_Bothild
-			Cecilia_Cecilia
-			Edla Elin Elisabet_Elisabeth
-			Freja_Freja
-			Gunhild_Gunhild Gyla Gurli Gytha_Gytha
-			Hafrid Helena_Helen Holmfrid
-			Iliana Inga_Inge Ingeborg_Ingeborg Ingegerd_Ingegerd Ingfrid Ingrid_Ingrid
-			Karin_Catherine Katarina_Catherine Kristina_Christina
-			Linda
-			Maer Malmfrid_Malmfrid Margareta_Margaret Märta_Martha
-			Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rikissa
-			Saga Sara_Sarah Sigrid_Sigrid Sofia_Sophia Svanhild_Svanhild
-			Thordis_Thordis
-			Ulvhilde
-			Ylva Åsa_Åsa
+			Unnamed
 		}
 		
 		dukes_called_kings = no
@@ -1070,8 +1044,9 @@ human = {
 		male_names = {
 			Aluin Andeth Andilal
 			Cadellin
-			Elduth
+			Elduth Elmaer Erammon
 			Halath
+			Thaeron
 		}
 		female_names = {
 			Merelith

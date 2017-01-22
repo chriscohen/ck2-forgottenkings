@@ -265,5 +265,22 @@
 # 27200  - 27299    Darian
 # 27300  - 27399    Battleaxe
 # 27400  - 27499    Horgontivar
+# 27500  - 27599    Rahr
+# 27600  - 27699    Oraun
+# 27700  - 27799    Kethtor
+# 27800  - 27899    Darth
+# 27900  - 27999    Thaelwood
+# 28000  - 28099    Urnsarr
+# 28100  - 28199    Halfaxe
+# 28200  - 28299    Aumersair
+# 28300  - 28399    Grimwarrow
+# 28400  - 28499    Goldenleaf
+# 28500  - 28599    Treskeden
+# 28600  - 28699    Rivenstave
+# 28700  - 28799    Shaleel
+# 28800  - 28899    Alton
+# 28900  - 28999    Auric
+# 29000  - 29099    Aspenwold
+# 29100  - 29199    Oakenstave
 #
 # 900000 - 999999 Lowborn

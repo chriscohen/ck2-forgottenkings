@@ -1,0 +1,25 @@
+# ASPENWOLD
+# Range 29000-29099
+
+29000 = {
+	name = Llewan
+	female = yes
+	dynasty = 211034
+	
+	religion = catholic
+	culture = dalelander
+	
+	1339.1.1 = {
+		birth = yes
+	}
+	1355.1.1 = {
+		trait = cleric
+		trait = mystra
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1422.1.1 = {
+		death = yes
+	}
+}

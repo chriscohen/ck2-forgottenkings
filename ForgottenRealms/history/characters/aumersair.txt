@@ -1,0 +1,22 @@
+# AUMERSAIR
+# Range 28200-28299
+
+28200 = {
+	name = Lashan
+	dynasty = 201089
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1311.1.1 = {
+		birth = yes
+	}
+	1327.1.1 = {
+		trait = fighter
+	}
+	1356.8.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}

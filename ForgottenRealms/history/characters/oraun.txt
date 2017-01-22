@@ -1,0 +1,44 @@
+# ORAUN
+# Range 27600-27699
+
+27600 = {
+	name = Elmaer
+	dynasty = 210007
+	
+	religion = catholic
+	culture = sembian
+	
+	1134.1.1 = {
+		birth = yes
+	}
+	1150.1.1 = {
+		trait = fighter
+	}
+	1185.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 900151 # Halvan the Dark
+		}
+	}
+}
+27601 = {
+	name = Erammon
+	dynasty = 210007
+	father = 27600 # Elmaer
+	
+	religion = catholic
+	culture = sembian
+	
+	1152.1.1 = {
+		birth = yes
+	}
+	1168.1.1 = {
+		trait = fighter
+	}
+	1185.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 900151 # Halvan the Dark
+		}
+	}
+}

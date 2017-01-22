@@ -108,3 +108,55 @@
 	name = Horgontivar
 	culture = dalelander
 }
+211023 = {
+	name = Rahr
+	culture = dalelander
+}
+211024 = {
+	name = Kethtor
+	culture = dalelander
+}
+211025 = {
+	name = Darth
+	culture = dalelander
+}
+211026 = {
+	name = Thaelwood
+	culture = dalelander
+}
+211027 = {
+	name = Urnsarr
+	culture = dalelander
+}
+211028 = {
+	name = Grimwarrow
+	culture = dalelander
+}
+211029 = {
+	name = Treskeden
+	culture = dalelander
+}
+211030 = {
+	name = Rivenstave
+	culture = dalelander
+}
+211031 = {
+	name = Shaleel
+	culture = dalelander
+}
+211032 = {
+	name = Alton
+	culture = dalelander
+}
+211033 = {
+	name = Auric
+	culture = dalelander
+}
+211034 = {
+	name = Aspenwold
+	culture = dalelander
+}
+211035 = {
+	name = Oakenstave
+	culture = dalelander
+}

@@ -1,0 +1,23 @@
+# RAHR
+# Range 27500-27599
+
+27500 = {
+	name = Thaundass
+	dynasty = 211023
+	
+	religion = catholic
+	culture = dalelander
+	
+	1084.1.1 = {
+		birth = yes
+	}
+	1100.1.1 = {
+		trait = fighter
+	}
+	1130.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 900153 # Orimmon
+		}
+	}
+}

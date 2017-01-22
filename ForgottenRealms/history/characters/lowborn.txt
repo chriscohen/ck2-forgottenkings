@@ -2735,3 +2735,164 @@
 		}
 	}
 }
+900151 = {
+	name = Halvan
+	
+	religion = catholic
+	culture = dalelander
+	
+	1127.1.1 = {
+		birth = yes
+	}
+	1143.1.1 = {
+		trait = fighter
+		give_nickname = nick_the_dark
+	}
+	1189.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+900152 = {
+	name = Thaeron
+	
+	religion = catholic
+	culture = sembian
+	
+	1136.1.1 = {
+		birth = yes
+	}
+	1152.1.1 = {
+		trait = fighter
+	}
+	1180.1.1 = {
+		employer = 27600 # Elmaer Oraun / c_harrowdale
+	}
+	1185.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 900151 # Halvan the Dark
+		}
+	}
+}
+900153 = {
+	name = Orimmon
+	
+	religion = catholic
+	culture = dalelander
+	
+	1098.1.1 = {
+		birth = yes
+	}
+	1114.1.1 = {
+		trait = fighter
+	}
+	1140.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 28000 # Feltaern Urnsarr
+		}
+	}
+}
+900154 = {
+	name = Halfgar
+	
+	religion = catholic
+	culture = northman
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		trait = fighter
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}
+900155 = {
+	name = "Gunderman Brewmaster"
+	
+	religion = catholic
+	culture = halfelf
+	
+	trait = trusting
+	trait = gluttonous
+	
+	1325.1.1 = {
+		birth = yes
+	}
+	1341.1.1 = {
+		trait = aristocrat
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}
+900156 = {
+	name = Ellarian
+	
+	religion = catholic
+	culture = moonelf
+	
+	martial = 9
+	
+	trait = trait_moonelf
+	
+	1254.1.1 = {
+		birth = yes
+	}
+	1270.1.1 = {
+		trait = fighter
+		trait = wizard
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+		effect = { give_job_title = job_marshal }
+	}
+}
+900157 = {
+	name = Hesketh
+	
+	religion = catholic
+	culture = dalelander
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1315.1.1 = {
+		trait = figher
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1384.1.1 = {
+		death = yes
+	}
+}
+900158 = {
+	name = Belrovur
+	
+	religion = catholic
+	culture = dalelander
+	
+	1301.1.1 = {
+		birth = yes
+	}
+	1317.1.1 = {
+		trait = fighter
+	}
+	1356.8.1 = {
+		employer = 28300 # Alosius Grimwarrow / c_harrowdale
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
