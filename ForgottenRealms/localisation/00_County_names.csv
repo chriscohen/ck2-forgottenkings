@@ -93,6 +93,8 @@ c_flamsterd;Flamsterd;;;;;;;;;;;;;x
 c_flamsterd_adj;Flamsterdian;;;;;;;;;;;;;x
 c_forest_of_mir;Forest of Mir;;;;;;;;;;;;;x
 c_forest_of_mir_adj;Forest of Mirran;;;;;;;;;;;;;x
+c_fyraven;Fyraven;;;;;;;;;;;;;x
+c_fyraven_adj;Fyraveni;;;;;;;;;;;;;x
 c_gnarhelm;Gnarhelm;;;;;;;;;;;;;x
 c_gnarhelm_adj;Gnarhelmer;;;;;;;;;;;;;x
 c_graygruun;Graygruun;;;;;;;;;;;;;x
@@ -167,6 +169,8 @@ c_monteshi;Monteshi;;;;;;;;;;;;;x
 c_monteshi_adj;Monteshian;;;;;;;;;;;;;x
 c_moray;Moray;;;;;;;;;;;;;x
 c_moray_adj;Morayan;;;;;;;;;;;;;x
+c_morninggold;Morninggold;;;;;;;;;;;;;x
+c_morninggold_adj;Morninggoldian;;;;;;;;;;;;;x
 c_mosstone;Mosstone;;;;;;;;;;;;;x
 c_mosstone_adj;Mosstonian;;;;;;;;;;;;;x
 c_myrloch_vale;Myrloch Vale;;;;;;;;;;;;;x
@@ -186,7 +190,7 @@ c_northern_sembia_adj;Northern Sembian;;;;;;;;;;;;;x
 c_nykkar_isle;Nykkar Isle;;;;;;;;;;;;;x
 c_nykkar_isle_adj;Nykkar Islian;;;;;;;;;;;;;x
 c_old_coramshan;Old Coramshan;;;;;;;;;;;;;x
-c_old_coramshan;Old Coramshani;;;;;;;;;;;;;x
+c_old_coramshan_adj;Old Coramshani;;;;;;;;;;;;;x
 c_orcskill;Orcskill;;;;;;;;;;;;;x
 c_orcskill_adj;Orcskillian;;;;;;;;;;;;;x
 c_ordulin;Ordulin;;;;;;;;;;;;;x
@@ -209,6 +213,8 @@ c_red_larch;Red Larch;;;;;;;;;;;;;x
 c_red_larch_adj;Red Larchian;;;;;;;;;;;;;x
 c_reddansyr;Reddansyr;;;;;;;;;;;;;x
 c_reddansyr_adj;Reddansyran;;;;;;;;;;;;;x
+c_rivershire;Rivershire;;;;;;;;;;;;;x
+c_rivershire_adj;Rivershiran;;;;;;;;;;;;;x
 c_saerloon;Saerloon;;;;;;;;;;;;;x
 c_saerloon_adj;Saerloonian;;;;;;;;;;;;;x
 c_saint_noradnar;Saint Noradnar;;;;;;;;;;;;;x
@@ -255,6 +261,8 @@ c_suldolphor;Suldolphor;;;;;;;;;;;;;x
 c_suldolphor_adj;Suldolphorian;;;;;;;;;;;;;x
 c_surkazar;Surkazar;;;;;;;;;;;;;x
 c_surkazar_adj;Surkazarran;;;;;;;;;;;;;x
+c_suzail;Suzail;;;;;;;;;;;;;x
+c_suzail_adj;Suzailan;;;;;;;;;;;;;x
 c_sword_mountains;Sword Mountains;;;;;;;;;;;;;x
 c_sword_mountains_adj;Sword Mountainsian;;;;;;;;;;;;;x
 c_talffolk;Talffolk;;;;;;;;;;;;;x
@@ -309,6 +317,8 @@ c_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
 c_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
 c_valashar;Valashar;;;;;;;;;;;;;x
 c_valashar_adj;Valasharran;;;;;;;;;;;;;x
+c_varyth;Varyth;;;;;;;;;;;;;x
+c_varyth_adj;Varythian;;;;;;;;;;;;;x
 c_ventris;Ventris;;;;;;;;;;;;;x
 c_ventris_adj;Ventricular;;;;;;;;;;;;;x
 c_vintor;Vintor;;;;;;;;;;;;;x
