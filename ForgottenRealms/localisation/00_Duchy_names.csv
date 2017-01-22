@@ -121,12 +121,16 @@ d_the_stonelands;The Stonelands;The Stonelands;The Stonelands;;The Stonelands;;;
 d_the_stonelands_adj;Stonelander;;;;;;;;;;;;;x
 d_the_stormhorns;The Stormhorns;The Stormhorns;The Stormhorns;;The Stormhorns;;;;;;;;;x
 d_the_stormhorns_adj;Stormhorner;;;;;;;;;;;;;x
+d_triboar;Triboar;;;;;;;;;;;;;x
+d_triboar_adj;Triboaran;;;;;;;;;;;;;x
 d_tulmon;Tulmon;;;;;;;;;;;;;x
 d_tulmon_adj;Tulmonni;;;;;;;;;;;;;x
 d_twisted_rune;Twisted Rune;;;;;;;;;;;;;x
 d_twisted_rune_adj;Twisted Runian;;;;;;;;;;;;;x
 d_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
 d_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
+d_waterdeep;Waterdeep;;;;;;;;;;;;;x
+d_waterdeep_adj;Waterdhavian;;;;;;;;;;;;;x
 d_westgate;Westgate;;;;;;;;;;;;;x
 d_westgate_adj;Westhavian;;;;;;;;;;;;;x
 d_winterglen;Winterglen;;;;;;;;;;;;;x

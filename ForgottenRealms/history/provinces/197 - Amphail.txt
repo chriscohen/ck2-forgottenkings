@@ -1,0 +1,13 @@
+# County Title
+title = c_amphail
+
+# Settlements
+max_settlements = 2
+
+b_amphail = castle
+
+# Misc
+culture = waterdhavian
+religion = catholic
+
+# History

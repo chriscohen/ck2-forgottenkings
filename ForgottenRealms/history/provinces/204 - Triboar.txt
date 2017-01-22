@@ -1,0 +1,13 @@
+# County Title
+title = c_triboar
+
+# Settlements
+max_settlements = 1
+
+b_triboar = castle
+
+# Misc
+culture = waterdhavian
+religion = catholic
+
+# History

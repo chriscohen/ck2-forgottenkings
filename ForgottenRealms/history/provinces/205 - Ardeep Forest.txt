@@ -1,0 +1,13 @@
+# County Title
+title = c_ardeep_forest
+
+# Settlements
+max_settlements = 1
+
+b_ardeep_forest = castle
+
+# Misc
+culture = waterdhavian
+religion = catholic
+
+# History

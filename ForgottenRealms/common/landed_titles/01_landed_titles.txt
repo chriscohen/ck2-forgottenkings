@@ -2767,6 +2767,46 @@ d_suldolphor = {
 		}
 	}
 }
+d_triboar = {
+	color = { 225 146 7 }
+	color2 = { 255 255 255 }
+	
+	capital = 204 # Triboar
+	culture = waterdhavian
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 200
+				province_id = 203
+				province_id = 204
+			}
+		}
+	}
+	
+	c_triboar = {
+		color = { 225 146 7 }
+		color2 = { 255 255 255 }
+		
+		b_triboar = {
+		}
+	}
+	c_westbridge = {
+		color = { 139 117 87 }
+		color2 = { 255 255 255 }
+		
+		b_westbridge = {
+		}
+	}
+	c_kryptgarden = {
+		color = { 247 213 167 }
+		color2 = { 255 255 255 }
+		
+		b_kryptgarden = {
+		}
+	}
+}
 d_tulmon = {
 	color = { 220 222 114 }
 	color2 = { 255 255 255 }
@@ -2791,6 +2831,86 @@ d_tulmon = {
 		title_female = TITLE_VIZERA
 		
 		b_tulmon = {
+		}
+	}
+}
+d_waterdeep = {
+	color = { 210 128 12 }
+	color2 = { 255 255 255 }
+	
+	capital = 196 # Waterdeep
+	culture = waterdhavian
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 196
+				province_id = 197
+				province_id = 198
+				province_id = 199
+				province_id = 202
+				province_id = 206
+			}
+		}
+	}
+	
+	c_waterdeep = {
+		color = { 210 128 12 }
+		color2 = { 255 255 255 }
+		
+		b_castle_ward = {
+		}
+		b_dock_ward = {
+		}
+		b_mountainside = {
+		}
+		b_north_ward = {
+		}
+		b_sea_ward = {
+		}
+		b_south_ward = {
+		}
+		b_trades_ward = {
+		}
+	}
+	c_amphail = {
+		color = { 239 185 109 }
+		color2 = { 255 255 255 }
+		
+		b_amphail = {
+		}
+		b_rassalantar = {
+		}
+	}
+	c_red_larch = {
+		color = { 198 118 4 }
+		color2 = { 255 255 255 }
+		
+		b_red_larch = {
+		}
+	}
+	c_ironford = {
+		color = { 135 93 33 }
+		color2 = { 255 255 255 }
+		
+		b_bargewright = {
+		}
+		b_goldenfields = {
+		}
+	}
+	c_westwood = {
+		color = { 134 83 13 }
+		color2 = { 255 255 255 }
+		
+		b_kheldell = {
+		}
+	}
+	c_sword_mountains = {
+		color = { 176 117 15 }
+		color2 = { 255 255 255 }
+		
+		b_sword_mountains = {
 		}
 	}
 }

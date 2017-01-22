@@ -1,0 +1,16 @@
+# County Title
+title = c_ironford
+
+# Settlements
+max_settlements = 2
+
+b_bargewright = castle
+
+# Misc
+culture = waterdhavian
+religion = catholic
+
+# History
+1359.1.1 = {
+	b_goldenfields = temple
+}

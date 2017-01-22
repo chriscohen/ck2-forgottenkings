@@ -7,18 +7,24 @@ c_almraiven;Almraiven;;;;;;;;;;;;;x
 c_almraiven_adj;Almraivenian;;;;;;;;;;;;;x
 c_alonmarch;Alonmarch;;;;;;;;;;;;;x
 c_alonmarch_adj;Alonmarchian;;;;;;;;;;;;;x
+c_amphail;Amphail;;;;;;;;;;;;;x
+c_amphail_adj;Amphailan;;;;;;;;;;;;;x
 c_ankramir;Ankramir;;;;;;;;;;;;;x
 c_ankramir_adj;Ankramirran;;;;;;;;;;;;;x
 c_arabel;Arabel;;;;;;;;;;;;;x
 c_arabel_adj;Arabellan;;;;;;;;;;;;;x
 c_archendale;Archendale;;;;;;;;;;;;;x
 c_archendale_adj;Archendalen;;;;;;;;;;;;;x
+c_ardeep_forest;Ardeep Forest;;;;;;;;;;;;;x
+c_ardeep_forest_adj;Ardeepian;;;;;;;;;;;;;x
 c_bardshyr;Bardshyr;;;;;;;;;;;;;x
 c_bardshyr_adj;Bardshyrran;;;;;;;;;;;;;x
 c_barrets_quay;Barret’s Quay;;;;;;;;;;;;;x
 c_barrets_quay_adj;Barret’s Quayan;;;;;;;;;;;;;x
 c_battledale;Battledale;;;;;;;;;;;;;x
 c_battledale_adj;Battledalen;;;;;;;;;;;;;x
+c_beliard;Beliard;;;;;;;;;;;;;x
+c_beliard_adj;Beliardan;;;;;;;;;;;;;x
 c_black_mountains;Black Mountains;;;;;;;;;;;;;x
 c_black_mountains_adj;Black Mountainer;;;;;;;;;;;;;x
 c_brost;Brost;;;;;;;;;;;;;x
@@ -121,6 +127,8 @@ c_iltkazar_highlands;Iltkazar Highlands;;;;;;;;;;;;;x
 c_iltkazar_highlands_adj;Iltkazar Highlander;;;;;;;;;;;;;x
 c_ioma;Ioma;;;;;;;;;;;;;x
 c_ioma_adj;Ioman;;;;;;;;;;;;;x
+c_ironford;Ironford;;;;;;;;;;;;;x
+c_ironford_adj;Ironfordian;;;;;;;;;;;;;x
 c_irphong;Irphong;;;;;;;;;;;;;x
 c_irphong_adj;Irphonghian;;;;;;;;;;;;;x
 c_ithmonn;Ithmonn;;;;;;;;;;;;;x
@@ -137,6 +145,8 @@ c_kingsbay;Kingsbay;;;;;;;;;;;;;x
 c_kingsbay_adj;Kingsbayan;;;;;;;;;;;;;x
 c_kings_forest;King's Forest;King's Forest;King's Forest;;King's Forest;;;;;;;;;x
 c_kings_forest_adj;King's Forester;;;;;;;;;;;;;x
+c_kryptgarden;Kryptgarden;;;;;;;;;;;;;x
+c_kryptgarden_adj;Kryptgardenian;;;;;;;;;;;;;x
 c_lisburnt_mountains;Lisburnt Mountains;;;;;;;;;;;;;x
 c_lisburnt_mountains_adj;Lisburnt Mountainer;;;;;;;;;;;;;x
 c_llorgh;Llorgh;;;;;;;;;;;;;x
@@ -195,6 +205,8 @@ c_proskur;Proskur;;;;;;;;;;;;;x
 c_proskur_adj;Proskurran;;;;;;;;;;;;;x
 c_rabins_reef;Rabin’s Reef;;;;;;;;;;;;;x
 c_rabins_reef_adj;Rabin’s Reefian;;;;;;;;;;;;;x
+c_red_larch;Red Larch;;;;;;;;;;;;;x
+c_red_larch_adj;Red Larchian;;;;;;;;;;;;;x
 c_reddansyr;Reddansyr;;;;;;;;;;;;;x
 c_reddansyr_adj;Reddansyran;;;;;;;;;;;;;x
 c_saerloon;Saerloon;;;;;;;;;;;;;x
@@ -243,6 +255,8 @@ c_suldolphor;Suldolphor;;;;;;;;;;;;;x
 c_suldolphor_adj;Suldolphorian;;;;;;;;;;;;;x
 c_surkazar;Surkazar;;;;;;;;;;;;;x
 c_surkazar_adj;Surkazarran;;;;;;;;;;;;;x
+c_sword_mountains;Sword Mountains;;;;;;;;;;;;;x
+c_sword_mountains_adj;Sword Mountainsian;;;;;;;;;;;;;x
 c_talffolk;Talffolk;;;;;;;;;;;;;x
 c_talffolk_adj;Talffolk;;;;;;;;;;;;;x
 c_talltrees;Talltrees;;;;;;;;;;;;;x
@@ -283,6 +297,8 @@ c_toralth;Toralth;;;;;;;;;;;;;x
 c_toralth_adj;Toralthian;;;;;;;;;;;;;x
 c_trailstone;Trailstone;;;;;;;;;;;;;x
 c_trailstone_adj;Trailstonian;;;;;;;;;;;;;x
+c_triboar;Triboar;;;;;;;;;;;;;x
+c_triboar_adj;Triboaran;;;;;;;;;;;;;x
 c_trollclaw;Trollclaw;;;;;;;;;;;;;x
 c_trollclaw_adj;Trollclawed;;;;;;;;;;;;;x
 c_tulmon;Tulmon;;;;;;;;;;;;;x
@@ -297,6 +313,8 @@ c_ventris;Ventris;;;;;;;;;;;;;x
 c_ventris_adj;Ventricular;;;;;;;;;;;;;x
 c_vintor;Vintor;;;;;;;;;;;;;x
 c_vintor_adj;Vintorran;;;;;;;;;;;;;x
+c_waterdeep;Waterdeep;;;;;;;;;;;;;x
+c_waterdeep_adj;Waterdhavian;;;;;;;;;;;;;x
 c_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
 c_wave_rocks_adj;Wave Rocker;;;;;;;;;;;;;x
 c_west_calim_desert;West Calim Desert;;;;;;;;;;;;;x
@@ -307,8 +325,12 @@ c_west_oman;West Oman;;;;;;;;;;;;;x
 c_west_oman_adj;West Omanian;;;;;;;;;;;;;x
 c_western_sembia;Western Sembia;;;;;;;;;;;;;x
 c_western_sembia_adj;Western Sembian;;;;;;;;;;;;;x
+c_westbridge;Westbridge;;;;;;;;;;;;;x
+c_westbridge_adj;Westbridgian;;;;;;;;;;;;;x
 c_westgate;Westgate;;;;;;;;;;;;;x
 c_westgate_adj;Westhavian;;;;;;;;;;;;;x
+c_westwood;Westwood;;;;;;;;;;;;;x
+c_westwood_adj;Westwoodian;;;;;;;;;;;;;x
 c_winterglen;Winterglen;;;;;;;;;;;;;x
 c_winterglen_adj;Winterglenian;;;;;;;;;;;;;x
 c_yeslipek;Yeshpek;;;;;;;;;;;;;x

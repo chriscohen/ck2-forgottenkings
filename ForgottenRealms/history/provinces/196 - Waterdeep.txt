@@ -1,0 +1,19 @@
+# County Title
+title = c_waterdeep
+
+# Settlements
+max_settlements = 7
+
+b_castle_ward = castle
+b_dock_ward = castle
+b_mountainside = city
+b_north_ward = castle
+b_sea_ward = castle
+b_south_ward = castle
+b_trades_ward = castle
+
+# Misc
+culture = waterdhavian
+religion = catholic
+
+# History
