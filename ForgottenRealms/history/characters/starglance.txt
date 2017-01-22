@@ -1,0 +1,26 @@
+# STARGLANCE
+# Range 27000-27099
+
+27000 = {
+	name = Meriel
+	female = yes
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	
+	1191.1.1 = {
+		birth = yes
+	}
+	1207.1.1 = {
+		trait = cleric
+		# trait = corellon (no trait for this yet)
+	}
+	1352.1.1 = {
+		employer = 26700 # Theremen Ulath / c_deepingdale
+	}
+	1415.1.1 = {
+		death = yes
+	}
+}

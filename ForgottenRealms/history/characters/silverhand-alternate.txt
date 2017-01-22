@@ -1,0 +1,26 @@
+# SILVERHAND
+# (not THE Silverhand dynasty)
+# Range 26800-26899
+
+26800 = {
+	name = Gaelin
+	dynasty = 401008
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	
+	1256.1.1 = {
+		birth = yes
+	}
+	1272.1.1 = {
+		trait = fighter
+	}
+	1352.1.1 = {
+		employer = 26700 # Theremen Ulath / c_deepingdale
+	}
+	1452.1.1 = {
+		death = yes
+	}
+}

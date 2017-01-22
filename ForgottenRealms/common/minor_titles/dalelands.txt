@@ -58,3 +58,23 @@ title_archendale_red_sword = {
 		has_landed_title = d_archendale
 	}
 }
+title_sage_of_deepingdale = {
+	dignity = 0.2
+	grant_limit = 1
+	
+	opinion_effect = 10
+	
+	monthly_salary = 0.1
+	monthly_prestige = 0.25
+	
+	is_unique = yes
+	
+	allowed_to_hold = {
+		is_adult = YES
+		trait = wizard
+		NOT = { trait = incapable }
+	}
+	allowed_to_grant = {
+		has_landed_title = d_deepingdale
+	}
+}

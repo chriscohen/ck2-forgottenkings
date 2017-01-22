@@ -33,3 +33,12 @@
 	name = Moondrop
 	culture = moonelf
 }
+401008 = {
+	# Not THE Silverhand dynasty - this is another one
+	name = Silverhand
+	culture = moonelf
+}
+401009 = {
+	name = Starglance
+	culture = moonelf
+}

@@ -253,6 +253,7 @@ elf = {
 	}
 	moonelf = {
 		graphical_cultures = { westerngfx }
+		graphical_cultures = { westerngfx }
 		
 		color = { 0.3 0.55 0.8 }
 		
@@ -262,7 +263,7 @@ elf = {
 			Dalbrant
 			Dolthauvin
 			Elinthalar Elnriyr
-			Ghaelryss
+			Gaelin Ghaelryss
 			Hardorbryn
 			Inthylyn
 			Lilinthar
@@ -276,6 +277,7 @@ elf = {
 		}
 		female_names = {
 			Alea Arielimnda
+			Meriel
 		}
 		
 		dukes_called_kings = no
@@ -697,11 +699,12 @@ human = {
 			Barathal
 			Dheren Dornal Dulwar Durn
 			Flars Fulgath
-			Gordon Gulmarin
+			Gordon Gorstag Gulmarin
+			Hasicor
 			Ilmeth
 			Joadath
 			Marler
-			Randal Rhannon
+			Randal Rhannon Rhauntides
 			Thaliach Tharwin Tren Tunfer
 			Vzoun
 		}
@@ -709,10 +712,11 @@ human = {
 			Adee
 			Elué Eragyn
 			Jalia
+			Kessia
 			Maerindra
 			Neranya
 			Olavia
-			Silver
+			Shaunil Silver
 		}
 		
 		dukes_called_kings = no
@@ -802,6 +806,7 @@ human = {
 		color = { 0.3 0.55 0.8 }
 		
 		male_names = {
+			Alamus
 			Halanter
 			Sarshel
 		}
@@ -1367,6 +1372,7 @@ halfbreed = {
 		male_names = {
 			Daragath
 			Kymer
+			Theremen
 			Vartan
 		}
 		female_names = {

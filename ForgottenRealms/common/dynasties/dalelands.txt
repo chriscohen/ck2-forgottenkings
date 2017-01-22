@@ -88,3 +88,19 @@
 	name = Noemfor
 	culture = dalelander
 }
+211018 = {
+	name = Ulath
+	culture = dalelander
+}
+211019 = {
+	name = Danali
+	culture = dalelander
+}
+211020 = {
+	name = Tharm
+	culture = dalelander
+}
+211021 = {
+	name = Darian
+	culture = dalelander
+}

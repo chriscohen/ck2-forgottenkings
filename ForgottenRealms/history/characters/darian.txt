@@ -1,0 +1,23 @@
+# DARIAN
+# Range 27200-27299
+
+27200 = {
+	name = Alamus
+	dynasty = 211021
+	
+	religion = catholic
+	culture = impilturian
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		trait = fighter
+	}
+	1352.1.1 = {
+		employer = 26700 # Theremen Ulath / c_deepingdale
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

@@ -2597,3 +2597,86 @@
 		death = yes
 	}
 }
+900144 = {
+	name = Kessia
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = deceitful
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		trait = fighter
+	}
+	1352.1.1 = {
+		employer = 26700 # Theremen Ulath / c_deepingdale
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}
+900145 = {
+	name = Hanseld
+	
+	religion = catholic
+	culture = halfelf
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = rogue
+	}
+	1352.1.1 = {
+		employer = 26700 # Theremen Ulath / c_deepingdale
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}
+900146 = {
+	name = Rhauntides
+	
+	religion = catholic
+	culture = dalelander
+	
+	1311.1.1 = {
+		birth = yes
+	}
+	1327.1.1 = {
+		trait = wizard
+	}
+	1335.1.1 = {
+		add_spouse = 27100 # Shaunil Tharm
+	}
+	1352.1.1 = {
+		employer = 26700 # Theremen Ulath / c_deepingdale
+		effect = { give_minor_title = title_sage_of_deepingdale }
+	}
+	1401.1.1 = {
+		death = yes
+	}
+}
+900147 = {
+	name = Gorstag
+	
+	religion = catholic
+	culture = dalelander
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		trait = fighter
+	}
+	1352.1.1 = {
+		employer = 26700 # Theremen Ulath / c_deepingdale
+	}
+	1379.1.1 = {
+		death = yes
+	}
+}

@@ -257,5 +257,11 @@
 # 26400  - 26499    Morn
 # 26500  - 26599    Elrproast
 # 26600  - 26699    Noemfor
+# 26700  - 26799    Ulath
+# 26800  - 26899    Silverhand (not THE Silverhand, a different one)
+# 26900  - 26999    Danali
+# 27000  - 27099    Starglance
+# 27100  - 27199    Tharm
+# 27200  - 27299    Darian
 #
 # 900000 - 999999 Lowborn
