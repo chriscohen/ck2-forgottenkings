@@ -2412,3 +2412,188 @@
 		}
 	}
 }
+900137 = {
+	name = Eragyn
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = cleric
+		trait = cyric
+		give_nickname = nick_the_dark
+		employer = 900136 # Malyk / c_daggerdale
+	}
+	1353.1.1 = {
+		employer = 26600 # Tren Noemfor / c_daggerdale
+	}
+	1369.1.1 = {
+		employer = 26400 # Randal Morn / c_daggerdale
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}
+900138 = {
+	name = Tunfer
+	
+	religion = catholic
+	culture = dalelander
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		trait = cleric
+		trait = tyr
+		give_nickname = nick_the_stout
+		employer = 900136 # Malyk / c_daggerdale
+	}
+	1353.1.1 = {
+		employer = 26600 # Tren Noemfor / c_daggerdale
+	}
+	1369.1.1 = {
+		employer = 26400 # Randal Morn / c_daggerdale
+	}
+	1391.1.11 = {
+		employer = 1519 # Sathrin Cormaeril / c_daggerdale
+	}
+	1403.1.1 = {
+		death = yes
+	}
+}
+900139 = {
+	name = Olavia
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	1322.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		trait = aristocrat
+		employer = 900136 # Malyk / c_daggerdale
+	}
+	1353.1.1 = {
+		employer = 26600 # Tren Noemfor / c_daggerdale
+	}
+	1369.1.1 = {
+		employer = 26400 # Randal Morn / c_daggerdale
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}
+900140 = {
+	name = Dulwar
+	
+	religion = catholic
+	culture = dalelander
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		trait = rogue
+		employer = 900136 # Malyk / c_daggerdale
+	}
+	1353.1.1 = {
+		employer = 26600 # Tren Noemfor / c_daggerdale
+	}
+	1369.1.1 = {
+		employer = 26400 # Randal Morn / c_daggerdale
+	}
+	1391.1.11 = {
+		employer = 1519 # Sathrin Cormaeril / c_daggerdale
+	}
+	1400.1.1 = {
+		death = yes
+	}
+}
+900141 = {
+	name = Fulgath
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = deceitful
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		trait = rogue
+	}
+	1353.1.1 = {
+		employer = 26600 # Tren Noemfor / c_daggerdale
+	}
+	1369.1.1 = {
+		employer = 26400 # Randal Morn / c_daggerdale
+	}
+	1391.1.11 = {
+		employer = 1519 # Sathrin Cormaeril / c_daggerdale
+	}
+	1409.1.1 = {
+		death = yes
+	}
+}
+900142 = {
+	name = Kessla
+	female = yes
+	
+	religion = catholic
+	culture = halfelf
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	1353.1.1 = {
+		trait = bard
+		employer = 26600 # Tren Noemfor / c_daggerdale
+	}
+	1369.1.1 = {
+		employer = 26400 # Randal Morn / c_daggerdale
+	}
+	1391.1.11 = {
+		employer = 1519 # Sathrin Cormaeril / c_daggerdale
+	}
+	1425.1.1 = {
+		employer = 1520 # Dornavos Cormaeril / c_daggerdale
+	}
+	1428.1.1 = {
+		death = yes
+	}
+}
+900143 = {
+	name = Tharwin
+	
+	religion = catholic
+	culture = dalelander
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = fighter
+		employer = 900136 # Malyk / c_daggerdale
+	}
+	1350.1.1 = {
+		trait = one_eyed
+		give_nickname = nick_one_eye
+	}
+	1353.1.1 = {
+		employer = 26600 # Tren Noemfor / c_daggerdale
+	}
+	1369.1.1 = {
+		employer = 26400 # Randal Morn / c_daggerdale
+	}
+	1385.1.1 = {
+		death = yes
+	}
+}

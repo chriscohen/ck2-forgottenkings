@@ -256,5 +256,6 @@
 # 26300  - 26399    Wyvernblade
 # 26400  - 26499    Morn
 # 26500  - 26599    Elrproast
+# 26600  - 26699    Noemfor
 #
 # 900000 - 999999 Lowborn

@@ -84,3 +84,7 @@
 	name = Elrproast
 	culture = dalelander
 }
+211017 = {
+	name = Noemfor
+	culture = dalelander
+}

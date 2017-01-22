@@ -695,22 +695,23 @@ human = {
 		male_names = {
 			Aencar Alduvar Ambrose Ashaba
 			Barathal
-			Dheren Dornal Durn
-			Flars
+			Dheren Dornal Dulwar Durn
+			Flars Fulgath
 			Gordon Gulmarin
 			Ilmeth
 			Joadath
 			Marler
 			Randal Rhannon
-			Thaliach
+			Thaliach Tharwin Tren Tunfer
 			Vzoun
 		}
 		female_names = {
 			Adee
-			Elué
+			Elué Eragyn
 			Jalia
 			Maerindra
 			Neranya
+			Olavia
 			Silver
 		}
 		
@@ -1369,6 +1370,7 @@ halfbreed = {
 			Vartan
 		}
 		female_names = {
+			Kessla
 			Stellaga
 		}
 		

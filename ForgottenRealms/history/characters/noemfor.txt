@@ -1,0 +1,23 @@
+# NOEMFOR
+# Range 26600-26699
+
+26600 = {
+	name = Tren
+	dynasty = 211017
+	
+	religion = catholic
+	culture = dalelander
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		trait = fighter
+	}
+	1369.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 26400 # Randal Morn
+		}
+	}
+}
