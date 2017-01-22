@@ -104,3 +104,7 @@
 	name = Darian
 	culture = dalelander
 }
+211022 = {
+	name = Horgontivar
+	culture = dalelander
+}

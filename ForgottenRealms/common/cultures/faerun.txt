@@ -112,7 +112,7 @@ dwarf = {
 		color = { 0.7 0.4 0.7 }
 		
 		male_names = {
-			Unnamed
+			Borruk
 		}
 		female_names = {
 			Unnamed
@@ -697,12 +697,12 @@ human = {
 		male_names = {
 			Aencar Alduvar Ambrose Ashaba
 			Barathal
-			Dheren Dornal Dulwar Durn
+			Darwinn Dheren Dornal Dulwar Durn
 			Flars Fulgath
 			Gordon Gorstag Gulmarin
 			Hasicor
 			Ilmeth
-			Joadath
+			Jallian Jherald Joadath
 			Marler
 			Randal Rhannon Rhauntides
 			Thaliach Tharwin Tren Tunfer

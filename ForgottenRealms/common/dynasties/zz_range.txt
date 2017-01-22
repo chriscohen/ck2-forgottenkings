@@ -30,3 +30,6 @@
 #
 # HALFLING
 # 500000 - 500999   Lightfoot
+#
+# DWARF
+# 600000 - 600999   Shield dwarf

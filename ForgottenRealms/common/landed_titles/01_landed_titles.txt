@@ -752,6 +752,8 @@ k_dalelands = {
 			}
 			b_feather_falls = {
 			}
+			b_cholandrothipes_tower = {
+			}
 		}
 	}
 	d_harrowdale = {

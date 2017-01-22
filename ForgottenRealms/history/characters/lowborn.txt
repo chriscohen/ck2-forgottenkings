@@ -2680,3 +2680,58 @@
 		death = yes
 	}
 }
+900148 = {
+	name = Jherald
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = greedy
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = aristocrat
+		employer = 27400 # Jallian Horgontivar / c_featherdale
+	}
+	1399.1.1 = {
+		death = yes
+	}
+}
+900149 = {
+	name = Darwinn
+	
+	religion = catholic
+	culture = dalelander
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		trait = fighter
+		employer = 27400 # Jallian Horgontivar / c_featherdale
+	}
+	1413.1.1 = {
+		death = yes
+	}
+}
+900150 = {
+	name = Cholandrothipe
+	
+	religion = catholic
+	culture = dalelander
+	
+	1256.1.1 = {
+		birth = yes
+	}
+	1272.1.1 = {
+		trait = wizard
+		trait = immortal
+	}
+	1360.1.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}

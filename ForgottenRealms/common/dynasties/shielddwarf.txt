@@ -1,0 +1,7 @@
+# SHIELD DWARF
+# Range 600000-600999
+
+600000 = {
+	name = Battleaxe
+	culture = shield_dwarf
+}

@@ -1,0 +1,21 @@
+# HORGONTIVAR
+# Range 27400-27499
+
+27400 = {
+	name = Jallian
+	dynasty = 211022
+	
+	religion = catholic
+	culture = dalelander
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1318.1.1 = {
+		trait = cleric
+		trait = lathander
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}

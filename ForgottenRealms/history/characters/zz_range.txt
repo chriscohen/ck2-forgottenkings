@@ -263,5 +263,7 @@
 # 27000  - 27099    Starglance
 # 27100  - 27199    Tharm
 # 27200  - 27299    Darian
+# 27300  - 27399    Battleaxe
+# 27400  - 27499    Horgontivar
 #
 # 900000 - 999999 Lowborn
