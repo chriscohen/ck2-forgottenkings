@@ -1,0 +1,18 @@
+# WYVERNBLADE
+# Range 26300-26399
+
+26300 = {
+	name = Ramorth
+	dynasty = 211014
+	
+	religion = catholic
+	culture = dalelander
+	
+	1008.1.1 = {
+		birth = yes
+	}
+	1044.1.1 = {
+		# Assuming that he died with Aencar Burlisk
+		death = yes
+	}
+}

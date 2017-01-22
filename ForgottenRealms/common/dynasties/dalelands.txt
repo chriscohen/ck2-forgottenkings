@@ -68,3 +68,11 @@
 	name = Stakaria
 	culture = dalelander
 }
+211013 = {
+	name = Reldacap
+	culture = dalelander
+}
+211014 = {
+	name = Wyvernblade
+	culture = dalelander
+}

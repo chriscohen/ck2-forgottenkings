@@ -2344,3 +2344,55 @@
 		death = yes
 	}
 }
+900133 = {
+	name = Durn
+	
+	religion = catholic
+	culture = dalelander
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = fighter
+		give_nickname = nick_the_red
+		employer = 26301 # Ilmeth Wyvernblade / c_battledale
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}
+900134 = {
+	name = Rhannon
+	
+	religion = catholic
+	culture = dalelander
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		trait = rogue
+		employer = 26301 # Ilmeth Wyvernblade / c_battledale
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}
+900135 = {
+	name = Ambrose
+	
+	religion = catholic
+	culture = dalelander
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1336.1.1 = {
+		trait = cleric
+		trait = tempus
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}

@@ -2,7 +2,7 @@
 title = c_battledale
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
 b_essembra = castle
 
@@ -10,4 +10,8 @@ b_essembra = castle
 culture = dalelander
 religion = catholic
 
-#History
+# History
+1298.1.1 = {
+	# Date is a guess
+	b_abbey_of_the_sword = temple
+}

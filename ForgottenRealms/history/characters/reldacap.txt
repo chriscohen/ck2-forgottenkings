@@ -1,0 +1,26 @@
+# RELDACAP
+# Range 26200-26299
+
+26200 = {
+	name = Gulmarin
+	dynasty = 211013
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = cynical
+	
+	1309.1.1 = {
+		birth = yes
+	}
+	1325.1.1 = {
+		trait = cleric
+		trait = gond
+	}
+	1327.1.1 = {
+		employer = 26301 # Ilmeth Wyvernblade / c_battledale
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}

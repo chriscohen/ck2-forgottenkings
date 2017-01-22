@@ -662,6 +662,8 @@ k_dalelands = {
 			}
 			b_hap = {
 			}
+			b_abbey_of_the_sword = {
+			}
 		}
 	}
 	d_daggerdale = {

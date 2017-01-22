@@ -1,0 +1,7 @@
+1336.1.1 = {
+	liege = c_battledale
+	holder = 900135 # Ambrose
+}
+1402.1.1 = {
+	holder = 0
+}

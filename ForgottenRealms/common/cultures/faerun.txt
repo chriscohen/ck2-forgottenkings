@@ -693,11 +693,13 @@ human = {
 		color = { 0.25 0.29 0.91 }
 		
 		male_names = {
-			Aencar Alduvar Ashaba
-			Dheren Dornal
-			Gordon
+			Aencar Alduvar Ambrose Ashaba
+			Dheren Dornal Durn
+			Gordon Gulmarin
+			Ilmeth
 			Joadath
 			Marler
+			Rhannon
 			Thaliach
 			Vzoun
 		}

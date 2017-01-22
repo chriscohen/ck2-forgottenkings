@@ -252,5 +252,7 @@
 # 25900  - 25999    Dakker
 # 26000  - 26099    Mindogar
 # 26100  - 26199    Stakaria
+# 26200  - 26299    Reldacap
+# 26300  - 26399    Wyvernblade
 #
 # 900000 - 999999 Lowborn
