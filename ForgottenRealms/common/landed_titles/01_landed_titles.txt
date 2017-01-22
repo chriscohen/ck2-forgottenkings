@@ -722,6 +722,10 @@ k_dalelands = {
 			}
 			b_hallow_creek = {
 			}
+			b_bristar = {
+			}
+			b_moonrise_hill = {
+			}
 		}
 	}
 	d_featherdale = {
@@ -2715,11 +2719,7 @@ d_semberholme = {
 		}
 		b_aluianti = {
 		}
-		b_bristar = {
-		}
 		b_llanthorn = {
-		}
-		b_moonrise_hill = {
 		}
 		b_muirllar = {
 		}
