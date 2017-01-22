@@ -2303,8 +2303,10 @@ k_tethyr = {
 			OR = {
 				lower_tier_than = KING
 				any_demesne_province = {
+					province_id = 168
 					province_id = 169
 					province_id = 172
+					province_id = 173
 				}
 			}
 		}
@@ -2358,14 +2360,13 @@ k_tethyr = {
 				any_demesne_province = {
 					province_id = 153
 					province_id = 166
-					province_id = 168
 					province_id = 170
 					province_id = 177
 				}
 			}
 		}
 		
-		capital = 168 # Surkazar
+		capital = 177 # Valashar
 		
 		c_valashar = {
 			color = { 135 151 235 }
@@ -2975,6 +2976,23 @@ d_yeslipek = {
 		
 		b_yeslipek = {
 		}
+	}
+}
+
+# INDEPENDENT COUNTIES
+
+c_ardeep_forest = {
+	color = { 229 152 19 }
+	color2 = { 255 255 255 }
+	
+	b_ardeep_forest = {
+	}
+}
+c_beliard = {
+	color = { 188 131 52 }
+	color2 = { 255 255 255 }
+	
+	b_beliard = {
 	}
 }
 
