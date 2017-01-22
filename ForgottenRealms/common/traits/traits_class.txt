@@ -2,45 +2,37 @@ aristocrat = {
 	random = no
 	
 	diplomacy = 2
-	martial = -3
 	stewardship = 2
 }
 bard = {
 	random = no
 	
 	diplomacy = 3
-	learning = 3
-	martial = -5
+	learning = 2
 }
 cleric = {
 	random = no
 	
-	intrigue = -2
-	learning = 2
-	martial = 1
+	learning = 3
+	martial = 2
 }
 druid = {
 	random = no
 	
-	diplomacy = 1
-	intrigue = -2
+	diplomacy = 2
 	learning = 2
-	martial = -1
 	stewardship = 1
 }
 fighter = {
 	random = no
 	
-	diplomacy = -1
-	learning = -1
-	martial = 3
+	martial = 5
 }
 illusionist = {
 	random = no
 	
-	intrigue = 1
+	intrigue = 2
 	learning = 3
-	martial = -3
 	
 	opposites = {
 		necromancer
@@ -51,17 +43,14 @@ illusionist = {
 monk = {
 	random = no
 	
-	intrigue = -3
-	learning = 4
-	martial = 1
-	stewardship = -1
+	learning = 3
+	martial = 2
 }
 necromancer = {
 	random = no
 	
-	intrigue = 1
-	learning = 2
-	martial = -2
+	intrigue = 2
+	learning = 3
 	
 	opposites = {
 		illusionist
@@ -72,33 +61,27 @@ necromancer = {
 paladin = {
 	random = no
 	
-	diplomacy = 1
-	intrigue = -2
+	diplomacy = 2
 	learning = 1
 	martial = 2
-	stewardship = -1
 }
 ranger = {
 	random = no
 	
-	diplomacy = -1
+	diplomacy = 1
 	intrigue = 1
-	martial = 2
-	stewardship = -1
+	martial = 3
 }
 rogue = {
 	random = no
 	
-	diplomacy = -1
-	intrigue = 3
-	learning = -2
+	intrigue = 4
 	martial = 1
 }
 sorcerer = {
 	random = no
 	
-	learning = 3
-	martial = -2
+	learning = 5
 	
 	opposites = {
 		illusionist
@@ -109,9 +92,7 @@ sorcerer = {
 wizard = {
 	random = no
 
-	intrigue = 1
-	learning = 3
-	martial = -3
+	learning = 5
 	
 	opposites = {
 		illusionist
