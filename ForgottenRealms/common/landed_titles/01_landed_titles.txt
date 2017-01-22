@@ -993,32 +993,6 @@ k_icewind_dale = {
 		}
 	}
 }
-d_mintarn = {
-	color={ 30 225 15 }
-	color2={ 255 255 255 }
-	
-	capital = 68 # Mintarn
-	culture = ffolk # TODO: own culture for Mintarn?
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 68
-			}
-		}
-	}
-	
-	c_mintarn = {
-		color={ 10 245 5 }
-		color2={ 255 255 255 }
-		
-		b_mintarn = {
-		}
-		b_queens_cove = {
-		}
-	}
-}
 k_moonshae = {
 	color={ 23 172 248 }
 	color2={ 255 255 255 }
@@ -2491,6 +2465,32 @@ d_elversult = {
 		color2 = { 255 255 255 }
 		
 		b_ilipur = {
+		}
+	}
+}
+d_mintarn = {
+	color={ 30 225 15 }
+	color2={ 255 255 255 }
+	
+	capital = 68 # Mintarn
+	culture = ffolk # TODO: own culture for Mintarn?
+	
+	allow = {
+		OR = {
+			lower_tier_than = KING
+			any_demesne_province = {
+				province_id = 68
+			}
+		}
+	}
+	
+	c_mintarn = {
+		color={ 10 245 5 }
+		color2={ 255 255 255 }
+		
+		b_mintarn = {
+		}
+		b_queens_cove = {
 		}
 	}
 }
