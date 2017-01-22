@@ -91,6 +91,8 @@ trait_lightfoot;Lightfoot;;;;;;;;;;;;;x
 trait_lightfoot_desc;The most common type of halfling in Faerûn, comfortable alongside other cultures and willing to adapt;;;;;;;;;;;;;x
 trait_moonelf;Moon Elf;;;;;;;;;;;;;x
 trait_moonelf_desc;Teu-tel-quessir are more tolerant of humans than other eladrin and the most common type in Faerûn;;;;;;;;;;;;;x
+trait_shielddwarf;Shield Dwarf;;;;;;;;;;;;;x
+trait_shielddwarf_desc;The most common dwarven people of Faerûn, taller than other dwarves with lighter skin;;;;;;;;;;;;;x
 trait_wildelf;Wild Elf;;;;;;;;;;;;;x
 trait_wildelf_desc;Sy-tel-quessir are feral and stealthy elves, reclusive and remaining close to nature;;;;;;;;;;;;;x
 tymora;Follower of Tymora;;;;;;;;;;;;;x

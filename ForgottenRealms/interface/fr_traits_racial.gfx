@@ -6,8 +6,6 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-}
-spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_trait_moonelf"
 		texturefile = "gfx/traits/moonelf.dds"
@@ -15,8 +13,13 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-}
-spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_trait_shielddwarf"
+		texturefile = "gfx/traits/shield_dwarf.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 	spriteType = {
 		name = "GFX_trait_trait_wildelf"
 		texturefile = "gfx/traits/wildelf.dds"
