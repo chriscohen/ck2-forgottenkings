@@ -3,6 +3,8 @@
 }
 1345.1.1 = {
 	liege = 0
+	law = succ_primogeniture
+	law = status_of_women_4
 	# There is literally no info on who actually ruled Archendale, but we
 	# have to give the title to somebody
 	holder = 25500 # Stellaga Brightstar
