@@ -16,3 +16,23 @@
 		death = yes
 	}
 }
+26301 = {
+	name = Ilmeth
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = just
+	trait = paranoid
+	trait = cynical
+	
+	1311.1.1 = {
+		birth = yes
+	}
+	1327.1.1 = {
+		trait = fighter
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

@@ -690,6 +690,12 @@ k_dalelands = {
 			}
 			b_dordrien = {
 			}
+			b_castle_daggerdale = {
+			}
+			b_serpentsbridge = {
+			}
+			b_anathars_dell = {
+			}
 		}
 	}
 	d_deepingdale = {

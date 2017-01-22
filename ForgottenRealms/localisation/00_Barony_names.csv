@@ -23,6 +23,8 @@ b_amethyst_hall;Amethyst Hall;;;;;;;;;;;;;x
 b_amethyst_hall_adj;Amethyst Hallian;;;;;;;;;;;;;x
 b_amphail;Amphail;;;;;;;;;;;;;x
 b_amphail_adj;Amphailan;;;;;;;;;;;;;x
+b_anathars_dell;Anathar’s Dell;;;;;;;;;;;;;x
+b_anathars_dell_adj;Anatharian;;;;;;;;;;;;;x
 b_arabel;Arabel;;;;;;;;;;;;;x
 b_arabel_adj;Arabellan;;;;;;;;;;;;;x
 b_archenbridge;Archenbridge;;;;;;;;;;;;;x
@@ -107,6 +109,8 @@ b_carlsmere;Carlsmere;;;;;;;;;;;;;x
 b_carlsmere_adj;Carlsmeran;;;;;;;;;;;;;x
 b_castle_crag;Castle Crag;;;;;;;;;;;;;x
 b_castle_crag_adj;Castle Cragger;;;;;;;;;;;;;x
+b_castle_daggerdale;Castle Daggerdale;;;;;;;;;;;;;x
+b_castle_daggerdale_adj;Castle Daggerdalan;;;;;;;;;;;;;x
 b_castle_morose;Castle Morose;;;;;;;;;;;;;x
 b_castle_morose_adj;Castle Morosian;;;;;;;;;;;;;x
 b_castle_of_skulls;Castle of Skulls;;;;;;;;;;;;;x
@@ -551,6 +555,8 @@ b_selgaunt;Selgaunt;;;;;;;;;;;;;x
 b_selgaunt_adj;Selgauntian;;;;;;;;;;;;;x
 b_semberholme;Semberholme;;;;;;;;;;;;;x
 b_semberholme_adj;Semberholmian;;;;;;;;;;;;;x
+b_serpentsbridge;Serpentsbridge;;;;;;;;;;;;;x
+b_serpentsbridge_adj;Serpentsbridgian;;;;;;;;;;;;;x
 b_shadowdale;Shadowdale;;;;;;;;;;;;;x
 b_shadowdale_adj;Shadowdalen;;;;;;;;;;;;;x
 b_shee_pool;Shee Pool;;;;;;;;;;;;;x

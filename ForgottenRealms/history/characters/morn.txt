@@ -1,0 +1,70 @@
+# MORN
+# Range 26400-26499
+
+26400 = {
+	name = Randal
+	dynasty = 211015
+	father = 26401 # Flars
+	mother = 26500 # Maerindra Elrproast
+	
+	religion = catholic
+	culture = dalelander
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1318.1.1 = {
+		trait = fighter
+		trait = rogue
+	}
+	1391.1.1 = {
+		trait = pneumonic
+	}
+	1391.1.11 = {
+		death = {
+			death_reason = death_trait
+		}
+	}
+}
+26401 = {
+	name = Flars
+	dynasty = 211015
+	
+	religion = catholic
+	culture = dalelander
+	
+	1280.1.1 = {
+		birth = yes
+	}
+	1296.1.1 = {
+		trait = fighter
+	}
+	1321.1.1 = {
+		death = yes
+	}
+}
+26402 = {
+	name = Silver
+	female = yes
+	dynasty = 211015
+	father = 26401 # Flars
+	mother = 26500 # Maerindra Elrproast
+	
+	religion = catholic
+	culture = dalelander
+	
+	1304.1.1 = {
+		birth = yes
+	}
+	1320.1.1 = {
+		trait = aristocrat
+		add_spouse = 1502 # Ohlmer Cormaeril (totally non-canon but she married a Cormaeril)
+	}
+	1369.5.1 = {
+		# Total guess at death
+		death = {
+			death_reason = death_execution
+			killer = 1501 # Gaspar Cormaeril
+		}
+	}
+}

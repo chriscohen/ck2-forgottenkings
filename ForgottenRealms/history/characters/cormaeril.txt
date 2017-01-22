@@ -28,6 +28,7 @@
 	name = Gaspar
 	dynasty = 201002
 	father = 1502 # Ohlmer (guess)
+	mother = 26402 # Silver Cormaeril (guess)
 	
 	religion = catholic
 	culture = cormyrean
@@ -52,6 +53,9 @@
 	
 	1301.1.1 = { # Estimate
 		birth = yes
+	}
+	1320.1.1 = {
+		add_spouse = 26402 # Silver Morn (totally non-canon but she married a Cormaeril)
 	}
 	1369.5.1 = { # Estimated month and day
 		death = {
@@ -334,6 +338,80 @@
 		birth = yes
 	}
 	1317.1.1 = {
+		death = yes
+	}
+}
+1519 = {
+	name = Sathrin
+	dynasty = 201002
+	father = 1502 # Ohlmer (guess)
+	mother = 26402 # Silver Morn (guess)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1333.1.1 = {
+		birth = yes
+	}
+	1349.1.1 = {
+		trait = fighter
+	}
+	1425.1.1 = {
+		death = yes
+	}
+}
+1520 = {
+	name = Dornavos
+	dynasty = 201002
+	father = 1519 # Sathrin
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1372.1.1 = { # Estimate
+		birth = yes
+	}
+	1388.1.1 = {
+		trait = fighter
+	}
+	1469.1.1 = {
+		death = yes
+	}
+}
+1521 = {
+	name = Barathal
+	dynasty = 201002
+	father = 1520 # Dornavos
+	
+	religion = catholic
+	culture = dalelander
+	
+	1412.1.1 = {
+		birth = yes
+	}
+	1428.1.1 = {
+		trait = fighter
+	}
+	1501.1.1 = {
+		death = yes
+	}
+}
+1522 = {
+	name = Neranya
+	female = yes
+	dynasty = 201002
+	father = 1520 # Dornavos
+	
+	religion = catholic
+	culture = dalelander
+	
+	1413.1.1 = {
+		birth = yes
+	}
+	1429.1.1 = {
+		trait = aristocrat
+	}
+	1488.1.1 = {
 		death = yes
 	}
 }

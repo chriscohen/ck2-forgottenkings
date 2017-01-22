@@ -254,5 +254,7 @@
 # 26100  - 26199    Stakaria
 # 26200  - 26299    Reldacap
 # 26300  - 26399    Wyvernblade
+# 26400  - 26499    Morn
+# 26500  - 26599    Elrproast
 #
 # 900000 - 999999 Lowborn

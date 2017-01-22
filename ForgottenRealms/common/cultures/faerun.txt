@@ -617,7 +617,7 @@ human = {
 			Adris Aiken Alaphondar Albaerin Albryn Aldeth Alexi Alin Althallan Amanthus Amble Ammanadas Amnic Andarphisk Andranth Arclath Ardagast Arphoind Artus Artur Ascalan Athalon Athlan Aubleth Aubrin Augrathar Aulard Auldus Aumry Aunadar Aundable Austrus Azalar
 			Baerauble Baergast Baern Baert Baeryn Barad Barandos Bardanther Barrit Beldarm Beliard Belmer Bhereu Bledryn Blundebel Boris Boront Brace Braegor Brezm Broglan Buckman
 			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Chelesmer Cole Coobert Cordryn Corleth
-			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Doust Draguth Drounan Duncan Dunlath Durmeth Duth
+			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Dornavos Doust Draguth Drounan Duncan Dunlath Durmeth Duth
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Ensrin Erdreth Eregar Ergluth Estelner
 			Falzo Faril Feredagh Filani Finder Flaram Florin Foril Fortney Fraeyer Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
@@ -631,7 +631,7 @@ human = {
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Onkyl Oric Ordmann Orm Ormion Orngrym Ortwin Orvendel
 			Paramyr Paton Piper Prosler Pyramus
 			Raedlar Raegl Rankin Rastafan Rauligus Rauril Rauvor Rauvoril Ravos Reldyk Renstameir Reth Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
-			Sagrast Sardasper Sarliman Scarmar Scoril Scotti Sherda Sorgar Staephon
+			Sagrast Sardasper Sarliman Sathrin Scarmar Scoril Scotti Sherda Sorgar Staephon
 			Tabart Talados Taldeth Tarmel Telarn Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Threldryn Trenton Tystarn
 			Ulnder Umbarl Urthrin
 			Vorik Vorndren
@@ -694,12 +694,14 @@ human = {
 		
 		male_names = {
 			Aencar Alduvar Ambrose Ashaba
+			Barathal
 			Dheren Dornal Durn
+			Flars
 			Gordon Gulmarin
 			Ilmeth
 			Joadath
 			Marler
-			Rhannon
+			Randal Rhannon
 			Thaliach
 			Vzoun
 		}
@@ -707,6 +709,9 @@ human = {
 			Adee
 			Elué
 			Jalia
+			Maerindra
+			Neranya
+			Silver
 		}
 		
 		dukes_called_kings = no

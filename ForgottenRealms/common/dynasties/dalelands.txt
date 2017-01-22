@@ -76,3 +76,11 @@
 	name = Wyvernblade
 	culture = dalelander
 }
+211015 = {
+	name = Morn
+	culture = dalelander
+}
+211016 = {
+	name = Elrproast
+	culture = dalelander
+}

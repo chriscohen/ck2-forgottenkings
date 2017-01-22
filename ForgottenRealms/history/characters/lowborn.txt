@@ -2396,3 +2396,19 @@
 		death = yes
 	}
 }
+900136 = {
+	name = Malyk
+	
+	religion = catholic
+	culture = dalelander
+	
+	1304.1.1 = {
+		birth = yes
+	}
+	1353.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 26400 # Randal Morn
+		}
+	}
+}

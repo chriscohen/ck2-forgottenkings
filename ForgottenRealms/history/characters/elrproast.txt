@@ -1,0 +1,18 @@
+# ELRPROAST
+# Range 26500-26599
+
+26500 = {
+	name = Maerindra
+	female = yes
+	dynasty = 211016
+	
+	1282.1.1 = {
+		birth = yes
+	}
+	1298.1.1 = {
+		trait = aristocrat
+	}
+	1320.1.1 = {
+		death = yes
+	}
+}
