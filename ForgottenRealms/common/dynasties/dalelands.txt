@@ -56,3 +56,15 @@
 	name = Snowbrand
 	culture = dalelander
 }
+211010 = {
+	name = Dakker
+	culture = dalelander
+}
+211011 = {
+	name = Mindogar
+	culture = dalelander
+}
+211012 = {
+	name = Stakaria
+	culture = dalelander
+}

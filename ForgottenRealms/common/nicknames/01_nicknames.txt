@@ -11,6 +11,7 @@ nick_foxfire = {}
 nick_frostrune = {}
 nick_longyears = {}
 nick_o_the_blades = {}
+nick_ravenhair = {}
 nick_ravensong = {}
 nick_redbeard = {}
 nick_the_boy_king = {}

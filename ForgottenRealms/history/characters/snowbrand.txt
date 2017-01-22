@@ -18,6 +18,11 @@
 		employer = 25500 # Stellaga Brightstar / c_archendale
 		effect = { give_minor_title = title_archendale_blue_sword }
 	}
+	1358.1.1 = {
+		effect = {
+			add_friend = 900131 # Selni Ravenhair
+		}
+	}
 	1402.1.1 = {
 		death = yes
 	}

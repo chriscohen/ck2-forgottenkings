@@ -2306,3 +2306,41 @@
 		death = yes
 	}
 }
+900131 = {
+	name = Selni
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	1342.1.1 = {
+		birth = yes
+	}
+	1358.1.1 = {
+		trait = rogue
+		give_nickname = nick_ravenhair
+		employer = 25500 # Stellaga Brightstar / c_archendale
+		effect = {
+			add_friend = 25800 # Alduvar Snowbrand
+		}
+	}
+}
+900132 = {
+	name = Jendalar
+	
+	religion = catholic
+	culture = dalelander
+	
+	1302.1.1 = {
+		birth = yes
+	}
+	1318.1.1 = {
+		trait = aristocrat
+	}
+	1345.1.1 = {
+		employer = 25500 # Stellaga Brightstar / c_archendale
+	}
+	1359.1.1 = {
+		death = yes
+	}
+}

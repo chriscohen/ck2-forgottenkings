@@ -634,6 +634,8 @@ k_dalelands = {
 			}
 			b_whiteturrets = {
 			}
+			b_swordpoint = {
+			}
 		}
 	}
 	d_battledale = {

@@ -695,8 +695,11 @@ human = {
 		male_names = {
 			Aencar Alduvar Ashaba
 			Dheren Dornal
+			Gordon
 			Joadath
 			Marler
+			Thaliach
+			Vzoun
 		}
 		female_names = {
 			Adee

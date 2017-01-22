@@ -249,5 +249,8 @@
 # 25600  - 25699    Ogresbane
 # 25700  - 25799    Mossgreen
 # 25800  - 25899    Snowbrand
+# 25900  - 25999    Dakker
+# 26000  - 26099    Mindogar
+# 26100  - 26199    Stakaria
 #
 # 900000 - 999999 Lowborn

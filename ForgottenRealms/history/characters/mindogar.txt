@@ -1,0 +1,26 @@
+# MINDOGAR
+# Range 26000-26099
+
+26000 = {
+	name = Thaliach
+	dynasty = 211011
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = ambitious
+	
+	1317.1.1 = {
+		birth = yes
+	}
+	1333.1.1 = {
+		trait = cleric
+		trait = chauntea
+	}
+	1345.1.1 = {
+		employer = 25500 # Stellaga Brightstar / c_archendale
+	}
+	1381.1.1 = {
+		death = yes
+	}
+}

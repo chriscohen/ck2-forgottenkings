@@ -1,0 +1,22 @@
+# STAKARIA
+# Range 26100-26199
+
+26100 = {
+	name = Gordon
+	dynasty = 211012
+	
+	religion = catholic
+	culture = dalelander
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = cleric
+		trait = tempus
+		employer = 25500 # Stellaga Brightstar / c_archendale
+	}
+	1408.1.1 = {
+		death = yes
+	}
+}
