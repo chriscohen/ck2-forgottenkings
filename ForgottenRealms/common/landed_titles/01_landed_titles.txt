@@ -622,9 +622,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_LORD
+		title_female = TITLE_LADY
+		
 		c_archendale = {
 			color = { 21 77 170 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_LORD
+			title_female = TITLE_LADY
 			
 			b_archenbridge = {
 			}
@@ -652,9 +658,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_LORD
+		title_female = TITLE_LADY
+		
 		c_battledale = {
 			color = { 114 133 164 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_LORD
+			title_female = TITLE_LADY
 			
 			b_essembra = {
 			}
@@ -680,9 +692,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_LORD
+		title_female = TITLE_LADY
+		
 		c_daggerdale = {
 			color = { 79 99 133 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_LORD
+			title_female = TITLE_LADY
 			
 			b_dagger_falls = {
 			}
@@ -712,9 +730,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_LORD
+		title_female = TITLE_LADY
+		
 		c_deepingdale = {
 			color = { 12 86 211 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_LORD
+			title_female = TITLE_LADY
 			
 			b_highmoon = {
 			}
@@ -742,9 +766,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_LORD
+		title_female = TITLE_LADY
+		
 		c_featherdale = {
 			color = { 29 68 121 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_LORD
+			title_female = TITLE_LADY
 			
 			b_blackfeather_bridge = {
 			}
@@ -771,9 +801,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_HIGH_COUNCILLOR
+		title_female = TITLE_HIGH_COUNCILLOR
+		
 		c_harrowdale = {
 			color = { 105 140 189 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_HIGH_COUNCILLOR
+			title_female = TITLE_HIGH_COUNCILLOR
 			
 			b_harrowdale = {
 			}
@@ -789,6 +825,9 @@ k_dalelands = {
 		c_cold_fields = {
 			color = { 157 188 230 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_HIGH_COUNCILLOR
+			title_female = TITLE_HIGH_COUNCILLOR
 			
 			b_chandlers_cross = {
 			}
@@ -810,9 +849,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_HIGH_COUNCILLOR
+		title_female = TITLE_HIGH_COUNCILLOR
+		
 		c_high_dale = {
 			color = { 155 188 244 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_HIGH_COUNCILLOR
+			title_female = TITLE_HIGH_COUNCILLOR
 			
 			b_highcastle = {
 			}
@@ -834,9 +879,15 @@ k_dalelands = {
 			}
 		}
 		
+		title = TITLE_HIGH_COUNCILLOR
+		title_female = TITLE_HIGH_COUNCILLOR
+		
 		c_mistledale = {
 			color = { 48 123 248 }
 			color2 = { 255 255 255 }
+			
+			title = TITLE_HIGH_COUNCILLOR
+			title_female = TITLE_HIGH_COUNCILLOR
 			
 			b_ashabenford = {
 			}
