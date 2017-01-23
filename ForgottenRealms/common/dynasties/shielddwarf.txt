@@ -9,3 +9,11 @@
 	name = Halfaxe
 	culture = shield_dwarf
 }
+600002 = {
+	name = Lockmaster
+	culture = shield_dwarf
+}
+600003 = {
+	name = Stonesplitter
+	culture = shield_dwarf
+}

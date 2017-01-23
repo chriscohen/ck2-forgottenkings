@@ -1,0 +1,22 @@
+# BRIGHTHELM
+# Range 29300-29399
+
+29300 = {
+	name = Varana
+	female = yes
+	dynasty = 211037
+	
+	religion = catholic
+	culture = dalelander
+	
+	1338.1.1 = {
+		birth = yes
+	}
+	1354.1.1 = {
+		trait = fighter
+		employer = 29200 # Tyran Greene / c_high_dale
+	}
+	1417.1.1 = {
+		death = yes
+	}
+}

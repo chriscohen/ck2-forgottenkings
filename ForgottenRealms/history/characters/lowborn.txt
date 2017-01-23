@@ -2896,3 +2896,54 @@
 		death = yes
 	}
 }
+900159 = {
+	name = Renoen
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = fair
+	
+	1332.1.1 = {
+		birth = yes
+	}
+	1348.1.1 = {
+		trait = wizard
+		employer = 29200 # Tyran Greene / c_high_dale
+	}
+	1352.1.1 = {
+		give_nickname = nick_the_fair
+	}
+	1419.1.1 = {
+		death = yes
+	}
+}
+900160 = {
+	name = Francan
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1331.1.1 = {
+		trait = fighter
+		give_nickname = nick_fireblade
+	}
+	1335.1.1 = {
+		employer = 3701 # Raynaar Marliir / c_arabel
+	}
+	1359.1.9 = {
+		employer = 900020 # Myrmeen Lhal / c_arabel
+	}
+	1368.1.1 = {
+		# Lost arm during Time of Troubles, moved to High Dale
+		trait = one_handed
+		employer = 29200 # Tyran Greene / c_high_dale
+	}
+	1384.1.1 = {
+		death = yes
+	}
+}

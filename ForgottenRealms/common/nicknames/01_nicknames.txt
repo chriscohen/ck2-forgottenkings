@@ -5,6 +5,7 @@ nick_blackstaff = {}
 nick_capn_cyclops = {}
 nick_demonbane = {}
 nick_fiendslayer = {}
+nick_fireblade = {}
 nick_first_king = {}
 nick_first_queen = {}
 nick_foxfire = {}

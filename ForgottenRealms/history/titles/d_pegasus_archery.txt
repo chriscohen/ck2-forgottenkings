@@ -1,0 +1,6 @@
+1345.1.1 = {
+	holder = 29600 # Irreph Mulmar
+}
+1398.1.1 = {
+	holder = 0
+}

@@ -1,0 +1,26 @@
+# LOCKMASTER
+# Range 29400-29499
+
+29400 = {
+	name = Darun
+	dynasty = 600002
+	
+	religion = catholic
+	culture = shield_dwarf
+	
+	trait = trait_shielddwarf
+	
+	1245.1.1 = {
+		birth = yes
+	}
+	1261.1.1 = {
+		trait = fighter
+		trait = rogue
+	}
+	1339.1.1 = {
+		employer = 29200 # Tyran Greene / c_high_dale
+	}
+	1456.1.1 = {
+		death = yes
+	}
+}

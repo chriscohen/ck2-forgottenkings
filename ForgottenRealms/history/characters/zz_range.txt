@@ -282,5 +282,13 @@
 # 28900  - 28999    Auric
 # 29000  - 29099    Aspenwold
 # 29100  - 29199    Oakenstave
+# 29200  - 29299    Greene
+# 29300  - 29399    Brighthelm
+# 29400  - 29499    Lockmaster
+# 29500  - 29599    Whitelock
+# 29600  - 29699    Mulmar
+# 29700  - 29799    Ethander
+# 29800  - 29899    Wyndlass
+# 29900  - 29999    Stonesplitter
 #
 # 900000 - 999999 Lowborn

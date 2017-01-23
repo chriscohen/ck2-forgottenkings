@@ -11,6 +11,10 @@ mindulgulph_composition = {
 	archers = 150
 	knights = 50
 }
+pegasus_archery_composition = {
+	levy_size = 1
+	horse_archers = 75
+}
 purple_dragons_composition = {
 	levy_size = 4
 	heavy_infantry = 200

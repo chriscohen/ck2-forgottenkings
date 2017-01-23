@@ -1,0 +1,22 @@
+# WHITELOCK
+# Range 29500-29599
+
+29500 = {
+	name = Serena
+	female = yes
+	dynasty = 211038
+	
+	religion = catholic
+	culture = halfelf
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		trait = aristocrat
+		employer = 29200 # Tyran Greene / c_high_dale
+	}
+	1405.1.1 = {
+		death = yes
+	}
+}

@@ -466,8 +466,6 @@ k_cormyr = {
 			
 			b_thunderholme = {
 			}
-			b_highcastle = {
-			}
 			b_hidden_vale = {
 			}
 		}
@@ -816,7 +814,7 @@ k_dalelands = {
 			color = { 155 188 244 }
 			color2 = { 255 255 255 }
 			
-			b_high_dale = {
+			b_highcastle = {
 			}
 		}
 	}
@@ -3058,6 +3056,32 @@ d_mindulgulph = {
 	strength_growth_per_century = 0.1
 	
 	mercenary_type = mindulgulph_composition
+}
+d_pegasus_archery = {
+	color = { 31 188 83 }
+	color2 = { 255 255 255 }
+	
+	capital = 117 # High Dale
+	
+	allow = {
+		has_landed_title = d_high_dale
+	}
+	
+	religion = catholic
+	culture = dalelander
+	
+	mercenary = yes
+	
+	title = TITLE_HIGH_CONSTABLE
+	title_female = TITLE_HIGH_CONSTABLE
+	
+	landless = yes
+	primary = yes
+	independent = yes
+	
+	strength_growth_per_century = 0.1
+	
+	mercenary_type = pegasus_archery_composition
 }
 d_purple_dragons = {
 	color = { 137 22 234 }

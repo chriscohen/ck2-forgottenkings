@@ -113,7 +113,7 @@ dwarf = {
 		
 		male_names = {
 			Borruk
-			Durl
+			Darun Durl
 		}
 		female_names = {
 			Unnamed
@@ -623,7 +623,7 @@ human = {
 			Casplar Cecil Chalannos Chansobal Chanthar Cheldrin Chelesmer Cole Coobert Cordryn Corleth
 			Danthalus Dagh Darander Dauntrin Deinyn Del Delce Dier Dintheron Dlothtar Dornavos Doust Draguth Drounan Duncan Dunlath Durmeth Duth
 			Edwin Elbryn Eldur Elduss Ellard Elmariel Eltrym Elvrin Elvarin Embryn Emlar Emvar Ensrin Erdreth Eregar Ergluth Estelner
-			Falzo Faril Feredagh Filani Finder Flaram Florin Foril Fortney Fraeyer Frefford Freyault
+			Falzo Faril Feredagh Filani Finder Flaram Florin Foril Fortney Fraeyer Francan Frefford Freyault
 			Galados Gardumn Gaspar Gelnur Gerrin Grever Grevor Gruen Gustin Gwydion
 			Hadley Haerldoun Halartan Haldos Halston Halvundrar Harandil Harglast Harlo Harrandave Hector Helmur Hergrest Hesperdan Hlannan Holver Horontor
 			Ilberd Ildamoor Ilmreth Ilryn Irvel
@@ -699,17 +699,18 @@ human = {
 		male_names = {
 			Aencar Alduvar Alosius Ambrose Ashaba
 			Barathal Belrovur
+			Crandan
 			Darwinn Dheren Dornal Dulwar Durn
 			Elzar Erethun
-			Feltaern Flars Fulgath
+			Feltaern Flars Francan Fulgath
 			Gordon Gorstag Gulmarin Gunderman
 			Harlstakh Hasicor Hesketh
-			Ilmeth Imbar
+			Ilmeth Imbar Irreph
 			Jallian Jherald Joadath
 			Marler
 			Orimmon
 			Randal Rhannon Rhauntides
-			Teredic Thaliach Tharwin Thaundass Tren Tunfer
+			Teredic Thaliach Tharwin Thaundass Tren Tunfer Tyran
 			Vzoun
 		}
 		female_names = {
@@ -723,7 +724,9 @@ human = {
 			Maerindra
 			Neranya
 			Olavia
-			Seresha Shaunil Silver
+			Renoen
+			Seresha Shaunil Sheila Silver
+			Varana
 			Yvonna
 		}
 		
@@ -1352,6 +1355,7 @@ halfbreed = {
 		}
 		female_names = {
 			Kessla
+			Serena
 			Stellaga
 		}
 		
