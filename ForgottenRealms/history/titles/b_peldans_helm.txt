@@ -1,0 +1,7 @@
+1020.1.1 = {
+	liege = c_mistledale
+	holder = 900164 # Peldan
+}
+1067.1.1 = {
+	holder = 0
+}

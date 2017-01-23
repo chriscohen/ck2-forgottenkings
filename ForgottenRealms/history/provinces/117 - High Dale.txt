@@ -4,7 +4,7 @@ title = c_high_dale
 # Settlements
 max_settlements = 1
 
-b_high_dale = castle
+b_highcastle = castle
 
 # Misc
 culture = dalelander

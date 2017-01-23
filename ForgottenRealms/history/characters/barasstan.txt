@@ -1,0 +1,23 @@
+# BARASSTAN
+# Range 31100-31199
+
+31100 = {
+	name = Jhanira
+	female = yes
+	dynasty = 211053
+	
+	religion = catholic
+	culture = dalelander
+	
+	1340.1.1 = {
+		birth = yes
+	}
+	1356.1.1 = {
+		trait = cleric
+		trait = chauntea
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1412.1.1 = {
+		death = yes
+	}
+}

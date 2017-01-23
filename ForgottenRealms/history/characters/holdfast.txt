@@ -1,0 +1,23 @@
+# HOLDFAST
+# Range 30200-30299
+
+30200 = {
+	name = Targen
+	dynasty = 211044
+	
+	religion = catholic
+	culture = dalelander
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = ranger
+	}
+	1336.1.1 = {
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1393.1.1 = {
+		death = yes
+	}
+}

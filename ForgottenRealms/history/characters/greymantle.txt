@@ -1,0 +1,21 @@
+# GREYMANTLE
+# Range 31000-31099
+
+31000 = {
+	name = Kaulvaerus
+	dynasty = 211052
+	
+	religion = catholic
+	culture = halfelf
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = fighter
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1381.1.1 = {
+		death = yes
+	}
+}

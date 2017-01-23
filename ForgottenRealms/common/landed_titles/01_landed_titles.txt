@@ -840,9 +840,17 @@ k_dalelands = {
 			
 			b_ashabenford = {
 			}
+			b_elven_crossing = {
+			}
 			b_peldans_helm = {
 			}
 			b_glen = {
+			}
+			b_abbey_of_the_golden_sheaf = {
+			}
+			b_oakengrove = {
+			}
+			b_galaths_roost = {
 			}
 		}
 	}

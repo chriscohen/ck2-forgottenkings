@@ -17,7 +17,7 @@
 		employer = 25500 # Stellaga Brightstar / c_archendale
 		
 		effect = {
-			give_job_title = job_marshall
+			give_job_title = job_marshal
 			give_minor_title = title_archendale_red_sword
 		}
 	}

@@ -18,6 +18,10 @@
 		# Gains magic ring, becomes immortal
 		trait = immortal
 	}
+	1300.1.1 = {
+		# Game needs to have a death listed
+		death = yes
+	}
 	
 }
 23501 = {

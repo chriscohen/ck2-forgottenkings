@@ -1,0 +1,21 @@
+# BLACKEAGLE
+# Range 30400-30499
+
+30400 = {
+	name = Iletian
+	dynasty = 211046
+	
+	religion = catholic
+	culture = dalelander
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1342.1.1 = {
+		trait = fighter
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1391.1.1 = {
+		death = yes
+	}
+}

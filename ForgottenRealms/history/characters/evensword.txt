@@ -1,0 +1,21 @@
+# EVENSWORD
+# Range 30500-30599
+
+30500 = {
+	name = Jarwain
+	dynasty = 211047
+	
+	religion = catholic
+	culture = halfelf
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		trait = fighter
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1418.1.1 = {
+		death = yes
+	}
+}

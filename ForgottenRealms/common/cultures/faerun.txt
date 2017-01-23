@@ -633,7 +633,7 @@ human = {
 			Maerlyn Maestoon Malaglan Mallik Manarech Maniol Mark Marthin Martin Melder Melot Mhaernos Mondar Morgaego Morligul Moss Mulcaster Myrton
 			Naeryk Narbreth Nars Nelnar
 			Obraerl Obrynn Ogden Ohlmer Ondrin Ondyn Onkyl Oric Ordmann Orm Ormion Orngrym Ortwin Orvendel
-			Paramyr Paton Piper Prosler Pyramus
+			Paramyr Paton Peldan Piper Prosler Pyramus
 			Raedlar Raegl Rankin Rastafan Rauligus Rauril Rauvor Rauvoril Ravos Reldyk Renstameir Reth Rhiindaerth Riley Roland Roond Rorlyn Rorstil Rowen
 			Sagrast Sardasper Sarliman Sathrin Scarmar Scoril Scotti Sherda Sorgar Staephon
 			Tabart Talados Taldeth Tarmel Telarn Tenshorn Thaerilon Thalance Tharim Theldrin Thessilion Thomdor Thorndor Threldryn Trenton Tystarn
@@ -700,32 +700,33 @@ human = {
 			Aencar Alduvar Alosius Ambrose Ashaba
 			Barathal Belrovur
 			Crandan
-			Darwinn Dheren Dornal Dulwar Durn
+			Darwinn Derim Dheren Dornal Dulwar Dumic Durn
 			Elzar Erethun
 			Feltaern Flars Francan Fulgath
-			Gordon Gorstag Gulmarin Gunderman
-			Harlstakh Hasicor Hesketh
-			Ilmeth Imbar Irreph
+			Galath Gannon Gordon Gorstag Gulmarin Gunderman
+			Haresk Harlstakh Hasicor Hesketh
+			Iletian Ilmeth Imbar Irreph
 			Jallian Jherald Joadath
-			Marler
+			Marler Multhimmer
 			Orimmon
 			Randal Rhannon Rhauntides
-			Teredic Thaliach Tharwin Thaundass Tren Tunfer Tyran
+			Targen Teredic Thaliach Tharwin Thaundass Thorm Tren Tunfer Tyran
 			Vzoun
 		}
 		female_names = {
-			Adee
+			Adee Alena
 			Durana
 			Elué Eragyn
 			Helena
-			Jalia
+			Jalia Jhanira
 			Kessia
 			Llewan
 			Maerindra
-			Neranya
+			Nelyssa Neranya
 			Olavia
 			Renoen
 			Seresha Shaunil Sheila Silver
+			Ulwen
 			Varana
 			Yvonna
 		}
@@ -1349,7 +1350,8 @@ halfbreed = {
 		
 		male_names = {
 			Daragath
-			Kymer
+			Jarwain
+			Kaulvaerus Kymer
 			Theremen
 			Vartan
 		}

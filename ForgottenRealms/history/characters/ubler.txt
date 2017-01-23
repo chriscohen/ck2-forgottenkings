@@ -1,0 +1,66 @@
+# UBLER
+# Range 30900-30999
+
+30900 = {
+	name = Thorm
+	dynasty = 211051
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = greedy
+	trait = wroth
+	trait = cruel
+	
+	1324.1.1 = {
+		birth = yes
+	}
+	1340.1.1 = {
+		trait = aristocrat
+	}
+	1404.1.1 = {
+		death = yes
+	}
+}
+30901 = {
+	name = Gannon # Non-canon name
+	dynasty = 211051
+	father = 30900 # Thorm
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = cruel
+	trait = proud
+	
+	1342.1.1 = {
+		birth = yes
+	}
+	1358.1.1 = {
+		trait = fighter
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}
+30902 = {
+	name = Targen # Non-canon name
+	dynasty = 211051
+	father = 30900 # Thorm
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = cruel
+	trait = cynical
+	
+	1344.1.1 = {
+		birth = yes
+	}
+	1360.1.1 = {
+		trait = fighter
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}

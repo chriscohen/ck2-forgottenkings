@@ -1,4 +1,5 @@
 1339.1.1 = {
+	liege = d_high_dale
 	# There's a council of leaders in High Dale but we can't represent
 	# this, so we'll give it to one of them
 	holder = 29200 # Tyran Greene

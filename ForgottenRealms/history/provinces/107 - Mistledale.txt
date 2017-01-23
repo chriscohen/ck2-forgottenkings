@@ -2,7 +2,7 @@
 title = c_mistledale
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_ashabenford = castle
 
@@ -10,4 +10,21 @@ b_ashabenford = castle
 culture = dalelander
 religion = catholic
 
-#History
+# History
+940.1.1 = {
+	b_galaths_roost = castle
+	capital = b_galaths_roost
+}
+970.1.1 = {
+	capital = b_ashabenford
+	remove_settlement = b_galaths_roost
+}
+1020.1.1 = {
+	b_peldans_helm = castle
+}
+1331.1.1 = {
+	b_abbey_of_the_golden_sheaf = temple
+}
+1353.1.1 = {
+	b_oakengrove = temple
+}

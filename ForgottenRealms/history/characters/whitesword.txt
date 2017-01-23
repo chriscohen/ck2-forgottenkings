@@ -1,0 +1,21 @@
+# WHITESWORD
+# Range 30600-30699
+
+30600 = {
+	name = Derim
+	dynasty = 211048
+	
+	religion = catholic
+	culture = dalelander
+	
+	1315.1.1 = {
+		birth = yes
+	}
+	1331.1.1 = {
+		trait = cleric
+		trait = chauntea
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}

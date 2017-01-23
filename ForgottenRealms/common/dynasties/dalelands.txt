@@ -184,3 +184,51 @@
 	name = Wyndlass
 	culture = dalelander
 }
+211042 = {
+	name = Malorn
+	culture = dalelander
+}
+211043 = {
+	name = Sharin
+	culture = dalelander
+}
+211044 = {
+	name = Holdfast
+	culture = dalelander
+}
+211045 = {
+	name = Shendean
+	culture = dalelander
+}
+211046 = {
+	name = Blackeagle
+	culture = dalelander
+}
+211047 = {
+	name = Evensword
+	culture = dalelander
+}
+211048 = {
+	name = Whiteshield
+	culture = dalelander
+}
+211049 = {
+	name = Durei
+	culture = dalelander
+}
+211050 = {
+	name = Harpenshield
+	culture = dalelander
+}
+211051 = {
+	name = Ubler
+	culture = dalelander
+}
+211052 = {
+	name = Greymantle
+	culture = dalelander
+}
+211053 = {
+	name = Barasstan
+	culture = dalelander
+}

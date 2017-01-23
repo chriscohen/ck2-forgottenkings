@@ -290,5 +290,17 @@
 # 29700  - 29799    Ethander
 # 29800  - 29899    Wyndlass
 # 29900  - 29999    Stonesplitter
+# 30000  - 30099    Malorn
+# 30100  - 30199    Sharin
+# 30200  - 30299    Holdfast
+# 30300  - 30399    Shendean
+# 30400  - 30499    Blackeagle
+# 30500  - 30599    Evensword
+# 30600  - 30699    Whitesword
+# 30700  - 30799    Durei
+# 30800  - 30899    Harpenshield
+# 30900  - 30999    Ubler
+# 31000  - 31099    Greymantle
+# 31100  - 31199    Barasstan
 #
 # 900000 - 999999 Lowborn

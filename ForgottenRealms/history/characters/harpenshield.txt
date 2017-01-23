@@ -1,0 +1,21 @@
+# HARPENSHIELD
+# Range 30800-30899
+
+30800 = {
+	name = Holfast
+	dynasty = 211050
+	
+	religion = catholic
+	culture = dalelander
+	
+	1327.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		trait = fighter
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1400.1.1 = {
+		death = yes
+	}
+}

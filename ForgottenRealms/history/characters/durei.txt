@@ -1,0 +1,21 @@
+# DUREI
+# Range 30700-30799
+
+30700 = {
+	name = Gannon
+	dynasty = 211049
+	
+	religion = catholic
+	culture = dalelander
+	
+	1337.1.1 = {
+		birth = yes
+	}
+	1353.1.1 = {
+		trait = cleric
+		trait = silvanus
+	}
+	1419.1.1 = {
+		death = yes
+	}
+}

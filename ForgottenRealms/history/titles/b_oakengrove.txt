@@ -1,0 +1,7 @@
+1353.1.1 = {
+	liege = c_mistledale
+	holder = 30700 # Gannon Durei
+}
+1419.1.1 = {
+	holder = 0
+}

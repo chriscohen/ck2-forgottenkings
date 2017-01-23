@@ -1783,6 +1783,7 @@
 900103 = {
 	# TSR9486 Volo's Guide to Cormyr p.127
 	name = Alaethe
+	female = yes
 	father = 900102 # Jathos
 	
 	religion = catholic
@@ -1913,11 +1914,14 @@
 }
 900110 = {
 	name = Crownhilde
+	female = yes
 	father = 75 # Pryntaler Obarskyr
 	mother = 900103 # Alaethe
 	
 	religion = catholic
 	culture = cormyrean
+	
+	trait = bastard
 	
 	1191.1.1 = {
 		birth = yes
@@ -2323,6 +2327,9 @@
 		effect = {
 			add_friend = 25800 # Alduvar Snowbrand
 		}
+	}
+	1420.1.1 = {
+		death = yes
 	}
 }
 900132 = {
@@ -2857,6 +2864,9 @@
 		employer = 28300 # Alosius Grimwarrow / c_harrowdale
 		effect = { give_job_title = job_marshal }
 	}
+	1505.1.1 = {
+		death = yes
+	}
 }
 900157 = {
 	name = Hesketh
@@ -2868,7 +2878,7 @@
 		birth = yes
 	}
 	1315.1.1 = {
-		trait = figher
+		trait = fighter
 	}
 	1356.8.1 = {
 		employer = 28300 # Alosius Grimwarrow / c_harrowdale
@@ -2945,5 +2955,92 @@
 	}
 	1384.1.1 = {
 		death = yes
+	}
+}
+900161 = {
+	name = Alena
+	female = yes
+	
+	religion = catholic
+	culture = dalelander
+	
+	trait = zealous
+	
+	1343.1.1 = {
+		birth = yes
+	}
+	1359.1.1 = {
+		trait = cleric
+		trait = chauntea
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1414.1.1 = {
+		death = yes
+	}
+}
+900162 = {
+	name = Dumic
+	
+	religion = catholic
+	culture = dalelander
+	
+	1326.1.1 = {
+		birth = yes
+	}
+	1342.1.1 = {
+		trait = aristocrat
+		give_nickname = nick_the_red
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1387.1.1 = {
+		death = yes
+	}
+}
+900163 = {
+	name = Multhimmer
+	
+	religion = catholic
+	culture = dalelander
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		trait = aristocrat
+		employer = 30000 # Haresk Malorn / c_mistledale
+	}
+	1388.1.1 = {
+		death = yes
+	}
+}
+900164 = {
+	name = Peldan
+	
+	religion = catholic
+	culture = cormyrean
+	
+	998.1.1 = {
+		birth = yes
+	}
+	1067.1.1 = {
+		death = yes
+	}
+}
+900165 = {
+	name = Galath
+	
+	religion = catholic
+	culture = dalelander
+	
+	914.1.1 = {
+		birth = yes
+	}
+	930.1.1 = {
+		trait = fighter
+	}
+	970.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
 	}
 }

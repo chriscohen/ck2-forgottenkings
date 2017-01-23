@@ -4,13 +4,8 @@
 970.1.1 = {
 	holder = 0
 }
-1038.1.1 = {
-	liege = k_dalelands
-}
-1044.1.1 = {
-	liege = 0
-}
 1336.1.1 = {
+	liege = d_mistledale
 	holder = 30000 # Haresk Malorn
 }
 1411.1.1 = {

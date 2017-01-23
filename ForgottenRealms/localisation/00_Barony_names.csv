@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+b_abbey_of_the_golden_sheaf;Abbey of the Golden Sheaf;;;;;;;;;;;;;x
+b_abbey_of_the_golden_sheaf_adj;Abbey of the Golden Sheafian;;;;;;;;;;;;;x
 b_abbey_of_the_sword;Abbey of the Sword;;;;;;;;;;;;;x
 b_abbey_of_the_sword_adj;Abbey of the Swordian;;;;;;;;;;;;;x
 b_abbor;Abbor;;;;;;;;;;;;;x
@@ -185,6 +187,8 @@ b_eagle_peak;Eagle Peak;;;;;;;;;;;;;x
 b_eagle_peak_adj;Eagle Peakian;;;;;;;;;;;;;x
 b_elbencort;Elbencort;;;;;;;;;;;;;x
 b_elbencort_adj;Elbencortan;;;;;;;;;;;;;x
+b_elven_crossing;Elven Crossing;;;;;;;;;;;;;x
+b_elven_crossing_adj;Elven Crossian;;;;;;;;;;;;;x
 b_elversult;Elversult;;;;;;;;;;;;;x
 b_elversult_adj;Elversultan;;;;;;;;;;;;;x
 b_elyssyrr;Elyssyrr;;;;;;;;;;;;;x
@@ -223,6 +227,8 @@ b_foyeri;Foyeri;;;;;;;;;;;;;x
 b_foyeri_adj;Foyerian;;;;;;;;;;;;;x
 b_freedale;Freedale;;;;;;;;;;;;;x
 b_freedale_adj;Freedalen;;;;;;;;;;;;;x
+b_galaths_roost;Galath’s Roost;;;;;;;;;;;;;x
+b_galaths_roost_adj;Galathian;;;;;;;;;;;;;x
 b_ghars;Ghars;;;;;;;;;;;;;x
 b_ghars_adj;Gharsian;;;;;;;;;;;;;x
 b_gladehap;Gladehap;;;;;;;;;;;;;x
@@ -457,6 +463,8 @@ b_nykkar_isle;Nykkar Isle;;;;;;;;;;;;;x
 b_nykkar_isle_adj;Nykkar Islian;;;;;;;;;;;;;x
 b_o_malley;O’Malley;;;;;;;;;;;;;x
 b_o_malley_adj;O’Mallean;;;;;;;;;;;;;x
+b_oakengrove;Oakengrove;;;;;;;;;;;;;x
+b_oakengrove_adj;Oakengrovian;;;;;;;;;;;;;x
 b_ogden;Ogden;;;;;;;;;;;;;x
 b_ogden_adj;Ogdenian;;;;;;;;;;;;;x
 b_olafstaad;Olafstaad;;;;;;;;;;;;;x
