@@ -51,4 +51,6 @@ I realise that the number of people with git knowledge, CKII modding experience,
 Even if you can't or don't want to contribute, playtesters are welcome to give feedback and suggestions. I am not an experienced modder for CKII so I have a lot to learn.
 
 ### Versions
+0.3 (~57MB): https://drive.google.com/open?id=0B4PHSakiQ8gpMkpsZVFpLUtvN2M
+0.2 (~30MB): https://drive.google.com/open?id=0B4PHSakiQ8gpVXRoRkRoZ1hDTzA
 0.1 (~30MB): https://drive.google.com/open?id=0B4PHSakiQ8gpcERsS1BybjBKXzg
