@@ -1,4 +1,6 @@
 1336.1.1 = {
+	# FRCS 3rd edition p.113 says Thunderstone has no lord, but due to Hawklin
+	# dynasty having holdings there, we will give it to Barandos Hawklin
 	liege = c_thunder_way
 	holder = 6100 # Barandos Hawklin
 }

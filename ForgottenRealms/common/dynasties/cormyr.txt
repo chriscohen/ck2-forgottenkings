@@ -1236,3 +1236,7 @@
 	name = Tallsword
 	culture = cormyrean
 }
+201091 = {
+	name = Laheralson
+	culture = cormyrean
+}

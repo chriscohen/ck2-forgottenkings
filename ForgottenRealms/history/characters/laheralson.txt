@@ -1,0 +1,26 @@
+# LAHERALSON
+# Range 31300-31399
+
+31300 = {
+	name = Faril
+	dynasty = 201091
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1333.1.1 = {
+		birth = yes
+	}
+	1349.1.1 = {
+		trait = fighter
+		trait = rogue
+		trait = purple_dragon
+		employer = 9539 # Wohl Wyvernspur
+	}
+	1352.1.1 = {
+		employer = 9543 # Frefford Wyvernspur
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}

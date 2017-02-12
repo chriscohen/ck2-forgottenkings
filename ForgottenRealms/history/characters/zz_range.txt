@@ -303,5 +303,6 @@
 # 31000  - 31099    Greymantle
 # 31100  - 31199    Barasstan
 # 31200  - 31299    Tallsword
+# 31300  - 31399    Laheralson
 #
 # 900000 - 999999 Lowborn
