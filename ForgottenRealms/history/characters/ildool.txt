@@ -12,7 +12,9 @@
 	1312.1.1 = {
 		birth = yes
 	}
-	1394.1.1 = {
+	# Ildool is dead by 1372 DR because Bledryn Scoril is Lord of Marsember
+	# FRCS 3rd edition p.113
+	1372.1.1 = {
 		death = yes
 	}
 }

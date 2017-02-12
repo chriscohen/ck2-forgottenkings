@@ -22,6 +22,10 @@
 1328.1.1 = {
 	holder = 6300 # Unnamed Ildool
 }
+1372.1.1 = {
+	# FRCS 3rd edition p.113
+	holder = 6200 # Bledryn Scoril
+}
 1394.1.1 = {
 	holder = 23701 # Durmeth Eldroon
 }

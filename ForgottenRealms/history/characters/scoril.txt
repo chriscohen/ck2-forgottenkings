@@ -12,9 +12,10 @@
 		birth = yes
 	}
 	1345.1.1 = {
+		trait = fighter
 		employer = 6300 # Unnamed Ildool, Marsember
 	}
-	1391.1.1 = {
+	1394.1.1 = {
 		death = yes
 	}
 }
