@@ -1446,6 +1446,11 @@
 	1335.1.1 = {
 		birth = yes
 	}
+	1351.1.1 = {
+		trait = fighter
+		trait = rogue
+		trait = purple_dragon
+	}
 	1371.10.1 = {
 		give_nickname = nick_the_steel_regent
 		effect = {
