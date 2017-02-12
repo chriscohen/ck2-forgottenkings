@@ -19,7 +19,7 @@
 }
 1369.5.1 = {
 	# Cormaeril stripped of lands after Abraxus Affair
-	holder = 9543 # Frefford Wyvernspur
+	holder = 900166 # Culspiir
 }
 1398.1.1 = {
 	holder = 0

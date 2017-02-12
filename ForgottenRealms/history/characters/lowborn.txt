@@ -3044,3 +3044,20 @@
 		}
 	}
 }
+900166 = {
+	name = Culspiir
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1331.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		trait = rogue
+		employer = 900030 # Sthavar / c_suzail
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}
