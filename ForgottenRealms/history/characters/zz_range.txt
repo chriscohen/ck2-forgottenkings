@@ -304,5 +304,6 @@
 # 31100  - 31199    Barasstan
 # 31200  - 31299    Tallsword
 # 31300  - 31399    Laheralson
+# 31400  - 31499    Woodband
 #
 # 900000 - 999999 Lowborn

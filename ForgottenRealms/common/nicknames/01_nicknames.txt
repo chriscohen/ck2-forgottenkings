@@ -16,6 +16,7 @@ nick_o_the_blades = {}
 nick_ravenhair = {}
 nick_ravensong = {}
 nick_redbeard = {}
+nick_trollkiller = {}
 nick_the_boy_king = {}
 nick_the_corsair_prince = {}
 nick_the_cpob = {}

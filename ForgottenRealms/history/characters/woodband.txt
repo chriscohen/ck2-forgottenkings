@@ -1,0 +1,25 @@
+# WOODBAND
+# Range 31400-31499
+
+31400 = {
+	name = Filfar
+	dynasty = 201092
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		trait = fighter
+		give_nickname = nick_trollkiller
+		employer = 9203 # Kimba Crownsilver / c_kings_forest
+	}
+	1395.1.1 = {
+		employer = 9206 # Reth Crownsilver / c_kings_forest
+	}
+	1405.1.1 = {
+		death = yes
+	}
+}

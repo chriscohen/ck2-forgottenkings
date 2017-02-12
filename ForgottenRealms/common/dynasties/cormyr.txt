@@ -1240,3 +1240,7 @@
 	name = Laheralson
 	culture = cormyrean
 }
+201092 = {
+	name = Woodband
+	culture = cormyrean
+}
