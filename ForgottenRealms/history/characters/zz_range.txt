@@ -305,5 +305,6 @@
 # 31200  - 31299    Tallsword
 # 31300  - 31399    Laheralson
 # 31400  - 31499    Woodband
+# 31500  - 31599    Redbeard
 #
 # 900000 - 999999 Lowborn

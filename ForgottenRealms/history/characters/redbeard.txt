@@ -1,0 +1,24 @@
+# REDBEARD
+# Range 31500-31599
+
+31500 = {
+	name = Sarp
+	dynasty = 201093
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1329.1.1 = {
+		birth = yes
+	}
+	1345.1.1 = {
+		trait = fighter
+		employer = 10801 # Maestoon Huntsilver
+	}
+	1389.1.1 = {
+		employer = 10804 # Hundilavatar Huntsilver
+	}
+	1401.1.1 = {
+		death = yes
+	}
+}

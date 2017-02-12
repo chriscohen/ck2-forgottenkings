@@ -1244,3 +1244,7 @@
 	name = Woodband
 	culture = cormyrean
 }
+201093 = {
+	name = Redbeard
+	culture = cormyrean
+}
