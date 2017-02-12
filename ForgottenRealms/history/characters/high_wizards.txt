@@ -57,6 +57,10 @@
 	1340.1.1 = { # Estimate
 		birth = yes
 	}
+	1356.1.1 = {
+		trait = sorcerer
+		trait = fighter
+	}
 	1372.1.2 = {
 		employer = 83 # Alusair Obarskyr
 		effect = { give_job_title = job_spymaster }
