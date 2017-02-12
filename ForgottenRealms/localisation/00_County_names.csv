@@ -23,6 +23,8 @@ c_barrets_quay;Barret’s Quay;;;;;;;;;;;;;x
 c_barrets_quay_adj;Barret’s Quayan;;;;;;;;;;;;;x
 c_battledale;Battledale;;;;;;;;;;;;;x
 c_battledale_adj;Battledalen;;;;;;;;;;;;;x
+c_beast_marches;Beast Marches;;;;;;;;;;;;;x
+c_beast_marches_adj;Beast Marchian;;;;;;;;;;;;;x
 c_beliard;Beliard;;;;;;;;;;;;;x
 c_beliard_adj;Beliardan;;;;;;;;;;;;;x
 c_black_mountains;Black Mountains;;;;;;;;;;;;;x
@@ -55,6 +57,8 @@ c_daerlun;Daerlun;;;;;;;;;;;;;x
 c_daerlun_adj;Daerlunian;;;;;;;;;;;;;x
 c_daggerdale;Daggerdale;;;;;;;;;;;;;x
 c_daggerdale_adj;Daggerdalen;;;;;;;;;;;;;x
+c_darkwoods;Darkwoods;;;;;;;;;;;;;x
+c_darkwoods_adj;Darkwoodsian;;;;;;;;;;;;;x
 c_deepingdale;Deepingdale;;;;;;;;;;;;;x
 c_deepingdale_adj;Deepingdalen;;;;;;;;;;;;;x
 c_dennik;Dennik;;;;;;;;;;;;;x
@@ -79,6 +83,12 @@ c_eastern_stormhorns;Eastern Stormhorns;Eastern Stormhorns;Eastern Stormhorns;;E
 c_eastern_stormhorns_adj;Eastern Stormhorner;;;;;;;;;;;;;x
 c_elemetar;Elemetar;;;;;;;;;;;;;x
 c_elemetar_adj;Elemetarran;;;;;;;;;;;;;x
+c_elmwood;Elmwood;;;;;;;;;;;;;x
+c_elmwood_adj;Elmwoodian;;;;;;;;;;;;;x
+c_elven_court;Elven Court;;;;;;;;;;;;;x
+c_elven_court_adj;Elven Courtan;;;;;;;;;;;;;x
+c_elventree;Elventree;;;;;;;;;;;;;x
+c_elventree_adj;Elventreean;;;;;;;;;;;;;x
 c_elversult;Elversult;;;;;;;;;;;;;x
 c_elversult_adj;Elversultan;;;;;;;;;;;;;x
 c_eyesvale;Eyesvale;;;;;;;;;;;;;x
@@ -91,6 +101,8 @@ c_firedrake;Firedrake;;;;;;;;;;;;;x
 c_firedrake_adj;Firedrakian;;;;;;;;;;;;;x
 c_flamsterd;Flamsterd;;;;;;;;;;;;;x
 c_flamsterd_adj;Flamsterdian;;;;;;;;;;;;;x
+c_flooded_forest;Flooded Forest;;;;;;;;;;;;;x
+c_flooded_forest_adj;Flooded Forestian;;;;;;;;;;;;;x
 c_forest_of_mir;Forest of Mir;;;;;;;;;;;;;x
 c_forest_of_mir_adj;Forest of Mirran;;;;;;;;;;;;;x
 c_fyraven;Fyraven;;;;;;;;;;;;;x
@@ -101,10 +113,14 @@ c_graygruun;Graygruun;;;;;;;;;;;;;x
 c_graygruun_adj;Graygruunian;;;;;;;;;;;;;x
 c_greenshores;Greenshores;;;;;;;;;;;;;x
 c_greenshores_adj;Greenshoran;;;;;;;;;;;;;x
+c_greentree;Greentree;;;;;;;;;;;;;x
+c_greentree_adj;Greentreean;;;;;;;;;;;;;x
 c_grondsgrunn;Grondsgrunn;;;;;;;;;;;;;x
 c_grondsgrunn_adj;Grondsgrunnian;;;;;;;;;;;;;x
 c_gwynneth_highlands;Gwynneth Highlands;;;;;;;;;;;;;x
 c_gwynneth_highlands_adj;Gwynneth Highlander;;;;;;;;;;;;;x
+c_halvans_wood;Halvan’s Wood;;;;;;;;;;;;;x
+c_halvans_wood_adj;Halvan’s Woodian;;;;;;;;;;;;;x
 c_harrowdale;Harrowdale;;;;;;;;;;;;;x
 c_harrowdale_adj;Harrowdalen;;;;;;;;;;;;;x
 c_hazamarch;Hazamarch;;;;;;;;;;;;;x
@@ -115,6 +131,8 @@ c_high_dale;High Dale;;;;;;;;;;;;;x
 c_high_dale_adj;High Dalen;;;;;;;;;;;;;x
 c_highport;Highport;;;;;;;;;;;;;x
 c_highport_adj;Highportan;;;;;;;;;;;;;x
+c_hillsfar;Hillsfar;;;;;;;;;;;;;x
+c_hillsfar_adj;Hillsfarran;;;;;;;;;;;;;x
 c_hook_isle;Hook Isle;;;;;;;;;;;;;x
 c_hook_isle_adj;Hooker;;;;;;;;;;;;;x
 c_horse_prairie;Horse Prairie;;;;;;;;;;;;;x
@@ -173,8 +191,12 @@ c_morninggold;Morninggold;;;;;;;;;;;;;x
 c_morninggold_adj;Morninggoldian;;;;;;;;;;;;;x
 c_mosstone;Mosstone;;;;;;;;;;;;;x
 c_mosstone_adj;Mosstonian;;;;;;;;;;;;;x
+c_mulmaster;Mulmaster;;;;;;;;;;;;;x
+c_mulmaster_adj;Mulmasterran;;;;;;;;;;;;;x
 c_myrloch_vale;Myrloch Vale;;;;;;;;;;;;;x
 c_myrloch_vale_adj;Myrloch Valen;;;;;;;;;;;;;x
+c_myth_drannor;Myth Drannor;;;;;;;;;;;;;x
+c_myth_drannor_adj;Myth Drannoran;;;;;;;;;;;;;x
 c_mytharan_woods;Mytharan Woods;;;;;;;;;;;;;x
 c_mytharan_woods_adj;Mytharan Woodsian;;;;;;;;;;;;;x
 c_nemessor;Nemessor;;;;;;;;;;;;;x
@@ -271,6 +293,8 @@ c_talffolk;Talffolk;;;;;;;;;;;;;x
 c_talffolk_adj;Talffolk;;;;;;;;;;;;;x
 c_talltrees;Talltrees;;;;;;;;;;;;;x
 c_talltrees_adj;Talltreesian;;;;;;;;;;;;;x
+c_tangled_trees;Tangled Trees;;;;;;;;;;;;;x
+c_tangled_trees_adj;Tangled Treesian;;;;;;;;;;;;;x
 c_tarkhaldale;Tarkhaldale;;;;;;;;;;;;;x
 c_tarkhaldale_adj;Tarkhaldalen;;;;;;;;;;;;;x
 c_tasseldale;Tasseldale;;;;;;;;;;;;;x
@@ -319,12 +343,16 @@ c_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
 c_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
 c_valashar;Valashar;;;;;;;;;;;;;x
 c_valashar_adj;Valasharran;;;;;;;;;;;;;x
+c_vale_of_lost_voices;Vale of Lost Voices;;;;;;;;;;;;;x
+c_vale_of_lost_voices_adj;Vale of Lost Voicesian;;;;;;;;;;;;;x
 c_varyth;Varyth;;;;;;;;;;;;;x
 c_varyth_adj;Varythian;;;;;;;;;;;;;x
 c_ventris;Ventris;;;;;;;;;;;;;x
 c_ventris_adj;Ventricular;;;;;;;;;;;;;x
 c_vintor;Vintor;;;;;;;;;;;;;x
 c_vintor_adj;Vintorran;;;;;;;;;;;;;x
+c_voonlar;Voonlar;;;;;;;;;;;;;x
+c_voonlar_adj;Voonlarran;;;;;;;;;;;;;x
 c_waterdeep;Waterdeep;;;;;;;;;;;;;x
 c_waterdeep_adj;Waterdhavian;;;;;;;;;;;;;x
 c_wave_rocks;Wave Rocks;;;;;;;;;;;;;x
@@ -349,5 +377,7 @@ c_yeslipek;Yeshpek;;;;;;;;;;;;;x
 c_yeslipek_adj;Yeshpekki;;;;;;;;;;;;;x
 c_yhaunn;Yhaunn;;;;;;;;;;;;;x
 c_yhaunn_adj;Yhaunnian;;;;;;;;;;;;;x
+c_yulash;Yûlash;;;;;;;;;;;;;x
+c_yulash_adj;Yûlashan;;;;;;;;;;;;;x
 c_zazesspur;Zazesspur;;;;;;;;;;;;;x
 c_zazesspur_adj;Zazesspurran;;;;;;;;;;;;;x

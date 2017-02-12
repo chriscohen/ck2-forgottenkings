@@ -1,0 +1,13 @@
+# County Title
+title = c_hillsfar
+
+# Settlements
+max_settlements = 1
+
+b_hillsfar = castle
+
+# Misc
+culture = moonsean
+religion = catholic
+
+# History

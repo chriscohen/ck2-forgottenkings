@@ -297,6 +297,193 @@ k_calimshan = {
 		}
 	}
 }
+k_cormanthor = {
+	color = { 142 206 32 }
+	color2 = { 255 255 255 }
+	
+	capital = 213 # Myth Drannor
+	culture = moonelf
+	
+	d_semberholme = {
+		color = { 23 74 158 }
+		color2 = { 255 255 255 }
+		
+		capital = 108 # Semberholme
+		culture = moonelf # Temporary
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 108
+				}
+			}
+		}
+		
+		c_semberholme = {
+			color = { 23 74 158 }
+			color2 = { 255 255 255 }
+			
+			b_semberholme = {
+			}
+			b_aluianti = {
+			}
+			b_llanthorn = {
+			}
+			b_muirllar = {
+			}
+			b_tsornyl = {
+			}
+		}
+	}
+	d_myth_drannor = {
+		color = { 142 206 32 }
+		color2 = { 255 255 255 }
+		
+		capital = 213 # Myth Drannor
+		culture = moonelf
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 213
+					province_id = 218
+					province_id = 219
+				}
+			}
+		}
+		
+		c_myth_drannor = {
+			color = { 142 206 32 }
+			color2 = { 255 255 255 }
+			
+			b_myth_drannor = {
+			}
+		}
+		c_greentree = {
+			color = { 57 79 20 }
+			color2 = { 255 255 255 }
+			
+			b_greentree = {
+			}
+		}
+		c_beast_marches = {
+			color = { 118 132 95 }
+			color2 = { 255 255 255 }
+			
+			b_beast_marches = {
+			}
+		}
+	}
+	d_elven_court = {
+		color = { 189 240 100 }
+		color2 = { 255 255 255 }
+		
+		capital = 215 # Elven Court
+		culture = moonelf
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 212
+					province_id = 215
+					province_id = 216
+					province_id = 221
+				}
+			}
+		}
+		
+		c_elven_court = {
+			color = { 189 240 100 }
+			color2 = { 255 255 255 }
+			
+			b_elven_court = {
+			}
+		}
+		c_elventree = {
+			color = { 82 107 39 }
+			color2 = { 255 255 255 }
+			
+			b_elventree = {
+			}
+		}
+		c_halvans_wood = {
+			color = { 70 105 9 }
+			color2 = { 255 255 255 }
+			
+			b_halvans_wood = {
+			}
+		}
+		###############################################
+		# TODO: move this to the vast once it's defined
+		###############################################
+		c_flooded_forest = {
+			color = { 111 70 87 }
+			color2 = { 255 255 255 }
+			
+			b_flooded_forest = {
+			}
+		}
+	}
+	d_tangled_trees = {
+		color = { 106 150 30 }
+		color2 = { 255 255 255 }
+		
+		capital = 217 # Tangled Trees
+		culture = moonelf
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 217
+					province_id = 220
+				}
+			}
+		}
+		
+		c_tangled_trees = {
+			color = { 106 150 30 }
+			color2 = { 255 255 255 }
+			
+			b_tangled_trees = {
+			}
+		}
+		c_darkwoods = {
+			color = { 35 49 10 }
+			color2 = { 255 255 255 }
+			
+			b_darkwoods = {
+			}
+		}
+	}
+	d_vale_of_lost_voices = {
+		color = { 185 213 136 }
+		color2 = { 255 255 255 }
+		
+		capital = 214 # Vale of Lost Voices
+		culture = moonelf
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 214
+				}
+			}
+		}
+		
+		c_vale_of_lost_voices = {
+			color = { 185 213 136 }
+			color2 = { 255 255 255 }
+			
+			b_vale_of_lost_voices = {
+			}
+		}
+	}
+}
 k_cormyr = {
 	color={ 190 26 231 }
 	color2={ 255 255 255 }
@@ -1062,6 +1249,86 @@ k_icewind_dale = {
 			b_ten_towns_3 = {
 			}
 			b_ten_towns_4 = {
+			}
+		}
+	}
+}
+k_moonsea = {
+	color = { 225 33 114 }
+	color2 = { 255 255 255 }
+	
+	capital = 211 # Mulmaster (temporary)
+	culture = moonsean
+	
+	d_hillsfar = {
+		color = { 246 142 186 }
+		color2 = { 255 255 255 }
+		
+		capital = 209 # Hillsfar
+		culture = moonsean
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 207
+					province_id = 208
+					province_id = 209
+				}
+			}
+		}
+		
+		c_hillsfar = {
+			color = { 246 142 186 }
+			color2 = { 255 255 255 }
+			
+			b_hillsfar = {
+			}
+		}
+		c_voonlar = {
+			color = { 233 67 137 }
+			color2 = { 255 255 255 }
+			
+			b_voonlar = {
+			}
+		}
+		c_yulash = {
+			color = { 172 45 99 }
+			color2 = { 255 255 255 }
+			
+			b_yulash = {
+			}
+		}
+	}
+	d_mulmaster = {
+		color = { 225 33 114 }
+		color2 = { 255 255 255 }
+		
+		capital = 211 # Mulmaster
+		culture = moonsean
+		
+		allow = {
+			OR = {
+				lower_tier_than = KING
+				any_demesne_province = {
+					province_id = 210
+					province_id = 211
+				}
+			}
+		}
+		
+		c_mulmaster = {
+			color = { 225 33 114 }
+			color2 = { 255 255 255 }
+			
+			b_mulmaster = {
+			}
+		}
+		c_elmwood = {
+			color = { 136 35 78 }
+			color2 = { 255 255 255 }
+			
+			b_elmwood = {
 			}
 		}
 	}
@@ -2751,38 +3018,6 @@ d_teziir = {
 		color2 = { 255 255 255 }
 		
 		b_horse_prairie = {
-		}
-	}
-}
-d_semberholme = {
-	color = { 23 74 158 }
-	color2 = { 255 255 255 }
-	
-	capital = 108 # Semberholme
-	culture = moonelf # Temporary
-	
-	allow = {
-		OR = {
-			lower_tier_than = KING
-			any_demesne_province = {
-				province_id = 108
-			}
-		}
-	}
-	
-	c_semberholme = {
-		color = { 23 74 158 }
-		color2 = { 255 255 255 }
-		
-		b_semberholme = {
-		}
-		b_aluianti = {
-		}
-		b_llanthorn = {
-		}
-		b_muirllar = {
-		}
-		b_tsornyl = {
 		}
 	}
 }

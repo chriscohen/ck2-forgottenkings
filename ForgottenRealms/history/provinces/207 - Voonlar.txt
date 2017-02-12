@@ -1,0 +1,13 @@
+# County Title
+title = c_voonlar
+
+# Settlements
+max_settlements = 1
+
+b_voonlar = castle
+
+# Misc
+culture = moonsean
+religion = catholic
+
+# History

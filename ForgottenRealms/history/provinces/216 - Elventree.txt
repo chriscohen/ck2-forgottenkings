@@ -1,0 +1,13 @@
+# County Title
+title = c_elventree
+
+# Settlements
+max_settlements = 1
+
+b_elventree = tribal
+
+# Misc
+culture = moonelf
+religion = catholic
+
+# History

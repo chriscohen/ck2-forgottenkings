@@ -31,6 +31,8 @@ d_durmista;Durmista;;;;;;;;;;;;;x
 d_durmista_adj;Durmistan;;;;;;;;;;;;;x
 d_eastern_marches;Eastern Marches;;;;;;;;;;;;;x
 d_eastern_marches_adj;Eastern Marchian;;;;;;;;;;;;;x
+d_elven_court;Elven Court;;;;;;;;;;;;;x
+d_elven_court_adj;Elven Courtan;;;;;;;;;;;;;x
 d_elversult;Elversult;;;;;;;;;;;;;x
 d_elversult_adj;Elversultan;;;;;;;;;;;;;x
 d_featherdale;Featherdale;;;;;;;;;;;;;x
@@ -45,6 +47,8 @@ d_harrowdale;Harrowdale;;;;;;;;;;;;;x
 d_harrowdale_adj;Harrowdalen;;;;;;;;;;;;;x
 d_high_dale;High Dale;;;;;;;;;;;;;x
 d_high_dale_adj;High Dalen;;;;;;;;;;;;;x
+d_hillsfar;Hillsfar;;;;;;;;;;;;;x
+d_hillsfar_adj;Hillsfarran;;;;;;;;;;;;;x
 d_icewind_dale;Icewind Dale;Icewind Dale;Icewind Dale;;Icewind Dale;;;;;;;;;x
 d_icewind_dale_adj;Icewind Daler;;;;;;;;;;;;;x
 d_ilipur;Ilipur;;;;;;;;;;;;;x
@@ -65,8 +69,12 @@ d_mistledale;Mistledale;;;;;;;;;;;;;x
 d_mistledale_adj;Mistledalen;;;;;;;;;;;;;x
 d_moray;Moray;;;;;;;;;;;;;x
 d_moray_adj;Morayan;;;;;;;;;;;;;x
+d_mulmaster;Mulmaster;;;;;;;;;;;;;x
+d_mulmaster_adj;Mulmasterran;;;;;;;;;;;;;x
 d_myrloch;Myrloch;;;;;;;;;;;;;x
 d_myrloch_adj;Myrlochian;;;;;;;;;;;;;x
+d_myth_drannor;Myth Drannor;;;;;;;;;;;;;x
+d_myth_drannor_adj;Myth Drannoran;;;;;;;;;;;;;x
 d_nelanther_isles;Nelanther Isles;;;;;;;;;;;;;x
 d_nelanther_isles_adj;Nelanther;;;;;;;;;;;;;x
 d_norheim;Norheim Isles;;;;;;;;;;;;;x
@@ -113,6 +121,8 @@ d_suldolphor;Suldolphor;;;;;;;;;;;;;x
 d_suldolphor_adj;Suldolphorian;;;;;;;;;;;;;x
 d_suretmarch;Suretmarch;;;;;;;;;;;;;x
 d_suretmarch_adj;Suretmarchian;;;;;;;;;;;;;x
+d_tangled_trees;Tangled Trees;;;;;;;;;;;;;x
+d_tangled_trees_adj;Tangled Treesian;;;;;;;;;;;;;x
 d_tarkhaldale;Tarkhaldale;;;;;;;;;;;;;x
 d_tarkhaldale_adj;Tarkhaldalen;;;;;;;;;;;;;x
 d_tasseldale;Tasseldale;;;;;;;;;;;;;x
@@ -131,6 +141,8 @@ d_twisted_rune;Twisted Rune;;;;;;;;;;;;;x
 d_twisted_rune_adj;Twisted Runian;;;;;;;;;;;;;x
 d_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
 d_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
+d_vale_of_lost_voices;Vale of Lost Voices;;;;;;;;;;;;;x
+d_vale_of_lost_voices_adj;Vale of Lost Voicesian;;;;;;;;;;;;;x
 d_waterdeep;Waterdeep;;;;;;;;;;;;;x
 d_waterdeep_adj;Waterdhavian;;;;;;;;;;;;;x
 d_westgate;Westgate;;;;;;;;;;;;;x
