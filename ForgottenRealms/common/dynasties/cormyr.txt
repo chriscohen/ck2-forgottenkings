@@ -1232,3 +1232,7 @@
 	name = Aumersair
 	culture = cormyrean
 }
+201090 = {
+	name = Tallsword
+	culture = cormyrean
+}

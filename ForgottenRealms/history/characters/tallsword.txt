@@ -1,0 +1,20 @@
+# TALLSWORD
+# Range 31200-31299
+
+31200 = {
+	name = Bren
+	dynasty = 201090
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1336.1.1 = {
+		birth = yes
+	}
+	1552.1.1 = {
+		trait = fighter
+	}
+	1404.1.1 = {
+		death = yes
+	}
+}

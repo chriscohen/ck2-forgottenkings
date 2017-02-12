@@ -1,0 +1,7 @@
+1352.1.1 = {
+	liege = c_eastern_stormhorns
+	holder = 31200 # Bren Tallsword
+}
+1404.1.1 = {
+	holder = 0
+}
