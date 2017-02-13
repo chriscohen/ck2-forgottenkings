@@ -46,3 +46,7 @@
 	name = Goldenleaf
 	culture = moonelf
 }
+401011 = {
+	name = Moonray
+	culture = moonelf
+}

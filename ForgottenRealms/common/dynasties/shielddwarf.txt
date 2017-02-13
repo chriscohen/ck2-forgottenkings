@@ -17,3 +17,7 @@
 	name = Stonesplitter
 	culture = shield_dwarf
 }
+600004 = {
+	name = Jorgadaul
+	culture = shield_dwarf
+}

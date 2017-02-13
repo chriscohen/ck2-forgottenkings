@@ -1,0 +1,23 @@
+# DALEBORN
+# Range 32800-32899
+
+32800 = {
+	name = Enrad
+	dynasty = 211054
+	
+	religion = catholic
+	culture = moonsean
+	
+	trait = honest
+	
+	1328.1.1 = {
+		birth = yes
+	}
+	1344.1.1 = {
+		trait = aristocrat
+		employer = 32600 # Thoyana Jorgadaul / c_elmwood
+	}
+	1407.1.1 = {
+		death = yes
+	}
+}

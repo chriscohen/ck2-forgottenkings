@@ -1,0 +1,26 @@
+# MOONRAY
+# Range 32700-32799
+
+32700 = {
+	name = Alamarayne
+	female = yes
+	dynasty = 401011
+	
+	religion = catholic
+	culture = halfelf
+	
+	trait = fair
+	trait = humble
+	trait = gregarious
+	
+	1335.1.1 = {
+		birth = yes
+	}
+	1351.1.1 = {
+		trait = cleric
+		trait = selune
+	}
+	1351.1.1 = {
+		employer = 32600 # Thoyana Jorgadaul / c_elmwood
+	}
+}

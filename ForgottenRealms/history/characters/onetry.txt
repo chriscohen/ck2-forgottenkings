@@ -1,0 +1,21 @@
+# ONETRY
+# Range 32900-32999
+
+32900 = {
+	name = Tayrom
+	dynasty = 218000
+	
+	religion = catholic
+	culture = moonsean
+	
+	1330.1.1 = {
+		birth = yes
+	}
+	1346.1.1 = {
+		trait = fighter
+		employer = 32600 # Thoyana Jorgadaul / c_elmwood
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}

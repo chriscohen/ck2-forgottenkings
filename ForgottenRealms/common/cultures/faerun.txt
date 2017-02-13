@@ -116,7 +116,7 @@ dwarf = {
 			Darun Durl
 		}
 		female_names = {
-			Unnamed
+			Thoyana
 		}
 		
 		dukes_called_kings = no
@@ -855,10 +855,11 @@ human = {
 		color = { 0.88 0.13 0.45 }
 		
 		male_names = {
-			Unnamed
+			Enrad Ezril
+			Tayrom
 		}
 		female_names = {
-			Unnamed
+			Elenawen
 		}
 		
 		dukes_called_kings = no
@@ -1391,6 +1392,7 @@ halfbreed = {
 			Vartan
 		}
 		female_names = {
+			Alamarayne
 			Kessla
 			Serena
 			Stellaga

@@ -3320,3 +3320,23 @@
 		death = yes
 	}
 }
+900183 = {
+	name = Elenawen
+	female = yes
+	religion = catholic
+	culture = moonsean
+	
+	trait = lustful
+	
+	1346.1.1 = {
+		birth = yes
+	}
+	1362.1.1 = {
+		trait = cleric
+		trait = selune
+		employer = 32600 # Thoyana Jorgadaul / c_elmwood
+	}
+	1419.1.1 = {
+		death = yes
+	}
+}

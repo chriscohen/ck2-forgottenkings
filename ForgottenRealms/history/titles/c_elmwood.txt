@@ -1,0 +1,7 @@
+1343.1.1 = {
+	liege = d_mulmaster
+	holder = 32600 # Thoyana Jorgadaul
+}
+1453.1.1 = {
+	holder = 0
+}

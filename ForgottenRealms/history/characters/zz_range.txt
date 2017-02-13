@@ -316,5 +316,10 @@
 # 32300  - 32399    Nisr
 # 32400  - 32499    Raventree
 # 32500  - 32599    Nesher
+# 32600  - 32699    Jorgadaul
+# 32700  - 32799    Moonray
+# 32800  - 32899    Daleborn
+# 32900  - 32999    Onetry
+# 33000  - 33099    Treewarder
 #
 # 900000 - 999999 Lowborn

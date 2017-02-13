@@ -1330,6 +1330,8 @@ k_moonsea = {
 			
 			b_elmwood = {
 			}
+			b_elmwood_grove = {
+			}
 		}
 	}
 }

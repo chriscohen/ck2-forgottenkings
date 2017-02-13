@@ -1,0 +1,11 @@
+# MOONSEA
+# Range 218000-218999
+
+218000 = {
+	name = Onetry
+	culture = moonsean
+}
+218001 = {
+	name = Treewarder
+	culture = moonsean
+}
