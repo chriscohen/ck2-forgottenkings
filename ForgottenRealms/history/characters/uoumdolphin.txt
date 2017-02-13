@@ -41,6 +41,9 @@
 	1335.1.1 = {
 		trait = fighter
 	}
+	1348.1.1 = {
+		employer = 33100 # Selfaril / d_mulmaster
+	}
 	1375.1.2 = {
 		add_spouse = 33400 # Dmitra Flass
 	}
