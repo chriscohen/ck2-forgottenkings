@@ -1,0 +1,16 @@
+1348.1.1 = {
+	liege = d_mulmaster
+	holder = 33100 # Selfaril Uoumdolphin
+}
+1375.1.1 = {
+	holder = 33101 # Rassendyll Uoumdolphin
+}
+1402.1.1 = {
+	holder = 0
+}
+1437.1.1 = {
+	holder = 33300 # Jaseen Drakehorn
+}
+1491.1.1 = {
+	holder = 0
+}

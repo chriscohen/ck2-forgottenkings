@@ -1,0 +1,22 @@
+# DRAKEHORN
+# Range 33300-33399
+
+33300 = {
+	name = Jaseen
+	female = yes
+	dynasty = 218002
+	
+	religion = catholic
+	culture = moonsean
+	
+	1421.1.1 = {
+		birth = yes
+	}
+	1437.1.1 = {
+		trait = aristocrat
+		trait = bane
+	}
+	1491.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,29 @@
+# TALLWAND
+# Range 33200-33299
+
+33200 = {
+	name = Thurndan
+	dynasty = 219001
+	
+	religion = catholic
+	culture = damaran
+	
+	1320.1.1 = {
+		birth = yes
+	}
+	1336.1.1 = {
+		trait = wizard
+	}
+	1348.1.1 = {
+		employer = 33100 # Selfaril Uoumdolpin / d_mulmaster
+	}
+	1375.1.1 = {
+		employer = 33101 # Rassendyll Uoumdolpin / d_mulmaster
+	}
+	1400.1.1 = {
+		trait = lich
+	}
+	1550.1.1 = {
+		death = yes
+	}
+}

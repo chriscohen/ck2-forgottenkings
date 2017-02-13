@@ -321,5 +321,8 @@
 # 32800  - 32899    Daleborn
 # 32900  - 32999    Onetry
 # 33000  - 33099    Treewarder
+# 33100  - 33199    Uoumdolphin
+# 33200  - 33299    Tallwand
+# 33300  - 33399    Drakehorn
 #
 # 900000 - 999999 Lowborn

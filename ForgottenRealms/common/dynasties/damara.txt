@@ -1,0 +1,11 @@
+# DAMARA
+# Range 219000-219999
+
+219000 = {
+	name = Uoumdolphin
+	culture = damaran
+}
+219001 = {
+	name = Tallwand
+	culture = damaran
+}

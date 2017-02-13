@@ -1,0 +1,44 @@
+# UOUMDOLPHIN
+# Range 33100-33199
+
+33100 = {
+	name = Selfaril
+	dynasty = 219000
+	
+	religion = catholic
+	culture = damaran
+	
+	trait = twin
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = fighter
+	}
+	1375.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 33200 # Thurndan Tallwand
+		}
+	}
+}
+33101 = {
+	name = Rassendyll
+	dynasty = 219000
+	
+	religion = catholic
+	culture = damaran
+	
+	trait = twin
+	
+	1319.1.1 = {
+		birth = yes
+	}
+	1335.1.1 = {
+		trait = fighter
+	}
+	1402.1.1 = {
+		death = yes
+	}
+}

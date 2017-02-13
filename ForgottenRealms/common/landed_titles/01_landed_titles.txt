@@ -1321,6 +1321,9 @@ k_moonsea = {
 			color = { 225 33 114 }
 			color2 = { 255 255 255 }
 			
+			title = TITLE_HIGH_BLADE
+			title_female = TITLE_HIGH_BLADE
+			
 			b_mulmaster = {
 			}
 		}
