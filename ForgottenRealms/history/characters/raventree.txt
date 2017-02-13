@@ -1,0 +1,38 @@
+# RAVENTREE
+# Range 32400-32499
+
+32400 = {
+	name = Nandos
+	dynasty = 214015
+	religion = catholic
+	culture = waterdhavian
+	1307.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		add_spouse = 32500 # Perryn Nesher
+	}
+}
+32401 = {
+	name = Surakh
+	dynasty = 214015
+	father = 32400
+	mother = 26500
+	religion = catholic
+	culture = waterdhavian
+	1344.1.1 = {
+		birth = yes
+	}
+}
+32402 = {
+	name = Galinda
+	female = yes
+	dynasty = 214015
+	father = 32400
+	mother = 26500
+	religion = catholic
+	culture = waterdhavian
+	1347.1.1 = {
+		birth = yes
+	}
+}

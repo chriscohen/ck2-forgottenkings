@@ -1,0 +1,80 @@
+# ELTORCHUL
+# Range 32100-32199
+
+32100 = {
+	name = Thesp
+	religion = catholic
+	culture = waterdhavian
+	dynasty = 214013
+	1310.1.1 = { # Estimate
+		birth = yes
+	}
+	1328.1.1 = {
+		trait = wizard
+	}
+}
+32101 = {
+	name = Arus
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+	dynasty = 214013
+	1311.1.1 = { # Estimate
+		birth = yes
+	}
+	1329.1.1 = {
+		trait = wizard
+	}
+	1335.1.1 = {
+		add_spouse = 32100
+	}
+}
+32102 = {
+	name = Oth
+	religion = catholic
+	culture = waterdhavian
+	dynasty = 214013
+	father = 32100
+	mother = 32101
+	1341.1.1 = { # Estimate
+		birth = yes
+	}
+	1359.1.1 = {
+		trait = wizard
+	}
+	1368.1.1 = {
+		trait = incapable
+		trait = lunatic
+	}	
+}
+32103 = {
+	name = Fea
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+	dynasty = 214013
+	father = 32100
+	mother = 32101
+	1343.1.1 = { # Estimate
+		birth = yes
+	}
+	1361.1.1 = {
+		trait = wizard
+	}
+}
+32104 = {
+	name = Errya
+	religion = catholic
+	culture = waterdhavian
+	dynasty = 214013
+	father = 32100
+	mother = 32101
+	1345.1.1 = { # Estimate
+		birth = yes
+	}
+	1363.1.1 = {
+		trait = wizard
+		trait = intricate_webweaver
+		trait = schemer
+	}
+}

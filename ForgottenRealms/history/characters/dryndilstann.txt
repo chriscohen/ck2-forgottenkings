@@ -1,0 +1,20 @@
+# DRYNDILSTANN
+# Range 32000 - 32099
+
+32000 = {
+	name = Mhaere
+	female = yes
+	religion = catholic
+	culture = neverwinter
+	dynasty = 214012
+	1320.1.1 = { # Wild guess
+		birth = yes
+	}
+	1338.1.1 = {
+		trait = cleric
+	}
+	1411.1.1 = {
+		death = yes
+	}
+}
+	

@@ -1,0 +1,42 @@
+# IRONFIST
+# Range 31900 - 31999
+
+31900 = {
+	name = Turgo
+	dynasty = 214011
+	religion = catholic
+	culture = shield_dwarf
+	1150.1.1 = { # Estimate
+		birth = yes
+	}
+	1340.1.1 = {
+		death = yes
+	}
+}
+31901 = {
+	name = Arn
+	dynasty = 214011
+	father = 31900
+	religion = catholic
+	culture = shield_dwarf
+	1225.1.1 = { # Estimate
+		birth = yes
+	}
+}
+31902 = {
+	name = Obryn
+	dynasty = 214011
+	father = 31901
+	religion = catholic
+	culture = shield_dwarf
+	1310.1.1 = { # Estimate
+		birth = yes
+	}
+	1328.1.1 = {
+		trait = fighter
+	}
+	1355.1.1 = {
+		employer = 31601 # Piergeiron
+		effect = { give_job_title = job_marshal }
+	}
+}

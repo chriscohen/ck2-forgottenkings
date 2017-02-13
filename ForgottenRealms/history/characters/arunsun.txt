@@ -20,6 +20,10 @@
 	464.1.1 = { # Estimate
 		trait = immortal
 	}
+	1315.1.1 = {
+		employer = 31601
+		give_job_title = job_spymaster
+	}
 	1600.1.1 = {
 		death = yes
 	}
@@ -43,7 +47,9 @@
 		add_spouse = 13101 # Lhestyn
 	}
 	1311.1.1 = {
-		death = yes
+		death = {
+			death_reason = death_murder
+		}
 	}
 }
 12802 = {
@@ -57,6 +63,10 @@
 	
 	1302.1.1 = {
 		birth = yes
+	}
+	1320.1.1 = {
+		trait = wizard
+		give_nickname = nick_ravencloak
 	}
 	1350.1.1 = { # Estimate
 		death = yes # Went to travel planes, can't represent this in game

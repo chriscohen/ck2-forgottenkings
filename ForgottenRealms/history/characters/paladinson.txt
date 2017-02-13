@@ -1,0 +1,60 @@
+# PALADINSON
+# Range 31600-31699
+
+31600 = {
+	name = Athar
+	dynasty = 214008
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1247.1.1 = { # Estimate
+		birth = yes
+	}
+	1265.1.1 = {
+		trait = paladin
+		give_nickname = nick_the_shining_knight
+	}
+	1300.1.11 = {
+		death = yes
+	}
+}
+31601 = {
+	name = Piergeiron
+	dynasty = 214008
+	father = 31600 # Athar
+	dna="cklbg0jaaa0"
+	properties="ad0c0g00000000"
+	religion = catholic
+	culture = waterdhavian
+
+	1277.1.1 = { # Estimate
+		birth = yes
+	}
+	1295.1.1 = {
+		trait = paladin
+		give_nickname = nick_the_thickskull
+	}
+	1299.1.1 = {
+		add_spouse = 900168 # Maethiira
+	}
+}
+31602 = {
+	name = Aleena
+	dynasty = 214008
+	father = 31601 # Piergeiron
+	mother = 900168 # Maethiira
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+
+	1320.1.1 = { # Estimate
+		birth = yes
+	}
+	1338.1.1 = {
+		trait = wizard
+	}
+	1346.1.1 = {
+		add_spouse = 900169 # Savengriff
+	}
+}

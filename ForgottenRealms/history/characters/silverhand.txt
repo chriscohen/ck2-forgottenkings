@@ -100,3 +100,24 @@
 		}
 	}
 }
+7004 = {
+	name = Laeral
+	female = yes
+	dynasty = 211000
+	father = 7000 # Dornal
+	mother = 900038 # Elué
+	
+	religion = catholic
+	culture = dalelander
+	
+	765.1.1 = {
+		birth = yes
+	}
+	781.1.1 = {
+		trait = wizard
+		trait = immortal
+	}
+	1357.1.1 = {
+		add_spouse = 12800 # Khelben Arunsun the Elder
+	}
+}

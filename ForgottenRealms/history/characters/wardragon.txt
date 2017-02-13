@@ -1,0 +1,20 @@
+# Wardragon
+# Range = 31800-31899
+
+31800 = {
+	name = Laroun
+	female = yes
+	dynasty = 214010
+	religion = catholic
+	culture = waterdhavian
+
+	940.1.1 = { # Estimate
+		birth = yes
+	}
+	958.1.1 = {
+		trait = fighter
+	}
+	1026.1.1 = {
+		death = yes
+	}
+}

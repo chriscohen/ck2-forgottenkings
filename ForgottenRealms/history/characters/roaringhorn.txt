@@ -29,9 +29,9 @@
 	# Not confirmed as Cormyrean, but we'll put him in that dynasty
 	name = Holver
 	dynasty = 201056
-	
+	father = 10904
 	religion = catholic
-	culture = cormyrean
+	culture = waterdhavian
 	
 	1327.1.1 = {
 		birth = yes
@@ -85,5 +85,41 @@
 	}
 	1019.1.1 = {
 		death = yes
+	}
+}
+10904 = {
+	name = Holver # The elder, invented name
+	dynasty = 201056
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1284.1.1 = {
+		birth = yes
+	}
+	1356.1.1 = {
+		death = yes
+	}
+}
+10905 = {
+	name = Vastarr
+	dynasty = 201056
+	father = 10904
+	religion = catholic
+	culture = waterdhavian
+	
+	1314.1.1 = {
+		birth = yes
+	}
+}
+10906 = {
+	name = Kuldos
+	dynasty = 201056
+	father = 10904
+	religion = catholic
+	culture = waterdhavian
+	
+	1315.1.1 = {
+		birth = yes
 	}
 }

@@ -433,8 +433,6 @@ b_morninggold_keep;Morninggold Keep;;;;;;;;;;;;;x
 b_morninggold_keep_adj;Morninggold Keepian;;;;;;;;;;;;;x
 b_mosstone;Mosstone;;;;;;;;;;;;;x
 b_mosstone_adj;Mosstonian;;;;;;;;;;;;;x
-b_mountainside;Mountainside;;;;;;;;;;;;;x
-b_mountainside_adj;Mountainsidian;;;;;;;;;;;;;x
 b_mouth_o_gargoyles;Mouth O’ Gargoyles;;;;;;;;;;;;;x
 b_mouth_o_gargoyles_adj;Mouth O’ Gargoylian;;;;;;;;;;;;;x
 b_muirllar;Muirllar;;;;;;;;;;;;;x
@@ -671,6 +669,8 @@ b_tegals_mark;Tegal’s Mark;;;;;;;;;;;;;x
 b_tegals_mark_adj;Tegal’s Markian;;;;;;;;;;;;;x
 b_tejarn_hills;Tejarn Hills;;;;;;;;;;;;;x
 b_tejarn_hills_adj;Tejarn Hillsian;;;;;;;;;;;;;x
+b_temple_district;Temple District;;;;;;;;;;;;;x
+b_temple_district_adj;Temple Districter;;;;;;;;;;;;;x
 b_teshburl;Teshburl;;;;;;;;;;;;;x
 b_teshburl_adj;Teshburlan;;;;;;;;;;;;;x
 b_teshyll;Teshyll;;;;;;;;;;;;;x

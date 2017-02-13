@@ -3145,6 +3145,9 @@ d_waterdeep = {
 	
 	capital = 196 # Waterdeep
 	culture = waterdhavian
+	short_name = yes
+	title = "TITLE_OPENLORD"
+	title_female = "TITLE_OPENLORD"
 	
 	allow = {
 		OR = {
@@ -3163,12 +3166,15 @@ d_waterdeep = {
 	c_waterdeep = {
 		color = { 210 128 12 }
 		color2 = { 255 255 255 }
+
+		title="TITLE_WARLORD"
+		title_female="TITLE_WARLORD"
 		
 		b_castle_ward = {
 		}
 		b_dock_ward = {
 		}
-		b_mountainside = {
+		b_temple_district = {
 		}
 		b_north_ward = {
 		}

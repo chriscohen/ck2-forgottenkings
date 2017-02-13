@@ -1,0 +1,55 @@
+1.1.1 = {
+	active = no
+}
+882.1.1 = { # Year of the Curse, rise of Nimoar
+	active = yes
+	holder = 900167 # Nimoar the Reaver
+}
+936.1.1 = {
+	holder = 900170 # Gharl
+}
+941.1.1 = {
+	holder = 31702 # Amphail Caradoon 'the Just'
+}
+942.1.1 = { 
+	holder = 900171 # Placeholder warlords start here
+}
+943.1.1 = {
+	holder = 900172
+}
+945.1.1 = {
+	holder = 900173
+}
+947.1.1 = {
+	holder = 900174
+}
+949.1.1 = {
+	holder = 900175
+}
+952.1.1 = {
+	holder = 900176 # 'Seventhlord', final placeholder warlord
+}
+974.1.1 = {
+	holder = 31800 # Laroun Wardragon
+}
+1026.1.1 = {
+	holder = 900177 # Raurlor
+}
+1032.1.1 = {
+	holder = 900178 # Ahghairon
+	liege = d_waterdeep
+}
+1256.1.1 = {
+	active = no
+}
+1273.1.1 = {
+	active = yes
+	holder = 900065 # Baeron
+	liege = d_waterdeep
+}
+1308.1.1 = {
+	holder = 13101 # Lhestyn
+}
+1314.1.1 = {
+	holder = 31601 # Piergieron
+}

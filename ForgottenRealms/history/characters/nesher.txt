@@ -1,0 +1,12 @@
+# NESHER
+# Range 32500-32599
+
+32500 = {
+	name = Perryn
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+	1309.1.1 = {
+		birth = yes
+	}
+}

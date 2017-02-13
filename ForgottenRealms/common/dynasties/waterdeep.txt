@@ -34,3 +34,39 @@
 	name = Thann
 	culture = waterdhavian
 }
+214008 = {
+	name = Paladinson
+	culture = waterdhavian
+}
+214009 = {
+	name = Caradoon
+	culture = waterdhavian
+}
+214010 = {
+	name = Wardragon
+	culture = waterdhavian
+}
+214011 = {
+	name = Ironfist
+	culture = shield_dwarf
+}
+214012 = {
+	name = Dryndilstann
+	culture = neverwinter
+}
+214013 = {
+	name = Eltorchul
+	culture = waterdhavian
+}
+214014 = {
+	name = Adarbrent
+	culture = cormyrean
+}
+214015 = {
+	name = Raventree
+	culture = waterdhavian
+}
+214016 = {
+	name = Nesher
+	culture = waterdhavian
+}

@@ -1,0 +1,8 @@
+1.1.1 = {
+	active = no
+}
+1340.1.1 = {
+	active = yes
+	liege = c_amphail
+	holder = 10905 # Vastarr Roaringhorn
+}

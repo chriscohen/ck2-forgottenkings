@@ -4,13 +4,13 @@ title = c_waterdeep
 # Settlements
 max_settlements = 7
 
-b_castle_ward = castle
+b_castle_ward = city
 b_dock_ward = castle
-b_mountainside = city
+b_temple_district = temple
 b_north_ward = castle
 b_sea_ward = castle
+b_trades_ward = city
 b_south_ward = castle
-b_trades_ward = castle
 
 # Misc
 culture = waterdhavian

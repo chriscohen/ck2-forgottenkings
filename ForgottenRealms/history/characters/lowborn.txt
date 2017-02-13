@@ -3061,3 +3061,262 @@
 		death = yes
 	}
 }
+
+900167 = {
+	name = Nimoar
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	855.1.1 = { # estimate
+		birth = yes
+	}
+
+	880.1.1 = {
+		trait = fighter
+		give_nickname = nick_the_reaver
+	}
+	936.1.1 = {
+		death = yes
+		# estimate - City of Splendours has him active in 936 but dead by 940
+	}
+}
+900168 = {
+	name = Maethiira
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+
+	1280.1.1 = { #estimate 
+		birth = yes
+	}
+	1344.1.1 = {
+		death = yes
+		}
+}
+900169 = {
+	name = Savengriff
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1300.1.1 = { #estimate
+		birth = yes
+	}
+	1318.1.1 = {
+		trait = wizard
+	}
+	1425.1.1 = {
+		death = yes
+	}
+}
+900170 = {
+	name = Gharl
+
+	religion = catholic
+	culture = waterdhavian
+
+	890.1.1 = { # Estimate
+		birth = yes
+	}
+	908.1.1 = {
+		trait = fighter
+	}
+	941.1.1 = {
+		death = yes
+	}
+}
+900171 = {
+	name = Secondlord
+
+	religion = catholic
+	culture = waterdhavian
+
+	890.1.1 = { # Estimate
+		birth = yes
+	}
+	908.1.1 = {
+		trait = fighter
+	}
+	943.1.1 = {
+		death = yes
+	}
+}
+900172 = {
+	name = Thirdlord
+
+	religion = catholic
+	culture = waterdhavian
+
+	890.1.1 = { # Estimate
+		birth = yes
+	}
+	908.1.1 = {
+		trait = fighter
+	}
+	945.1.1 = {
+		death = yes
+	}
+}
+900173 = {
+	name = Fourthlord
+
+	religion = catholic
+	culture = waterdhavian
+
+	890.1.1 = { # Estimate
+		birth = yes
+	}
+	908.1.1 = {
+		trait = fighter
+	}
+	947.1.1 = {
+		death = yes
+	}
+}
+900174 = {
+	name = Fifthlord
+
+	religion = catholic
+	culture = waterdhavian
+
+	890.1.1 = { # Estimate
+		birth = yes
+	}
+	908.1.1 = {
+		trait = fighter
+	}
+	949.1.1 = {
+		death = yes
+	}
+}
+900175 = {
+	name = Sixthlord
+
+	religion = catholic
+	culture = waterdhavian
+
+	890.1.1 = { # Estimate
+		birth = yes
+	}
+	908.1.1 = {
+		trait = fighter
+	}
+	952.1.1 = {
+		death = yes
+	}
+}
+900176 = {
+	name = Seventhlord
+
+	religion = catholic
+	culture = waterdhavian
+
+	890.1.1 = { # Estimate
+		birth = yes
+	}
+	908.1.1 = {
+		trait = fighter
+	}
+	974.1.1 = {
+		death = yes
+	}
+}
+900177 = {
+	name = Raurlor
+
+	religion = catholic
+	culture = waterdhavian
+
+	980.1.1 = { # Estimate
+		birth = yes
+	}
+	998.1.1 = {
+		trait = fighter
+	}
+	1032.1.1 = {
+		death = 
+			{ death_reason = death_battle
+			killer = 900178 # Ahghairon
+		}
+	}
+}
+900178 = {
+	name = Ahghairon
+
+	religion = catholic
+	culture = waterdhavian
+
+	920.8.1 = {
+		birth = yes
+	}
+	938.1.1 = {
+		trait = wizard
+		trait = immortal
+	}
+	1256.1.1 = {
+		death = yes
+	}
+}
+900179 = {
+	name = Ghentilara
+	female = yes
+	religion = catholic
+	culture = chondathan
+	1301.1.1 = { # Estimate - CoS describes her as elderly
+		birth = yes
+	}
+	1319.1.1 = {
+		trait = cleric
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}
+900180 = {
+	name = Durnan
+	religion = catholic
+	culture = waterdhavian
+	1265.1.1 = { # Estimate
+		birth = yes
+	}
+	1283.1.1 = {
+		trait = fighter
+		trait = immortal
+		give_nickname = nick_the_wanderer
+	}
+	1345.1.1 = {
+		add_spouse = 32000 # Mhaere
+	}
+	1590.1.1 = {
+		death = yes
+	}
+}
+900181 = {
+	name = Gheldarm
+	religion = catholic
+	culture = waterdhavian
+	1320.1.1 = {
+		birth = yes
+	}
+	1338.1.1 = {
+		trait = fighter
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}
+900182 = {
+	name = Briiathor
+	religion = catholic
+	culture = waterdhavian
+	1315.1.1 = {
+		birth = yes
+	}
+	1333.1.1 = {
+		trait = fighter
+	}
+	1389.1.1 = {
+		death = yes
+	}
+}

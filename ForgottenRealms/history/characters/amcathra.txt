@@ -4,7 +4,8 @@
 8200 = {
 	name = Mourngrym
 	dynasty = 214000
-	
+	father = 8202 # Challas
+	mother = 8203 # Miri
 	religion = catholic
 	culture = waterdhavian
 	
@@ -39,3 +40,195 @@
 		death = yes
 	}
 }
+8202 = {
+	name = Challas
+	dynasty = 214000
+	father = 8204
+	religion = catholic
+	culture = waterdhavian
+	1271.1.1 = {
+		birth = yes
+	}
+	1296.1.1 = {
+		add_spouse = 8203 # Miri Oldcoin
+	}
+	1377.1.1 = {
+		death = yes
+	}	
+}
+8203 = {
+	name = Miri
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+	1276.1.1 = {
+		birth = yes
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}
+8204 = {
+	name = Hargrym
+	dynasty = 214000
+	religion = catholic
+	culture = waterdhavian
+	1247.1.1 = {
+		birth = yes
+	}
+	1331.1.1 = {
+		death = yes
+	}
+}
+8205 = {
+	name = Arilos
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1298.1.1 = {
+		birth = yes
+	}
+	1427.1.1 = {
+		death = yes
+	}
+}
+8206 = {
+	name = Brantavran
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1300.1.1 = {
+		birth = yes
+	}
+	1427.1.1 = {
+		death = yes
+	}
+}
+8207 = {
+	name = Faraele
+	female = yes
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1302.1.1 = {
+		birth = yes
+	}
+	1427.1.1 = {
+		death = yes
+	}	
+}
+8208 = {
+	name = Clathyldra
+	female = yes
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1304.1.1 = {
+		birth = yes
+	}
+	1427.1.1 = {
+		death = yes
+	}	
+}
+8209 = {
+	name = Hulgrym
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1306.1.1 = {
+		birth = yes
+	}
+	1342.1.1 = {
+		employer = 900182 # Briiathor of Amphail
+		give_job_title = job_treasurer
+	}
+	1427.1.1 = {
+		death = yes
+	}
+}
+8210 = {
+	name = Dourdarra
+	female = yes
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1308.1.1 = {
+		birth = yes
+	}
+	1427.1.1 = {
+		death = yes
+	}
+}
+8211 = {
+	name = Dannath
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1310.1.1 = {
+		birth = yes
+	}
+		1427.1.1 = {
+		death = yes
+	}
+}
+8212 = {
+	name = Ildark
+	dynasty = 214000
+	father = 8202
+	mother = 8203
+	religion = catholic
+	culture = waterdhavian
+	1313.1.1 = {
+		birth = yes
+	}
+		1427.1.1 = {
+		death = yes
+	}
+}
+8213 = {
+	name = Syndrove
+	female = yes
+	dynasty = 214000
+	father = 8205
+	religion = catholic
+	culture = waterdhavian
+	1335.1.1 = {
+		birth = yes
+	}
+		1427.1.1 = {
+		death = yes
+	}
+}
+8214 = {
+	name = Regnet
+	dynasty = 214000
+	father = 8205
+	religion = catholic
+	culture = waterdhavian
+	1335.1.1 = {
+		birth = yes
+	}
+	1371.10.11 = {
+		add_spouse = 26402 # Galinda Raventree
+	}
+		1427.1.1 = {
+		death = yes
+	}
+}
+
+	
+	

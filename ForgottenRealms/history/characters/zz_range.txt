@@ -306,5 +306,15 @@
 # 31300  - 31399    Laheralson
 # 31400  - 31499    Woodband
 # 31500  - 31599    Redbeard
+# 31600  - 31699    Paladinson
+# 31700  - 31799    Caradoon
+# 31800  - 31899    Wardragon
+# 31900  - 31999    Ironfist
+# 32000  - 32099    Dryndilstann
+# 32100  - 32199    Eltorchul
+# 32200  - 32299    Adarbrent
+# 32300  - 32399	Nisr
+# 32400  - 32499    Raventree
+# 32500  - 32599	Nesher
 #
 # 900000 - 999999 Lowborn

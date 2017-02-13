@@ -105,3 +105,7 @@
 	name = "Q'hulhr"
 	culture = calishite
 }
+209027 = {
+	name = "Nisr"
+	culture = Calishite
+}
