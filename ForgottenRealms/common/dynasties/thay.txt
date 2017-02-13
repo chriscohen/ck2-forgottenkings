@@ -1,0 +1,7 @@
+# THAY
+# Range 220000-220999
+
+220000 = {
+	name = Flass
+	culture = thayan
+}

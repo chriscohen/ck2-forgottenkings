@@ -1,0 +1,24 @@
+# SEMYON
+# Range 33500-33599
+
+33500 = {
+	name = Branislav
+	dynasty = 221000
+	
+	religion = catholic
+	culture = rashemi
+	
+	1332.1.1 = {
+		birth = yes
+	}
+	1348.1.1 = {
+		trait = rogue
+		employer = 33100 # Selfaril Uoumdolphin / d_mulmaster
+	}
+	1375.1.1 = {
+		employer = 33101 # Rassendyll Uoumdolphin / d_mulmaster
+	}
+	1409.1.1 = {
+		death = yes
+	}
+}

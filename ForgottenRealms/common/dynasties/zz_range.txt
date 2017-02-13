@@ -19,6 +19,8 @@
 # 217000 - 217999   Chondath
 # 218000 - 218999   Moonsea
 # 219000 - 219999   Damara
+# 220000 - 220999   Thay
+# 221000 - 221999   Rashemen
 # 
 # 300000 - 399999   Miscellaneous
 #

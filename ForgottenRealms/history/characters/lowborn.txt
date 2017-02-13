@@ -3340,3 +3340,24 @@
 		death = yes
 	}
 }
+900184 = {
+	name = Gulgath
+	religion = catholic
+	culture = moonsean
+	
+	1314.1.1 = {
+		birth = yes
+	}
+	1330.1.1 = {
+		trait = wizard
+	}
+	1348.1.1 = {
+		employer = 33100 # Selfaril Uoumdolphin
+	}
+	1375.1.1 = {
+		employer = 33101 # Rassendyll Uoumdolphin
+	}
+	1398.1.1 = {
+		death = yes
+	}
+}

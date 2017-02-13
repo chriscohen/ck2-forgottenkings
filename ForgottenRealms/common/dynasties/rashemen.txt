@@ -1,0 +1,7 @@
+# RASHEMEN
+# Range 221000-221999
+
+221000 = {
+	name = Semyon
+	culture = rashemi
+}

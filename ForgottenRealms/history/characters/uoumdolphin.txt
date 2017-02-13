@@ -16,6 +16,9 @@
 	1335.1.1 = {
 		trait = fighter
 	}
+	1368.1.1 = {
+		add_spouse = 33400 # Dmitra Flass
+	}
 	1375.1.1 = {
 		death = {
 			death_reason = death_murder
@@ -37,6 +40,9 @@
 	}
 	1335.1.1 = {
 		trait = fighter
+	}
+	1375.1.2 = {
+		add_spouse = 33400 # Dmitra Flass
 	}
 	1402.1.1 = {
 		death = yes

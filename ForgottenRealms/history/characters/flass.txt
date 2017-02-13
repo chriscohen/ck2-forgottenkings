@@ -1,0 +1,27 @@
+# FLASS
+# Range 33400-33499
+
+33400 = {
+	name = Dmitra
+	female = yes
+	dynasty = 220000
+	
+	religion = catholic
+	culture = thayan
+	
+	1334.1.1 = {
+		birth = yes
+	}
+	1350.1.1 = {
+		trait = wizard
+	}
+	1368.1.1 = {
+		add_spouse = 33100 # Selfaril Uoumdolphin
+	}
+	1375.1.2 = {
+		add_spouse = 33101 # Rassendyll Uoumdolphin
+	}
+	1401.1.1 = {
+		death = yes
+	}
+}
