@@ -313,8 +313,8 @@
 # 32000  - 32099    Dryndilstann
 # 32100  - 32199    Eltorchul
 # 32200  - 32299    Adarbrent
-# 32300  - 32399	Nisr
+# 32300  - 32399    Nisr
 # 32400  - 32499    Raventree
-# 32500  - 32599	Nesher
+# 32500  - 32599    Nesher
 #
 # 900000 - 999999 Lowborn
