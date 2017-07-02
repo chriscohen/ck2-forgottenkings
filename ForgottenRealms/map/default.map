@@ -19,12 +19,13 @@ seasons = "seasons.txt"
 externals = {
 }
 
-sea_zones = { 3 7 }
+sea_zones = { 3 9 }
 sea_zones = { 18 18 }
 sea_zones = { 43 43 }
+sea_zones = { 69 93 }
 
 ocean_region = {	# OCEAN
-	sea_zones = { 1 2 3 }
+	sea_zones = { 1 2 3 4 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
