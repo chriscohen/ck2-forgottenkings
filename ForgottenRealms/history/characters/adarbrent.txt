@@ -6,6 +6,7 @@
 	dynasty = 214014
 	culture = cormyrean
 	religion = catholic
+	
 	1291.1.1 = { # Estimate
 		birth = yes
 	}
@@ -17,13 +18,17 @@
 	}
 }
 32201 = {
-	name = Royus
+	name = Alroy
 	dynasty = 214014
-	father = 32200
+	father = 32200 # Royus
 	culture = cormyrean
 	religion = catholic
+	
 	1331.1.1 = { # Estimate
 		birth = yes
+	}
+	1349.1.1 = {
+		trait = aristocrat
 	}
 	1407.1.1 = {
 		death = yes
@@ -32,9 +37,10 @@
 32202 = {
 	name = Ellis
 	dynasty = 214014
-	father = 32200
+	father = 32200 # Royus
 	culture = cormyrean
 	religion = catholic
+	
 	1336.1.1 = { # Estimate
 		birth = yes
 	}
@@ -49,9 +55,10 @@
 	name = Syllia
 	female = yes
 	dynasty = 214014
-	father = 32200
+	father = 32200 # Royus
 	culture = cormyrean
 	religion = catholic
+	
 	1337.1.1 = { # Estimate
 		birth = yes
 	}
