@@ -45,3 +45,7 @@
 	name = Jorman
 	culture = chondathan
 }
+217011 = {
+	name = Lharilstar
+	culture = chondathan
+}

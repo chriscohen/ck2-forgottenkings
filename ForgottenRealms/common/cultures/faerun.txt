@@ -112,7 +112,7 @@ dwarf = {
 		color = { 0.7 0.4 0.7 }
 		
 		male_names = {
-			Borruk
+			Balkin Borruk
 			Darun Durl
 		}
 		female_names = {
@@ -583,6 +583,7 @@ human = {
 			Gayrlana
 			Hathala
 			Leonara
+			Naneatha
 			Tar
 			Vaerana
 			Yanseldara
@@ -1413,9 +1414,11 @@ human = {
 			Eldaun Erktos
 			Garron
 			Harmon
+			Jurisk
 			Mourngrym
 			Palron Priamon
 			Randor Rhammas
+			Surrolph
 			Zelphar
 		}
 		female_names = {

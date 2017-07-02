@@ -1,0 +1,25 @@
+# ULHAMMOND
+# Range 33800-33899
+
+33800 = {
+	name = Jurisk
+	dynasty = 214017
+	
+	religion = catholic
+	culture = waterdhavian
+	
+	1324.1.1 = { # Estimate
+		birth = yes
+	}
+	1340.1.1 = {
+		trait = rogue
+		trait = fighter
+		effect = {
+			join_society = red_sashes
+		}
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	1373.8.14 = {
+		death = yes
+	}
+}

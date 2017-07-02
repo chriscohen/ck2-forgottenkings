@@ -1,0 +1,34 @@
+# STONESHAFT
+# Range 33660-33699
+
+33600 = {
+	name = Balkin
+	dynasty = 600005
+	religion = catholic
+	culture = shield_dwarf
+	
+	1233.1.1 = {
+		birth = yes
+		trait = trait_shielddwarf
+	}
+	1249.1.1 = {
+		trait = fighter
+	}
+	1273.1.1 = {
+		employer = 900065 # Baeron / c_castle_ward
+	}
+	1283.1.1 = {
+		effect = {
+			join_society = red_sashes
+		}
+	}
+	1308.1.1 = {
+		employer = 13101 # Lhestyn Arunsun / c_castle_ward
+	}
+	1314.1.1 = {
+		employer = 31601 # Piergieron Paladinson / c_castle_ward
+	}
+	1467.1.1 = {
+		death = yes
+	}
+}

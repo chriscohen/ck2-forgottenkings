@@ -326,5 +326,8 @@
 # 33300  - 33399    Drakehorn
 # 33400  - 33499    Flass
 # 33500  - 33599    Semyon
+# 33600  - 33699    Stoneshaft
+# 33700  - 33799    Lharilstar
+# 33800  - 33899    Ulhammond
 #
 # 900000 - 999999 Lowborn

@@ -3424,3 +3424,22 @@
 		death = yes
 	}
 }
+900188 = {
+	name = Surrolph Hlakken
+	religion = catholic
+	culture = waterdhavian
+	
+	1303.1.1 = {
+		birth = yes
+	}
+	1319.1.1 = {
+		trait = rogue
+		effect = {
+			join_society = red_sashes
+		}
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	1374.1.1 = {
+		death = yes
+	}
+}

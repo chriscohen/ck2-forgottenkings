@@ -1,0 +1,25 @@
+# LHARILSTAR
+# Range 33700-33799
+
+33700 = {
+	name = Naneatha
+	female = yes
+	dynasty = 217011
+	religion = catholic
+	culture = chondathan
+	
+	1337.1.1 = { # Estimated
+		birth = yes
+	}
+	1353.1.1 = {
+		trait = rogue
+		trait = fine
+		effect = {
+			join_society = red_sashes
+		}
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	1383.1.1 = { # Estimated
+		death = yes
+	}
+}
