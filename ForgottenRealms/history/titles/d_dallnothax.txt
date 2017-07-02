@@ -1,8 +1,0 @@
-1317.1.1 = {
-	liege = c_forest_of_mir
-	holder = 13200 # Raaghar T'Enorgh
-}
-1391.1.1 = {
-	# Death of Raaghar T'Enorgh
-	holder = 0
-}
