@@ -1,8 +1,14 @@
 1.1.1 = {
 	active = no
 }
-1320.1.1 = {
+1273.1.1 = {
 	active = yes
+	holder = 900065 # Baeron
 	liege = c_waterdeep
-	holder = 900180 # Durnan the Wanderer
+}
+1308.1.1 = {
+	holder = 13101 # Lhestyn Arunsun (Silmaeril)
+}
+1314.1.1 = {
+	holder = 31601 # Piergieron Paladinson
 }
