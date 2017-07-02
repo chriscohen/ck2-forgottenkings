@@ -46,7 +46,6 @@ bm_second_edition = {
 		id = 81 # Azoun IV
 		age = 61
 		name = ERA_CHAR_NAME_81
-		desc = ERA_CHAR_INFO_81
 		title = k_cormyr
 		title_name = k_cormyr
 		
@@ -63,7 +62,6 @@ bm_second_edition = {
 		id = 1700 # Tristan Kendrick
 		age = 40
 		name = ERA_CHAR_NAME_1700
-		desc = ERA_CHAR_INFO_1700
 		title = d_corwell
 		title_name = d_corwell
 		
@@ -89,7 +87,6 @@ bm_third_edition = {
 		id = 84 # Azoun V Obarskyr
 		age = 3
 		name = ERA_CHAR_NAME_84
-		desc = ERA_CHAR_INFO_84
 		title = k_cormyr
 		title_name = k_cormyr
 		
@@ -115,7 +112,6 @@ bm_fourth_edition = {
 		id = 87 # Foril I Obarskyr
 		age = 70
 		name = ERA_CHAR_NAME_87
-		desc = ERA_CHAR_INFO_87
 		title = k_cormyr
 		title_name = k_cormyr
 		
@@ -141,7 +137,6 @@ bm_fifth_edition = {
 		id = 87 # Foril I Obarskyr
 		age = 80
 		name = ERA_CHAR_NAME_87
-		desc = ERA_CHAR_INFO_87
 		title = k_cormyr
 		title_name = k_cormyr
 		
