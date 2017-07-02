@@ -254,7 +254,6 @@ elf = {
 	}
 	moonelf = {
 		graphical_cultures = { westerngfx }
-		graphical_cultures = { westerngfx }
 		
 		color = { 0.3 0.55 0.8 }
 		
