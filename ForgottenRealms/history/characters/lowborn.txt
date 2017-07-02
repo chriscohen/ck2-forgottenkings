@@ -3398,3 +3398,22 @@
 		}
 	}
 }
+900187 = {
+	name = Arus
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+	
+	1311.1.1 = { # Estimate
+		birth = yes
+	}
+	1329.1.1 = {
+		trait = wizard
+	}
+	1335.1.1 = {
+		add_spouse = 32100 # Thesp Eltorchul
+	}
+	1371.1.1 = { # Estimate
+		death = yes
+	}
+}

@@ -1419,6 +1419,7 @@ human = {
 			Zelphar
 		}
 		female_names = {
+			Arus
 			Cassandra
 			Ildaera
 			Judith
