@@ -18,6 +18,7 @@ technology = {
 		d_deepingdale
 		d_durmista
 		d_eastern_marches
+		d_elven_court
 		d_elversult
 		d_featherdale
 		d_gnarhelm
@@ -25,6 +26,7 @@ technology = {
 		d_greenshores
 		d_harrowdale
 		d_high_dale
+		d_hillsfar
 		d_icewind_dale
 		d_iltkazar_highlands
 		d_kamlann
@@ -32,7 +34,9 @@ technology = {
 		d_mintarn
 		d_mistledale
 		d_moray
+		d_mulmaster
 		d_myrloch
+		d_myth_drannor
 		d_nelanther_isles
 		d_norheim
 		d_norland
@@ -54,6 +58,7 @@ technology = {
 		d_snowdown
 		d_suldolphor
 		d_suretmarch
+		d_tangled_trees
 		d_tarkhaldale
 		d_tasseldale
 		d_teziir
@@ -62,6 +67,7 @@ technology = {
 		d_tulmon
 		d_twisted_rune
 		d_urmlaspyr
+		d_vale_of_lost_voices
 		d_westgate
 		d_winterglen
 		d_yeslipek
