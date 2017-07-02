@@ -1198,21 +1198,21 @@ human = {
 		male_names = {
 			Alaric Alemander Amir Aulis
 			Challas Coram
-			Dancon Darjast Dessek
-			Ellem Emmakk Emyr Errilam
-			Gamalon Geiron
+			Dancon Darjast Dessek Dorophin
+			Ehrendarr Ellem Emmakk Emyr Errilam
+			Galaskor Gamalon Geiron
 			Haedrak Halanter Hazam Herakul
 			Ieval Inselm
 			Jaszur Jhodak Jordy Jornos
 			Kaj Kal Karaj Karazir Kasim Kortal
 			Leodom Lhorik Llachior
-			Malcor Matamid Maxos Mhoaran Moshafi
-			Nearel Nishan Nivedann Numar
+			Malcor Matamid Maxos Mhoaran Moshafi Mralabrar
+			Nandos Nearel Nishan Nivedann Numar
 			Olosar Ondul Oon Orrdun
 			Priam
 			Rahman Rikos
-			Sammar Samyte Sarshel Strohm
-			Talmon Tanar Tanis Tannar Taor Tardeth Tebalan Teremir Ternan Thenas Tibor
+			Sammar Samyte Sarshel Strohm Surakh
+			Talmon Tanar Tanis Tannar Taor Tardeth Tebalan Teremir Ternan Thaland Thenas Thornyn Tibor
 			Valsin Vander Vartan
 			Whettimn
 			Xandar
@@ -1223,10 +1223,11 @@ human = {
 			Brenna
 			Corinna Cyriana
 			Dhara
+			Galinda
 			Iimvara Iitaar
 			Jemra
 			Kyrin
-			Lucia
+			Lalrune Lucia
 			Marilyn Mynda
 			Perendra
 			Rhinda
@@ -1423,6 +1424,7 @@ human = {
 			Ildaera
 			Judith
 			Lhestyn Lilly
+			Perryn
 			Shilarn Synthea
 		}
 		

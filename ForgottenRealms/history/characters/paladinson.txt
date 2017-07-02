@@ -38,6 +38,9 @@
 	1299.1.1 = {
 		add_spouse = 900168 # Maethiira
 	}
+	1412.1.1 = { # Estimate
+		death = yes
+	}
 }
 31602 = {
 	name = Aleena
@@ -56,5 +59,8 @@
 	}
 	1346.1.1 = {
 		add_spouse = 900169 # Savengriff
+	}
+	1432.1.1 = {
+		death = yes
 	}
 }

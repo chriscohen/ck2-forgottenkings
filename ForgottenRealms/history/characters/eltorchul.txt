@@ -12,6 +12,9 @@
 	1328.1.1 = {
 		trait = wizard
 	}
+	1356.1.1 = { # Estimate
+		death = yes
+	}
 }
 32101 = {
 	name = Arus
@@ -27,6 +30,9 @@
 	}
 	1335.1.1 = {
 		add_spouse = 32100
+	}
+	1371.1.1 = { # Estimate
+		death = yes
 	}
 }
 32102 = {
@@ -45,7 +51,10 @@
 	1368.1.1 = {
 		trait = incapable
 		trait = lunatic
-	}	
+	}
+	1379.1.1 = { # Estimate
+		death = yes
+	}
 }
 32103 = {
 	name = Fea
@@ -60,6 +69,9 @@
 	}
 	1361.1.1 = {
 		trait = wizard
+	}
+	1382.1.1 = { # Estimate
+		death = yes
 	}
 }
 32104 = {
@@ -76,5 +88,8 @@
 		trait = wizard
 		trait = intricate_webweaver
 		trait = schemer
+	}
+	1401.1.1 = { # Estimate
+		death = yes
 	}
 }

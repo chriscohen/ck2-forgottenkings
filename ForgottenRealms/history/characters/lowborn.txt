@@ -3087,10 +3087,10 @@
 	religion = catholic
 	culture = waterdhavian
 
-	1280.1.1 = { #estimate 
+	1280.1.1 = { # Estimate
 		birth = yes
 	}
-	1344.1.1 = {
+	1344.1.1 = { # City of Splendors: Waterdeep p.53
 		death = yes
 	}
 }
@@ -3105,6 +3105,9 @@
 	}
 	1318.1.1 = {
 		trait = wizard
+	}
+	1346.1.1 = {
+		add_spouse = 31602 # Aleena Paladinstar
 	}
 	1425.1.1 = {
 		death = yes
@@ -3359,5 +3362,39 @@
 	}
 	1398.1.1 = {
 		death = yes
+	}
+}
+900185 = {
+	name = Miri
+	female = yes
+	religion = catholic
+	culture = waterdhavian
+	1276.1.1 = {
+		birth = yes
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=17385&whichpage=6#412228
+900186 = {
+	name = Lalrune
+	female = yes
+	religion = catholic
+	culture = tethyrian
+	
+	1311.1.1 = { # Estimate
+		birth = yes
+	}
+	1329.1.1 = {
+		trait = aristocrat
+	}
+	1331.1.1 = { # Estimate
+		add_spouse = 32405 # Galaskor Raventree
+	}
+	1356.12.15 = {
+		death = {
+			death_reason = death_poor_health # Died of "winterchill"
+		}
 	}
 }

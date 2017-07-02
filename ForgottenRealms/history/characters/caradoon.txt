@@ -27,6 +27,9 @@
 		trait = immortal
 		give_nickname = nick_snowcloak # Lives on as an archlich, no death date
 	}
+	935.1.1 = {
+		death = yes
+	}
 }
 31702 = {
 	name = Amphail

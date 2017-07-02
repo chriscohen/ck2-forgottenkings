@@ -104,22 +104,28 @@
 10905 = {
 	name = Vastarr
 	dynasty = 201056
-	father = 10904
+	father = 10904 # Holver
 	religion = catholic
 	culture = waterdhavian
 	
 	1314.1.1 = {
 		birth = yes
 	}
+	1378.1.1 = { # Estimate
+		death = yes
+	}
 }
 10906 = {
 	name = Kuldos
 	dynasty = 201056
-	father = 10904
+	father = 10904 # Holver
 	religion = catholic
 	culture = waterdhavian
 	
 	1315.1.1 = {
 		birth = yes
+	}
+	1382.1.1 = { # Estimate
+		death = yes
 	}
 }

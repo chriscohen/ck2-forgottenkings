@@ -2,12 +2,18 @@
 # Range 32400-32499
 
 32400 = {
-	name = Nandos
+	name = "Nandos Thornyn Mralabrar" # http://forum.candlekeep.com/topic.asp?TOPIC_ID=17385&whichpage=6#412228
 	dynasty = 214015
+	father = 32403 # Ehrendarr
 	religion = catholic
-	culture = waterdhavian
+	culture = tethyrian
 	1307.1.1 = {
 		birth = yes
+	}
+	1325.1.1 = {
+		trait = aristocrat
+		trait = selune
+		trait = dull
 	}
 	1338.1.1 = {
 		add_spouse = 32500 # Perryn Nesher
@@ -16,23 +22,135 @@
 32401 = {
 	name = Surakh
 	dynasty = 214015
-	father = 32400
-	mother = 26500
+	father = 32400 # Nandos
+	mother = 32500 # Perryn Nesher
 	religion = catholic
-	culture = waterdhavian
+	culture = tethyrian
+	
 	1344.1.1 = {
 		birth = yes
 	}
+	1347.1.1 = {
+		trait = haughty
+	}
+	1351.1.1 = {
+		trait = rowdy
+	}
+	1362.1.1 = {
+		trait = aristocrat
+		trait = selune
+		trait = wroth
+		trait = cruel
+		trait = brave
+	}
+	1385.1.1 = { # Estimate
+		death = yes
+	}
 }
-32402 = {
+32402 = { # City of Splendors: Waterdeep p.61
 	name = Galinda
 	female = yes
 	dynasty = 214015
-	father = 32400
-	mother = 26500
+	father = 32400 # Nandos
+	mother = 32500 # Perryn Nesher
 	religion = catholic
-	culture = waterdhavian
+	culture = tethyrian
+	
 	1347.1.1 = {
 		birth = yes
+	}
+	1365.1.1 = {
+		trait = socializer
+		trait = aristocrat
+		trait = selune
+	}
+	1371.10.11 = {
+		add_spouse = 8214 # Regnet Amcathra
+	}
+	1409.1.1 = { # Estimate
+		death = yes
+	}
+}
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=17385&whichpage=6#412228
+32403 = {
+	name = Ehrendarr
+	dynasty = 214015
+	religion = catholic
+	culture = tethyrian
+	
+	1281.1.1 = { # Estimate
+		birth = yes
+	}
+	1299.1.1 = {
+		trait = gregarious
+		trait = ambitious
+		trait = flamboyant_schemer
+		trait = aristocrat
+		trait = selune
+	}
+	1339.1.1 = { # Estimate
+		death = yes
+	}
+}
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=17385&whichpage=6#412228
+32404 = {
+	name = Thaland
+	dynasty = 214015
+	religion = catholic
+	culture = tethyrian
+	
+	1259.1.1 = { # Estimate
+		birth = yes
+	}
+	1277.1.1 = {
+		trait = aristocrat
+		trait = selune
+		trait = thrify_clerk
+		trait = dull
+	}
+	1310.1.1 = { # Estimate
+		death = yes
+	}
+}
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=17385&whichpage=6#412228
+32405 = {
+	name = Galaskor # Brother of Nandos
+	dynasty = 214015
+	father = 32403 # Ehrendarr
+	religion = catholic
+	culture = tethyrian
+	
+	1309.1.1 = { # Estimate
+		birth = yes
+	}
+	1327.1.1 = {
+		trait = aristocrat
+		trait = selune
+	}
+	1331.1.1 = { # Estimate
+		add_spouse = 900186 # Lalrune
+	}
+	1360.7.6 = {
+		trait = rabies
+	}
+	1360.7.12 = { # Estimate
+		death = {
+			death_reason = death_trait # Died of animal bites during hunt
+		}
+	}
+}
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=17385&whichpage=6#412228
+32406 = {
+	name = Dorophin
+	dynasty = 214015
+	father = 32405 # Galaskor
+	religion = catholic
+	culture = tethyrian
+	
+	1330.1.1 = { # Estimate
+		birth = yes
+	}
+	1381.1.1 = { # Estimate
+		death = yes
 	}
 }

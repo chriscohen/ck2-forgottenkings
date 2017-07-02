@@ -43,7 +43,7 @@
 8202 = {
 	name = Challas
 	dynasty = 214000
-	father = 8204
+	father = 8204 # Hargrym
 	religion = catholic
 	culture = waterdhavian
 	1271.1.1 = {
@@ -55,18 +55,6 @@
 	1377.1.1 = {
 		death = yes
 	}	
-}
-8203 = {
-	name = Miri
-	female = yes
-	religion = catholic
-	culture = waterdhavian
-	1276.1.1 = {
-		birth = yes
-	}
-	1378.1.1 = {
-		death = yes
-	}
 }
 8204 = {
 	name = Hargrym
@@ -83,8 +71,8 @@
 8205 = {
 	name = Arilos
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
 	1298.1.1 = {
@@ -97,8 +85,8 @@
 8206 = {
 	name = Brantavran
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
 	1300.1.1 = {
@@ -112,8 +100,8 @@
 	name = Faraele
 	female = yes
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
 	1302.1.1 = {
@@ -127,10 +115,11 @@
 	name = Clathyldra
 	female = yes
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
+	
 	1304.1.1 = {
 		birth = yes
 	}
@@ -141,10 +130,11 @@
 8209 = {
 	name = Hulgrym
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
+	
 	1306.1.1 = {
 		birth = yes
 	}
@@ -160,8 +150,8 @@
 	name = Dourdarra
 	female = yes
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
 	1308.1.1 = {
@@ -174,8 +164,8 @@
 8211 = {
 	name = Dannath
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
 	1310.1.1 = {
@@ -188,8 +178,8 @@
 8212 = {
 	name = Ildark
 	dynasty = 214000
-	father = 8202
-	mother = 8203
+	father = 8202 # Challas
+	mother = 900185 # Miri
 	religion = catholic
 	culture = waterdhavian
 	1313.1.1 = {
@@ -203,7 +193,7 @@
 	name = Syndrove
 	female = yes
 	dynasty = 214000
-	father = 8205
+	father = 8205 # Arilos
 	religion = catholic
 	culture = waterdhavian
 	1335.1.1 = {
@@ -216,16 +206,16 @@
 8214 = {
 	name = Regnet
 	dynasty = 214000
-	father = 8205
+	father = 8205 # Arilos
 	religion = catholic
 	culture = waterdhavian
 	1335.1.1 = {
 		birth = yes
 	}
 	1371.10.11 = {
-		add_spouse = 26402 # Galinda Raventree
+		add_spouse = 32402 # Galinda Raventree
 	}
-		1427.1.1 = {
+	1427.1.1 = {
 		death = yes
 	}
 }

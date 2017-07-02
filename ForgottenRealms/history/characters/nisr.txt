@@ -25,6 +25,9 @@
 	1305.1.1 = {
 		birth = yes
 	}
+	1367.1.1 = { # Estimate
+		death = yes
+	}
 }
 32302 = {
 	name = Farid
@@ -38,5 +41,8 @@
 	}
 	1355.1.1 = {
 		trait = wizard
+	}
+	1392.1.1 = { # Estimate
+		death = yes
 	}
 }

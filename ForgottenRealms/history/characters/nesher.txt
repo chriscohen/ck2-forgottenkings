@@ -6,7 +6,21 @@
 	female = yes
 	religion = catholic
 	culture = waterdhavian
+	
 	1309.1.1 = {
 		birth = yes
+	}
+	1327.1.1 = {
+		trait = aristocrat
+		trait = fair
+		trait = shy
+	}
+	1338.1.1 = {
+		add_spouse = 32400 # Nandos Raventree
+	}
+	# Estimate. We know she is alive in 1374 because Ed mentions her in the present tense.
+	# http://forum.candlekeep.com/topic.asp?TOPIC_ID=17385&whichpage=6#412228
+	1381.1.1 = {
+		death = yes
 	}
 }

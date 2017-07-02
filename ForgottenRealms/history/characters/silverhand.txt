@@ -120,4 +120,7 @@
 	1357.1.1 = {
 		add_spouse = 12800 # Khelben Arunsun the Elder
 	}
+	1506.1.1 = { # Estimate
+		death = yes
+	}
 }
