@@ -57,6 +57,8 @@ b_barrowsmorn;Barrowsmorn;;;;;;;;;;;;;x
 b_barrowsmorn_adj;Barrowsmornian;;;;;;;;;;;;;x
 b_battlerise;Battlerise;;;;;;;;;;;;;x
 b_battlerise_adj;Battleriser;;;;;;;;;;;;;x
+b_beast_marches;Beast Marches;;;;;;;;;;;;;x
+b_beast_marches_adj;Beast Marchian;;;;;;;;;;;;;x
 b_beliard;Beliard;;;;;;;;;;;;;x
 b_beliard_adj;Beliardan;;;;;;;;;;;;;x
 b_besert;Besert;;;;;;;;;;;;;x
@@ -149,6 +151,8 @@ b_daragadim;Daragadim;;;;;;;;;;;;;x
 b_daragadim_adj;Daragadimmi;;;;;;;;;;;;;x
 b_darkhorn_castle;Darkhorn Castle;;;;;;;;;;;;;x
 b_darkhorn_castle_adj;Darkhorn Castalian;;;;;;;;;;;;;x
+b_darkwoods;Darkwoods;;;;;;;;;;;;;x
+b_darkwoods_adj;Darkwooder;;;;;;;;;;;;;x
 b_darromar;Darromar;;;;;;;;;;;;;x
 b_darromar_adj;Darromarran;;;;;;;;;;;;;x
 b_daryns_rest;Daryn’s Rest;;;;;;;;;;;;;x
@@ -191,8 +195,12 @@ b_elmwood;Elmwood;;;;;;;;;;;;;x
 b_elmwood_adj;Elmwoodian;;;;;;;;;;;;;x
 b_elmwood_grove;Elmwood Grove;;;;;;;;;;;;;x
 b_elmwood_grove_adj;Elmwood Grovan;;;;;;;;;;;;;x
+b_elven_court;Elven Court;;;;;;;;;;;;;x
+b_elven_court_adj;Elven Courtian;;;;;;;;;;;;;x
 b_elven_crossing;Elven Crossing;;;;;;;;;;;;;x
 b_elven_crossing_adj;Elven Crossian;;;;;;;;;;;;;x
+b_elventree;Elventree;;;;;;;;;;;;;x
+b_elventree_adj;Elventreean;;;;;;;;;;;;;x
 b_elversult;Elversult;;;;;;;;;;;;;x
 b_elversult_adj;Elversultan;;;;;;;;;;;;;x
 b_elyssyrr;Elyssyrr;;;;;;;;;;;;;x
@@ -219,6 +227,8 @@ b_firefall_keep;Firefall Keep;;;;;;;;;;;;;x
 b_firefall_keep_adj;Firefallian;;;;;;;;;;;;;x
 b_flamsterd;Flamsterd;;;;;;;;;;;;;x
 b_flamsterd;Flamsterdan;;;;;;;;;;;;;x
+b_flooded_forest;Flooded Forest;;;;;;;;;;;;;x
+b_flooded_forest_adj;Flooded Forester;;;;;;;;;;;;;x
 b_follebu;Follebu;;;;;;;;;;;;;x
 b_follebu_adj;Follebian;;;;;;;;;;;;;x
 b_forgemarket;Forgemarket;;;;;;;;;;;;;x
@@ -253,6 +263,8 @@ b_graystone;Graystone;;;;;;;;;;;;;x
 b_graystone_adj;Graystoner;;;;;;;;;;;;;x
 b_greatgaunt;Greatgaunt;;;;;;;;;;;;;x
 b_greatgaunt_adj;Greatgauntian;;;;;;;;;;;;;x
+b_greentree;Greentree;;;;;;;;;;;;;x
+b_greentree_adj;Greentreean;;;;;;;;;;;;;x
 b_greystaad;Greystaad;;;;;;;;;;;;;x
 b_greystaad_adj;Greystaadian;;;;;;;;;;;;;x
 b_griffon_hill;Griffon Hill;;;;;;;;;;;;;x
@@ -449,6 +461,8 @@ b_myratma;Myratma;;;;;;;;;;;;;x
 b_myratma_adj;Myratmarran;;;;;;;;;;;;;x
 b_myrrdale;Myrrdale;;;;;;;;;;;;;x
 b_myrrdale_adj;Myrrdaler;;;;;;;;;;;;;x
+b_myth_drannor;Myth Drannor;;;;;;;;;;;;;x
+b_myth_drannor_adj;Myth Drannoran;;;;;;;;;;;;;x
 b_myth_dyraalis;Myth Dyraalis;;;;;;;;;;;;;x
 b_myth_dyraalis_adj;Myth Dyraalissan;;;;;;;;;;;;;x
 b_myth_rhynn;Myth Rhynn;;;;;;;;;;;;;x
@@ -665,6 +679,8 @@ b_swordpoint;Swordpoint;;;;;;;;;;;;;x
 b_swordpoint_adj;Swordpointian;;;;;;;;;;;;;x
 b_talltrees;Talltrees;;;;;;;;;;;;;x
 b_talltrees_adj;Talltreesian;;;;;;;;;;;;;x
+b_tangled_trees;Tangled Trees;;;;;;;;;;;;;x
+b_tangled_trees_adj;Tangled Treesian;;;;;;;;;;;;;
 b_tannithall;Tannithall;;;;;;;;;;;;;x
 b_tannithall_adj;Tannithallian;;;;;;;;;;;;;x
 b_tarkhaldale;Tarkhaldale;;;;;;;;;;;;;x
@@ -731,6 +747,8 @@ b_urmlaspyr;Urmlaspyr;;;;;;;;;;;;;x
 b_urmlaspyr_adj;Urmlaspyrian;;;;;;;;;;;;;x
 b_ustan;Ustan;;;;;;;;;;;;;x
 b_ustan_adj;Ustanni;;;;;;;;;;;;;x
+b_vale_of_lost_voices;Vale of Lost Voices;;;;;;;;;;;;;x
+b_vale_of_lost_voices_adj;Vale of Lost Voicer;;;;;;;;;;;;;x
 b_valkurs_roar;Valkur’s Roar;;;;;;;;;;;;;x
 b_valkurs_roar_adj;Valkur’s Roarian;;;;;;;;;;;;;x
 b_velarsburg;Velarsburg;;;;;;;;;;;;;x
