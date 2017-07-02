@@ -10,10 +10,10 @@
 }
 1273.1.1 = {
 	active = yes
-	holder = 900065 # Baeron
+	holder = 900065 # Baeron (husband of Shilarn Silmaeril)
 }
 1308.1.1 = {
-	holder = 13101 # Lhestyn
+	holder = 13101 # Lhestyn Arunsun (Silmaeril)
 }
 1314.1.1 = {
 	holder = 31601 # Piergieron
