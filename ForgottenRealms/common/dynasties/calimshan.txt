@@ -107,5 +107,5 @@
 }
 209027 = {
 	name = "Nisr"
-	culture = Calishite
+	culture = calishite
 }
