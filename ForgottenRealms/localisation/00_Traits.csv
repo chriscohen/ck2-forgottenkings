@@ -7,6 +7,8 @@ bane;Follower of Bane;;;;;;;;;;;;;x
 bane_desc;A follower of the deity of fear, hatred and tyranny;;;;;;;;;;;;;x
 bard;Bard;;;;;;;;;;;;;x
 bard_desc;A versatile arcane spellcaster and master of music, poetry, or storytelling;;;;;;;;;;;;;x
+bhaal;Bhaal;;;;;;;;;;;;;x
+bhaal_desc;A follower of the Lord of Murder, deity of assassination and violence;;;;;;;;;;;;;x
 chauntea;Follower of Chauntea;;;;;;;;;;;;;x
 chauntea_desc;A follower of the Great Mother, deity of life and wild nature;;;;;;;;;;;;;x
 cleric;Cleric;;;;;;;;;;;;;x
@@ -24,7 +26,7 @@ gond_desc;A follower of the Lord of All Smiths, deity of craft and smithwork;;;;
 harper;Harper;;;;;;;;;;;;;x
 harper_desc;Dedicated to promoting good, preserving history, and maintaining a balance between nature and civilization;;;;;;;;;;;;;x
 helm;Follower of Helm;;;;;;;;;;;;;x
-helm;A follower of the Vigilant One, deity of guardians, protection and protectors;;;;;;;;;;;;;x
+helm_desc;A follower of the Vigilant One, deity of guardians, protection and protectors;;;;;;;;;;;;;x
 illusionist;Illusionist;;;;;;;;;;;;;x
 illusionist_desc;A practitioner of the magical school of false imagery;;;;;;;;;;;;;x
 ilmater;Follower of Ilmater;;;;;;;;;;;;;x
@@ -47,10 +49,12 @@ mask;Follower of Mask;;;;;;;;;;;;;x
 mask_desc;A follower of the Lord of Shadows, the loner deity of thieves and ill repute;;;;;;;;;;;;;x
 mielikki;Follower of Mielikki;;;;;;;;;;;;;x
 mielikki_desc;A follower of the Forest Queen, deity of autumn, forests and rangers;;;;;;;;;;;;;x
-monk;Monk;;;;;;;;;;;;;x
-monk_desc;A devout religious and spiritual practitioner;;;;;;;;;;;;;x
+monk_class;Monk;;;;;;;;;;;;;x
+monk_class_desc;A devout religious and spiritual practitioner;;;;;;;;;;;;;x
 mummy;Mummy;;;;;;;;;;;;;x
 mummy_desc;An undead creature created from a preserved corpse;;;;;;;;;;;;;x
+myrkul;Myrkul;;;;;;;;;;;;;x
+myrkul_desc;A follower of the Lord of Bones, deity of the dead and corruption;;;;;;;;;;;;;x
 mystra;Follower of Mystra;;;;;;;;;;;;;x
 mystra_desc;A follower of the Mother of All Magic, deity of the Weave;;;;;;;;;;;;;x
 necromancer;Necromancer;;;;;;;;;;;;;x
@@ -65,6 +69,8 @@ ranger;Ranger;;;;;;;;;;;;;x
 ranger_desc;Skilled in the wilderness and deeply learned of its occupants, both flora and fauna;;;;;;;;;;;;;x
 rogue;Rogue;;;;;;;;;;;;;x
 rogue_desc;Skilled in underhand tactics, espionage and intrigue;;;;;;;;;;;;;x
+savras;Follower of Savras;;;;;;;;;;;;;x
+savras_desc;A follower of the Lord of Divination, deity of divination and truth;;;;;;;;;;;;;x
 selune;Follower of Selûne;;;;;;;;;;;;;x
 selune_desc;A follower of the Moonmaiden, deity of light, stars and wanderers;;;;;;;;;;;;;x
 shade;Shade;;;;;;;;;;;;;x
@@ -103,10 +109,12 @@ umberlee;Follower of Umberlee;;;;;;;;;;;;;x
 umberlee_desc;A follower of the Bitch Queen, deity of the sea;;;;;;;;;;;;;x
 vampire;Vampire;;;;;;;;;;;;;x
 vampire_desc;A powerful undead humanoid feeding on the blood of the living;;;;;;;;;;;;;x
+velsharoon;Follower of Velsharoon;;;;;;;;;;;;;x
+velsharoon_desc;A follower of the deity of liches and necromancy;;;;;;;;;;;;;x
 waukeen;Follower of Waukeen;;;;;;;;;;;;;x
 waukeen_desc;A follower of the deity of commerce and free trade;;;;;;;;;;;;;x
 war_wizard;War Wizard;;;;;;;;;;;;;x
-war_wizard;A member of the Cormyrean elite battle mages;;;;;;;;;;;;;x
+war_wizard_desc;A member of the Cormyrean elite battle mages;;;;;;;;;;;;;x
 wizard;Wizard;;;;;;;;;;;;;x
 wizard_desc;A user of divine magic;;;;;;;;;;;;;x
 zhentarim;Zhentarim;;;;;;;;;;;;;x
