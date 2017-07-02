@@ -22,11 +22,12 @@ It's very playable so far but not a very fun experience yet because there's a la
 
 Areas that are in so far (none of these are fully fleshed out):
 * Calimshan
-* Cormyr
+* Cormyr (works pretty well around 1300-1400 DR)
 * Dalelands
 * Moonshae Isles
 * Sembia
 * Tethyr
+* Waterdeep
 
 ### Pictures?
 Sure: http://imgur.com/a/2950Q
@@ -51,6 +52,8 @@ I realise that the number of people with git knowledge, CKII modding experience,
 Even if you can't or don't want to contribute, playtesters are welcome to give feedback and suggestions. I am not an experienced modder for CKII so I have a lot to learn.
 
 ### Versions
+* 0.5 (~34MB): https://drive.google.com/open?id=0B4PHSakiQ8gpUnJkbElrR01scjg
+* 0.4 (~33MB): https://drive.google.com/open?id=0B4PHSakiQ8gpS3FOU3JBU2lrYzg
 * 0.3 (~57MB): https://drive.google.com/open?id=0B4PHSakiQ8gpMkpsZVFpLUtvN2M
 * 0.2 (~30MB): https://drive.google.com/open?id=0B4PHSakiQ8gpVXRoRkRoZ1hDTzA
 * 0.1 (~30MB): https://drive.google.com/open?id=0B4PHSakiQ8gpcERsS1BybjBKXzg
