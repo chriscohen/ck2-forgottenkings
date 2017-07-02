@@ -1,19 +1,21 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 BM_CUSTOM_START_FR;Custom start title;;;;;;;;;;;;;x
-BM_CUSTOM_START_FR_DESC;Custom start description;;;;;;;;;;;;;x
+BM_CUSTOM_START_FR_INFO;Custom start description;;;;;;;;;;;;;x
 BM_FIFTH_EDITION;D&D Fifth Edition;;;;;;;;;;;;;x
-BM_FIFTH_EDITION_DESC;The Second Sundering has befallen Faerûn. The god of murder, Bhaal, has been reborn in Baldur’s Gate, and there are those proclaiming themselves “chosen” of the deities. Strange weather and plagues rock the continent. Elliandreth’s Prophecy has come to be. How will Faerûn fare after these cataclysmic events?;;;;;;;;;;;;;x
+BM_FIFTH_EDITION_INFO;The Second Sundering has befallen Faerûn. The god of murder, Bhaal, has been reborn in Baldur’s Gate, and there are those proclaiming themselves “chosen” of the deities. Strange weather and plagues rock the continent. Elliandreth’s Prophecy has come to be. How will Faerûn fare after these cataclysmic events?;;;;;;;;;;;;;x
 BM_FIRST_EDITION;D&D First Edition;;;;;;;;;;;;;x
-BM_FIRST_EDITION_DESC;The year is 1358 Dale Reckoning, the Year of Shadows, and the Tablets of Fate have been stolen from the great deity Ao the Overlord, bringing about the Time of Troubles.;;;;;;;;;;;;;x
+BM_FIRST_EDITION_INFO;The year is 1358 Dale Reckoning, the Year of Shadows, and the Tablets of Fate have been stolen from the great deity Ao the Overlord, bringing about the Time of Troubles.;;;;;;;;;;;;;x
 BM_FOURTH_EDITION;D&D Fourth Edition;;;;;;;;;;;;;x
-BM_FOURTH_EDITION_DESC;Faerûn has been torn apart by the Spellplague of 1385 DR after Mystra, goddess of magic and the Weave, was murdered by Cyric and Shar. The Wailing Years followed, and by 1395 DR, most of the Spellplague’s effects had come to an end. Now, nearly a century on, the focus of power has shifted in the Realms, giving rise to new forces and opportunities.;;;;;;;;;;;;;x
+BM_FOURTH_EDITION_INFO;Faerûn has been torn apart by the Spellplague of 1385 DR after Mystra, goddess of magic and the Weave, was murdered by Cyric and Shar. The Wailing Years followed, and by 1395 DR, most of the Spellplague’s effects had come to an end. Now, nearly a century on, the focus of power has shifted in the Realms, giving rise to new forces and opportunities.;;;;;;;;;;;;;x
 BM_SECOND_EDITION;AD&D Second Edition;;;;;;;;;;;;;x
-BM_SECOND_EDITION_DESC;The year is 1368 Dale Reckoning, the Year of the Banner, during the Era of Upheaval, and the Time of Troubles is coming to an end.;;;;;;;;;;;;;x
+BM_SECOND_EDITION_INFO;The year is 1368 Dale Reckoning, the Year of the Banner, during the Era of Upheaval, and the Time of Troubles is coming to an end.;;;;;;;;;;;;;x
 BM_THIRD_EDITION;D&D Third Edition;;;;;;;;;;;;;x
-BM_THIRD_EDITION_DESC;The Year of Rogue Dragons is over. Last year, the lich Sammaster, founder of the Cult of the Dragon, found a way to begin a dracorage, believing that the world was destined to be ruled by undead dragons. Hundreds of dragon attacks occurred across Faerûn, but Sammaster was finally defeated by Pavel Shemov and his band. Now, as the dust settles, will Faerûn return to the prosperity of old, or are old wounds still fresh in the minds of the surviving peoples?;;;;;;;;;;;;;x
+BM_THIRD_EDITION_INFO;The Year of Rogue Dragons is over. Last year, the lich Sammaster, founder of the Cult of the Dragon, found a way to begin a dracorage, believing that the world was destined to be ruled by undead dragons. Hundreds of dragon attacks occurred across Faerûn, but Sammaster was finally defeated by Pavel Shemov and his band. Now, as the dust settles, will Faerûn return to the prosperity of old, or are old wounds still fresh in the minds of the surviving peoples?;;;;;;;;;;;;;x
 ERA_CHAR_NAME_81;Azoun IV Obarskyr;;;;;;;;;;;;;x
 ERA_CHAR_INFO_81;Azoun of noble house Obarskyr is King of Cormyr, on the shores of the Dragonreach. He is backed by a long lineage of famous Obarskyrs and the High Wizard Vangerdahast. However, not all the noble houses of Cormyr seek to uphold the throne. Can Azoun deal with the enemies hidden in plain sight, and keep the Kingdom of Cormyr in one piece?;;;;;;;;;;;;;x
 ERA_CHAR_NAME_84;Azoun V Obarskyr;;;;;;;;;;;;;x
 ERA_CHAR_INFO_84;King Azoun IV is dead, killed in the Abraxus Affair, but his grandson has been crowned Azoun V of Cormyr. He is still young, and Cormyr is under the protection of Azoun’s aunt, Alusair, the Steel Regent. Cormyr has come a long way from the Forest Kingdom of old, but the events of the past few years have served as proof that some within the kingdom live in discontent with the Obarskyrs’ long reign.;;;;;;;;;;;;;x
+ERA_CHAR_NAME_87;Foril I Obarskyr;;;;;;;;;;;;;
+ERA_CHAR_INFO_87;Placeholder;;;;;;;;;;;;;
 ERA_CHAR_NAME_1700;Tristan Kendrick;;;;;;;;;;;;;x
 ERA_CHAR_INFO_1700;Since the last High King of the Moonshae Isles stepped down in 944 DR, the windswept islands have been ruled by a number of petty kings. Tristan, of the long-standing Kendrick dynasty, is one of them, ruling over the Kingdom of Corwell, the southern reaches of the island of Gwynneth. This area of the Moonshaes has long been the realm of the Ffolk, a proud people, but the Northmen occupy these isles as well, and bitter conflict has plagued the Moonshaes’ past. Can King Tristan hold what power he has, or will it fall into the wrong hands?;;;;;;;;;;;;;

@@ -1,6 +1,6 @@
 bm_custom_start_fr = {
 	name = BM_CUSTOM_START_FR
-	desc = BM_CUSTOM_START_FR_DESC
+	desc = BM_CUSTOM_START_FR_INFO
 	date = 1368.1.1
 	
 	custom_start = yes
@@ -11,7 +11,7 @@ bm_custom_start_fr = {
 }
 bm_first_edition = {
 	name = "BM_FIRST_EDITION"
-	desc = "BM_FIRST_EDITION_DESC"
+	desc = "BM_FIRST_EDITION_INFO"
 	date = 1358.1.1
 	
 	era = yes
@@ -36,7 +36,7 @@ bm_first_edition = {
 }
 bm_second_edition = {
 	name = "BM_SECOND_EDITION"
-	desc = "BM_SECOND_EDITION_DESC"
+	desc = "BM_SECOND_EDITION_INFO"
 	date = 1368.1.1
 	
 	era = yes
@@ -46,6 +46,7 @@ bm_second_edition = {
 		id = 81 # Azoun IV
 		age = 61
 		name = ERA_CHAR_NAME_81
+		desc = ERA_CHAR_INFO_81
 		title = k_cormyr
 		title_name = k_cormyr
 		
@@ -62,6 +63,7 @@ bm_second_edition = {
 		id = 1700 # Tristan Kendrick
 		age = 40
 		name = ERA_CHAR_NAME_1700
+		desc = ERA_CHAR_INFO_1700
 		title = d_corwell
 		title_name = d_corwell
 		
@@ -77,7 +79,7 @@ bm_second_edition = {
 }
 bm_third_edition = {
 	name = BM_THIRD_EDITION
-	desc = BM_THIRD_EDITION_DESC
+	desc = BM_THIRD_EDITION_INFO
 	date = 1374.1.1
 	
 	era = yes
@@ -87,6 +89,7 @@ bm_third_edition = {
 		id = 84 # Azoun V Obarskyr
 		age = 3
 		name = ERA_CHAR_NAME_84
+		desc = ERA_CHAR_INFO_84
 		title = k_cormyr
 		title_name = k_cormyr
 		
@@ -102,7 +105,7 @@ bm_third_edition = {
 }
 bm_fourth_edition = {
 	name = BM_FOURTH_EDITION
-	desc = BM_FOURTH_EDITION_DESC
+	desc = BM_FOURTH_EDITION_INFO
 	date = 1479.1.1
 	
 	era = yes
@@ -112,6 +115,7 @@ bm_fourth_edition = {
 		id = 87 # Foril I Obarskyr
 		age = 70
 		name = ERA_CHAR_NAME_87
+		desc = ERA_CHAR_INFO_87
 		title = k_cormyr
 		title_name = k_cormyr
 		
@@ -127,7 +131,7 @@ bm_fourth_edition = {
 }
 bm_fifth_edition = {
 	name = BM_FIFTH_EDITION
-	desc = BM_FIFTH_EDITION_DESC
+	desc = BM_FIFTH_EDITION_INFO
 	date = 1489.1.1
 	
 	era = yes
@@ -137,6 +141,7 @@ bm_fifth_edition = {
 		id = 87 # Foril I Obarskyr
 		age = 80
 		name = ERA_CHAR_NAME_87
+		desc = ERA_CHAR_INFO_87
 		title = k_cormyr
 		title_name = k_cormyr
 		
