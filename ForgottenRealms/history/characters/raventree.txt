@@ -75,6 +75,7 @@
 32403 = {
 	name = Ehrendarr
 	dynasty = 214015
+	father = 32404 # Thaland
 	religion = catholic
 	culture = tethyrian
 	
