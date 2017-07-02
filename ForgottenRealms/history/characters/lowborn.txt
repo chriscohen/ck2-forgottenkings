@@ -2192,7 +2192,7 @@
 		birth = yes
 	}
 	1128.1.1 = {
-		trait = monk
+		trait = monk_class
 		trait = ilmater
 		# employer = c_manshaka
 	}

@@ -40,7 +40,7 @@ illusionist = {
 		wizard
 	}
 }
-monk = {
+monk_class = {
 	random = no
 	
 	learning = 3
