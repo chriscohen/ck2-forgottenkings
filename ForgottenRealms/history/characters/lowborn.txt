@@ -742,7 +742,13 @@
 		trait = lich
 	}
 	864.1.1 = {
-		employer = 900061 # Rysellan the Dark
+		effect = {
+			join_society = twisted_rune
+			society_rank_up = 2 # Set to rank 3
+		}
+	}
+	1188.1.1 = {
+		set_society_grandmaster = yes
 	}
 	1388.1.1 = {
 		death = yes
@@ -1043,6 +1049,12 @@
 	860.1.1 = { # Estimate
 		trait = lich
 		give_nickname = nick_the_dark
+	}
+	864.1.1 = {
+		effect = {
+			join_society = twisted_rune
+			set_society_grandmaster = yes
+		}
 	}
 	1188.1.1 = {
 		death = {

@@ -19,7 +19,10 @@
 	}
 	1255.1.1 = {
 		trait = lich
-		employer = 900044 # Rhangaun / Twisted Rune
+		effect = {
+			join_society = twisted_rune
+			society_rank_up = 2 # Set rank to 3
+		}
 	}
 	1374.12.1 = {
 		death = {
