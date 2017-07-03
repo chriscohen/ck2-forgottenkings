@@ -174,7 +174,7 @@ b_dhedluk_adj;Dhedlukian;;;;;;;;;;;;;x
 b_dock_ward;Dock Ward;;;;;;;;;;;;;x
 b_dock_ward_adj;Dock Wardian;;;;;;;;;;;;;x
 b_doncastle;Doncastle;;;;;;;;;;;;;x
-b_doncastle;Doncastelian;;;;;;;;;;;;;x
+b_doncastle_adj;Doncastelian;;;;;;;;;;;;;x
 b_dordrien;Dordrien;;;;;;;;;;;;;x
 b_dordrien_adj;Dordriennian;;;;;;;;;;;;;x
 b_dorset;Dorset;;;;;;;;;;;;;x
@@ -226,7 +226,7 @@ b_fenton_adj;Fentonian;;;;;;;;;;;;;x
 b_firefall_keep;Firefall Keep;;;;;;;;;;;;;x
 b_firefall_keep_adj;Firefallian;;;;;;;;;;;;;x
 b_flamsterd;Flamsterd;;;;;;;;;;;;;x
-b_flamsterd;Flamsterdan;;;;;;;;;;;;;x
+b_flamsterd_adj;Flamsterdan;;;;;;;;;;;;;x
 b_flooded_forest;Flooded Forest;;;;;;;;;;;;;x
 b_flooded_forest_adj;Flooded Forester;;;;;;;;;;;;;x
 b_follebu;Follebu;;;;;;;;;;;;;x
@@ -316,7 +316,7 @@ b_hillmarch_adj;Hillmarchian;;;;;;;;;;;;;x
 b_hilp;Hilp;;;;;;;;;;;;;x
 b_hilp_adj;Hilpian;;;;;;;;;;;;;x
 b_holldaybim;Holldaybim;;;;;;;;;;;;;x
-b_holldaybim;Holldaybimian;;;;;;;;;;;;;x
+b_holldaybim_adj;Holldaybimian;;;;;;;;;;;;;x
 b_holyhead;Holyhead;;;;;;;;;;;;;x
 b_holyhead_adj;Holyheadian;;;;;;;;;;;;;x
 b_honorguard_house;Honorguard House;;;;;;;;;;;;;x
