@@ -1,20 +1,8 @@
 # MOON ELF
 # Range 401000-401999
 
-401000 = {
-	name = Tanagathor
-	culture = moonelf
-}
 401001 = {
 	name = Aerasumé
-	culture = moonelf
-}
-401002 = {
-	name = Moonweather
-	culture = moonelf
-}
-401003 = {
-	name = Tressymfriend
 	culture = moonelf
 }
 401004 = {

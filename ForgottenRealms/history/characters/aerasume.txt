@@ -5,7 +5,7 @@
 7100 = {
 	name = Tarthilmor
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -24,7 +24,7 @@
 7101 = {
 	name = Methrammar
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -42,7 +42,7 @@
 7102 = {
 	name = Boesild
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -60,7 +60,7 @@
 7103 = {
 	name = Uoundeld
 	dynasty = 401001 # Assumed
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -78,7 +78,7 @@
 7104 = {
 	name = Dolthauvin
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -96,7 +96,7 @@
 7105 = {
 	name = Inthylyn
 	dynasty = 401001 # Assumed
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -114,7 +114,7 @@
 7106 = {
 	name = Naerond
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -133,7 +133,7 @@
 7107 = {
 	name = Tarthilmor
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -152,7 +152,7 @@
 7108 = {
 	name = Raerilarr
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -170,7 +170,7 @@
 7109 = {
 	name = Ghaelryss
 	dynasty = 401001
-	father = 7200 # Taerntym
+	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	
 	religion = catholic
@@ -183,6 +183,163 @@
 	}
 	1361.1.1 = {
 		give_nickname = nick_the_bold
+	}
+	1600.1.1 = {
+		death = yes
+	}
+}
+# Information on children of Alustriel from http://forum.candlekeep.com/topic.asp?TOPIC_ID=7525
+7110 = {
+	name = "Taerntym Tanagathor"
+	dynasty = 401001
+	
+	religion = catholic
+	# Type of elf not specified, assumption made
+	culture = moonelf
+	
+	trait = trait_moonelf
+	
+	1184.1.1 = { # Estimate
+		birth = yes
+	}
+	1220.1.1 = { # Estimate
+		add_spouse = 7002 # Alustriel Silverhand
+	}
+	1404.1.1 = { # Estimate
+		death = yes
+	}
+}
+7111 = {
+	name = "Dalbrant Tanagathor"
+	dynasty = 401000
+	father = 7110 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	
+	1240.1.1 = {
+		birth = yes
+	}
+	1313.1.1 = {
+		death = yes # Disappeared
+	}
+}
+7112 = {
+	name = "Hardorbryn Tanagathor"
+	dynasty = 401001
+	father = 7110 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	trait = twin
+	
+	1242.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+7113 = {
+	name = "Alondel Tanagathor"
+	dynasty = 401001
+	father = 7110 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	trait = twin
+	
+	1242.1.1 = {
+		birth = yes
+	}
+	1343.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+7114 = {
+	name = "Baerndar Tanagathor"
+	dynasty = 401001
+	father = 7110 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	
+	1266.1.1 = {
+		birth = yes
+	}
+	1485.1.1 = { # Estimate
+		death = yes
+	}
+}
+7115 = {
+	name = "Elinthalar Tanagathor"
+	dynasty = 401001
+	father = 7110 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	trait = twin
+	
+	1299.1.1 = {
+		birth = yes
+	}
+	1477.1.1 = { # Estimate
+		death = yes
+	}
+}
+7116 = {
+	name = "Elnriyr Moonweather"
+	dynasty = 401001
+	father = 7110 # Taerntym
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	
+	1250.1.1 = {
+		birth = yes
+	}
+	1347.1.1 = {
+		death = {
+			death_reason = death_accident
+		}
+	}
+}
+7117 = {
+	name = "Andelver Tressymfriend"
+	dynasty = 401001
+	father = 7110 # Taerntym Tanagathor
+	mother = 7002 # Alustriel Silverhand
+	
+	religion = catholic
+	culture = moonelf
+	
+	trait = trait_moonelf
+	trait = twin
+	
+	1299.1.1 = {
+		birth = yes
 	}
 	1600.1.1 = {
 		death = yes

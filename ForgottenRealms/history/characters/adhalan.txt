@@ -3,7 +3,7 @@
 
 14600 = {
 	name = Taor
-	dynasty = 209021
+	dynasty = 207003
 	
 	religion = catholic
 	culture = tethyrian
