@@ -3413,7 +3413,7 @@
 	}
 }
 900188 = {
-	name = Surrolph Hlakken
+	name = "Surrolph Hlakken"
 	religion = catholic
 	culture = waterdhavian
 	
