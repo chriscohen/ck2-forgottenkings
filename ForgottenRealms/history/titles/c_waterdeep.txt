@@ -11,20 +11,21 @@
 941.1.1 = {
 	holder = 31702 # Amphail Caradoon 'the Just'
 }
+# Placeholder warlords start here
 942.1.1 = { 
-	holder = 900171 # Placeholder warlords start here
+	holder = 900171 # Secondlord
 }
 943.1.1 = {
-	holder = 900172
+	holder = 900172 # Thirdlord
 }
 945.1.1 = {
-	holder = 900173
+	holder = 900173 # Fourthlord
 }
 947.1.1 = {
-	holder = 900174
+	holder = 900174 # Fifthlord
 }
 949.1.1 = {
-	holder = 900175
+	holder = 900175 # Sixthlord
 }
 952.1.1 = {
 	holder = 900176 # 'Seventhlord', final placeholder warlord
