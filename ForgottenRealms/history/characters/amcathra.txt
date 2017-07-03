@@ -5,13 +5,19 @@
 	name = Mourngrym
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 8203 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
-	culture = waterdhavian
+	culture = chondathan
 	
-	1315.1.1 = {
+	1315.8.2 = {
 		birth = yes
 	}
+	# Assuming he went straight to Shadowdale
+	1331.8.2 = {
+		trait = fighter
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	# Stayed in Waterdeep until gaining c_shadowdale in 1353.
 	1355.7.1 = {
 		add_spouse = 8400 # Shaerl Rowanmantle
 	}
@@ -31,26 +37,55 @@
 	mother = 8400 # Shaerl Rowanmantle
 	
 	religion = catholic
-	culture = waterdhavian
+	culture = dalelander
 	
-	1358.1.1 = {
+	1358.3.12 = {
 		birth = yes
+	}
+	1374.3.12 = {
+		trait = fighter
+		employer = 8200 # Mourngrym / c_shadowdale
+	}
+	1375.1.1 = {
+		employer = 8101 # Azalar Falconhand / c_shadowdale
 	}
 	1418.1.1 = { # Estimate
 		death = yes
 	}
 }
+# City of Splendors: Waterdeep p.61
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=15988&whichpage=37#392411
 8202 = {
 	name = Challas
 	dynasty = 214000
 	father = 8204 # Hargrym
 	religion = catholic
-	culture = waterdhavian
-	1271.1.1 = {
+	culture = tethyrian
+	
+	# "At the time the 2nd Edition Waterdeep box was current (1368 DR),
+	# Lord Challas Amcathra was 97 years old, and his wife Miri was 92."
+	1271.7.7 = {
 		birth = yes
 	}
-	1296.1.1 = {
-		add_spouse = 8203 # Miri Oldcoin
+	1287.7.7 = {
+		trait = aristocrat
+		employer = 900065 # Baeron / c_waterdeep
+	}
+	1296.2.22 = {
+		add_spouse = 33900 # Miri Oldcoin
+	}
+	1308.1.1 = {
+		employer = 13101 # Lhestyn Arunsun (Silmaeril) / c_waterdeep
+	}
+	1314.1.1 = {
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	# Moves to Shadowdale to be with son.
+	1353.1.1 = {
+		employer = 8200 # Mourngrym / c_shadowdale
+	}
+	1375.1.1 = {
+		employer = 8101 # Azalar Falconhand / c_shadowdale
 	}
 	1377.1.1 = {
 		death = yes
@@ -61,24 +96,42 @@
 	dynasty = 214000
 	religion = catholic
 	culture = waterdhavian
-	1247.1.1 = {
+	1247.9.19 = { # Estimate
 		birth = yes
 	}
+	1263.9.19 = {
+		trait = fighter
+	}
+	1273.1.1 = {
+		employer = 900065 # Baeron / c_waterdeep
+	}
+	1308.1.1 = {
+		employer = 13101 # Lhestyn Arunsun (Silmaeril) / c_waterdeep
+	}
+	1314.1.1 = {
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	# Moved to Tethyr at some point because his kid is Tethyrian
 	1331.1.1 = {
 		death = yes
 	}
 }
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=15988&whichpage=37#392411
 8205 = {
 	name = Arilos
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
-	1298.1.1 = {
+	1298.10.29 = {
 		birth = yes
 	}
-	1427.1.1 = {
+	1314.10.29 = {
+		trait = aristocrat
+		employer = employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	13.1.1 = {
 		death = yes
 	}
 }
@@ -86,7 +139,7 @@
 	name = Brantavran
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
 	1300.1.1 = {
@@ -101,7 +154,7 @@
 	female = yes
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
 	1302.1.1 = {
@@ -116,7 +169,7 @@
 	female = yes
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
 	
@@ -131,7 +184,7 @@
 	name = Hulgrym
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
 	
@@ -151,7 +204,7 @@
 	female = yes
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
 	1308.1.1 = {
@@ -165,7 +218,7 @@
 	name = Dannath
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
 	1310.1.1 = {
@@ -179,7 +232,7 @@
 	name = Ildark
 	dynasty = 214000
 	father = 8202 # Challas
-	mother = 900185 # Miri
+	mother = 33900 # Miri Oldcoin
 	religion = catholic
 	culture = waterdhavian
 	1313.1.1 = {
@@ -189,17 +242,22 @@
 		death = yes
 	}
 }
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=15988&whichpage=37#392411
 8213 = {
 	name = Syndrove
 	female = yes
 	dynasty = 214000
 	father = 8205 # Arilos
 	religion = catholic
-	culture = waterdhavian
-	1335.1.1 = {
+	culture = chondathan
+	1333.9.19 = { # Estimate
 		birth = yes
 	}
-		1427.1.1 = {
+	1349.9.19 = {
+		trait = aristocrat
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	1403.10.11 = { # Estimate
 		death = yes
 	}
 }
@@ -208,9 +266,13 @@
 	dynasty = 214000
 	father = 8205 # Arilos
 	religion = catholic
-	culture = waterdhavian
+	culture = chondathan
 	1335.1.1 = {
 		birth = yes
+	}
+	1351.1.1 = {
+		trait = fighter
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
 	}
 	1371.2.9 = {
 		add_lover = 32402 # Galinda Raventree

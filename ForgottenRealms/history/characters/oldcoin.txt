@@ -1,0 +1,26 @@
+# OLDCOIN
+# Range 33900-33999
+
+# http://forum.candlekeep.com/topic.asp?TOPIC_ID=15988&whichpage=37#392411
+33900 = {
+	name = "Mirilel Parelle Jhynnanther Ommurth"
+	female = yes
+	religion = catholic
+	culture = tethyrian
+	
+	# "At the time the 2nd Edition Waterdeep box was current (1368 DR),
+	# Lord Challas Amcathra was 97 years old, and his wife Miri was 92."
+	1276.11.4 = {
+		birth = yes
+	}
+	1292.11.4 = {
+		trait = aristocrat
+		# @TODO Need to put her in a suitable location in Tethyr.
+	}
+	1296.2.22 = {
+		add_spouse = 8202 # Challas Amcathra
+	}
+	1378.1.1 = {
+		death = yes
+	}
+}

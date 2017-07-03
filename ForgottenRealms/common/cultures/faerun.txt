@@ -575,8 +575,9 @@ human = {
 		
 		male_names = {
 			Dologar
-			Malakar Milo
+			Malakar Milo Mourngrym
 			Pierstar
+			Regnet
 			Thyrius
 		}
 		female_names = {
@@ -1260,11 +1261,12 @@ human = {
 			Dhara
 			Galinda
 			Iimvara Iitaar
-			Jemra
+			Jemra Jhynnanther
 			Kyrin
 			Lalrune Lucia
-			Marilyn Mynda
-			Perendra
+			Marilyn Miri Mirilel Mynda
+			Ommurth
+			Parelle Perendra
 			Rhinda
 			Shaern Shyrr Sybille
 			Tasiiva Tatrina

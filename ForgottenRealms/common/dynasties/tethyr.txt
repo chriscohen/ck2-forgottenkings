@@ -213,3 +213,7 @@
 	name = Telerus
 	culture = tethyrian
 }
+207053 = {
+	name = Oldcoin
+	culture = tethyrian
+}

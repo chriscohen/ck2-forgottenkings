@@ -329,5 +329,6 @@
 # 33600  - 33699    Stoneshaft
 # 33700  - 33799    Lharilstar
 # 33800  - 33899    Ulhammond
+# 33900  - 33999    Oldcoin
 #
 # 900000 - 999999 Lowborn

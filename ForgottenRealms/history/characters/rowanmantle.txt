@@ -12,13 +12,18 @@
 	religion = catholic
 	culture = cormyrean
 	
-	1329.1.1 = { # Estimate
+	1329.12.20 = { # Estimate
 		birth = yes
 	}
+	1345.12.20 = {
+		trait = aristocrat
+		employer = 81 # Azoun IV Obarskyr / k_cormyr
+	}
+	# Moves to Shadowdale to marry Mourngrym
 	1355.7.1 = {
 		add_spouse = 8200 # Mourngrym Amcathra
 	}
-	1408.1.1 = { # Estimate
+	1408.4.17 = { # Estimate
 		death = yes
 	}
 }
