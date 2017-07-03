@@ -14,9 +14,13 @@
 		trait = aristocrat
 		trait = selune
 		trait = dull
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
 	}
 	1338.1.1 = {
 		add_spouse = 32500 # Perryn Nesher
+	}
+	1388.3.22 = { # Estimate
+		death = yes
 	}
 }
 32401 = {
@@ -87,12 +91,19 @@
 	1281.1.1 = { # Estimate
 		birth = yes
 	}
-	1298.1.1 = {
+	1297.1.1 = {
 		trait = gregarious
 		trait = ambitious
 		trait = flamboyant_schemer
 		trait = aristocrat
 		trait = selune
+		employer = 900065 # Baeron / c_waterdeep
+	}
+	1308.1.1 = {
+		employer = 13101 # Lhestyn Arunsun (Silmaeril) / c_waterdeep
+	}
+	1314.1.1 = {
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
 	}
 	1339.1.1 = { # Estimate
 		death = yes
@@ -113,6 +124,10 @@
 		trait = selune
 		trait = thrify_clerk
 		trait = dull
+		employer = 900065 # Baeron / c_waterdeep
+	}
+	1308.1.1 = {
+		employer = 13101 # Lhestyn Arunsun (Silmaeril) / c_waterdeep
 	}
 	1310.1.1 = { # Estimate
 		death = yes
@@ -132,6 +147,7 @@
 	1325.1.1 = {
 		trait = aristocrat
 		trait = selune
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
 	}
 	1331.1.1 = { # Estimate
 		add_spouse = 900186 # Lalrune
