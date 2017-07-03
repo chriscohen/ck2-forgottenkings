@@ -10,8 +10,15 @@
 	1291.1.1 = { # Estimate
 		birth = yes
 	}
-	1309.1.1 = {
+	1307.1.1 = {
 		trait = aristocrat
+		employer = 900065 # Baeron / c_waterdeep
+	}
+	1308.1.1 = {
+		employer = 13101 # Lhestyn Arunsun (Silmaeril) / c_waterdeep
+	}
+	1314.1.1 = {
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
 	}
 	1379.1.1 = {
 		death = yes
@@ -27,8 +34,15 @@
 	1331.1.1 = { # Estimate
 		birth = yes
 	}
-	1349.1.1 = {
+	1347.1.1 = {
 		trait = aristocrat
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
+	}
+	1370.10.18 = {
+		add_lover = 32402 # Galinda Raventree
+	}
+	1371.2.8 = {
+		remove_lover = 32402 # Galinda Raventree
 	}
 	1407.1.1 = {
 		death = yes
@@ -47,6 +61,7 @@
 	}
 	1360.1.1 = {
 		trait = aristocrat
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
 	}
 	1427.1.1 = {
 		death = yes
@@ -63,8 +78,9 @@
 	1337.1.1 = { # Estimate
 		birth = yes
 	}
-	1355.1.1 = {
+	1353.1.1 = {
 		trait = fighter
+		employer = 31601 # Piergieron Paladinson / c_waterdeep
 	}
 	1367.1.1 = {
 		add_lover = 32302 # Farid yn Fahd al-Nisr

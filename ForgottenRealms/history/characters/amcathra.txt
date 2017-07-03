@@ -212,6 +212,9 @@
 	1335.1.1 = {
 		birth = yes
 	}
+	1371.2.9 = {
+		add_lover = 32402 # Galinda Raventree
+	}
 	1371.10.11 = {
 		add_spouse = 32402 # Galinda Raventree
 	}
