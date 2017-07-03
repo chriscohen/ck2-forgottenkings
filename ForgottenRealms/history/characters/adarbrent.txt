@@ -67,11 +67,13 @@
 	}
 	1367.1.1 = {
 		add_lover = 32302 # Farid yn Fahd al-Nisr
-	}	
-	1373.1.1 = {
+	}
+	# "This past spring" for marriage.
+	# City of Splendors: Waterdeep p.60
+	1373.4.1 = {
 		add_spouse = 32302 # Farid yn Fahd al-Nisr
 	}
-	1427.1.1 = {
+	1407.1.1 = {
 		death = yes
 	}	
 }
