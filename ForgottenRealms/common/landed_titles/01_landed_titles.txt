@@ -3414,32 +3414,6 @@ d_purple_dragons = {
 	
 	mercenary_type = purple_dragons_composition
 }
-d_twisted_rune = {
-	color = { 145 15 15 }
-	color2 = { 255 255 255 }
-	
-	capital = 126 # Calimport
-	
-	allow = {
-		culture = calishite
-	}
-	
-	religion = sunni
-	culture = calishite
-	
-	mercenary = yes
-	
-	title = CAPTAIN
-	foa = CAPTAIN_FOA
-	
-	landless = yes
-	primary = yes
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	
-	mercenary_type = twisted_rune_composition
-}
 
 # EMPIRES
 
