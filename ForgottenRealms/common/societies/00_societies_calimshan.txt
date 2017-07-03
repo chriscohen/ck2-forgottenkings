@@ -19,6 +19,7 @@ twisted_rune = {
 				}
 			}
 		}
+		trait = lich
 		age = 16
 		hidden_trigger = {
 			NOT = {
@@ -32,7 +33,7 @@ twisted_rune = {
 	}
 	
 	potential = {
-		# @TODO put sensible rules here
+		trait = lich
 	}
 	
 	society_rank = {
