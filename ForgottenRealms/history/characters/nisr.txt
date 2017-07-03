@@ -18,20 +18,23 @@
 32301 = {
 	name = Fahd
 	dynasty = 209027
-	father = 32300
+	father = 32300 # Sarsor
 	religion = sunni
 	culture = calishite
 	
 	1305.1.1 = {
 		birth = yes
 	}
-	1367.1.1 = { # Estimate
+	# Estimate. We know he disapproved of son's marriage in spring of 1373 so he
+	# was alive at the time.
+	1389.1.1 = {
 		death = yes
 	}
 }
 32302 = {
 	name = Farid
 	dynasty = 209027
+	father = 32301 # Fahd
 	
 	religion = sunni
 	culture = calishite
@@ -39,8 +42,16 @@
 	1337.1.1 = {
 		birth = yes
 	}
-	1355.1.1 = {
+	1353.1.1 = {
 		trait = wizard
+	}
+	1367.1.1 = {
+		add_lover = 32203 # Syllia Adarbrent
+	}
+	# "This past spring" for marriage.
+	# City of Splendors: Waterdeep p.60
+	1373.4.1 = {
+		add_spouse = 32203 # Syllia Adarbrent
 	}
 	1392.1.1 = { # Estimate
 		death = yes
