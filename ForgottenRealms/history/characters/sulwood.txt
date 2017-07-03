@@ -21,6 +21,8 @@
 8301 = {
 	name = Jhaok
 	dynasty = 201033
+	father = 8300 # Doust
+	mother = 8501 # Islif Lurelake
 	
 	religion = catholic
 	culture = cormyrean

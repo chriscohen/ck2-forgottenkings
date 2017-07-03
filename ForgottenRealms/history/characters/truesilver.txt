@@ -21,38 +21,40 @@
 		death = yes
 	}
 }
-3501 = {
-	name = Connel
-	female = yes
-	dynasty = 201004
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1069.1.1 = { # Estimate
-		birth = yes
-	}
-	1089.1.1 = { # Estimate
-		add_spouse = 9508 # Gould II Wyvernspur
-	}
-	1110.1.1 = { # Estimate
-		death = yes
-	}
-}
-3502 = {
-	name = Beldarm
-	dynasty = 201004
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1169.1.1 = {
-		birth = yes
-	}
-	1235.1.1 = {
-		death = yes
-	}
-}
+# Not much point including Connel or Beldarm because it creates an unconnected
+# dynasty
+#3501 = {
+#	name = Connel
+#	female = yes
+#	dynasty = 201004
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	1069.1.1 = { # Estimate
+#		birth = yes
+#	}
+#	1089.1.1 = { # Estimate
+#		add_spouse = 9508 # Gould II Wyvernspur
+#	}
+#	1110.1.1 = { # Estimate
+#		death = yes
+#	}
+#}
+#3502 = {
+#	name = Beldarm
+#	dynasty = 201004
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	1169.1.1 = {
+#		birth = yes
+#	}
+#	1235.1.1 = {
+#		death = yes
+#	}
+#}
 3503 = {
 	name = Jarlin # Non-canon name
 	dynasty = 201004

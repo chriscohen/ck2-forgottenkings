@@ -19,85 +19,86 @@
 		death = yes
 	}
 }
-2101 = {
-	name = Tamara
-	female = yes
-	dynasty = 205004
-	father = 1901 # Cymrych Hugh
-	
-	religion = catholic
-	culture = ffolk
-	
-	238.1.1 = {
-		birth = yes
-	}
-	263.1.1 = {
-		death = yes
-	}
-}
-2102 = {
-	name = Carrig # Carrig I
-	dynasty = 205004
-	father = 1901 # Cymrych Hugh
-	
-	religion = catholic
-	culture = ffolk
-	
-	244.1.1 = {
-		birth = yes
-	}
-	287.1.1 = {
-		death = yes
-	}
-}
-2103 = {
-	name = Gwylloch
-	dynasty = 205004
-	father = 2102 # Carrig I
-	
-	religion = catholic
-	culture = ffolk
-	
-	265.1.1 = {
-		birth = yes
-	}
-	299.1.1 = {
-		death = yes
-	}
-}
-2104 = {
-	name = Gorham
-	dynasty = 205004
-	father = 2102 # Carrig I
-	
-	religion = catholic
-	culture = ffolk
-	
-	270.1.1 = {
-		birth = yes
-	}
-	322.1.1 = {
-		death = {
-			death_reason = death_murder
-			killer = 2105 # Markus
-		}
-	}
-}
-2105 = {
-	name = Markus
-	dynasty = 205004
-	father = 2103 # Gwylloch
-	
-	religion = catholic
-	culture = ffolk
-	
-	288.1.1 = {
-		birth = yes
-	}
-	333.1.1 = {
-		death = yes
-	}
-}
+# Unconnected dynasty members
+#2101 = {
+#	name = Tamara
+#	female = yes
+#	dynasty = 205004
+#	real_father = 1901 # Cymrych Hugh
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	238.1.1 = {
+#		birth = yes
+#	}
+#	263.1.1 = {
+#		death = yes
+#	}
+#}
+#2102 = {
+#	name = Carrig # Carrig I
+#	dynasty = 205004
+#	father = 1901 # Cymrych Hugh
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	244.1.1 = {
+#		birth = yes
+#	}
+#	287.1.1 = {
+#		death = yes
+#	}
+#}
+#2103 = {
+#	name = Gwylloch
+#	dynasty = 205004
+#	father = 2102 # Carrig I
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	265.1.1 = {
+#		birth = yes
+#	}
+#	299.1.1 = {
+#		death = yes
+#	}
+#}
+#2104 = {
+#	name = Gorham
+#	dynasty = 205004
+#	father = 2102 # Carrig I
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	270.1.1 = {
+#		birth = yes
+#	}
+#	322.1.1 = {
+#		death = {
+#			death_reason = death_murder
+#			killer = 2105 # Markus
+#		}
+#	}
+#}
+#2105 = {
+#	name = Markus
+#	dynasty = 205004
+#	father = 2103 # Gwylloch
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	288.1.1 = {
+#		birth = yes
+#	}
+#	333.1.1 = {
+#		death = yes
+#	}
+#}
 2106 = {
 	name = Unnamed # Son of Warren I, source doesn't name, but needed
 	dynasty = 205004
@@ -665,20 +666,21 @@
 		death = yes
 	}
 }
-2140 = {
-	name = Ketheryll
-	dynasty = 205004
-	father = 2103 # Gwylloch
-	
-	religion = catholic
-	culture = ffolk
-	
-	281.1.1 = { # Estimate
-		birth = yes
-	}
-	299.1.1 = {
-		death = {
-			death_reason = death_suicide
-		}
-	}
-}
+# Unconnected dynasty member
+#2140 = {
+#	name = Ketheryll
+#	dynasty = 205004
+#	father = 2103 # Gwylloch
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	281.1.1 = { # Estimate
+#		birth = yes
+#	}
+#	299.1.1 = {
+#		death = {
+#			death_reason = death_suicide
+#		}
+#	}
+#}

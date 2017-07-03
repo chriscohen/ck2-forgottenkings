@@ -3,7 +3,7 @@
 
 19700 = {
 	name = Challas
-	dynasty = 207041
+	dynasty = 207042
 	
 	religion = catholic
 	culture = tethyrian

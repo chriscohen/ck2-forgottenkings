@@ -12,9 +12,10 @@
 	401.1.1 = { # Estimate
 		birth = yes
 	}
-	426.1.1 = {
-		add_spouse = 1503 # Threena Cormaeril
-	}
+	# Threena removed due to unconnected dynasty
+	#426.1.1 = {
+	#	add_spouse = 1503 # Threena Cormaeril
+	#}
 	432.1.1 = {
 		death = {
 			death_reason = death_execution_beheading

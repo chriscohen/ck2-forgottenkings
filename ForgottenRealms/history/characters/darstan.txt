@@ -3,7 +3,7 @@
 
 23100 = {
 	name = Jelde # Non-canon name
-	dynasty = 201079
+	dynasty = 201080
 	
 	religion = catholic
 	culture = cormyrean

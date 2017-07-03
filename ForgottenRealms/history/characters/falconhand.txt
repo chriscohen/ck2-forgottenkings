@@ -4,6 +4,7 @@
 8100 = {
 	name = Florin
 	dynasty = 201032
+	father = 8104 # Unnamed (non-canon)
 	
 	religion = catholic
 	culture = cormyrean
@@ -55,6 +56,36 @@
 		employer = 76 # Dhalmass Obarskyr
 	}
 	1246.1.1 = {
+		death = yes
+	}
+}
+8103 = {
+	name = Unnamed # Son of Ardagast, to connect dynasty
+	dynasty = 201032
+	father = 8102 # Ardagast (non-canon father)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1238.1.1 = {
+		birth = yes
+	}
+	1302.1.1 = {
+		death = yes
+	}
+}
+8104 = {
+	name = Unnamed # Grandson of Ardagast, to connect dynasty
+	dynasty = 201032
+	father = 8103 # Unnamed son of Ardagast
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1289.1.1 = {
+		birth = yes
+	}
+	1339.1.1 = {
 		death = yes
 	}
 }

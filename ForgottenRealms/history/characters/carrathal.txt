@@ -189,12 +189,11 @@
 	name = Adrian
 	dynasty = 205007
 	mother = 900007 # Eleanor, wife of Edwin II
-	father = 2700 # Adom Kimball, secretly the father, not Edwin II
+	father = 2609 # Edwin II
+	real_father = 2700 # Adom Kimball, secretly the father, not Edwin II
 	
 	religion = catholic
 	culture = ffolk
-	
-	trait = legit_bastard
 	
 	1125.1.1 = {
 		birth = yes

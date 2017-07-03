@@ -153,13 +153,12 @@
 21807 = {
 	name = Immaril # Cousin of Ensrin
 	dynasty = 201067
-	father = 81 # Azoun IV Obarskyr
+	father = 21803 # Roland
+	real_father = 81 # Azoun IV Obarskyr
 	mother = 900092 # Unnamed wife of Roland (non-canon)
 	
 	religion = catholic
 	culture = cormyrean
-	
-	trait = bastard
 	
 	1336.1.1 = {
 		birth = yes
@@ -171,17 +170,18 @@
 		}
 	}
 }
-21808 = {
-	name = Elmariel
-	dynasty = 201067
-	
-	religion = catholic
-	culture = cormyrean
-	
-	602.1.1 = {
-		birth = yes
-	}
-	671.1.1 = {
-		death = yes
-	}
-}
+# Unconnected dynasty member
+#21808 = {
+#	name = Elmariel
+#	dynasty = 201067
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	602.1.1 = {
+#		birth = yes
+#	}
+#	671.1.1 = {
+#		death = yes
+#	}
+#}

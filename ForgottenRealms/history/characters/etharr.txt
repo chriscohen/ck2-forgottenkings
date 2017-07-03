@@ -211,9 +211,10 @@
 	122.1.1 = { # Estimate
 		birth = yes
 	}
-	147.1.1 = { # Estimate
-		add_spouse = 8901 # Emrylara Rallyhorn
-	}
+	# Removed due to unconnected dynasty
+	#147.1.1 = { # Estimate
+	#	add_spouse = 8901 # Emrylara Rallyhorn
+	#}
 	211.1.1 = { # Estimate
 		death = yes
 	}
@@ -223,7 +224,8 @@
 	name = Obrynn
 	dynasty = 211002
 	father = 8802 # Aulard
-	mother = 8901 # Emrylara Rallyhorn
+	# Mother removed due to unconnected dynasty
+	#mother = 8901 # Emrylara Rallyhorn
 	
 	religion = catholic
 	culture = cormyrean
@@ -240,7 +242,8 @@
 	name = Narnytha
 	dynasty = 211002
 	father = 8802 # Aulard
-	mother = 8901 # Emrylara Rallyhorn
+	# Mother removed due to unconnected dynasty
+	#mother = 8901 # Emrylara Rallyhorn
 	
 	religion = catholic
 	culture = cormyrean

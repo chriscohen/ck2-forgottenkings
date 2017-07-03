@@ -67,7 +67,7 @@
 		trait = immortal
 	}
 	1220.1.1 = { # Estimate
-		add_spouse = 7200 # Taerntym Tanagathor
+		add_spouse = 7110 # Taerntym Tanagathor
 	}
 	1600.1.1 = {
 		death = yes

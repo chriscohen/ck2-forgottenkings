@@ -64,8 +64,8 @@
 	}
 	295.1.1 = {
 		death = {
-			death_reason = death_murder
-			killer = 2140 # Ketheryll Cymrych
+			death_reason = death_murder_unknown
+			#killer = 2140 # Ketheryll Cymrych
 		}
 	}
 }
@@ -2119,9 +2119,10 @@
 	17.1.1 = {
 		birth = yes
 	}
-	33.1.1 = {
-		add_spouse = 23504 # Telarn Rayburton
-	}
+	# Removed due to unconnected dynasty
+	#33.1.1 = {
+	#	add_spouse = 23504 # Telarn Rayburton
+	#}
 	55.1.1 = {
 		death = yes
 	}

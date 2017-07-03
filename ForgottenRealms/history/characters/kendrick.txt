@@ -77,8 +77,8 @@
 	}
 	295.1.1 = {
 		death = {
-			death_reason = death_murder
-			killer = 2140 # Ketheryll Cymrych
+			death_reason = death_murder_unknown
+			#killer = 2140 # Ketheryll Cymrych
 		}
 	}
 }

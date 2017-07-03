@@ -52,6 +52,7 @@
 20503 = {
 	name = Leodom # Leodom III
 	dynasty = 207050
+	father = 20506 # Leodom II
 	
 	religion = catholic
 	culture = tethyrian
@@ -112,6 +113,7 @@
 	name = Hazam # Hazam I
 	dynasty = 207050
 	mother = 900084 # Unnamed wife of Leodom I Cormal
+	father = 20508 # Leodom I
 	
 	religion = catholic
 	culture = tethyrian

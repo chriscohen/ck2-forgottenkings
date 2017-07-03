@@ -77,7 +77,7 @@
 }
 8704 = {
 	name = Gaspar
-	dynasty = 201000
+	dynasty = 201036
 	father = 8703 # Myrton Ammaeth
 	mother = 101 # Pelarra
 	

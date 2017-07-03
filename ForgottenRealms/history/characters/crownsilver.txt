@@ -1,25 +1,26 @@
 # CROWNSILVER
 # 9200-9299
 
-9200 = {
-	name = Elvrin
-	dynasty = 201039
-	
-	religion = catholic
-	culture = cormyrean
-	
-	427.1.1 = {
-		birth = yes
-	}
-	445.1.1 = {
-		employer = 61 # Duar Obarskyr
-	}
-	475.1.1 = { # Disappared
-		death = {
-			death_reason = death_missing
-		}
-	}
-}
+# Unconnected dynasty member
+#9200 = {
+#	name = Elvrin
+#	dynasty = 201039
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	427.1.1 = {
+#		birth = yes
+#	}
+#	445.1.1 = {
+#		employer = 61 # Duar Obarskyr
+#	}
+#	475.1.1 = { # Disappared
+#		death = {
+#			death_reason = death_missing
+#		}
+#	}
+#}
 9201 = {
 	name = Althallan
 	dynasty = 201039
@@ -60,6 +61,7 @@
 	name = Kimba
 	female = yes
 	dynasty = 201039
+	father = 9215 # Unnamed (non-canon father)
 	
 	religion = catholic
 	culture = cormyrean
@@ -152,25 +154,26 @@
 		}
 	}
 }
-9209 = {
-	name = Aubleth
-	dynasty = 201039
-	
-	religion = catholic
-	culture = cormyrean
-	
-	989.1.1 = {
-		birth = yes
-	}
-	1005.1.1 = {
-		effect = {
-			add_friend = 10903 # Gardrath Roaringhorn
-		}
-	}
-	1066.1.1 = {
-		death = yes
-	}
-}
+# Unconnected dynasty member
+#9209 = {
+#	name = Aubleth
+#	dynasty = 201039
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	989.1.1 = {
+#		birth = yes
+#	}
+#	1005.1.1 = {
+#		effect = {
+#			add_friend = 10903 # Gardrath Roaringhorn
+#		}
+#	}
+#	1066.1.1 = {
+#		death = yes
+#	}
+#}
 9210 = {
 	name = Unnamed # To act as father for the 1100s-era Crownsilvers
 	dynasty = 201039
@@ -212,6 +215,51 @@
 		birth = yes
 	}
 	1218.1.1 = {
+		death = yes
+	}
+}
+9213 = {
+	name = Unnamed # Son of Thessilion to connect dynasty
+	dynasty = 201039
+	father = 9212 # Thessilion (non-canon father)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1198.1.1 = {
+		birth = yes
+	}
+	1255.1.1 = {
+		death = yes
+	}
+}
+9214 = {
+	name = Unnamed # Son of 9213 to connect dynasty
+	dynasty = 201039
+	father = 9213 # Unnamed son of Thessilion
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1248.1.1 = {
+		birth = yes
+	}
+	1303.1.1 = {
+		death = yes
+	}
+}
+9215 = {
+	name = Unnamed # Son of 9214 to conenct dynasty
+	dynasty = 201039
+	father = 9214 # Unnamed grandson of Thessilion
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1288.1.1 = {
+		birth = yes
+	}
+	1324.1.1 = {
 		death = yes
 	}
 }

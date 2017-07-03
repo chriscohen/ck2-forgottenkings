@@ -4,34 +4,35 @@
 # Non-canon history from Forgotten Realms Alternate Dimensions: Issue VIII
 # http://www.candlekeep.com/downloads/frad_08.pdf
 
-2200 = {
-	name = Edmund
-	dynasty = 205005
-	
-	religion = catholic
-	culture = ffolk
-	
-	469.1.1 = {
-		birth = yes
-	}
-	507.1.1 = {
-		death = yes
-	}
-}
-2201 = {
-	name = Gwylloch
-	dynasty = 205005
-	
-	religion = catholic
-	culture = ffolk
-	
-	150.1.1 = { # Estimate
-		birth = yes
-	}
-	230.1.1 = { # Estimate
-		death = yes
-	}
-}
+# Unconnected dynasty members
+#2200 = {
+#	name = Edmund
+#	dynasty = 205005
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	469.1.1 = {
+#		birth = yes
+#	}
+#	507.1.1 = {
+#		death = yes
+#	}
+#}
+#2201 = {
+#	name = Gwylloch
+#	dynasty = 205005
+#	
+#	religion = catholic
+#	culture = ffolk
+#	
+#	150.1.1 = { # Estimate
+#		birth = yes
+#	}
+#	230.1.1 = { # Estimate
+#		death = yes
+#	}
+#}
 2202 = {
 	name = Arrasynd
 	female = yes

@@ -13,7 +13,7 @@
 	}
 	1353.1.1 = {
 		trait = rogue
-		trait = fine
+		trait = fair
 		effect = {
 			join_society = red_sashes
 		}

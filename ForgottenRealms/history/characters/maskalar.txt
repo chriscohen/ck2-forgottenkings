@@ -4,7 +4,7 @@
 4000 = {
 	name = Thauna
 	female = yes
-	dynasty = 201002
+	dynasty = 210002
 	
 	religion = catholic
 	culture = sembian

@@ -55,6 +55,7 @@
 	name = Adenia
 	female = yes
 	dynasty = 201011
+	father = 5002 # Unnamed (non-canon father)
 	
 	religion = catholic
 	culture = cormyrean
@@ -100,22 +101,23 @@
 		death = yes
 	}
 }
-5006 = {
-	name = Unnamed
-	dynasty = 201011
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1160.1.1 = {
-		birth = yes
-	}
-	1191.1.1 = {
-		# Source says executed in 1191 by Dhalmass, but he would only have
-		# been young at the time
-		death = {
-			death_reason = death_execution
-			killer = 75 # Pryntaler Obarskyr
-		}
-	}
-}
+# Unconnected dynasty member
+#5006 = {
+#	name = Unnamed
+#	dynasty = 201011
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	1160.1.1 = {
+#		birth = yes
+#	}
+#	1191.1.1 = {
+#		# Source says executed in 1191 by Dhalmass, but he would only have
+#		# been young at the time
+#		death = {
+#			death_reason = death_execution
+#			killer = 75 # Pryntaler Obarskyr
+#		}
+#	}
+#}

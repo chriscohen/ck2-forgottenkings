@@ -170,7 +170,8 @@
 21909 = {
 	name = Dauntrin
 	dynasty = 201068
-	father = 81 # Azoun IV Obarskyr
+	father = 21900 # Alexi
+	real_father = 81 # Azoun IV Obarskyr
 	mother = 900093 # Tremayne (non-canon)
 	
 	religion = catholic
@@ -188,7 +189,8 @@
 21910 = {
 	name = Delce
 	dynasty = 201068
-	father = 81 # Azoun IV Obarskyr
+	father = 21900 # Alexi
+	real_father = 81 # Azoun IV Obarskyr
 	mother = 900093 # Tremayne (non-canon)
 	
 	religion = catholic

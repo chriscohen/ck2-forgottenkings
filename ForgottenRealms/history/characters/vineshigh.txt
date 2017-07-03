@@ -21,7 +21,8 @@
 }
 17701 = {
 	name = Corwin
-	dynasty = 500002
+	dynasty = 500001
+	father = 17700 # Lyrminor
 	
 	religion = catholic
 	culture = lightfoot

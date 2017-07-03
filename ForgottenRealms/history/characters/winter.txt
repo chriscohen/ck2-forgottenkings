@@ -1,46 +1,49 @@
 # WINTER
 # Range 9700-9799
 
-9700 = {
-	name = Amalee
-	female = yes
-	dynasty = 201044
-	
-	religion = catholic
-	culture = cormyrean
-	
-	985.1.1 = { # Estimate
-		birth = yes
-	}
-	1003.1.1 = {
-		add_spouse = 9501 # Gould I Wyvernspur
-	}
-	1054.1.1 = { # Estimate
-		death = yes
-	}
-}
-9701 = {
-	name = Shara
-	female = yes
-	dynasty = 201044
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1097.1.1 = { # Estimate
-		birth = yes
-	}
-	1117.1.1 = {
-		add_spouse = 9513 # York Wyvernspur
-	}
-	1172.1.1 = { # Estimate
-		death = yes
-	}
-}
+# Not much point including Amalee or Shara because it creates an unconnected
+# dynasty.
+#9700 = {
+#	name = Amalee
+#	female = yes
+#	dynasty = 201044
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	985.1.1 = { # Estimate
+#		birth = yes
+#	}
+#	1003.1.1 = {
+#		add_spouse = 9501 # Gould I Wyvernspur
+#	}
+#	1054.1.1 = { # Estimate
+#		death = yes
+#	}
+#}
+#9701 = {
+#	name = Shara
+#	female = yes
+#	dynasty = 201044
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	1097.1.1 = { # Estimate
+#		birth = yes
+#	}
+#	1117.1.1 = {
+#		add_spouse = 9513 # York Wyvernspur
+#	}
+#	1172.1.1 = { # Estimate
+#		death = yes
+#	}
+#}
 9702 = {
 	name = Lamala
 	female = yes
 	dynasty = 201044
+	father = 9704 # Unnamed
 	
 	religion = catholic
 	culture = cormyrean
@@ -59,6 +62,7 @@
 	name = Tessaril
 	female = yes
 	dynasty = 201044
+	father = 9704 # Unnamed
 	
 	religion = catholic
 	culture = cormyrean

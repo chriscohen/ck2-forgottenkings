@@ -1,22 +1,23 @@
 # SPURBRIGHT
 # Range 6400-6499
 
-6400 = {
-	name = Aglara
-	female = yes
-	dynasty = 201025
-	
-	religion = catholic
-	culture = cormyrean
-	
-	# Source just says "lived some centuries ago"
-	1210.1.1 = {
-		birth = yes
-	}
-	1296.1.1 = {
-		death = yes
-	}
-}
+# Not much point including her because it creates a disconnected dynasty
+#6400 = {
+#	name = Aglara
+#	female = yes
+#	dynasty = 201025
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	# Source just says "lived some centuries ago"
+#	1210.1.1 = {
+#		birth = yes
+#	}
+#	1296.1.1 = {
+#		death = yes
+#	}
+#}
 6401 = {
 	# Azoun's Offspring: http://archive.wizards.com/default.asp?x=dnd/rl/20061101a
 	name = Malaglan

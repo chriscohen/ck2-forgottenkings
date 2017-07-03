@@ -5,7 +5,8 @@
 	name = Alisanda
 	female = yes
 	dynasty = 201084
-	father = 8902 # Dhalmass Rallyhorn
+	# Removed due to unconnected dynasty
+	#father = 8902 # Dhalmass Rallyhorn
 	mother = 23501 # Unnamed
 	
 	religion = catholic
@@ -35,101 +36,103 @@
 	848.1.1 = {
 		birth = yes
 	}
-	864.1.1 = {
-		add_matrilineal_spouse = 8902 # Dhalmass Rallyhorn
-	}
+	# Removed due to unconnected dynasty
+	#864.1.1 = {
+	#	add_matrilineal_spouse = 8902 # Dhalmass Rallyhorn
+	#}
 	890.1.1 = {
 		death = yes
 	}
 }
-23502 = {
-	name = "Belmer Oelber"
-	dynasty = 201084
-	
-	religion = catholic
-	culture = cormyrean
-	
-	trait = gluttonous
-	trait = gregarious
-	
-	1.1.1 = {
-		# Born -43 but game can't go that far back
-		birth = yes
-	}
-	17.1.1 = {
-		trait = fighter
-		trait = hunter
-	}
-	36.1.1 = {
-		death = yes
-	}
-}
-23503 = {
-	name = "Onkyl Drethan"
-	dynasty = 201084
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1.1.1 = {
-		# Born -40 but game can't go that far back
-		birth = yes
-	}
-	17.1.1 = {
-		trait = scholarly_theologian
-	}
-	41.1.1 = {
-		death = yes
-	}
-}
-23504 = {
-	name = "Telarn Erren"
-	dynasty = 201084
-	father = 23503 # Onkyl
-	
-	religion = catholic
-	culture = cormyrean
-	
-	17.1.1 = {
-		# Born -21 but can't because father's dob can't be before 1.1.1
-		birth = yes
-	}
-	33.1.1 = {
-		add_spouse = 900120 # Jaless
-	}
-	43.1.1 = {
-		death = yes
-	}
-}
-23505 = {
-	name = Rauril
-	dynasty = 201084
-	father = 23504 # Telarn
-	mother = 900120 # Jaless
-	
-	religion = catholic
-	culture = cormyrean
-	
-	34.1.1 = {
-		birth = yes
-	}
-	79.1.1 = {
-		death = yes
-	}
-}
-23506 = {
-	name = Chelesmer
-	dynasty = 201084
-	father = 23504 # Telarn
-	mother = 900120 # Jaless
-	
-	religion = catholic
-	culture = cormyrean
-	
-	35.1.1 = {
-		birth = yes
-	}
-	84.1.1 = {
-		death = yes
-	}
-}
+# Unconnected dynasty members
+#23502 = {
+#	name = "Belmer Oelber"
+#	dynasty = 201084
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	trait = gluttonous
+#	trait = gregarious
+#	
+#	1.1.1 = {
+#		# Born -43 but game can't go that far back
+#		birth = yes
+#	}
+#	17.1.1 = {
+#		trait = fighter
+#		trait = hunter
+#	}
+#	36.1.1 = {
+#		death = yes
+#	}
+#}
+#23503 = {
+#	name = "Onkyl Drethan"
+#	dynasty = 201084
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	1.1.1 = {
+#		# Born -40 but game can't go that far back
+#		birth = yes
+#	}
+#	17.1.1 = {
+#		trait = scholarly_theologian
+#	}
+#	41.1.1 = {
+#		death = yes
+#	}
+#}
+#23504 = {
+#	name = "Telarn Erren"
+#	dynasty = 201084
+#	father = 23503 # Onkyl
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	17.1.1 = {
+#		# Born -21 but can't because father's dob can't be before 1.1.1
+#		birth = yes
+#	}
+#	33.1.1 = {
+#		add_spouse = 900120 # Jaless
+#	}
+#	43.1.1 = {
+#		death = yes
+#	}
+#}
+#23505 = {
+#	name = Rauril
+#	dynasty = 201084
+#	father = 23504 # Telarn
+#	mother = 900120 # Jaless
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	34.1.1 = {
+#		birth = yes
+#	}
+#	79.1.1 = {
+#		death = yes
+#	}
+#}
+#23506 = {
+#	name = Chelesmer
+#	dynasty = 201084
+#	father = 23504 # Telarn
+#	mother = 900120 # Jaless
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	35.1.1 = {
+#		birth = yes
+#	}
+#	84.1.1 = {
+#		death = yes
+#	}
+#}

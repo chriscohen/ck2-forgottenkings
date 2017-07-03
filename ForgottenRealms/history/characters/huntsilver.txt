@@ -4,6 +4,7 @@
 10800 = {
 	name = Chanthar
 	dynasty = 201055
+	father = 10809 # Unnamed (non-canon father)
 	
 	religion = catholic
 	culture = cormyrean
@@ -22,6 +23,7 @@
 10801 = {
 	name = Maestoon
 	dynasty = 201055
+	father = 10811 # Unnamed (non-canon father)
 	
 	religion = catholic
 	culture = cormyrean
@@ -150,6 +152,67 @@
 		add_spouse = 900097 # Roatha Ildraen
 	}
 	1059.1.1 = {
+		death = yes
+	}
+}
+10808 = {
+	name = Unnamed # Son of Lareth to connect dynasty
+	dynasty = 201055
+	father = 10807 # Lareth (non-canon father)
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1054.1.1 = {
+		birth = yes
+	}
+	1111.1.1 = {
+		death = yes
+	}
+}
+10809 = {
+	name = Unnamed # Grandson of Lareth to connect dynasty
+	dynasty = 201055
+	father = 10808 # Son of Lareth
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1107.1.1 = {
+		birth = yes
+	}
+	1172.1.1 = {
+		death = yes
+	}
+}
+10810 = {
+	name = Unnamed # Son of Jhalass and Dhalmass Obarskyr to connect dynasty
+	dynasty = 201055
+	mother = 10806 # Jhalass
+	father = 76 # Dhalmass Obarskyr
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1220.1.1 = {
+		birth = yes
+	}
+	1285.1.1 = {
+		death = yes
+	}
+}
+10811 = {
+	name = Unnamed # Son of 10810 to connect dynasty
+	dynasty = 201055
+	father = 10810 # Unnamed son of Jhalass / Dhalmass Obarskyr
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1271.1.1 = {
+		birth = yes
+	}
+	1321.1.1 = {
 		death = yes
 	}
 }

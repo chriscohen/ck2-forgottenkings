@@ -97,26 +97,27 @@
 		death = yes
 	}
 }
-3705 = {
-	# Founded of dynasty, circa 1227
-	name = Rhodes
-	dynasty = 201006
-	
-	religion = catholic
-	culture = cormyrean
-	
-	1201.1.1 = { # Estimate
-		birth = yes
-	}
-	1251.1.1 = { # Estimate
-		death = yes
-	}
-}
+# No point including Rhodes because it creates an unconnected dynasty
+#3705 = {
+#	# Founded of dynasty, circa 1227
+#	name = Rhodes
+#	dynasty = 201006
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	1201.1.1 = { # Estimate
+#		birth = yes
+#	}
+#	1251.1.1 = { # Estimate
+#		death = yes
+#	}
+#}
 3706 = {
 	# We know he had 2 daughters but no names, no mother, not worth
 	# including
 	name = Jolithan
-	dynasty = 201007
+	dynasty = 201006
 	father = 3707 # Unnamed
 	
 	religion = catholic
@@ -131,7 +132,7 @@
 }
 3707 = {
 	name = Unnamed # Acts as father to make Jolithan and Raynaar brothers
-	dynasty = 201007
+	dynasty = 201006
 	
 	religion = catholic
 	culture = cormyrean

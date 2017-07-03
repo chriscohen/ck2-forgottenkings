@@ -844,7 +844,7 @@
 	religion = catholic
 	culture = cormyrean
 	
-	318.1.1 = {
+	317.1.1 = {
 		birth = yes
 	}
 	341.1.1 = {
@@ -858,6 +858,7 @@
 	name = Kasplara # Grandniece of Gorauna - where does that put her parents?
 	female = yes
 	dynasty = 201000
+	mother = 50 # Non-canon Gorauna
 	
 	religion = catholic
 	culture = cormyrean
@@ -872,6 +873,7 @@
 53 = {
 	name = Jasl # Grandnephew of Gorauna - where does that put his parents?
 	dynasty = 201000
+	mother = 50 # Non-canon Gorauna
 	
 	religion = catholic
 	culture = cormyrean
@@ -890,6 +892,7 @@
 	name = Arathra # Grandniece of Gorauna - where does that put her parents?
 	female = yes
 	dynasty = 201000
+	mother = 50 # Non-canon Gorauna
 	
 	religion = catholic
 	culture = cormyrean
@@ -907,6 +910,7 @@
 55 = {
 	name = Barander # Grandnephew of Gorauna - where does that put his parents?
 	dynasty = 201000
+	mother = 50 # Non-canon Gorauna
 	
 	religion = catholic
 	culture = cormyrean
@@ -946,6 +950,7 @@
 	name = Jarissra # Niece of Thargreve but parents undocumented
 	female = yes
 	dynasty = 201000
+	father = 53 # Jasl - non-canon father
 	
 	religion = catholic
 	culture = cormyrean
@@ -1029,10 +1034,11 @@
 	405.1.1 = { # Estimate
 		add_spouse = 1001 # Daverna Turcassan
 	}
-	433.1.1 = {
-		# Dragon 279 p.83
-		add_spouse = 1503 # Threena Cormaeril
-	}
+	# Removed due to unconnected dynasty
+	#433.1.1 = {
+	#	# Dragon 279 p.83
+	#	add_spouse = 1503 # Threena Cormaeril
+	#}
 	465.1.1 = {
 		give_nickname = nick_longyears
 	}
@@ -1047,7 +1053,8 @@
 	name = Galaghard # Galaghard I
 	dynasty = 201000
 	father = 61 # Duar
-	mother = 1503 # Threena Cormaeril
+	# Removed due to unconnected dynasty
+	#mother = 1503 # Threena Cormaeril
 	
 	religion = catholic
 	culture = cormyrean
@@ -1340,7 +1347,7 @@
 	name = Salember
 	dynasty = 201000
 	father = 77 # Palaghard II
-	mother = 10806 # Jhalass
+	mother = 22500 # Alendue Wyrvar
 	
 	religion = catholic
 	culture = cormyrean

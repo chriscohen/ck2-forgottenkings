@@ -1,35 +1,36 @@
 # ROARINGHORN
 # Range 10900-10999
 
-10900 = {
-	name = Tharim
-	dynasty = 201056
-	
-	religion = catholic
-	culture = cormyrean
-	
-	trait = gregarious
-	trait = robust
-	
-	1185.1.1 = {
-		birth = yes
-	}
-	1201.1.1 = {
-		employer = 75 # Pryntaler Obarskyr
-	}
-	1210.1.1 = {
-		employer = 76 # Dhalmass Obarskyr
-	}
-	1227.1.1 = {
-		death = yes
-	}
-}
+# Don't include Tharim because it creates an unconnected dynasty
+#10900 = {
+#	name = Tharim
+#	dynasty = 201056
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	trait = gregarious
+#	trait = robust
+#	
+#	1185.1.1 = {
+#		birth = yes
+#	}
+#	1201.1.1 = {
+#		employer = 75 # Pryntaler Obarskyr
+#	}
+#	1210.1.1 = {
+#		employer = 76 # Dhalmass Obarskyr
+#	}
+#	1227.1.1 = {
+#		death = yes
+#	}
+#}
 10901 = {
 	# TSR1159 Lands of Intrigue p.87
 	# Not confirmed as Cormyrean, but we'll put him in that dynasty
 	name = Holver
 	dynasty = 201056
-	father = 10904
+	father = 10904 # Holver (non-canon)
 	religion = catholic
 	culture = waterdhavian
 	
@@ -44,6 +45,7 @@
 	name = Blaerla
 	female = yes
 	dynasty = 201056
+	father = 10904 # Holver
 	
 	religion = catholic
 	culture = cormyrean
@@ -61,32 +63,33 @@
 		death = yes
 	}
 }
-10903 = {
-	name = Gardrath
-	dynasty = 201056
-	
-	religion = catholic
-	culture = cormyrean
-	
-	984.1.1 = {
-		birth = yes
-	}
-	1000.1.1 = {
-		trait = fighter
-		employer = 68 # Bryntarth II Obarskyr
-	}
-	1001.1.1 = {
-		employer = 69 # Arangor Obarskyr
-	}
-	1005.1.1 = {
-		effect = {
-			add_friend = 9209 # Aubleth Crownsilver
-		}
-	}
-	1019.1.1 = {
-		death = yes
-	}
-}
+# Don't include Gardrath because it creates an unconnected dynasty
+#10903 = {
+#	name = Gardrath
+#	dynasty = 201056
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	984.1.1 = {
+#		birth = yes
+#	}
+#	1000.1.1 = {
+#		trait = fighter
+#		employer = 68 # Bryntarth II Obarskyr
+#	}
+#	1001.1.1 = {
+#		employer = 69 # Arangor Obarskyr
+#	}
+#	1005.1.1 = {
+#		effect = {
+#			add_friend = 9209 # Aubleth Crownsilver
+#		}
+#	}
+#	1019.1.1 = {
+#		death = yes
+#	}
+#}
 10904 = {
 	name = Holver # The elder, invented name
 	dynasty = 201056

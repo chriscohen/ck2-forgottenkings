@@ -21,6 +21,7 @@
 	name = Merelith
 	female = yes
 	dynasty = 210001
+	father = 3900 # Halath
 	
 	religion = catholic
 	culture = sembian

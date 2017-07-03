@@ -24,6 +24,8 @@
 19001 = {
 	name = Malcor # Non-canon
 	dynasty = 207035
+	mother = 19000 # Aalangama
+	father = 900082 # Unnamed
 	
 	religion = catholic
 	culture = tethyrian
@@ -39,6 +41,8 @@
 	name = Lucia
 	female = yes
 	dynasty = 207035
+	mother = 19000 # Aalangama
+	father = 900082 # Unnamed
 	
 	religion = catholic
 	culture = tethyrian

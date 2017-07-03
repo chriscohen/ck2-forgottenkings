@@ -1,78 +1,79 @@
 # RALLYHORN
 # Range 8900-8999
 
-8900 = {
-	# Dragon 279 p.80
-	name = Theldrin
-	dynasty = 201037
-	
-	dna="bdhka0ghcb0"
-	properties="fg00cf00000000"
-	
-	religion = catholic
-	culture = cormyrean
-	
-	trait = diligent
-	
-	92.1.1 = {
-		birth = yes
-	}
-	123.1.1 = {
-		employer = 10 # Daravvan Obarskyr
-	}
-	124.1.1 = {
-		employer = 11 # Dorglor Obarskyr
-	}
-	134.1.1 = {
-		employer = 12 # Embrold Obarskyr
-	}
-	145.1.1 = {
-		employer = 72 # Irbruin Obarskyr
-	}
-	147.1.1 = {
-		death = yes
-	}
-}
-8901 = {
-	# Dragon 279 p.80
-	name = Emrylara
-	female = yes
-	dynasty = 201037
-	father = 8900 # Theldrin
-	
-	dna="bdhka0ghcb0"
-	properties="kk000k00000000"
-	
-	religion = catholic
-	culture = cormyrean
-	
-	131.1.1 = {
-		birth = yes
-	}
-	147.1.1 = { # Estimate
-		add_spouse = 8802 # Aulard Etharr
-	}
-	162.1.1 = {
-		death = yes
-	}
-}
-8902 = {
-	name = Dhalmass
-	dynasty = 201037
-	
-	religion = catholic
-	culture = cormyrean
-	
-	838.1.1 = {
-		birth = yes
-	}
-	864.1.1 = {
-		add_matrilineal_spouse = 23501 # Unnamed Rayburton
-	}
-	882.1.1 = {
-		death = yes
-	}
-}
+# Don't include characters that would create an unconnected dynasty
+#8900 = {
+#	# Dragon 279 p.80
+#	name = Theldrin
+#	dynasty = 201037
+#	
+#	dna="bdhka0ghcb0"
+#	properties="fg00cf00000000"
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	trait = diligent
+#	
+#	92.1.1 = {
+#		birth = yes
+#	}
+#	123.1.1 = {
+#		employer = 10 # Daravvan Obarskyr
+#	}
+#	124.1.1 = {
+#		employer = 11 # Dorglor Obarskyr
+#	}
+#	134.1.1 = {
+#		employer = 12 # Embrold Obarskyr
+#	}
+#	145.1.1 = {
+#		employer = 72 # Irbruin Obarskyr
+#	}
+#	147.1.1 = {
+#		death = yes
+#	}
+#}
+#8901 = {
+#	# Dragon 279 p.80
+#	name = Emrylara
+#	female = yes
+#	dynasty = 201037
+#	father = 8900 # Theldrin
+#	
+#	dna="bdhka0ghcb0"
+#	properties="kk000k00000000"
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	131.1.1 = {
+#		birth = yes
+#	}
+#	147.1.1 = { # Estimate
+#		add_spouse = 8802 # Aulard Etharr
+#	}
+#	162.1.1 = {
+#		death = yes
+#	}
+#}
+#8902 = {
+#	name = Dhalmass
+#	dynasty = 201037
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	838.1.1 = {
+#		birth = yes
+#	}
+#	864.1.1 = {
+#		add_matrilineal_spouse = 23501 # Unnamed Rayburton
+#	}
+#	882.1.1 = {
+#		death = yes
+#	}
+#}
 8903 = {
 	name = Korvarr
 	dynasty = 201037

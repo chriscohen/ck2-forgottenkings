@@ -211,7 +211,7 @@
 }
 7111 = {
 	name = "Dalbrant Tanagathor"
-	dynasty = 401000
+	dynasty = 401001
 	father = 7110 # Taerntym
 	mother = 7002 # Alustriel Silverhand
 	

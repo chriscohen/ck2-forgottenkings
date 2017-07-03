@@ -1,28 +1,29 @@
 # SCATTERSTARS
 # Range 11000-11099
 
-11000 = {
-	name = Elbryn
-	dynasty = 201057
-	
-	religion = catholic
-	culture = cormyrean
-	
-	dna="0hkja0f00a0"
-	properties="rh0eef00000000"
-	
-	trait = ambitious
-	
-	1192.1.1 = {
-		birth = yes
-	}
-	1210.1.1 = {
-		employer = 76 # Dhalmass Obarskyr
-	}
-	1227.1.1 = {
-		death = yes
-	}
-}
+# Not much point including Elbryn because it creates an unconnected dynasty
+#11000 = {
+#	name = Elbryn
+#	dynasty = 201057
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	dna="0hkja0f00a0"
+#	properties="rh0eef00000000"
+#	
+#	trait = ambitious
+#	
+#	1192.1.1 = {
+#		birth = yes
+#	}
+#	1210.1.1 = {
+#		employer = 76 # Dhalmass Obarskyr
+#	}
+#	1227.1.1 = {
+#		death = yes
+#	}
+#}
 11001 = {
 	name = Wyndghallow
 	dynasty = 201057

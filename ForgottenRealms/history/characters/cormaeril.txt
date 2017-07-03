@@ -38,8 +38,7 @@
 	}
 	1369.10.1 = { # Estimated month and day
 		death = {
-			death_reason = death_murder
-			killer = 1600 # Aunadar Bleth
+			death_reason = death_murder_unknown
 		}
 	}
 }
@@ -64,27 +63,28 @@
 		}
 	}
 }
-1503 = {
-	name = Threena
-	female = yes
-	dynasty = 201002
-	
-	religion = catholic
-	culture = cormyrean
-	
-	410.1.1 = { # Estimate
-		birth = yes
-	}
-	426.1.1 = {
-		add_spouse = 9100 # Unnamed Lord Dheolur
-	}
-	433.1.1 = {
-		add_spouse = 61 # Duar Obarskyr
-	}
-	474.1.1 = { # FRFAQ
-		death = yes
-	}
-}
+# Unconnected dynasty member
+#1503 = {
+#	name = Threena
+#	female = yes
+#	dynasty = 201002
+#	
+#	religion = catholic
+#	culture = cormyrean
+#	
+#	410.1.1 = { # Estimate
+#		birth = yes
+#	}
+#	426.1.1 = {
+#		add_spouse = 9100 # Unnamed Lord Dheolur
+#	}
+#	433.1.1 = {
+#		add_spouse = 61 # Duar Obarskyr
+#	}
+#	474.1.1 = { # FRFAQ
+#		death = yes
+#	}
+#}
 1504 = {
 	name = Donder
 	dynasty = 201002
@@ -107,6 +107,7 @@
 	name = Auleethaea
 	female = yes
 	dynasty = 201002
+	father = 1504 # Donder (non-canon father)
 	
 	religion = catholic
 	culture = cormyrean
@@ -132,6 +133,7 @@
 	# Dragon 281 p.77
 	name = Orngrym
 	dynasty = 201002
+	father = 1504 # Donder (non-canon father)
 	
 	religion = catholic
 	culture = cormyrean
@@ -279,7 +281,8 @@
 1515 = {
 	name = Beliard
 	dynasty = 201002
-	father = 81 # Azoun IV Obarskyr
+	father = 1508 # Lamiril (non-canon father)
+	real_father = 81 # Azoun IV Obarskyr
 	mother = 900096 # Alise
 	
 	religion = catholic
@@ -330,6 +333,7 @@
 1518 = {
 	name = Gaspar # Non-canon father of Barrit, Lamiril and Ohlmer
 	dynasty = 201002
+	father = 1524 # Unnamed (non-canon father)
 	
 	religion = catholic
 	culture = cormyrean
@@ -412,6 +416,37 @@
 		trait = aristocrat
 	}
 	1488.1.1 = {
+		death = yes
+	}
+}
+# Non-canon
+1523 = {
+	name = Unnamed # Son of Auleethaea to connect dynasty
+	dynasty = 201002
+	mother = 1505 # Auleethaea
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1210.1.1 = {
+		birth = yes
+	}
+	1276.1.1 = {
+		death = yes
+	}
+}
+1524 = {
+	name = Unnamed # Son of unnamed son of Auleethaea to connect dynasty
+	dynasty = 201002
+	father = 1523 # Unnamed son of Auleethaea
+	
+	religion = catholic
+	culture = cormyrean
+	
+	1245.1.1 = {
+		birth = yes
+	}
+	1284.1.1 = {
 		death = yes
 	}
 }

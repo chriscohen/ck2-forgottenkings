@@ -23,6 +23,7 @@
 19201 = {
 	name = Tanis
 	dynasty = 207037
+	father = 19200 # Vartan
 	
 	religion = catholic
 	culture = tethyrian
