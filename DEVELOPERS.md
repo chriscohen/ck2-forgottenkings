@@ -16,3 +16,7 @@ You'll need to go through a few steps to get set up.
    * Overwrite what is already there.
    * You should end up with a **ForgottenRealms.mod** file, a **.gitignore** file, and a **ForgottenRealms** folder, along with some **.md** files.
 9. You are now set up to work on the mod.
+
+## Keeping in touch
+
+Please feel free to use the Discord invite https://discord.gg/pJ9X4Eg to keep in touch with collaborators.
